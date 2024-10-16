@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:785603786</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:785603786">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2014-05-14</databaseDate>
+            <changeDate>2022-07-17</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>785603786</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">785603786</identifier>
+                <identifier type="firstid">GBV:785603786</identifier>
+                <identifier type="isbn">1466591633</identifier>
+                <identifier type="isbn13">9781466591639</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/785603786.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1492734497</identifier>
+                    <creationDate>2015-10-23</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 14 B 6045</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XX, 356 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Port security management</title>
+            <abstracts>
+                <abstract xml:lang="de">"Sea and freshwater ports are a key component of U.S. critical infrastructure and are vital to maintaining the global and domestic economy. The September 11th attacks in the U.S. marked a paradigm shift in the security of transportation systems including the port and shipping industries. This has led to an increased emphasis on port security. This fully updated second edition covers the latest on continuously changing legislation regarding federal mandates, credentializing employees, securing vessels, and cargo security. The book focuses on best practices, providing real-world solutions to law enforcement authorities and security management professionals"--Provided by publisher</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Christopher, Kenneth</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Kenneth Christopher</responsible>
+            <publicationInfo>
+                <issued>2015</issued>
+                <edition>2. ed.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Boca Raton, Fla. [u.a.]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>CRC Press</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Includes bibliographical references (pages 341-343) and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>26 cm</description>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106421832" classificationName="bk">
+                    <code>55.86</code>
+                    <entries>
+                        <entry>Schiffsverkehr, Schifffahrt</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>HV8080.W38</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>387.1068/4</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4145063-2" type="gnd">
+                    <subject xml:lang="de">Betriebssicherheit</subject>
+                </subject>
+                <subject id="4022859-9" type="gnd">
+                    <subject xml:lang="de">Hafen</subject>
+                </subject>
+                <subject id="4121590-4" type="gnd">
+                    <subject xml:lang="de">Risikomanagement</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Watercraft police</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Harbors</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

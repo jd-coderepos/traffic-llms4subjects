@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:772508054</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:772508054">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2013-11-27</databaseDate>
+            <changeDate>2024-04-22</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>772508054</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">772508054</identifier>
+                <identifier type="ean">9783440130834</identifier>
+                <identifier type="firstid">DNB:1044362375</identifier>
+                <identifier type="isbn13">9783440130834</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="review" type="url">http://www.gbv.de/dms/faz-rez/FNUWD1201409244381780.pdf</location>
+                <location subtype="toc" type="url">http://d-nb.info/1044362375/04</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1463689748</identifier>
+                    <creationDate>2015-02-25</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 14 B 2545</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-24</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">159 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Raumsonde Rosetta : die abenteuerliche Reise zum unbekannten Kometen ; [das Buch zur Mission]</title>
+            <abstracts>
+                <abstract xml:lang="de">Verlagsinfo: Zehn Jahre Flug durchs All und nur ein Ziel: die Landung auf dem Kometen 67P/Churyumov-Gerasimenko. Europas Raumsonde Rosetta wird erstmals in der Geschichte der Menschheit diese fremde Welt aus Staub, Stein und Eis vor Ort erforschen. Stammt von Kometen das Wasser auf der Erde? Sind sie sogar für die Entstehung von Leben verantwortlich? Noch weiß niemand, welche Geheimnisse diese "schmutzigen Schneebälle" verbergen. Das Buch stammt aus der Feder der an der Entwicklung dieser Weltraummission beteiligten Forscher. Es beschreibt die lange Reise der Raumsonde und die Ziele der Mission. (Leseprobe im Internet vorhanden)</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Möhlmann, Diedrich</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">10916945X</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Ulamec, Stephan</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1049974115</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Diedrich Möhlmann; Stephan Ulamec</responsible>
+            <publicationInfo>
+                <issued>2014</issued>
+                <edition>1. Aufl.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Stuttgart</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Kosmos</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Literaturverz. S. 154</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>243 mm x 173 mm</description>
+            <description>zahlr. Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>US 8800</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>523.64</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>520</code>
+                </classification>
+                <classification classificationID="106420607" classificationName="bk">
+                    <code>55.61</code>
+                    <entries>
+                        <entry>Raumfahrzeuge</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>US 9000</code>
+                </classification>
+                <classification classificationName="ssg">
+                    <code>16,12</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4706601-5" type="gnd">
+                    <subject xml:lang="de">Rosetta (Raumsonde)</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

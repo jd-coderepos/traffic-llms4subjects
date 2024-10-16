@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:165467706X</identifier><datestamp>2024-06-14</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:165467706X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2016-02-08</databaseDate>
+            <changeDate>2023-04-24</changeDate>
+            <ftxCreationDate>2024-06-14</ftxCreationDate>
+            <documentID>165467706X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">165467706X</identifier>
+                <identifier type="doi">10.1007/978-3-319-25409-8</identifier>
+                <identifier type="firstid">BSZ:45521848X</identifier>
+                <identifier type="isbn13">9783319254098</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="cover" type="url">https://swbplus.bsz-bw.de/bsz45521848xcov.jpg</location>
+                <location subtype="description" type="url">https://zbmath.org/?q=an:1333.49002</location>
+                <location subtype="fulltext" type="url">https://doi.org/10.1007/978-3-319-25409-8</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3545781453</identifier>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2019-11-22</creationDate>
+                    <selectionKey>zesp</selectionKey>
+                    <loanIndicator>s</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1594164029</identifier>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2016-01-12</creationDate>
+                    <selectionKey>zesp</selectionKey>
+                    <loanIndicator>s</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online-Ressource (XXVII, 162 p. 69 illus., 49 illus. in color, online resource)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>An Introduction to Optimal Satellite Range Scheduling</title>
+            <abstracts>
+                <abstract xml:lang="de">The satellite range scheduling (SRS) problem, an important operations research problem in the aerospace industry consisting of allocating tasks among satellites and Earth-bound objects, is examined in this book. SRS principles and solutions are applicable to many areas, including: Satellite communications, where tasks are communication intervals between sets of satellites and ground stations Earth observation, where tasks are observations of spots on the Earth by satellites Sensor scheduling, where tasks are observations of satellites by sensors on the Earth. This self-contained monograph begins with a structured compendium of the problem and moves on to explain the optimal approach to the solution, which includes aspects from graph theory, set theory, game theory and belief networks. This book is accessible to students, professionals and researchers in a variety of fields, including: operations research, optimization, scheduling theory, dynamic programming and game theory. Taking account of the distributed, stochastic and dynamic variants of the problem, this book presents the optimal solution to the fixed interval SRS problem and how to migrate results into more complex cases. Reference algorithms and traditional algorithms for solving the scheduling problems are provided and compared with examples and simulations in practical scenarios</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Vázquez Álvarez, Antonio José</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Erwin, Richard Scott</contributor>
+                </contributor>
+            </contributors>
+            <responsible>by Antonio José Vázquez Álvarez, Richard Scott Erwin</responsible>
+            <publicationInfo>
+                <issued>2015</issued>
+                <edition>1st ed. 2015</edition>
+                <publicationPlaces>
+                    <publicationPlace>Cham</publicationPlace>
+                    <publicationPlace>Heidelberg</publicationPlace>
+                    <publicationPlace>New York</publicationPlace>
+                    <publicationPlace>Dordrecht</publicationPlace>
+                    <publicationPlace>London</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                    <publicationCountry code="CH" />
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer 2015</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-2-SEB</identifier>
+                    <identifier type="collectioncode">ZDB-2-SXMS</identifier>
+                    <identifier type="collectioncode">ZDB-2-SMA</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>Springer Optimization and Its Applications</title>
+                    <volumeNumber>106</volumeNumber>
+                </journalInfo>
+                <journalInfo>
+                    <title>SpringerLink</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>Bücher</title>
+                </journalInfo>
+                <publicationIDInfo>Description based upon print version of record</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Campusweiter Zugriff (Universität Hannover). - Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Keine Weitergabe an Dritte. Kein systematisches Downloaden durch Robots.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druckausg.</label>
+                <title>An introduction to optimal satellite range scheduling</title>
+                <identifier type="ppn">858769565</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-2-SEB</identifier>
+                <identifier type="collectioncode">ZDB-2-SXMS</identifier>
+                <identifier type="collectioncode">ZDB-2-SMA</identifier>
+            </related>
+            <related type="parent">
+                <title>Springer Optimization and Its Applications</title>
+                <volumeNumber>106</volumeNumber>
+            </related>
+            <related type="parent">
+                <title>SpringerLink</title>
+            </related>
+            <related type="parent">
+                <title>Bücher</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>QA402.3</code>
+                </classification>
+                <classification classificationID="106417320" classificationName="bk">
+                    <code>85.03</code>
+                    <entries>
+                        <entry>Methoden und Techniken der Betriebswirtschaft</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>QA402.5-QA402.6</code>
+                </classification>
+                <classification classificationID="181570416" classificationName="bk">
+                    <code>55.64</code>
+                    <entries>
+                        <entry>Raumfahrzeugführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>515.64</code>
+                </classification>
+                <classification classificationName="msc">
+                    <code>91A80</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>QA315-316</code>
+                </classification>
+                <classification classificationName="msc">
+                    <code>49N90</code>
+                </classification>
+                <classification classificationID="106418815" classificationName="bk">
+                    <code>54.10</code>
+                    <entries>
+                        <entry>Theoretische Informatik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="msc">
+                    <code>*49-02</code>
+                </classification>
+                <classification classificationName="msc">
+                    <code>90C90</code>
+                </classification>
+                <classification classificationID="106419005" classificationName="bk">
+                    <code>31.80</code>
+                    <entries>
+                        <entry>Angewandte Mathematik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>oek</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>inf</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mat</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Computer mathematics</subject>
+                </subject>
+                <subject id="4138349-7" type="gnd">
+                    <subject xml:lang="de">Satellitenfunk</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Economic theory</subject>
+                </subject>
+                <subject id="4242167-6" type="gnd">
+                    <subject xml:lang="de">Reihenfolgeproblem</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Computer science</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Calculus of variations</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Mathematical optimization</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Game theory</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Algorithms</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Mathematics</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://doi.org/10.1007/978-3-319-25409-8</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

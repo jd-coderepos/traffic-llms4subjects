@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:513268049</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:513268049">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2006-06-14</databaseDate>
+            <changeDate>2024-04-20</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>513268049</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">513268049</identifier>
+                <identifier type="ean">9783800151639</identifier>
+                <identifier type="firstid">DNB:97988862X</identifier>
+                <identifier type="isbn">3800151634</identifier>
+                <identifier type="isbn13">9783800151639</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/hebis-darmstadt/toc/180747673.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">769700934</identifier>
+                    <creationDate>2006-09-25</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">T 06 B 6867</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-24</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">341 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Handbuch praktische Traktorentechnik : Grundlagen, Fehlersuche, Selbsthilfe ; 50 Tabellen</title>
+            <abstracts>
+                <abstract xml:lang="de">Kompaktkurs über Technik, Wartung und Reparatur von Traktoren für Fachleute (Maschinenbaumechaniker) und Anwender (Landwirte u.a.). Bringt knapp gefasste Grundinformationen, Checklisten möglicher Störfälle sowie Erläuterungen zur Reparatur in Kurzbeschreibungen, Fotos, Skizzen. Wurde gegenüber der 3. Auflage 2000 (ID 49/00) um ca. 50 Seiten erweitert und um neue technische Entwicklungen ergänzt. Ein Kauf ist empfehlenswert (1. und 2. Auflage abschreiben, 3. und 4. verbrauchen). (3)</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Riedl, Heinrich</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Heinrich Riedl</responsible>
+            <publicationInfo>
+                <issued>2006</issued>
+                <edition>5., überarb. und erw. Aufl</edition>
+                <publicationPlaces>
+                    <publicationPlace>Stuttgart (Hohenheim)</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Ulmer</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>25 cm</description>
+            <description>zahlr. Ill., graph. Darst</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>ZO 4460</code>
+                </classification>
+                <classification classificationID="10642162X" classificationName="bk">
+                    <code>48.20</code>
+                    <entries>
+                        <entry>Landtechnik, Forsttechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZD 74100</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="106420550" classificationName="bk">
+                    <code>55.23</code>
+                    <entries>
+                        <entry>Kraftfahrzeugwartung, Kraftfahrzeugreparatur</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>hor</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4052673-2" type="gnd">
+                    <subject xml:lang="de">Schlepper</subject>
+                </subject>
+                <subject id="4027145-6" type="gnd">
+                    <subject xml:lang="de">Instandhaltung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

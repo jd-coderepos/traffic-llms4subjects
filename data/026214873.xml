@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:026214873</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:026214873">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1990-09-17</databaseDate>
+            <changeDate>2022-10-16</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>026214873</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">026214873</identifier>
+                <identifier type="firstid">GBV:026214873</identifier>
+                <identifier type="isbn">352717656X</identifier>
+            </identifiers>
+            <locations>
+                <location type="library">89</location>
+                <location subtype="review" type="url">http://www.gbv.de/dms/faz-rez/900222_FAZ_0035_35_0001.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">036351083</identifier>
+                    <creationDate>1992-08-21</creationDate>
+                    <selectionKey>ncl</selectionKey>
+                    <location type="libraryDepartment">17</location>
+                    <location type="tibLocationCode">FBL</location>
+                    <location type="tibShelfmark">VD/340/4521</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">IX, 347 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Die Sammlung des Kardinal Alessandro Farnese : ein "studio" für Künstler und Gelehrte</title>
+            <abstracts>
+                <abstract xml:lang="de">Christina Riebesell: "Die Sammlung des Kardinals Alessandro Farnese". Ein "studio" für Künstler und Gelehrte. VCH Verlag, Acta Humaniora, Weinheim 1989. 347 S. mit 155 Abb., geb., 148,- DM</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Riebesell, Christina</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Christina Riebesell</responsible>
+            <publicationInfo>
+                <issued>1989</issued>
+                <publicationPlaces>
+                    <publicationPlace>Weinheim</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>VCH, Acta Humaniora</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Zugl.: Hamburg, Univ., Diss., 1986</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>24 cm</description>
+            <description>Ill</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="dbn">
+                    <code>46</code>
+                </classification>
+                <classification classificationModel="tib-linsearch-fasttext:2024-04-16" classificationName="linsearch" classificationProcedure="automatic">
+                    <code confidence="0.3972901403903961">phy</code>
+                </classification>
+                <classification classificationModel="tib-linsearch-fasttext:2024-04-16" classificationName="linsearch" classificationProcedure="automatic">
+                    <code confidence="0.3212164640426636">ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Sammlung</subject>
+                </subject>
+                <subject id="118686151" subtype="person" type="gnd">
+                    <subject xml:lang="de">Farnese, Alessandro 1520-1589</subject>
+                </subject>
+                <subject id="4136102-7" type="gnd">
+                    <subject xml:lang="de">Rekonstruktion</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

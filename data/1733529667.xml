@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1733529667</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1733529667">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2020-09-22</databaseDate>
+            <changeDate>2021-12-10</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1733529667</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1733529667</identifier>
+                <identifier type="firstid">KXP:1733529667</identifier>
+                <identifier type="isbn13">9789811549830</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1733529667.pdf</location>
+                <location subtype="miscellaneous" type="url">https://link.springer.com/book/10.1007/978-981-15-4984-7</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3760168434</identifier>
+                    <creationDate>2021-11-03</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 20 B 4038</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xiv, 360 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Spacecraft thermal control technologies</title>
+            <abstracts>
+                <abstract xml:lang="de">Introduction -- Space Environment -- Design of Spacecraft Thermal Control Subsystem -- Typical Thermal Control Technologies for Spacecraft -- Typical Thermal Control Design Cases of Spacecraft -- Thermal Analysis Technology -- Spacecraft Thermal Testing.</abstract>
+                <abstract xml:lang="de">This book presents fundamental theories, design and testing methodologies, and engineering applications concerning spacecraft thermal control systems, helping readers gain a comprehensive understanding of spacecraft thermal control systems and technologies. With abundant design methods, advanced technologies and typical applications to help them grasp the basic concepts and principles of engineering applications, it is mainly intended for engineering and technical staff engaged in spacecraft thermal control areas. The book discusses the thermal environments commonly used for space flight missions, rules and regulations for system design, thermal analysis and simulation, and thermal testing methods, as well as the design and validation of the thermal control systems for Chinese spacecraft, such as the Shenzhou spacecraft and Chang’e Lunar Lander and Rover. It also introduces them to communication and remote sensing satellites and presents advanced thermal control technologies developed in recent years, including heat transfer, heat insulation, heating, refrigeration and thermal sensor technologies. Addressing the design and validation of thermal control systems for various types of Chinese spacecraft, the book offers a valuable theoretical and practical reference guide for researchers and engineers alike.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Miao, Jianyin</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Zhong, Qi</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Zhao, Qiwei</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Zhao, Xin</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Jianyin Miao, Qi Zhong, Qiwei Zhao, Xin Zhao</responsible>
+            <publicationInfo>
+                <issued>2021</issued>
+                <publicationPlaces>
+                    <publicationPlace>Singapore</publicationPlace>
+                    <publicationPlace>Beijing</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="SG" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Space science and technologies</title>
+                </journalInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Space science and technologies</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420534" classificationName="bk">
+                    <code>50.38</code>
+                    <entries>
+                        <entry>Technische Thermodynamik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106410334" classificationName="bk">
+                    <code>55.60</code>
+                    <entries>
+                        <entry>Raumfahrttechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.1</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Heat transfer.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Space sciences.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Materials science.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Energy storage.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Aerospace engineering.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Mass transfer.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Heat engineering.</subject>
+                </subject>
+                <subject id="4177061-4" type="gnd">
+                    <subject xml:lang="de">Raumfahrttechnik</subject>
+                </subject>
+                <subject id="4059816-0" type="gnd">
+                    <subject xml:lang="de">Thermische Belastung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Astronautics.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Thermodynamics.</subject>
+                </subject>
+                <subject id="4059432-4" type="gnd">
+                    <subject xml:lang="de">Temperaturregelung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

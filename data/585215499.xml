@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:585215499</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:585215499">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2008-11-18</databaseDate>
+            <changeDate>2023-01-18</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>585215499</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">585215499</identifier>
+                <identifier type="doi">10.25673/4898</identifier>
+                <identifier type="firstid">GBV:585215499</identifier>
+            </identifiers>
+            <locations>
+                <location mimetype="application/pdf" subtype="fulltext" type="url">http://edok01.tib.uni-hannover.de/edoks/e01dd13/585215499.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1401735053</identifier>
+                    <creationDate>2013-06-20</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>oa</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online-Ressource (PDF-Datei: 161 S., 7262 KB)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Schweißgerechte Struktur- und Prozessstrategien im Flugzeugbau</title>
+            <alternativeTitles>
+                <alternative>Laser beam welding optimized strategies according to fuselage construction and welding process in the aircraft industry</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Aluminium, Fuselage, Fuselage Construction, Hot Cracking, Laser Beam Welding, Stringer, Weldability, Welding, Welding Process, Airbus, A318, A380, AA6013, AA6056</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Gruss, Holger</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">136633900</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>von Holger Gruss</responsible>
+            <publicationInfo>
+                <issued>2008</issued>
+                <publisher>
+                    <publisher>Universitätsbibliothek</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Magdeburg, Univ., Fak. für Maschinenbau, Diss., 2008</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <hiddenSearchTerm>Strukturstrategien</hiddenSearchTerm>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druckausg.</label>
+                <title>Schweißgerechte Struktur- und Prozessstrategien im Flugzeugbau</title>
+                <identifier type="ppn">58294838X</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.1342</code>
+                </classification>
+                <classification classificationID="106420070" classificationName="bk">
+                    <code>52.82</code>
+                    <entries>
+                        <entry>Fügetechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mas</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4159464-2" type="gnd">
+                    <subject xml:lang="de">Heißriss</subject>
+                </subject>
+                <subject id="4074024-9" type="gnd">
+                    <subject xml:lang="de">Laserschweißen</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">default</property>
+            <property name="displaySubscriberAccess">http://edok01.tib.uni-hannover.de/edoks/e01dd13/585215499.pdf</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

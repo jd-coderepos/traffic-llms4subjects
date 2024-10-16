@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1093312882</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1093312882">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1971-01-01</databaseDate>
+            <changeDate>2024-05-06</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>1093312882</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1093312882</identifier>
+                <identifier type="firstid">BSZ:023312882</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">292422261</identifier>
+                    <creationDate>1998-01-02</creationDate>
+                    <selectionKey>r</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">RA 1756(18)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-31</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">125 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Sicherheit und Leistungsfähigkeit städtischer Straßenkreuzungen unter dem Aspekt der Informationsverarbeitung des Kraftfahrzeugführers</title>
+            <abstracts>
+                <abstract xml:lang="de">Unters. in Karlsruhe und Rastatt</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Handschmann, Wolfgang</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Wolfgang Handschmann</responsible>
+            <publicationInfo>
+                <issued>1978</issued>
+                <publicationPlaces>
+                    <publicationPlace>Karlsruhe</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Inst. für Verkehrswesen der Univ.</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Schriftenreihe des Instituts für Verkehrswesen der Universität Karlsruhe</title>
+                    <volumeNumber>18</volumeNumber>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Zugl.: Karlsruhe, Univ., Diss., 1978</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>21 cm</description>
+            <description>Ill., graph. Darst</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Schriftenreihe des Instituts für Verkehrswesen der Universität Karlsruhe</title>
+                <volumeNumber>18</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="10642064X" classificationName="bk">
+                    <code>55.84</code>
+                    <entries>
+                        <entry>Straßenverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Straßenkreuzung</subject>
+                </subject>
+                <subject id="4035236-5" type="gnd">
+                    <subject xml:lang="de">Leistungsfähigkeit</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Verkehrssicherheit</subject>
+                </subject>
+                <subject id="4197651-4" type="gnd">
+                    <subject xml:lang="de">Straßenkreuzung</subject>
+                </subject>
+                <subject id="4054790-5" type="gnd">
+                    <subject xml:lang="de">Sicherheit</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Straßenverkehr</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:722101325</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:722101325">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2012-08-22</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>722101325</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">722101325</identifier>
+                <identifier type="firstid">GBV:722101325</identifier>
+                <identifier type="isbn13">9781439873298</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/722101325.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1339756420</identifier>
+                    <creationDate>2012-12-13</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 12 B 9306</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XVI, 765 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Aerospace materials handbook</title>
+            <abstracts>
+                <abstract xml:lang="de">"Written for both students and professionals in engineering fields, this reference discusses the development and applications of lightweight materials, particularly super alloys and related composites capable of withstanding aeronautical and aerospace conditions. The book covers the fundamentals, production, and processing of superalloys, aerogels, piezoelectric materials, and materials used in the space environment to protect against fatigue, wear, and corrosion. It also addresses carbon nanotube-reinforced polymer composites, the processing of polymer and metal-matrix composites, and emerging composites for future applications. This unique, up-to-date resource enables the practitioner to develop a faster, more efficient, more reliable air/spacecraft"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor>
+                    <contributor>Zhang, Sam</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Zhao, Dongliang</contributor>
+                </contributor>
+            </contributors>
+            <responsible>[ed. by] Sam Zhang; Dongliang Zhao</responsible>
+            <publicationInfo>
+                <issued>2013</issued>
+                <publicationPlaces>
+                    <publicationPlace>Boca Raton, Fla. [u.a.]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>CRC Press</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Advances in materials science and engineering</title>
+                </journalInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Advances in materials science and engineering</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc-dbn">
+                    <code>TEC009070</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 7210</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>TEC023000</code>
+                </classification>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL698</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>TEC021000</code>
+                </classification>
+                <classification classificationID="106415034" classificationName="bk">
+                    <code>51.40</code>
+                    <entries>
+                        <entry>Werkstoffe für bestimmte Anwendungsgebiete</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.134</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>fer</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Airplanes</subject>
+                </subject>
+                <subject id="4036563-3" type="gnd">
+                    <subject xml:lang="de">Luftfahrzeugtechnik</subject>
+                </subject>
+                <subject id="4065579-9" type="gnd">
+                    <subject xml:lang="de">Werkstoff</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

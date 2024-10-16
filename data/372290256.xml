@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:372290256</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:372290256">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2003-10-29</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>372290256</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">372290256</identifier>
+                <identifier type="contract">MTK05980</identifier>
+                <identifier type="contract">MTK0598</identifier>
+                <identifier type="contract">FI99039</identifier>
+                <identifier type="contract">Fl99039</identifier>
+                <identifier type="firstid">GBV:372290256</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">572969139</identifier>
+                    <creationDate>2003-10-29</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RR 7836(99-39)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">100 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Modelliermethoden für Berechnungsmodelle der Stahlstruktur entsprechend der Softwareumgebung der Werft</title>
+            <alternativeTitles>
+                <alternative>Modelling methods for computational analysis of ship steel structures applicable in the software environment of a shipyard</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Structural design, NAPA, relational and objectoriented database, SDAI, PDM, STEP-Interfaces, AP216, finite element model, POSEIDON, calculation model</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Germanischer LLoyd AG</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">276358-8</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor>
+                    <contributor>Grafe, Wiegand</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Germanischer Lloyd. [Wiegand Grafe]</responsible>
+            <publicationInfo>
+                <issued>1999</issued>
+                <edition>Version 1/1999-03-31</edition>
+                <publicationPlaces>
+                    <publicationPlace>[Hamburg]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Bericht / Germanischer Lloyd</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>FI</title>
+                    <volumeNumber>99,39</volumeNumber>
+                </journalInfo>
+                <publicationIDInfo>Förderkennzeichen BMBF MTK 0598 0. - Engl. Titel auf Berichtsbl.: Modelling methods for computational analysis of ship steel structures applicable in the software environment of a shipyard</publicationIDInfo>
+                <publicationIDInfo>Unterschiede zwischen dem gedruckten Dokument und der elektronischen Ressource können nicht ausgeschlossen werden</publicationIDInfo>
+                <publicationIDInfo>Auch als elektronische Ressource vorh.</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Bericht / Germanischer Lloyd</title>
+            </related>
+            <related type="parent">
+                <title>FI</title>
+                <volumeNumber>99,39</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420577" classificationName="bk">
+                    <code>55.40</code>
+                    <entries>
+                        <entry>Schiffstechnik, Schiffbau</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="181571455" classificationName="bk">
+                    <code>50.03</code>
+                    <entries>
+                        <entry>Methoden und Techniken der Ingenieurwissenschaften</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106418548" classificationName="bk">
+                    <code>51.52</code>
+                    <entries>
+                        <entry>Eisenwerkstoffe, Stähle</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>fer</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mat</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4052397-4" type="gnd">
+                    <subject xml:lang="de">Schiffbau</subject>
+                </subject>
+                <subject id="4128181-0" type="gnd">
+                    <subject xml:lang="de">Werft</subject>
+                </subject>
+                <subject id="4148259-1" type="gnd">
+                    <subject xml:lang="de">Computersimulation</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

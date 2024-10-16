@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:019621922</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:019621922">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1992-05-22</databaseDate>
+            <changeDate>2024-03-28</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>019621922</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">019621922</identifier>
+                <identifier type="firstid">GBV:019621922</identifier>
+                <identifier type="isbn">3792709732</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">021837287</identifier>
+                    <creationDate>1992-05-22</creationDate>
+                    <selectionKey>n</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">RA 8085(5)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">119 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Die Eisenbahn zwischen Rhein und Erft : e. Lesebuch für Eisenbahnfreunde</title>
+            <abstracts>
+                <abstract xml:lang="de">Nachdruck der Serie "Mit Volldampf durch den Kreis", Kölner Stadt-Anzeiger, Dezember 1985 bis Februar 1986</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Weingarten, Helmut</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Helmut Weingarten</responsible>
+            <publicationInfo>
+                <issued>1987</issued>
+                <publicationPlaces>
+                    <publicationPlace>Köln</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Rheinland-Verl.</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Beiträge zur Geschichte des Erftkreises</title>
+                    <volumeNumber>5</volumeNumber>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>zahlr. Ill., Kt</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Beiträge zur Geschichte des Erftkreises</title>
+                <volumeNumber>5</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loksys">
+                    <code>ver 284.5 x 329</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>41</code>
+                </classification>
+                <classification classificationName="loksys">
+                    <code>tec 25</code>
+                </classification>
+                <classification classificationName="loksys">
+                    <code>wir 226</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4014015-5" type="gnd">
+                    <subject xml:lang="de">Eisenbahn</subject>
+                </subject>
+                <subject id="4015234-0" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Rhein-Erft-Kreis</subject>
+                </subject>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1015234143</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1015234143">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2018-03-05</databaseDate>
+            <changeDate>2023-01-02</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1015234143</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1015234143</identifier>
+                <identifier type="ean">9783843934732</identifier>
+                <identifier type="firstid">DNB:115362849X</identifier>
+                <identifier type="isbn13">9783843934732</identifier>
+                <identifier type="isbn">3843934738</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/ilmenau/toc/1015234143.PDF</location>
+                <location subtype="description" type="url">http://deposit.dnb.de/cgi-bin/dokserv?id=93bb5ef8eaa243948f941115ef56dcea&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</location>
+                <location subtype="miscellaneous" type="url">http://www.dr.hut-verlag.de/978-3-8439-3473-2.html</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1772321028</identifier>
+                    <creationDate>2018-05-28</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">U 18 B 487</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xii, 206 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>A wide-band air-ground channel model</title>
+            <abstracts>
+                <abstract xml:lang="de">Die Flugsicherung in der zivilen Luftfahrt durchgeht aktuell einen Modernisierungsprozess. Im Zuge dieses Prozesses müssen auch die verwendeten Kommunikations-, Navigations-, und Luftraumüberwachungssysteme modernisiert werden. Um neue oder verbesserte Systeme nicht ausschließlich mit Hilfe von teuren Flugkampagnen testen zu müssen, ist ein Kanalmodell des Boden-Luftkanals notwendig. Solch ein Modell erlaubt Tests mit Hilfe von Computersimulationen. In dieser Arbeit entwerfen wir eine neue Kanalmodellarchitektur für den Boden-Luftkanal. Aufgrund des verwendeten geometrisch-stochastischen Modellierungsansatzes ist das Kanalmodell, im Gegensatz zu älteren Kanalmodellen, in der Lage, die Nichtstationarität des Kanals genau zu reproduzieren. Das Modell verwendet geometrische Modellierungselemente, um die verschiedenen Ausbreitungseffekte abzubilden. Statistische Verteilungen beschreiben die Eigenschaften der Modellierungselemente, z.B. die Verteilung von Reflektoren um die Sendeantenne. Durch das Wählen unterschiedlicher Verteilungen kann die gleiche Modellarchitektur einfach an verschiedene Umgebungen angepasst werden. Für diese Arbeit wurden zwei Flugmesskampagnen im L-Band in der Nähe des Versuchsflughafens in Oberpfaffenhofen durchgeführt. Im Zuge dieser Dissertation verwenden wir die gewonnenen Messdaten, um die Kanalmodellarchitektur auf die Messumgebung zu parametrisieren (anzupassen). Dafür sind neue Verfahren notwendig. Wir entwickeln einen Algorithmus zur Detektion von Multipfadkomponenten im Messsignal und zum Schätzen der zugehörigen Parameter. Auf Basis dieser Schätzung lokalisieren wir die Reflektoren, welche die detektierten Multipfadkomponenten verursachen. Die gewonnenen Ergebnisse erlauben einen weitreichenden Erkenntnisgewinn über die Eigenschaften des Boden-Luftkanals und unterstreichen dessen Nichtstationariät. Die Ergebnisse erlauben uns außerdem, ein Kanalmodell zur Parametrisierung der Messumgebung zu erstellen. Die Parametrisierung wird erfolgreich mit Hilfe verschiedener Messdatensätze validiert. Daher kann das in dieser Dissertation vorgestellte Kanalmodell in Zukunft zur Analyse von Flugsicherungssystemen verwendet werden. Dadurch kann die Anzahl der notwendigen, in der Regel extrem teuren Flugversuche verringert werden.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="degree-granting-institution">
+                    <type>degree-granting-institution</type>
+                    <name>Technische Universität Ilmenau</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2125187-3</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Schneckenburger, Nicolas</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1154895645</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Del Galdo, Giovanni</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">136084575</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Fiebig, Uwe-Carsten</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">113654634</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Matolak, David W.</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Nicolas Schneckenburger</responsible>
+            <publicationInfo>
+                <issued>2018</issued>
+                <edition>1. Auflage</edition>
+                <publicationPlaces>
+                    <publicationPlace>München</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Dr. Hut</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Kommunikationstechnik</title>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2017</dateAccepted>
+                        <description>Dissertation, Technische Universität Ilmenau</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>21 cm x 14.8 cm, 365 g</description>
+            <description>Diagramme, Illustrationen (teilweise farbig)</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Kommunikationstechnik</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106415182" classificationName="bk">
+                    <code>53.84</code>
+                    <entries>
+                        <entry>Ortungstechnik, Radartechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>621.3</code>
+                </classification>
+                <classification classificationID="181570769" classificationName="bk">
+                    <code>55.54</code>
+                    <entries>
+                        <entry>Flugführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4170725-4" type="gnd">
+                    <subject xml:lang="de">Multiplex</subject>
+                </subject>
+                <subject id="4304583-2" type="gnd">
+                    <subject xml:lang="de">Nichtstationärer Prozess</subject>
+                </subject>
+                <subject id="4154771-8" type="gnd">
+                    <subject xml:lang="de">Flugsicherung</subject>
+                </subject>
+                <subject id="4754981-6" type="gnd">
+                    <subject xml:lang="de">Modelltechnik</subject>
+                </subject>
+                <subject id="4326678-2" type="gnd">
+                    <subject xml:lang="de">Antennenreflektor (Nachrichtentechnik)</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

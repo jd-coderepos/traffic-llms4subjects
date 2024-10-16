@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1736765493</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1736765493">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2020-10-27</databaseDate>
+            <changeDate>2021-12-03</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1736765493</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1736765493</identifier>
+                <identifier type="firstid">KXP:1736765493</identifier>
+                <identifier type="isbn">1848218109</identifier>
+                <identifier type="isbn13">9781848218109</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1736765493.pdf</location>
+                <location subtype="miscellaneous" type="url">https://www.wiley.com/en-us/Metaheuristics+for+Air+Traffic+Management-p-9781119261537</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3991712105</identifier>
+                    <creationDate>2021-10-20</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">QN 1068(2)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xi, 194 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Metaheuristics set / coordinated by Nicolas Monmarché and Patrick Siarry ; volume 2: Metaheuristics for air traffic management</title>
+            <abstracts>
+                <abstract xml:lang="de">Air Traffic Management involves many different services such as Airspace Management, Air Traffic Flow Management and Air Traffic Control. Many optimization problems arise from these topics and they generally involve different kinds of variables, constraints, uncertainties. Metaheuristics are often good candidates to solve these problems. The book models various complex Air Traffic Management problems such as airport taxiing, departure slot allocation, en route conflict resolution, airspace and route design. The authors detail the operational context and state of art for each problem. They introduce different approaches using metaheuristics to solve these problems and when possible, compare their performances to existing approaches</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Durand, Nicolas</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Gianazza, David</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Gotteland, Jean-Baptiste</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Alliot, Jean-Marc</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Nicolas Durand, David Gianazza, Jean-Baptiste Gotteland, Jean-Marc Alliot</responsible>
+            <publicationInfo>
+                <issued>2016</issued>
+                <publicationPlaces>
+                    <publicationPlace>Hoboken, NJ</publicationPlace>
+                    <publicationPlace>London</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="GB" />
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Wiley</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Computer engineering series</title>
+                </journalInfo>
+                <publicationIDInfo>Literaturverzeichnis: Seite 181-192</publicationIDInfo>
+                <publicationIDInfo>Includes bibliographical references (pages 181-192) and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>24 cm</description>
+            <description>Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Computer engineering series</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106417320" classificationName="bk">
+                    <code>85.03</code>
+                    <entries>
+                        <entry>Methoden und Techniken der Betriebswirtschaft</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL725.3.T7</code>
+                </classification>
+                <classification classificationID="181570769" classificationName="bk">
+                    <code>55.54</code>
+                    <entries>
+                        <entry>Flugführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106419005" classificationName="bk">
+                    <code>31.80</code>
+                    <entries>
+                        <entry>Angewandte Mathematik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>oek</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mat</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4036597-9" type="gnd">
+                    <subject xml:lang="de">Luftverkehr</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Air traffic control</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Air traffic control ; Management</subject>
+                </subject>
+                <subject id="4820176-5" type="gnd">
+                    <subject xml:lang="de">Metaheuristik</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

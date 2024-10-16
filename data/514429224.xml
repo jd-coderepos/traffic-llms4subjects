@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:514429224</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:514429224">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2006-07-11</databaseDate>
+            <changeDate>2022-06-28</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>514429224</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">514429224</identifier>
+                <identifier type="firstid">GBV:514429224</identifier>
+            </identifiers>
+            <locations>
+                <location mimetype="application/pdf" subtype="fulltext" type="url">http://edok01.tib.uni-hannover.de/edoks/e01dd13/514429224.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1389608107</identifier>
+                    <creationDate>2013-05-08</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>oa</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online-Ressource (PDF-Datei: 250 S., 4322 KB)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>System-analytic safety evaluation of the hydrogen cycle for energetic utilization</title>
+            <alternativeTitles>
+                <alternative>(Systemanalytische Sicherheitsuntersuchung des Wasserstoffkreislaufs für die energetische Nutzung)</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Hydrogen, energy, safety, risk, production, transport, storage, filling station, fuelcell</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Rosyid, Oo Abdul</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">131815172</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>von Oo Abdul Rosyid</responsible>
+            <publicationInfo>
+                <issued>2006</issued>
+                <publisher>
+                    <publisher>Universitätsbibliothek</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Magdeburg, Univ., Fak. für Verfahrens- und Systemtechnik, Diss., 2006</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druckausg.</label>
+                <title>System-analytic safety evaluation of the hydrogen cycle for energetic utilization</title>
+                <identifier type="ppn">513744029</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106417746" classificationName="bk">
+                    <code>58.21</code>
+                    <entries>
+                        <entry>Brennstoffe, Kraftstoffe, Explosivstoffe</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106403869" classificationName="bk">
+                    <code>58.18</code>
+                    <entries>
+                        <entry>Chemische Betriebstechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>che</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>cet</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4016320-9" type="gnd">
+                    <subject xml:lang="de">Fahrzeug</subject>
+                </subject>
+                <subject id="4059220-0" type="gnd">
+                    <subject xml:lang="de">Technische Anlage</subject>
+                </subject>
+                <subject id="4064784-5" type="gnd">
+                    <subject xml:lang="de">Wasserstoff</subject>
+                </subject>
+                <subject id="4008195-3" type="gnd">
+                    <subject xml:lang="de">Brennstoffzelle</subject>
+                </subject>
+                <subject id="4137042-9" type="gnd">
+                    <subject xml:lang="de">Risikoanalyse</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">default</property>
+            <property name="displaySubscriberAccess">http://edok01.tib.uni-hannover.de/edoks/e01dd13/514429224.pdf</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

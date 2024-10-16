@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1798330652</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1798330652">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2022-04-11</databaseDate>
+            <changeDate>2024-02-15</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1798330652</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1798330652</identifier>
+                <identifier type="firstid">KXP:1798330652</identifier>
+                <identifier type="isbn13">9783030977146</identifier>
+                <identifier type="isbn13">9783030977160</identifier>
+                <identifier type="isbn13">9783030977177</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1798330652.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4114912843</identifier>
+                    <creationDate>2022-06-10</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RT 1816(13)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xv, 185 pages</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Safe trajectory planning for maritime surface ships</title>
+            <abstracts>
+                <abstract xml:lang="de">Introduction -- Problem definition -- Methodology for safe trajectory planning -- Deterministic algorithms -- Non-deterministic algorithms -- Registration of navigational data -- Evaluation of algorithms.</abstract>
+                <abstract xml:lang="de">This book offers a comprehensive review of collision avoidance techniques and safe trajectory planning for manned and unmanned ships, together with extensive information on how to develop and implement algorithms for applications in real-world settings. It describes the most relevant decision-support systems and guidance systems used in the control of marine craft, giving a special emphasis to autonomous vehicles, but also covering manned ones. Thanks to its good balance of theory and practice, and the inclusion of basic explanations of all essential concepts, this book fills an important gap in the literature of marine navigation, providing not only researchers and practitioners with a timely reference guide to safe trajectory planning, but also supporting students and newcomers to the field.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Lazarowska, Agnieszka</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Agnieszka Lazarowska</responsible>
+            <publicationInfo>
+                <issued>2022</issued>
+                <publicationPlaces>
+                    <publicationPlace>Cham</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="CH" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Springer series on naval architecture, marine engineering, shipbuilding and shipping</title>
+                    <volumeNumber>volume 13</volumeNumber>
+                </journalInfo>
+            </additionalDocumentInfo>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Springer series on naval architecture, marine engineering, shipbuilding and shipping</title>
+                <volumeNumber>volume 13</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="181569973" classificationName="bk">
+                    <code>55.44</code>
+                    <entries>
+                        <entry>Schiffsführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 6655</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Robotics.</subject>
+                </subject>
+                <subject id="4267628-9" type="gnd">
+                    <subject xml:lang="de">Bahnplanung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Control engineering.</subject>
+                </subject>
+                <subject id="4199255-6" type="gnd">
+                    <subject xml:lang="de">Kollisionsschutz</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Machine learning.</subject>
+                </subject>
+                <subject id="4052385-8" type="gnd">
+                    <subject xml:lang="de">Schiff</subject>
+                </subject>
+                <subject id="4191598-7" type="gnd">
+                    <subject xml:lang="de">Schiffskollision</subject>
+                </subject>
+                <subject id="4179589-1" type="gnd">
+                    <subject xml:lang="de">Schiffsnavigation</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Marine engineering.</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

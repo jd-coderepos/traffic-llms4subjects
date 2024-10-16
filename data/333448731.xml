@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:333448731</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:333448731">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2001-09-03</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>333448731</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">333448731</identifier>
+                <identifier type="contract">MTK0606</identifier>
+                <identifier type="contract">MTK606</identifier>
+                <identifier type="firstid">GBV:333448731</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">514655445</identifier>
+                    <creationDate>2001-09-03</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RR 6875(2000,217)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">514655453</identifier>
+                    <creationDate>2001-09-03</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RR 6875(2000,217) a</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">42. [50] S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Life cycle design C 11: Verifikation der integrierten Betriebsfestigkeitsanalyse an ausgewählten Schadensfällen : Abschlussbericht, MTK 0606</title>
+            <alternativeTitles>
+                <alternative>Verification of the integrated fatigue analysis by selected damage cases</alternative>
+                <alternative>Verifikation der integrierten Betriebsfestigkeitsanalyse an ausgewählten Schadensfällen</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Fatigue analysis, damage analysis, FEM, spectral method</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Germanischer Lloyd AG, Abteilung Festigkeit, Schwingungen</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">6021425-9</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor>
+                    <contributor>Fricke, W.</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Abteilung Festigkeit, Schwingungen, Schiffsakustik, Germanischer Lloyd</responsible>
+            <publicationInfo>
+                <issued>2001</issued>
+                <edition>Version 1</edition>
+                <publicationPlaces>
+                    <publicationPlace>Hamburg</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Germanischer Lloyd</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Bericht / Germanischer Lloyd</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>FF</title>
+                    <volumeNumber>2000,217</volumeNumber>
+                </journalInfo>
+                <publicationIDInfo>Engl. Zsfass. u.d.T.: Verification of the integrated fatigue analysis by selected damage cases</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., zahlr. graph. Darst</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Bericht / Germanischer Lloyd</title>
+            </related>
+            <related type="parent">
+                <title>FF</title>
+                <volumeNumber>2000,217</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420577" classificationName="bk">
+                    <code>55.40</code>
+                    <entries>
+                        <entry>Schiffstechnik, Schiffbau</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="sigle">
+                    <code>13J</code>
+                </classification>
+                <classification classificationID="106418769" classificationName="bk">
+                    <code>51.32</code>
+                    <entries>
+                        <entry>Werkstoffmechanik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>fer</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4130826-8" type="gnd">
+                    <subject xml:lang="de">Schadensanalyse</subject>
+                </subject>
+                <subject id="4006178-4" type="gnd">
+                    <subject xml:lang="de">Betriebsfestigkeit</subject>
+                </subject>
+                <subject id="4198196-0" type="gnd">
+                    <subject xml:lang="de">Schiffsrumpf</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

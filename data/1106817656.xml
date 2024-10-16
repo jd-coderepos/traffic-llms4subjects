@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1106817656</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1106817656">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1990-10-19</databaseDate>
+            <changeDate>2024-05-06</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>1106817656</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1106817656</identifier>
+                <identifier type="firstid">BSZ:036817651</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">231418221</identifier>
+                    <creationDate>1995-01-01</creationDate>
+                    <selectionKey>r</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">DJ 8755</location>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">300902131</identifier>
+                    <creationDate>1998-01-02</creationDate>
+                    <selectionKey>r</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">RA 2285(20)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-35</isil>
+            </preservation>
+            <preservation procedure="digital-preservation">
+                <isil>DE-84</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">II, 298 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Städtischer Lieferverkehr : Bestimmungsgründe, Umfang und Ablauf des Lieferverkehrs von Einzelhandels- und Dienstleistungsbetrieben</title>
+            <abstracts>
+                <abstract xml:lang="de">Betr. u.a. Karlsruhe</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Schwerdtfeger, Wilfried</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Wilfried Schwerdtfeger</responsible>
+            <publicationInfo>
+                <issued>1976</issued>
+                <publicationPlaces>
+                    <publicationPlace>Braunschweig</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Institut für Stadtbauwesen</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Veröffentlichungen des Instituts für Stadtbauwesen / Technische Universität Braunschweig</title>
+                    <volumeNumber>20</volumeNumber>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Zugl.: Braunschweig, Techn. Univ., Diss., 1976</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>8°</description>
+            <description>zahlr. graph. Darst</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Veröffentlichungen des Instituts für Stadtbauwesen / Technische Universität Braunschweig</title>
+                <volumeNumber>20</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="181571811" classificationName="bk">
+                    <code>55.82</code>
+                    <entries>
+                        <entry>Güterverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>QR 800</code>
+                </classification>
+                <classification classificationID="106421050" classificationName="bk">
+                    <code>74.75</code>
+                    <entries>
+                        <entry>Verkehrsplanung, Verkehrspolitik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>arc</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Dienstleistungssektor</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Einzelhandel</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Straßenverkehr</subject>
+                </subject>
+                <subject id="4474079-7" type="gnd">
+                    <subject xml:lang="de">City-Logistik</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

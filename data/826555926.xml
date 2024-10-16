@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:826555926</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:826555926">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2015-06-02</databaseDate>
+            <changeDate>2022-07-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>826555926</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">826555926</identifier>
+                <identifier type="firstid">GBV:826555926</identifier>
+                <identifier type="isbn13">9780816531462</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/826555926.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1570806330</identifier>
+                    <creationDate>2016-07-29</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 15 B 5908</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">VIII, 150, [8] S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Human spaceflight : from Mars to the stars</title>
+            <abstracts>
+                <abstract xml:lang="de">"This book explores the future of human presence in space and the possibility of interstellar travel beyond Mars. Friedman offers viable, cost effective, and intriguing insights into current and future technologies that could expand humanity's concept of not only life on Earth but also life in space"--Provided by publisher</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Friedman, Louis</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Louis Friedman</responsible>
+            <publicationInfo>
+                <issued>2015</issued>
+                <publicationPlaces>
+                    <publicationPlace>Tucson, Ariz.</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Univ. of Arizona Press</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>23 cm</description>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420607" classificationName="bk">
+                    <code>55.61</code>
+                    <entries>
+                        <entry>Raumfahrzeuge</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.45</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL788.5</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4046235-3" type="gnd">
+                    <subject xml:lang="de">Planung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Interstellar travel</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Manned space flight</subject>
+                </subject>
+                <subject id="4048574-2" type="gnd">
+                    <subject xml:lang="de">Raumfahrt</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Space flight to Mars</subject>
+                </subject>
+                <subject id="4476597-6" type="gnd">
+                    <subject xml:lang="de">Marsflug</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Outer space</subject>
+                </subject>
+                <subject id="4162142-6" type="gnd">
+                    <subject xml:lang="de">Interstellarer Raum</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

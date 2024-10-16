@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:785755497</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:785755497">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2014-05-14</databaseDate>
+            <changeDate>2024-04-22</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>785755497</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">785755497</identifier>
+                <identifier type="ean">9783843915496</identifier>
+                <identifier type="firstid">DNB:1050732219</identifier>
+                <identifier type="isbn">3843915490</identifier>
+                <identifier type="isbn13">9783843915496</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/785755497.pdf</location>
+                <location subtype="description" type="url">http://deposit.d-nb.de/cgi-bin/dokserv?id=4658321&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1477964525</identifier>
+                    <creationDate>2014-06-17</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RT 3539(5)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-93</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">169 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Automatic design of IMA-based systems</title>
+            <abstracts>
+                <abstract xml:lang="de">"This thesis presents a computer-aided design method for avionics that (1) allows to evaluate an avionics architecture using objective quality criteria, in particular regarding its safety, and (2) enables the engineer to rapidly modify an architecture and re-evaluate it, thus aiding in the thorough exploration of the design space. Based on these steps, (3) an automated determination of the optimal architecture is possible, and was realised as a quite sophisticated software prototype."--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Salomon, Uwe</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1051837820</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>by Uwe Salomon</responsible>
+            <publicationInfo>
+                <issued>2014</issued>
+                <edition>1. Aufl.</edition>
+                <publicationPlaces>
+                    <publicationPlace>München</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Verl. Dr. Hut</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>ILS Institut für Luftfahrtsysteme / Universität Stuttgart</title>
+                    <volumeNumber>5</volumeNumber>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Zugl.: Stuttgart, Univ., Diss., 2013 (Nicht für den Austausch)</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+                <publicationIDInfo>Mit engl. u. dt. Zsfassung</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>240 mm x 170 mm, 326 g</description>
+            <description>Ill., graph. Darst.</description>
+            <hiddenSearchTerm>Integrated modular avionics</hiddenSearchTerm>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>ILS Institut für Luftfahrtsysteme / Universität Stuttgart</title>
+                <volumeNumber>5</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="181571455" classificationName="bk">
+                    <code>50.03</code>
+                    <entries>
+                        <entry>Methoden und Techniken der Ingenieurwissenschaften</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="181570769" classificationName="bk">
+                    <code>55.54</code>
+                    <entries>
+                        <entry>Flugführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mat</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4196491-3" type="gnd">
+                    <subject xml:lang="de">Avionik</subject>
+                </subject>
+                <subject id="4116673-5" type="gnd">
+                    <subject xml:lang="de">Systemanalyse</subject>
+                </subject>
+                <subject id="4001183-5" type="gnd">
+                    <subject xml:lang="de">Algorithmus</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

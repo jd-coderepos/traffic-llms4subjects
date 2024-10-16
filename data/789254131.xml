@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:789254131</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:789254131">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2014-06-30</databaseDate>
+            <changeDate>2023-03-24</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>789254131</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">789254131</identifier>
+                <identifier type="firstid">HBZ:HT018295199</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">http://nbn-resolving.de/urn:nbn:de:hbz:82-opus-50340</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1505245958</identifier>
+                    <creationDate>2014-10-15</creationDate>
+                    <selectionKey>zdt</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online-Ressource</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Experimentelle Untersuchung einer kompressiblen Stoß-Scherschichtwechselwirkung in Überschallströmungen</title>
+            <abstracts>
+                <abstract xml:lang="de">Zsfassung in dt. und engl. Sprache</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Nuding, Joachim-Rene</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1052196101</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>vorgelegt von Joachim-Rene Manuel Nuding</responsible>
+            <publicationInfo>
+                <issued>2014</issued>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Aachen, Techn. Hochsch., Diss., 2014</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <hiddenSearchTerm>Überschallströmung</hiddenSearchTerm>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106419498" classificationName="bk">
+                    <code>50.34</code>
+                    <entries>
+                        <entry>Gasdynamik, Aerodynamik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZL 5480</code>
+                </classification>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106410601" classificationName="bk">
+                    <code>52.30</code>
+                    <entries>
+                        <entry>Strömungskraftmaschinen, Turbomaschinen</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.1343535</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mas</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4461683-1" type="gnd">
+                    <subject xml:lang="de">Scherschicht</subject>
+                </subject>
+                <subject id="4186626-5" type="gnd">
+                    <subject xml:lang="de">Überschallströmung</subject>
+                </subject>
+                <subject id="4427457-9" type="gnd">
+                    <subject xml:lang="de">Überschallstaustrahltriebwerk</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://nbn-resolving.de/urn:nbn:de:hbz:82-opus-50340</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

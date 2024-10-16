@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:31612236X</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:31612236X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2001-07-10</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>31612236X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">31612236X</identifier>
+                <identifier type="ean">9781563474453</identifier>
+                <identifier type="firstid">GBV:31612236X</identifier>
+                <identifier type="isbn">156347445X</identifier>
+                <identifier type="isbn">1563473976</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/bowker/toc/9781563474453.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">408302860</identifier>
+                    <creationDate>2001-02-01</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">T 01 B 562</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XIV, 300 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Applied mathematics in integrated navigation systems</title>
+            <abstracts>
+                <abstract xml:lang="de">Applied Mathematics in Integrated Navigation Systems combines an on-board navigation solution (position, velocity and attitude), and independent navigation data (aides-to-navigation). The first part of the book covers the basic elements of mathematics, kinematics, equations describing navigation systems/sensors and their error models, aides-to-navigation, and Kalman filtering. Detailed derivations are presented and examples are given. The second part of the book presents case studies that apply the elements to real-world projects. This textbook is intended for upper-level undergraduate, graduate students, and working professionals in the area of design, integration and testing/evaluation of navigation systems. Chapter exercises, appendices, and summaries supplement the text.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Rogers, Robert M.</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Robert M. Rogers</responsible>
+            <publicationInfo>
+                <issued>2000</issued>
+                <publicationPlaces>
+                    <publicationPlace>Reston, Va.</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>American Institute of Aeronautics and Astronautics</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>AIAA education series</title>
+                </journalInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>graph. Darst</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausg.</label>
+                <title>Mathematical Methods in Defense Analyses.</title>
+                <identifier type="ppn">730274608</identifier>
+                <identifier type="isbn13">9781563473975</identifier>
+                <identifier type="isbn13">9781600860850</identifier>
+                <identifier type="isbn">1563473976</identifier>
+            </related>
+            <related type="parent">
+                <title>AIAA education series</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.132/51/0151</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.132510151</code>
+                </classification>
+                <classification classificationID="181570769" classificationName="bk">
+                    <code>55.54</code>
+                    <entries>
+                        <entry>Flugführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL695</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 7630</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>SK 990</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Kalman filtering</subject>
+                </subject>
+                <subject id="4041457-7" type="gnd">
+                    <subject xml:lang="de">Navigation</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Integrated navigation systems</subject>
+                </subject>
+                <subject id="4155620-3" type="gnd">
+                    <subject xml:lang="de">Mathematische Methode</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Inertial navigation</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Inertial navigation (Aeronautics)</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Inertial navigation systems</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Global Positioning System</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Research</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Aids to air navigation</subject>
+                </subject>
+                <subject id="4017656-3" type="gnd">
+                    <subject xml:lang="de">Flugnavigation</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Inertial navigation (Astronautics)</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Mathematics</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:627027180</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:627027180">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2010-05-31</databaseDate>
+            <changeDate>2023-03-24</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>627027180</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">627027180</identifier>
+                <identifier type="doi">10.24405/428</identifier>
+                <identifier type="firstid">GBV:627027180</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">http://nbn-resolving.de/urn:nbn:de:gbv:705-opus-25844</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1228080968</identifier>
+                    <creationDate>2011-02-20</creationDate>
+                    <selectionKey>zdt</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">8,102 Kb text</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Inverse Schallquellenortung in stehenden Wellenfeldern und ihre Anwendung auf Flugzeugkabinen</title>
+            <abstracts>
+                <abstract xml:lang="de">Die Identifikation von Lärmquellen in der Flugzeugkabine ist insbesondere bei tiefen Frequenzen schwierig, da das sich ausbildende stehende Schallfeld keinen direkten Rückschluss auf Schallquellen zulässt. In der Arbeit wird ein neuer Ansatz zur Rekonstruktion von Schalldruck und Schallschnelle auf dem Kabinenrand vorgestellt, der auf der inversen Finite-Elemente-Methode (IFEM) beruht. --- Dieses Vorgehen bedarf zunächst der Aufnahme von Messwerten im Kabineninneren. In einem zweiten Schritt werden diese den Knoten eines akustischen Finite-Elemente-Modells zugeordnet. Befinden sich alle Schallquellen auf dem Kabinenrand, kann das aus dem numerischen Modell resultierende Gleichungssystem umsortiert werden, und zwar derart, dass mit Hilfe von Regularisierungsverfahren und einer Energienorm die Berechnung der unbekannten Randlasten auch bei Störung der Messwerte möglich wird. --- Zunächst wird die zweidimensionale Umsetzung der IFEM zur Schallquellenortung be-schrieben. Nach der numerischen Verifikation erfolgt die Validierung des Verfahrens unter Laborbedingungen an einem einfachen 2D-Modell. --- Anschließend wird die IFEM in einer Flugzeugkabine angewendet. Dies beinhaltet zunächst die Erstellung eines dreidimensionalen akustischen Modells. Anschließend erfolgt der Nachweis der Funktionsfähigkeit in zwei Messkampagnen  zuerst in der leeren Flug-zeugkabine, dann in der bestuhlten Kabine, wobei das Schallfeld mit verschiedenen internen Quellen angeregt wird. Abschließend wird die Intensitätsverteilung am Kabinenrand bei ex-terner Anregung bestimmt.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Weber, Matthias</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">137592736</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>von Matthias Weber</responsible>
+            <publicationInfo>
+                <issued>2009</issued>
+                <publicationPlaces>
+                    <publicationPlace>Hamburg</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Bibliothek der HSU</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>Bericht aus der Professur für Mechatronik / Helmut-Schmidt-Universität</title>
+                    <volumeNumber>2010, Mai</volumeNumber>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Zugl.: Hamburg, Helmut-Schmidt-Univ./Univ. d. Bundeswehr, Diss., 2009</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druckausg.</label>
+                <title>Inverse Schallquellenortung in stehenden Wellenfeldern und ihre Anwendung auf Flugzeugkabinen</title>
+                <identifier type="ppn">626560101</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+            <related type="parent">
+                <title>Bericht aus der Professur für Mechatronik / Helmut-Schmidt-Universität</title>
+                <volumeNumber>2010, Mai</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420518" classificationName="bk">
+                    <code>50.36</code>
+                    <entries>
+                        <entry>Technische Akustik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="106420801" classificationName="bk">
+                    <code>58.56</code>
+                    <entries>
+                        <entry>Lärmschutz, Erschütterungsdämpfung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>cet</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4154784-6" type="gnd">
+                    <subject xml:lang="de">Flugzeugkabine</subject>
+                </subject>
+                <subject id="4179371-7" type="gnd">
+                    <subject xml:lang="de">Schallgeber</subject>
+                </subject>
+                <subject id="4162226-1" type="gnd">
+                    <subject xml:lang="de">Inverse Methode</subject>
+                </subject>
+                <subject id="4153178-4" type="gnd">
+                    <subject xml:lang="de">Schallortung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://nbn-resolving.de/urn:nbn:de:gbv:705-opus-25844</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:318284189</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:318284189">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2001-08-17</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>318284189</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">318284189</identifier>
+                <identifier type="firstid">GBV:318284189</identifier>
+                <identifier type="isbn">3884123432</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">548071918</identifier>
+                    <creationDate>2002-05-30</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">T 02 B 1922</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">184 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Zwischen Elbe und Ostsee : zur Entstehung der Schleswig-Holsteinischen und Mecklenburg-Vorpommerschen Wasserstraßen</title>
+            <abstracts>
+                <abstract xml:lang="de">Der Autor schildert die Entstehung und Entwicklung der Binnenwasserstraßen in Schleswig-Holstein und Mecklenburg-Vorpommern anhand von zahlreichen Abbildungen und Graphiken. Neben Schwerpunkten wie der Querung der Jütischen Halbinsel und den "Salzfahrten" zwischen Lüneburg und dem Ostseeraum werden auch kleine Fluss-Straßen wie Warnow und Peene gebührend berücksichtigt. Den meisten Raum nehmen aber der Nord-Ostsee-Kanal und der Elbe-Lübeck-Kanal ein. Von Interesse für die Berufs- und Sportschifffahrt, für Wasserstraßen- und Wasserwirtschaftsverwaltungen, aber auch für alle verkehrshistorisch und -technisch interessierten Leser. (I. Hanewald)</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Uhlemann, Hans-Joachim</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Hans-Joachim Uhlemann</responsible>
+            <publicationInfo>
+                <issued>2000</issued>
+                <edition>1. Aufl.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Hamburg</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Die Barque</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>27 cm</description>
+            <description>Ill., graph. Darst., Kt</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106421832" classificationName="bk">
+                    <code>55.86</code>
+                    <entries>
+                        <entry>Schiffsverkehr, Schifffahrt</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>41</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>609</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>HE669.Z7</code>
+                </classification>
+                <classification classificationID="106422006" classificationName="bk">
+                    <code>56.30</code>
+                    <entries>
+                        <entry>Wasserbau</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZI 6730</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>bau</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Schiffshebewerk</subject>
+                </subject>
+                <subject id="4020517-4" type="gnd">
+                    <subject xml:lang="de">Geschichte</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Kanalbau</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Schleuse</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Wasserstraße</subject>
+                </subject>
+                <subject id="4052692-6" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Schleswig-Holstein</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Elbe River (Czech Republic and Germany)</subject>
+                </subject>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte</subject>
+                </subject>
+                <subject id="4242861-0" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Mecklenburg-Vorpommern</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Schleswig-Holstein</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Inland navigation</subject>
+                </subject>
+                <subject id="4006767-1" type="gnd">
+                    <subject xml:lang="de">Binnenwasserstraße</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Germany</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Binnenwasserstraße</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Mecklenburg-Vorpommern</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

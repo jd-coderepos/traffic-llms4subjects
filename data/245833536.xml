@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:245833536</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:245833536">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1998-06-30</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>245833536</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">245833536</identifier>
+                <identifier type="firstid">GBV:245833536</identifier>
+                <identifier type="isbn">3440076962</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">298216906</identifier>
+                    <creationDate>1998-09-25</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">T 98 B 5384</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">160 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Hanomag Schlepper-Prospekte von 1926 bis 1956</title>
+            <abstracts>
+                <abstract xml:lang="de">Ähnlich wie "Fendt" (s. in dieser Nr.) eine Sammlung von Prospektmaterialien und Typenblättern des bekannten deutschen Nutzwagen- und Traktorenherstellers. Ist zumindest auf 2 Bände angelegt und enthält einführend einen knappen Firmenabriß. Interessanter, attraktiver aufgemachter Querschnitt. (3) (LK/N: Pleuß)</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>HANOMAG-Aktiengesellschaft, Hannover, 1955 - 1958</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2169983-5</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor>
+                    <contributor>Häfner, Kurt</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Karle, Michael</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Kurt Häfner; Michael Karle</responsible>
+            <publicationInfo>
+                <issued>1998</issued>
+                <publicationPlaces>
+                    <publicationPlace>Stuttgart</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Kosmos</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>30 cm</description>
+            <description>Ill</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="dbn">
+                    <code>39</code>
+                </classification>
+                <classification classificationID="106407597" classificationName="bk">
+                    <code>48.01</code>
+                    <entries>
+                        <entry>Geschichte der Land- und Forstwirtschaft</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loksys">
+                    <code>ver 168.4</code>
+                </classification>
+                <classification classificationID="10642162X" classificationName="bk">
+                    <code>48.20</code>
+                    <entries>
+                        <entry>Landtechnik, Forsttechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106414992" classificationName="bk">
+                    <code>55.21</code>
+                    <entries>
+                        <entry>Kraftfahrzeuge</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>36</code>
+                </classification>
+                <classification classificationName="loksys">
+                    <code>lan 722</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>hor</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4052673-2" type="gnd">
+                    <subject xml:lang="de">Schlepper</subject>
+                </subject>
+                <subject id="4458418-0" type="gnd">
+                    <subject xml:lang="de">Hanomag</subject>
+                </subject>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte 1926-1956</subject>
+                </subject>
+                <subject id="4136390-5" type="gnd">
+                    <subject xml:lang="de">Prospekt</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:278028756</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:278028756">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1994-07-12</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>278028756</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">278028756</identifier>
+                <identifier type="firstid">GBV:278028756</identifier>
+                <identifier type="isbn">3871542032</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">134093356</identifier>
+                    <creationDate>1994-10-18</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">T 94 B 7010</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">306 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>ABC der Abkürzungen aus Verkehr, Transport und Logistik</title>
+            <abstracts>
+                <abstract xml:lang="de">Aus dem Vorwort: In dieser Neuauflage sind wesentliche Begriffe aus Transport und Logistik dazugekommen, nicht mehr gültige Bezeichnungen werden noch erwähnt, soweit sie in der Praxis noch verwendet werden. Verkehr, Transport und Logistik sind Bereiche der Wirtschaft, in denen Schnelligkeit und Deutlichkeit der Informationen wichtig sind. So werden wiederkehrende kommerzielle und ökonomische Inhalte in einer Formel konzentriert, die umständliche Erläuterungen ersetzt. Aus der Praxis der geschäftlichen Vorgänge entstehen solche Kurzformen immer neu; sie aufzuzeichnen und dem Benutzer zugänglich zu machen, ist Aufgabe dieses Buches.</abstract>
+            </abstracts>
+            <publicationInfo>
+                <issued>1994</issued>
+                <edition>6., völlig überarb. und erw. Aufl.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Hamburg</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Dt. Verkehrs-Verl.</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Bis 5. Aufl. u.d.T.: ABC der Abkürzungen aus Verkehr, Industrie und Aussenhandel</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>21 cm</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="dbn">
+                    <code>17</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>41</code>
+                </classification>
+                <classification classificationID="106420631" classificationName="bk">
+                    <code>55.80</code>
+                    <entries>
+                        <entry>Verkehrswesen, Transportwesen: Allgemeines</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4062901-6" type="gnd">
+                    <subject xml:lang="de">Verkehr</subject>
+                </subject>
+                <subject id="4000158-1" type="gnd">
+                    <subject xml:lang="de">Abkürzung</subject>
+                </subject>
+                <subject id="4003832-4" type="gnd">
+                    <subject xml:lang="de">Außenhandel</subject>
+                </subject>
+                <subject id="4026779-9" type="gnd">
+                    <subject xml:lang="de">Industrie</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:127854436</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:127854436">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1993-09-17</databaseDate>
+            <changeDate>2024-05-31</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>127854436</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">127854436</identifier>
+                <identifier type="firstid">GBV:127854436</identifier>
+                <identifier type="isbn">0192820842</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="biographical-note" type="url">http://www.loc.gov/catdir/enhancements/fy0726/87012322-b.html</location>
+                <location subtype="miscellaneous" type="url">http://www.loc.gov/catdir/enhancements/fy0640/87012322-d.html</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">018377815</identifier>
+                    <creationDate>1988-06-02</creationDate>
+                    <selectionKey>n</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">FF 4808/1988</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">VII, 971 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>The Oxford companion to ships and the sea</title>
+            <abstracts>
+                <abstract xml:lang="de">Ohne Kurzreferat</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Kemp, Peter</contributor>
+                </contributor>
+            </contributors>
+            <responsible>ed. by Peter Kemp</responsible>
+            <publicationInfo>
+                <issued>1988</issued>
+                <publicationPlaces>
+                    <publicationPlace>Oxford [u.a.]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="GB" />
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Oxford University Press</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Oxford paperback reference</title>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>24 cm</description>
+            <description>Ill., graph. Darst</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Oxford paperback reference</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106421832" classificationName="bk">
+                    <code>55.86</code>
+                    <entries>
+                        <entry>Schiffsverkehr, Schifffahrt</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106420577" classificationName="bk">
+                    <code>55.40</code>
+                    <entries>
+                        <entry>Schiffstechnik, Schiffbau</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>387.5/03/21</code>
+                </classification>
+                <classification classificationName="loksys">
+                    <code>ver 300 a</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>V23</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4054184-8" type="gnd">
+                    <subject xml:lang="de">Seeschifffahrt</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Naval history</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Naval art and science</subject>
+                </subject>
+                <subject id="4116383-7" type="gnd">
+                    <subject xml:lang="de">Schifffahrt</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Dictionaries</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

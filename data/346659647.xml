@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:346659647</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:346659647">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2002-05-02</databaseDate>
+            <changeDate>2024-04-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>346659647</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">346659647</identifier>
+                <identifier type="contract">MTK05980</identifier>
+                <identifier type="contract">MTK0598</identifier>
+                <identifier type="contract">FI99039</identifier>
+                <identifier type="contract">Fl99039</identifier>
+                <identifier type="firstid">GBV:346659647</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="miscellaneous" type="url">https://edocs.tib.eu/files/e01fb02/346659647l.pdf</location>
+                <location mimetype="application/pdf" subtype="fulltext" type="url">https://edocs.tib.eu/files/e01fb02/346659647.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">554280736</identifier>
+                    <creationDate>2002-05-02</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-89</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">Online-Ressource (102 p., 2,87 Mb.)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Modelliermethoden für Berechnungsmodelle der Stahlstruktur entsprechend der Softwareumgebung der Werft</title>
+            <alternativeTitles>
+                <alternative>Modelling methods for computational analysis of ship steel structures applicable in the software environment of a shipyard</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Structural design, NAPA, relational and objectoriented database, SDAI, PDM, STEP-Interfaces, AP216, finite element model, POSEIDON, calculation model</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Germanischer LLoyd AG</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">276358-8</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor>
+                    <contributor>Grafe, Wiegand</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Germanischer Lloyd. [Wiegand Grafe]</responsible>
+            <publicationInfo>
+                <issued>1999</issued>
+                <edition>Version 1/1999-03-31; [Elektronische Ressource]</edition>
+                <publicationPlaces>
+                    <publicationPlace>[Hamburg]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Universitätsbibliothek u. Technische Informationsbibliothek</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-296-TTN</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>Bericht / Germanischer Lloyd</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>FI</title>
+                    <volumeNumber>99,039</volumeNumber>
+                </journalInfo>
+                <publicationIDInfo>Contract BMBF MTK 0598 0. - Differences between the printed and electronic version of the document are possible. - nIndex p. 60 - 61. - attachment. - abstract under title: Modelling methods for computational analysis of ship steel structures applicable in the software environment of a shipyard</publicationIDInfo>
+                <publicationIDInfo>Also available as printed version</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graphs</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-296-TTN</identifier>
+            </related>
+            <related type="parent">
+                <title>Bericht / Germanischer Lloyd</title>
+            </related>
+            <related type="parent">
+                <title>FI</title>
+                <volumeNumber>99,039</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420577" classificationName="bk">
+                    <code>55.40</code>
+                    <entries>
+                        <entry>Schiffstechnik, Schiffbau</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="181571455" classificationName="bk">
+                    <code>50.03</code>
+                    <entries>
+                        <entry>Methoden und Techniken der Ingenieurwissenschaften</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106418548" classificationName="bk">
+                    <code>51.52</code>
+                    <entries>
+                        <entry>Eisenwerkstoffe, Stähle</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mat</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>fer</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4052397-4" type="gnd">
+                    <subject xml:lang="de">Schiffbau</subject>
+                </subject>
+                <subject id="4128181-0" type="gnd">
+                    <subject xml:lang="de">Werft</subject>
+                </subject>
+                <subject id="4148259-1" type="gnd">
+                    <subject xml:lang="de">Computersimulation</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">default</property>
+            <property name="displaySubscriberAccess">https://edocs.tib.eu/files/e01fb02/346659647.pdf</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

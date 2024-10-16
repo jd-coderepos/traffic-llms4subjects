@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:278338798</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:278338798">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1994-12-21</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>278338798</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">278338798</identifier>
+                <identifier type="firstid">GBV:278338798</identifier>
+                <identifier type="isbn">392550530X</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">14712347X</identifier>
+                    <creationDate>1995-04-24</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">T 95 B 3615</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">168 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Fachwörterbuch Luft- und Raumfahrt</title>
+            <alternativeTitles>
+                <alternative>Fachwörterbuch Luft- und Raumfahrt</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Kurznachschlagewerk mit ca. 2500 Stichwörtern zu Technik, Verkehr, Raumfahrt und wichtigen Persönlichkeiten. (LK/N: Pleuß)</abstract>
+                <abstract xml:lang="de">Kurznachschlagewerk für Laien mit Informationen zu Technik, Verkehr, Raumfahrt, wobei biographische Einträge einbezogen sind. Umfaßt ca. 2500 Stichwörter und bringt leicht verständliche, knapp gefaßte Begriffsbestimmungen. Einsetzbar neben H. Schliephake (BA 7/85) sowie neben dem ausführlicheren "Lexikon der Luftfahrt" (BA 8/92). Als handliches, nicht allzu gründliches Kompendium für Ausleih- wie für Präsenzbestände geeignet. (2 A) (LK/N: Pleuß)</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Flughafen Frankfurt Main Aktiengesellschaft</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2000748-6</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Mueller, Klaus</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Klaus Müller</responsible>
+            <publicationInfo>
+                <issued>1994</issued>
+                <edition>1. Aufl.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Planegg</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Aviatic Verl.</publisher>
+                </publisher>
+            </publicationInfo>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="dbn">
+                    <code>41</code>
+                </classification>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 2450</code>
+                </classification>
+                <classification classificationID="106410334" classificationName="bk">
+                    <code>55.60</code>
+                    <entries>
+                        <entry>Raumfahrttechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>36</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>03</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Raumfahrt</subject>
+                </subject>
+                <subject id="4048574-2" type="gnd">
+                    <subject xml:lang="de">Raumfahrt</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Luftfahrt</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Wörterbuch</subject>
+                </subject>
+                <subject id="4036557-8" type="gnd">
+                    <subject xml:lang="de">Luftfahrt</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

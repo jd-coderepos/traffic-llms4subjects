@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1670748286</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1670748286">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2019-08-07</databaseDate>
+            <changeDate>2020-12-02</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1670748286</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1670748286</identifier>
+                <identifier type="firstid">KXP:1670748286</identifier>
+                <identifier type="isbn">9811079587</identifier>
+                <identifier type="isbn13">9789811079580</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1670748286.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">350500281X</identifier>
+                    <creationDate>2020-10-05</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 19 B 2875</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xii, 237 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Guidance and control technology of spacecraft on elliptical orbit</title>
+            <abstracts>
+                <abstract xml:lang="de">Introduction.- Modeling and Hardware Components of Control System of Orbital Transfer Vehicle.- Orbit Prediction Technology.- Inertial Navigation and Initial Alignment Technology.- INS/GNSS Integrated Navigation Technology.- INS/CNS Integrated Navigation Technology.- Redundant Fault Tolerance and Failure Reconfiguration Technology of Inertial Sensor.- Guidance and Midcourse Correction Technology.- Orbit Control Strategy.;_</abstract>
+                <abstract xml:lang="de">This book introduces readers to the navigation, guidance and control technologies involved in single-spacecraft, double-spacecraft, and multiple-spacecraft tasks in elliptical orbits. It comprehensively covers the key technologies of guidance, navigation and control (GNC) system design for spacecraft in elliptical orbits, including the orbit design, formation configuration design and maintenance, autonomous navigation technology and relative navigation technology, as well as autonomous rendezvous technology. The methods that this book introduces are very close to actual practical engineering applications and presented in an accessible style. The book can serve as reference teaching material for senior undergraduates and postgraduates with space navigation related majors, while also providing essential information and guidance for research personnel and engineering technical personnel engaged in the development of GNC systems for spacecraft</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Liu, Fucheng</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Lu, Shan</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Sun, Yue</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Fucheng Liu, Shan Lu, Yue Sun</responsible>
+            <publicationInfo>
+                <issued>2019</issued>
+                <publicationPlaces>
+                    <publicationPlace>Singapore</publicationPlace>
+                    <publicationPlace>Beijing</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="SG" />
+                    <publicationCountry code="CN" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Navigation: Science and Technology</title>
+                </journalInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Navigation: Science and Technology</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="181570416" classificationName="bk">
+                    <code>55.64</code>
+                    <entries>
+                        <entry>Raumfahrzeugführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4048579-1" type="gnd">
+                    <subject xml:lang="de">Raumfahrzeug</subject>
+                </subject>
+                <subject id="4017656-3" type="gnd">
+                    <subject xml:lang="de">Flugnavigation</subject>
+                </subject>
+                <subject id="4194779-4" type="gnd">
+                    <subject xml:lang="de">Ellipse</subject>
+                </subject>
+                <subject id="4328094-8" type="gnd">
+                    <subject xml:lang="de">Flugregelung</subject>
+                </subject>
+                <subject id="4238276-2" type="gnd">
+                    <subject xml:lang="de">Umlaufbahn</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

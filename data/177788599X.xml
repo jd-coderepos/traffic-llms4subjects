@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:177788599X</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:177788599X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2021-11-17</databaseDate>
+            <changeDate>2024-05-10</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>177788599X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">177788599X</identifier>
+                <identifier type="ean">9783658363352</identifier>
+                <identifier type="firstid">DNB:1245388789</identifier>
+                <identifier type="isbn13">9783658363352</identifier>
+                <identifier type="isbn">3658363355</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="description" type="url">http://deposit.dnb.de/cgi-bin/dokserv?id=76ca65aacdec497288eded88cfc9035c&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</location>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/177788599x.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4116187976</identifier>
+                    <creationDate>2022-06-16</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RS 8563(159)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-31</isil>
+            </preservation>
+            <preservation procedure="digital-preservation">
+                <isil>DE-84</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">xxi, 148 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Unsupervised pattern discovery in automotive time series : pattern-based construction of representative driving cycles</title>
+            <abstracts>
+                <abstract xml:lang="de">In the last decade unsupervised pattern discovery in time series, i.e. the problem of finding recurrent similar subsequences in long multivariate time series without the need of querying subsequences, has earned more and more attention in research and industry. Pattern discovery was already successfully applied to various areas like seismology, medicine, robotics or music. Until now an application to automotive time series has not been investigated. This dissertation fills this desideratum by studying the special characteristics of vehicle sensor logs and proposing an appropriate approach for pattern discovery. To prove the benefit of pattern discovery methods in automotive applications, the algorithm is applied to construct representative driving cycles. About the author Fabian Kai Dietrich Noering is currently working in the technical development of Volkswagen AG as data scientist with a special interest in the analysis of time series regarding e.g. product optimization.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="degree-granting-institution">
+                    <type>degree-granting-institution</type>
+                    <name>Technische Universität Braunschweig</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">36227-X</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+                <corporateCreator type="publisher">
+                    <type>publisher</type>
+                    <name>Springer Fachmedien Wiesbaden</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">1043386068</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Noering, Fabian Kai Dietrich</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1266450351</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Klawonn, Frank</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">113214030</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Deserno, Thomas M.</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">140954120</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Fabian Kai Dietrich Noering</responsible>
+            <publicationInfo>
+                <issued>2022</issued>
+                <publicationPlaces>
+                    <publicationPlace>Wiesbaden</publicationPlace>
+                    <publicationPlace>[Heidelberg]</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Springer Vieweg</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>AutoUni – Schriftenreihe</title>
+                    <volumeNumber>volume 159</volumeNumber>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2022</dateAccepted>
+                        <description>Dissertation, Technische Universität Carolo-Wilhelmina zu Braunschweig</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>21 cm x 14.8 cm</description>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>Unsupervised Pattern Discovery in Automotive Time Series</title>
+                <identifier type="isbn13">9783658363369</identifier>
+                <identifier type="ppn">179688412X</identifier>
+            </related>
+            <related type="parent">
+                <title>AutoUni – Schriftenreihe</title>
+                <volumeNumber>volume 159</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="10641030X" classificationName="bk">
+                    <code>54.74</code>
+                    <entries>
+                        <entry>Maschinelles Sehen</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>inf</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4127298-5" type="gnd">
+                    <subject xml:lang="de">Zeitreihe</subject>
+                </subject>
+                <subject id="7544630-3" type="gnd">
+                    <subject xml:lang="de">Fahrzyklus</subject>
+                </subject>
+                <subject id="4243688-6" type="gnd">
+                    <subject xml:lang="de">Fahrtest</subject>
+                </subject>
+                <subject id="4073757-3" type="gnd">
+                    <subject xml:lang="de">Kraftfahrzeug</subject>
+                </subject>
+                <subject id="4040936-3" type="gnd">
+                    <subject xml:lang="de">Mustererkennung</subject>
+                </subject>
+                <subject id="4580265-8" type="gnd">
+                    <subject xml:lang="de">Unüberwachtes Lernen</subject>
+                </subject>
+                <subject id="4032690-1" type="gnd">
+                    <subject xml:lang="de">Kraftfahrzeugindustrie</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:780658345</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:780658345">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2014-03-18</databaseDate>
+            <changeDate>2021-07-05</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>780658345</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">780658345</identifier>
+                <identifier type="firstid">HBZ:HT018193859</identifier>
+                <identifier type="isbn13">9783942647397</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://d-nb.info/1048543811/04</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1580039642</identifier>
+                    <creationDate>2016-08-30</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RR 5599(320)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">191 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Selbstoptimierende Spurführung für ein neuartiges Schienenfahrzeug</title>
+            <abstracts>
+                <abstract xml:lang="de">In dieser Arbeit wird die Entwicklung von zwei selbstoptimierenden Reglern fürdie aktive Spurführung eines neuartigen Schienenfahrzeugs vorgestellt. Mithilfe aktiv lenkbarer Achsen kann der mit einer passiven Spurführung verbundeneKompromiss zwischen Verschleiß und Laufstabilität überwunden werden. Durchdie Selbstoptimierung wird der Regler zur Laufzeit so an die jeweilige Situationangepasst, dass die Stellenergie und die Regelgüte unabhängig von der Amplitude der Störungen sind und so z. B. auf bestimmte feste Werte eingestellt werdenkönnen. Der erste Regleransatz basiert auf der Vorsteuerung von modellprädiktiv optimierten Trajektorien, die mit einem P-Regler stabilisiert werden. Bei derzweiten Methode wird die Rückführungsmatrix eines vollständigen Zustandsreglers situationsabhängig optimiert. Beiden Methoden gemeinsam ist das Konzeptder "Selbstoptimierung durch Mehrzieloptimierung". Dabei wird zunächst für alleAnforderungen ein separates Gütekriterium formuliert. Danach wird das Mehrzieloptimierungsproblem durch die mathematische Formulierung der gewünschten Relation zwischen den Anforderungen in ein skalares Optimierungsproblemüberführt. Diese Vorgehensweise ist sehr allgemein und lässt sich auf viele andereRegelungsaufgaben übertragen. Die vorliegende Arbeit leistet daher über die vorgestellte konkrete Anwendung hinaus einen generellen Beitrag zur Entwicklungselbstoptimierender Systeme.. - In this thesis, the development of two self-optimizing controllers for the activeguidance of an innovative rail vehicle is presented. Using actively steerable axles,the compromise between abrasive wear and stability that is inherent to passiveguidance can be suspended. A self-optimization algorithm adjusts the controllerat runtime to the current situation such that the actuation energy and the controller performance are no longer affected by disturbances. The first controllerconcept comprises a feed forward control of model based optimized trajectoriesthat are stabilised by a proportional feedback controller. The second concept isbased on a linear state feedback controller where the feedback law is optimized atruntime. Both methods share the concept of "self-optimization by multi-objectiveoptimization". In multi-objective optimization, all requirements are formulated asa separate criterion. Subsequently, a scalar optimization problem is derived bymathematically defining the desired quantitative relation between the separateobjectives. This approach is not limited to any one controller design method.Therefore, the contribution of this thesis is not only to the presented applicationsbut further to the general method of designing self-optimizing systems.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Geisler, Jens</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1075941105</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Jens Geisler</responsible>
+            <publicationInfo>
+                <issued>2014</issued>
+                <publicationPlaces>
+                    <publicationPlace>Paderborn</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Heinz-Nixdorf-Institut, Universität Paderborn</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>HNI-Verlagsschriftenreihe</title>
+                    <volumeNumber>320</volumeNumber>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2013</dateAccepted>
+                        <description>Dissertation, Universität Paderborn</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Illustrationen</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>HNI-Verlagsschriftenreihe</title>
+                <volumeNumber>320</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106421344" classificationName="bk">
+                    <code>50.23</code>
+                    <entries>
+                        <entry>Regelungstechnik, Steuerungstechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>625.27</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="106405691" classificationName="bk">
+                    <code>55.30</code>
+                    <entries>
+                        <entry>Schienenfahrzeugtechnik, Eisenbahntechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4177447-4" type="gnd">
+                    <subject xml:lang="de">Reglerentwurf</subject>
+                </subject>
+                <subject id="4052368-8" type="gnd">
+                    <subject xml:lang="de">Schienenfahrzeug</subject>
+                </subject>
+                <subject id="4126692-4" type="gnd">
+                    <subject xml:lang="de">Spurführung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

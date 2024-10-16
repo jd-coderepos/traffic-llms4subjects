@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:538555653</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:538555653">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2007-08-01</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>538555653</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">538555653</identifier>
+                <identifier type="contract">2007030988</identifier>
+                <identifier type="ean">9780754672951</identifier>
+                <identifier type="firstid">GBV:538555653</identifier>
+                <identifier type="isbn">0754672956</identifier>
+                <identifier type="isbn13">9780754672951</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://external.dandelon.com/download/attachments/dandelon/ids/CH0017078EBDA4D5B66D1C125750F0047B4E1.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">831166223</identifier>
+                    <creationDate>2008-06-06</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 08 B 1038</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">X, 260 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>European air traffic management : principles, practice, and research</title>
+            <abstracts>
+                <abstract xml:lang="de">The organisation and operation of European airspace /  Marc Baumgartner -- The principles of flight planning and ATM messaging / Graham Tanner -- Understanding en-route sector capacity in Europe / Arnab Majumdar -- The management and costs of delay / Andrew Cook -- European ATM and the environment / Victoria Williams -- The future fo European air transport operations / Nigel Dennis -- The single European sky : EU reform of ATM / Ben van Houtte -- ATM and society : demands and expectations / Nadine Pilon</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Cook, Andrew</contributor>
+                </contributor>
+            </contributors>
+            <responsible>ed. by Andrew Cook</responsible>
+            <publicationInfo>
+                <issued>2007</issued>
+                <publicationPlaces>
+                    <publicationPlace>Aldershot [u.a.]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="GB" />
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Ashgate</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Hier auch später erschienene, unveränderte Nachdrucke</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>TL725.3.T7</code>
+                </classification>
+                <classification classificationID="106410660" classificationName="bk">
+                    <code>55.88</code>
+                    <entries>
+                        <entry>Luftverkehr, Raumfahrt</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>QR 840</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>387.7/40426094</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 7872</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4036597-9" type="gnd">
+                    <subject xml:lang="de">Luftverkehr</subject>
+                </subject>
+                <subject id="4431979-4" type="gnd">
+                    <subject xml:lang="de">Ressourcenmanagement</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Air traffic control</subject>
+                </subject>
+                <subject id="4062902-8" type="gnd">
+                    <subject xml:lang="de">Verkehrsablauf</subject>
+                </subject>
+                <subject id="4057472-6" type="gnd">
+                    <subject xml:lang="de">Steuerung</subject>
+                </subject>
+                <subject id="4154771-8" type="gnd">
+                    <subject xml:lang="de">Flugsicherung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

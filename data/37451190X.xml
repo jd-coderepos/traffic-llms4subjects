@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:37451190X</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:37451190X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2003-12-02</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>37451190X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">37451190X</identifier>
+                <identifier type="contract">19B9816Y</identifier>
+                <identifier type="contract">19B9816Y2</identifier>
+                <identifier type="contract">01011562</identifier>
+                <identifier type="firstid">GBV:37451190X</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">624922138</identifier>
+                    <creationDate>2004-05-04</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">F 03 B 1621</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">30 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Mobilität im Ballungsraum Stuttgart : mobilist ; Schlussbericht ; Beitrag des Zuwendungsempfänger: Stadt Sindelfingen, Planungsamt, zum Arbeitspaket C1 Regionales Parkraummanagement ; Laufzeit: 01.09.1998 - 31.12.2002</title>
+            <alternativeTitles>
+                <alternative>mobilist</alternative>
+                <alternative>C1 Regionales Parkraummanagement</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Parking management, dynamic parking information, parking demand, regional traffic management</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Sindelfingen, Stadtplanungsamt</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">5003049-8</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Tröger, Michael</contributor>
+                </contributor>
+            </contributors>
+            <responsible>[Autoren des Berichts: Tröger, Michael]</responsible>
+            <publicationInfo>
+                <issued>2003</issued>
+                <publicationPlaces>
+                    <publicationPlace>Sindelfingen</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Förderkennzeichen BMBF 19 B 98 16 Y/2. - Verbund-Nr. 01011562</publicationIDInfo>
+                <publicationIDInfo>Unterschiede zwischen dem gedruckten Dokument und der elektronischen Ressource können nicht ausgeschlossen werden</publicationIDInfo>
+                <publicationIDInfo>Auch als elektronische Ressource vorh.</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>graph. Darst</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="181570637" classificationName="bk">
+                    <code>55.81</code>
+                    <entries>
+                        <entry>Personenverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106421050" classificationName="bk">
+                    <code>74.75</code>
+                    <entries>
+                        <entry>Verkehrsplanung, Verkehrspolitik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>arc</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4058286-3" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Stuttgart</subject>
+                </subject>
+                <subject id="4554074-3" type="gnd">
+                    <subject xml:lang="de">Parksuchverkehr</subject>
+                </subject>
+                <subject id="4187817-6" type="gnd">
+                    <subject xml:lang="de">Verkehrsleitsystem</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

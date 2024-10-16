@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1777571936</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1777571936">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2021-11-16</databaseDate>
+            <changeDate>2023-08-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1777571936</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1777571936</identifier>
+                <identifier type="firstid">KXP:1777571936</identifier>
+                <identifier type="isbn13">9781032217604</identifier>
+                <identifier type="isbn13">9781032217673</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1777571936.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4129056239</identifier>
+                    <creationDate>2023-02-24</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 22 B 2176</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xiv, 194 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Passive intermodulation : concepts and technology</title>
+            <abstracts>
+                <abstract xml:lang="de">"Focusing on Passive Intermodulation (PIM), a common instance of distortion in high-power multi-channel communication systems, the book introduces the concepts and Technology of PIM. In the context of "space-ground-object" integrated communication and increasing spectrum resource constraints, the PIM problem is becoming increasingly prominent, while microwave components and system-level PIM are facing new challenges. Based on the experience and achievements in engineering practice of the China Academy of Space Technology in Xi'an, this title describes the basic theory, generation mechanism, analysis and evaluation methods, location detection and suppression techniques for microwave components of spacecraft PIM from a theoretical and engineering perspective. At the same time, the latest achievements of microwave components PIM are outlined in a certain technical depth, along with its operational guidance and paths for further advancement. The book will be a useful reference for researchers, engineering and students interested in microwave technology, satellite technology and mobile communication technology"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Cui, Wanzhao</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1281881228</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Li, Jun</contributor>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Wei, Huan</contributor>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Chen, Xiang</contributor>
+                </contributor>
+            </contributors>
+            <responsible>edited by Wanzhao Cui, Jun Li, Huan Wei, and Xiang Chen</responsible>
+            <publicationInfo>
+                <issued>2022</issued>
+                <edition>First edition</edition>
+                <publicationPlaces>
+                    <publicationPlace>Boca Raton</publicationPlace>
+                    <publicationPlace>London</publicationPlace>
+                    <publicationPlace>New York</publicationPlace>
+                    <publicationPlace>Beijing</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>CRC Press</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Space science, technology and application series</title>
+                </journalInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Space science, technology and application series</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>TK7867.2</code>
+                </classification>
+                <classification classificationID="106410334" classificationName="bk">
+                    <code>55.60</code>
+                    <entries>
+                        <entry>Raumfahrttechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>621.382/24</code>
+                </classification>
+                <classification classificationID="106415166" classificationName="bk">
+                    <code>53.82</code>
+                    <entries>
+                        <entry>Mikrowellentechnik, Höchstfrequenztechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4123765-1" type="gnd">
+                    <subject xml:lang="de">Mikrowellenbauelement</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Electric distortion</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Electromagnetic interference</subject>
+                </subject>
+                <subject id="4226314-1" type="gnd">
+                    <subject xml:lang="de">Mikrowellenübertragung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Signal integrity (Electronics)</subject>
+                </subject>
+                <subject id="4048579-1" type="gnd">
+                    <subject xml:lang="de">Raumfahrzeug</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Microwave communication systems</subject>
+                </subject>
+                <subject id="4162031-8" type="gnd">
+                    <subject xml:lang="de">Intermodulation</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

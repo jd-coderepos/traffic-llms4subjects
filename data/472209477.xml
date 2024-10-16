@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:472209477</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:472209477">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2004-11-17</databaseDate>
+            <changeDate>2024-04-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>472209477</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">472209477</identifier>
+                <identifier type="contract">10956540</identifier>
+                <identifier type="ean">9783540240389</identifier>
+                <identifier type="firstid">DNB:972650482</identifier>
+                <identifier type="isbn13">9783540240389</identifier>
+                <identifier type="isbn">3540240381</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://d-nb.info/972650482/04</location>
+                <location subtype="cover" type="url">https://swbplus.bsz-bw.de/bsz115234403cov.jpg</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">693355433</identifier>
+                    <creationDate>2010-04-29</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 10 B 2405</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1284870235</identifier>
+                    <creationDate>2011-12-27</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 10 B 2405 a</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-31</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">XVI, 348 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Ground vehicle dynamics</title>
+            <alternativeTitles>
+                <alternative>Fahrzeugdynamik &lt;engl.&gt;</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Vehicle-Guideway Systems and Modeling Approaches.- Models of Vehicles.- Models of Suspension and Guidance Systems.- Guideway Models.- Models of Vehicle - Guideway Systems.- Performans Criteria.- Computation Methods.- Longitudinal Motions.- Lateral Motions.- Vertical Motions</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Popp, Karl</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">115451862</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Schiehlen, Werner</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">12943132X</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Karl Popp and Werner Schiehlen. In cooperation with Matthias Kröger and Lars Panning</responsible>
+            <publicationInfo>
+                <issued>2010</issued>
+                <publicationPlaces>
+                    <publicationPlace>Berlin</publicationPlace>
+                    <publicationPlace>Heidelberg</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>S. VII: Revised English edition of the book Fahrzeugdynamik originally published in German back in 1993</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>25 cm</description>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausg. (SpringerLink)</label>
+                <title>Ground Vehicle Dynamics</title>
+                <identifier type="isbn13">9783540685531</identifier>
+                <identifier type="ppn">1649060750</identifier>
+            </related>
+            <related type="parallel">
+                <label>Online-Ausg. (MyiLibrary)</label>
+                <title>Ground vehicle dynamics</title>
+                <identifier type="ppn">1650396600</identifier>
+                <identifier type="isbn13">9783540685531</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.231</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4210</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="181570424" classificationName="bk">
+                    <code>55.24</code>
+                    <entries>
+                        <entry>Fahrzeugführung, Fahrtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4016278-3" type="gnd">
+                    <subject xml:lang="de">Fahrdynamik</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:570233135</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:570233135">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2008-06-24</databaseDate>
+            <changeDate>2024-04-21</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>570233135</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">570233135</identifier>
+                <identifier type="firstid">GBV:570233135</identifier>
+            </identifiers>
+            <locations>
+                <location mimetype="application/pdf" subtype="fulltext" type="url">https://edocs.tib.eu/files/e01dh08/570233135.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">879402288</identifier>
+                    <creationDate>2008-06-24</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>oa</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-89</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">Online-Ressource (367 S., 13,3 Mb)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Methoden der Verkehrssicherheitsforschung im Straßenwesen : Anwendungen und Erkenntnisse</title>
+            <abstracts>
+                <abstract xml:lang="de">Verkehrssicherheit, Verkehrssicherheitsforschung</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Bachmann, Carola</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Carola Bachmann</responsible>
+            <publicationInfo>
+                <issued>2008</issued>
+                <publicationPlaces>
+                    <publicationPlace>Hannover</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Technische Informationsbibliothek u. Universitätsbibliothek</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>[Veröffentlichungen des Instituts für Verkehrswirtschaft, Straßenwesen und Städtebau, Leibniz Universität Hannover</title>
+                    <volumeNumber>39]</volumeNumber>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Hannover, Univ., Habil.-Schr., 2006</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+                <publicationIDInfo>Parallel als Buch-Ausg. erschienen</publicationIDInfo>
+            </additionalDocumentInfo>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>[Veröffentlichungen des Instituts für Verkehrswirtschaft, Straßenwesen und Städtebau, Leibniz Universität Hannover</title>
+                <volumeNumber>39]</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="10642064X" classificationName="bk">
+                    <code>55.84</code>
+                    <entries>
+                        <entry>Straßenverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4155046-8" type="gnd">
+                    <subject xml:lang="de">Forschungsmethode</subject>
+                </subject>
+                <subject id="4062962-4" type="gnd">
+                    <subject xml:lang="de">Verkehrssicherheit</subject>
+                </subject>
+                <subject id="4011882-4" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Deutschland</subject>
+                </subject>
+                <subject id="4017894-8" type="gnd">
+                    <subject xml:lang="de">Forschung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">default</property>
+            <property name="displaySubscriberAccess">https://edocs.tib.eu/files/e01dh08/570233135.pdf</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

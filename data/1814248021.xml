@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1814248021</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1814248021">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2022-08-12</databaseDate>
+            <changeDate>2024-01-13</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1814248021</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1814248021</identifier>
+                <identifier type="firstid">KXP:1814248021</identifier>
+                <identifier type="isbn13">9789811912917</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1814248021.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">417878997X</identifier>
+                    <creationDate>2023-07-24</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 22 B 3671</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xii, 214 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Intelligent unmanned air vehicles communications for public safety networks</title>
+            <abstracts>
+                <abstract xml:lang="de">Intelligent Unmanned Air Vehicles for Public Safety Networks: Emerging Technologies and Research Directions -- UAV Placement and Resource Management in Public Safety Networks: An Overview -- 3D Unmanned Aerial Vehicle Placement for Public Safety Communications -- Power-Efficient UAV Placement in Relay Assisted Heterogeneous Public Safety Networks -- Location Prediction and Trajectory Optimization in Multi-UAV Application Missions -- UAV Trajectory Optimization and Choice for UAV Placement for Data Collection in Beyond 5G Networks -- Enhancing UAV-based Public Safety Networks with Reconfigurable Intelligent Surfaces -- UAVs Path Planning by Particle Swarm Optimization based on Visual-SLAM Algorithm -- UAV-assisted Cooperative Routing Scheme for Dense Vehicular Ad hoc Network.</abstract>
+                <abstract xml:lang="de">This book provides a comprehensive overview of the potential use cases and intelligent technologies, UAV layered architectures, research findings, experimental results, and standardization for intelligent UAV communications for public safety networks. This book will cover the conventional non-intelligent and intelligent solutions specifically targeting UAV communications for public safety networks. Moreover, reconfigurable intelligent surface (RIS) has recently attracted researchers and academician attention because its ability improves the propagation environment and enhances communication quality by intelligently reflecting the received signals. Leveraging intelligence into RIS-assisted UAV communications will meet the requirements of the intelligent, green, and sustainable 5G and beyond cellular networks, which makes it a potential candidate to overcome the inherent drawbacks of legacy wireless systems. The topics covered in this book will be of interest to both the professionals and students. 3D UAV placements schemes, trajectory design, interference management schemes, reinforcement learning solutions for more intelligent and trained solutions, joint UAV trajectory and RIS's passive beamforming design, and various other related topics of readers' interest are presented in detail.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Kaleem, Zeeshan</contributor>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Ahmad, Ishtiaq</contributor>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Duong, Trung Quang</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1207165654</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Zeeshan Kaleem, Ishtiaq Ahmad, Trung Quang Duong, editors</responsible>
+            <publicationInfo>
+                <issued>2022</issued>
+                <publicationPlaces>
+                    <publicationPlace>Singapore</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="SG" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Unmanned system technologies</title>
+                </journalInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Unmanned system technologies</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106417665" classificationName="bk">
+                    <code>53.74</code>
+                    <entries>
+                        <entry>Hochfrequenztechnik, Funktechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4127888-4" type="gnd">
+                    <subject xml:lang="de">Innere Sicherheit</subject>
+                </subject>
+                <subject id="4154756-1" type="gnd">
+                    <subject xml:lang="de">Flugkörper</subject>
+                </subject>
+                <subject id="4216130-7" type="gnd">
+                    <subject xml:lang="de">Funknetz</subject>
+                </subject>
+                <subject id="4031888-6" type="gnd">
+                    <subject xml:lang="de">Kommunikationstechnik</subject>
+                </subject>
+                <subject id="4332556-7" type="gnd">
+                    <subject xml:lang="de">Drohne (Flugkörper)</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

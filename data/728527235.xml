@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:728527235</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:728527235">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2012-10-24</databaseDate>
+            <changeDate>2024-04-22</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>728527235</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">728527235</identifier>
+                <identifier type="doi">10.1007/978-3-642-34738-2</identifier>
+                <identifier type="ean">9783642347375</identifier>
+                <identifier type="firstid">DNB:1026894492</identifier>
+                <identifier type="isbn">3642347371</identifier>
+                <identifier type="isbn13">9783642347375</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="description" type="url">http://deposit.d-nb.de/cgi-bin/dokserv?id=4162134&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</location>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/728527235.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1392385210</identifier>
+                    <creationDate>2014-04-16</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 13 B 4397</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-31</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">XIX, 344 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Advanced in-flight measurement techniques</title>
+            <abstracts>
+                <abstract xml:lang="de">The book presents a synopsis of the main results achieved during the 3 year EU-project 'Advanced Inflight Measurement Techniques (AIM)' which applied advanced image based measurement techniques to industrial flight testing. The book is intended to be not only an overview on the AIM activities but also a guide on the application of advanced optical measurement techniques for future flight testing. Furthermore it is a useful guide for engineers in the field of experimental methods and flight testing who face the challenge of a future requirement for the development of highly accurate non-intrusive in-flight measurement techniques."--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Boden, Fritz</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">130618241</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor>
+                    <contributor>Lawson, Nicholas</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Jentink, Henk W.</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Kompenhans, Jürgen</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Fritz Boden ... ed</responsible>
+            <publicationInfo>
+                <issued>2013</issued>
+                <publicationPlaces>
+                    <publicationPlace>Berlin</publicationPlace>
+                    <publicationPlace>Heidelberg [u.a.]</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Research topics in aerospace</title>
+                </journalInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>24 cm</description>
+            <description>Ill., graph. Darst</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>Advanced In-Flight Measurement Techniques</title>
+                <identifier type="ppn">1652146059</identifier>
+                <identifier type="isbn13">9783642347382</identifier>
+            </related>
+            <related type="parent">
+                <title>Research topics in aerospace</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.13453</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL671.7</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 7805</code>
+                </classification>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4148993-7" type="gnd">
+                    <subject xml:lang="de">Deformationsmessung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Airplanes</subject>
+                </subject>
+                <subject id="4060582-6" type="gnd">
+                    <subject xml:lang="de">Tragflügel</subject>
+                </subject>
+                <subject id="4286652-2" type="gnd">
+                    <subject xml:lang="de">Rotorblatt</subject>
+                </subject>
+                <subject id="4135029-7" type="gnd">
+                    <subject xml:lang="de">Propeller</subject>
+                </subject>
+                <subject id="4017672-1" type="gnd">
+                    <subject xml:lang="de">Flugzeug</subject>
+                </subject>
+                <subject id="4352769-3" type="gnd">
+                    <subject xml:lang="de">Flugerprobung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Helicopters</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

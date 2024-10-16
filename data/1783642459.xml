@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1783642459</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1783642459">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2021-12-28</databaseDate>
+            <changeDate>2023-03-11</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1783642459</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1783642459</identifier>
+                <identifier type="firstid">KXP:1783642459</identifier>
+                <identifier type="isbn13">9783030854232</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1783642459.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4027171446</identifier>
+                    <creationDate>2022-12-15</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 22 B 551</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XIV, 297 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>E-Mobility : a new era in automotive technology</title>
+            <abstracts>
+                <abstract xml:lang="de">The book provides easy interpretable explanations for the key technologies involved in Electric Vehicles and Hybrid Electric Vehicles. The authors discuss the various electrical machines, drives, and controls used in EV and HEV. The book provides a detailed coverage of Regenerative Braking Systems used in EV and HEV. The book also illustrates the battery technology and battery management systems in EV and HEV. This book is intended for academicians, researchers and industrialists. In addition, this book has the following features Discusses the various Economic and Environmental Impact of Electric and Hybrid Electric Vehicles Discusses the role of Artificial Intelligence in Electric / Hybrid Electric Vehicles Illustrates the concept of Vehicle to Grid Technology and the smart charging station infrastructure and issues involved in the same Elucidates the concept of Internet of Vehicles Presents the latest research and applications in alternate energy vehicles .</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Kathiresh, M.</contributor>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Kanagachidambaresan, G. R.</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1192998464</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Williamson, Sheldon S.</contributor>
+                </contributor>
+            </contributors>
+            <responsible>M. Kathiresh, G. R. Kanagachidambaresan, Sheldon S. Williamson, editors</responsible>
+            <publicationInfo>
+                <issued>2022</issued>
+                <publicationPlaces>
+                    <publicationPlace>Cham</publicationPlace>
+                    <publicationPlace>[Gent]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="CH" />
+                    <publicationCountry code="BE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>EAI/Springer innovations in communication and computing</title>
+                </journalInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>EAI/Springer innovations in communication and computing</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="1042006857" type="gnd">
+                    <subject xml:lang="de">Elektromobilität</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Internet of things.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Electronic circuits.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Computer engineering.</subject>
+                </subject>
+                <subject id="7524499-8" type="gnd">
+                    <subject xml:lang="de">Hybridfahrzeug</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Automotive engineering.</subject>
+                </subject>
+                <subject id="4151795-7" type="gnd">
+                    <subject xml:lang="de">Elektrofahrzeug</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Embedded computer systems.</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

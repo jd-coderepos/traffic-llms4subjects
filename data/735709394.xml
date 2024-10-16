@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:735709394</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:735709394">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2013-02-06</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>735709394</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">735709394</identifier>
+                <identifier type="ean">9783869030579</identifier>
+                <identifier type="firstid">DNB:1030438587</identifier>
+                <identifier type="isbn13">9783869030579</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="description" type="url">http://deposit.d-nb.de/cgi-bin/dokserv?id=4248259&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</location>
+                <location subtype="toc" type="url">http://d-nb.info/1030438587/04</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">137854806X</identifier>
+                    <creationDate>2013-07-05</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RT 2078(5),7</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">336 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Allgemeines Wohnmobil-Handbuch : die Anleitung für das wohnmobile Leben</title>
+            <alternativeTitles>
+                <alternative>Allgemeines Wohnmobil-Handbuch : der Ratgeber rings ums Wohnmobil</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Informationen und zahlreiche Adressen zu Kauf und Einrichtung eines Wohnmobils sowie Tipps und Hinweise zu Reisen und Urlaub</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Schulz, Reinhard</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">133009319</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Reinhard Schulz</responsible>
+            <publicationInfo>
+                <issued>2013</issued>
+                <edition>7. Aufl.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Mittelsdorf/Rhön</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Womo-Verl.</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Womo-Reihe</title>
+                    <volumeNumber>5</volumeNumber>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>217 mm x 115 mm, 500 g</description>
+            <description>zahlr. Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Womo-Reihe</title>
+                <volumeNumber>5</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc-dbn">
+                    <code>910</code>
+                </classification>
+                <classification classificationID="106414992" classificationName="bk">
+                    <code>55.21</code>
+                    <entries>
+                        <entry>Kraftfahrzeuge</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="106410717" classificationName="bk">
+                    <code>50.14</code>
+                    <entries>
+                        <entry>Technik in Beziehung zu anderen Gebieten</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>796</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>796.79</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4066762-5" type="gnd">
+                    <subject xml:lang="de">Wohnmobil</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Camping</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Wohnmobil</subject>
+                </subject>
+                <subject id="4009379-7" type="gnd">
+                    <subject xml:lang="de">Camping</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Ratgeber</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

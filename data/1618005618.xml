@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1618005618</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1618005618">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2009-02-19</databaseDate>
+            <changeDate>2024-05-09</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1618005618</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1618005618</identifier>
+                <identifier type="contract">12220311</identifier>
+                <identifier type="ean">9783540692027</identifier>
+                <identifier type="firstid">DNB:990586766</identifier>
+                <identifier type="isbn13">9783540692027</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="description" type="url">http://deposit.d-nb.de/cgi-bin/dokserv?id=3161017&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</location>
+                <location subtype="toc" type="url">http://d-nb.info/990586766/04</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">909839247</identifier>
+                    <creationDate>2008-12-12</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">L ver 855</location>
+                    <location type="tibShelfmark">T 08 B 8237</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-31</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">XXVI, 390 S., [12] Bl.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Rocket and spacecraft propulsion : principles, practice and new developments</title>
+            <abstracts>
+                <abstract xml:lang="de">"The revised edition of this practical, hands-on book discusses the range of launch vehicles in use today throughout the world, and includes the very latest details of some of the advanced propulsion systems currently being developed. The author covers the fundamentals of the subject, from the basic principles of rocket propulsion and vehicle dynamics through the theory and practice of liquid and solid propellant motors, to new and future developments."--BOOK JACKET</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Turner, Martin J. L.</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">121556190</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Martin J. L. Turner</responsible>
+            <publicationInfo>
+                <issued>2009</issued>
+                <edition>3. ed.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Chichester, UK</publicationPlace>
+                    <publicationPlace>Berlin</publicationPlace>
+                    <publicationPlace>Heidelberg</publicationPlace>
+                    <publicationPlace>New York, NY</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                    <publicationCountry code="US" />
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Praxis Publ.</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Springer-Praxis books in astronautical engineering</title>
+                </journalInfo>
+                <publicationIDInfo>Literaturverz. S. [383]</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>25 cm, 820 gr.</description>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausg.</label>
+                <title>Rocket and Spacecraft Propulsion</title>
+                <identifier type="ppn">1647586658</identifier>
+                <identifier type="isbn13">9783540692034</identifier>
+            </related>
+            <related type="parent">
+                <title>Springer-Praxis books in astronautical engineering</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>ZO 8150</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL782</code>
+                </classification>
+                <classification classificationID="106410601" classificationName="bk">
+                    <code>52.30</code>
+                    <entries>
+                        <entry>Strömungskraftmaschinen, Turbomaschinen</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="106410334" classificationName="bk">
+                    <code>55.60</code>
+                    <entries>
+                        <entry>Raumfahrttechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.134354</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>US 9500</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mas</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4176905-3" type="gnd">
+                    <subject xml:lang="de">Raketentriebwerk</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Rocketry</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Propulsion systems</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Space vehicles</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Delta launch vehicles</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

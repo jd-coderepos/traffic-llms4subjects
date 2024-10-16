@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:166887606X</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:166887606X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2019-07-09</databaseDate>
+            <changeDate>2021-11-06</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>166887606X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">166887606X</identifier>
+                <identifier type="firstid">KXP:166887606X</identifier>
+                <identifier type="isbn13">9781119508700</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/166887606x.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3523425301</identifier>
+                    <creationDate>2021-04-29</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 20 B 1259</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xxxvii, 623 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Design of unmanned aerial systems</title>
+            <abstracts>
+                <abstract xml:lang="de">"An Unmanned Aerial System (UAS) is a group of coordinated multidisciplinary elements for an aerial mission by employing various payloads in flying vehicle(s). In contrast, an Unmanned Aerial Vehicle (UAV) is a remotely piloted or self-piloted aircraft that can carry payloads such as camera, radar, sensor, and communications equipment. All flight operations (including takeoff and landing) are performed without on-board human pilot. In news and media reports, the expression "drone" - as a short term - is preferred"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Sadraey, Mohammad H.</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1027749941</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Dr. Mohammad H. Sadraey (Southern New Hampshire University, Manchester, NH, USA)</responsible>
+            <publicationInfo>
+                <issued>2020</issued>
+                <edition>First edition</edition>
+                <publicationPlaces>
+                    <publicationPlace>Hoboken, NJ</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Wiley</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Aerospace series</title>
+                </journalInfo>
+                <publicationIDInfo>Includes bibliographical references (page 601-608) and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Aerospace series</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL685.35</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.133/39</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4154756-1" type="gnd">
+                    <subject xml:lang="de">Flugkörper</subject>
+                </subject>
+                <subject id="4322103-8" type="gnd">
+                    <subject xml:lang="de">Unbemanntes Flugzeug</subject>
+                </subject>
+                <subject id="4011510-0" type="gnd">
+                    <subject xml:lang="de">Design</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Drone aircraft</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:376635967</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:376635967">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2004-01-11</databaseDate>
+            <changeDate>2024-04-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>376635967</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">376635967</identifier>
+                <identifier type="contract">01SF9928</identifier>
+                <identifier type="contract">01SF99289</identifier>
+                <identifier type="doi">10.2314/GBV:376635967</identifier>
+                <identifier type="firstid">GBV:376635967</identifier>
+            </identifiers>
+            <locations>
+                <location mimetype="application/pdf" subtype="fulltext" type="url">https://edocs.tib.eu/files/e01fb04/376635967.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">629734224</identifier>
+                    <creationDate>2004-01-11</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-89</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">Online-Ressource (53 p., 612 Kb.)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Analyse der Umweltauswirkungen bei der Herstellung, dem Einsatz und der Entsorgung von CFK- bzw. Aluminiumrumpfkomponenten : Schlussbericht ; Arbeitspaket AP 4100 ; Schwarzer Rumpf, Realisierung von CFK-Rumpfkomponenten unter Einbeziehung des Concurrent Engineering</title>
+            <alternativeTitles>
+                <alternative>Environmental Impact Analysis of manufacturing, use and fate of CFRP and Aluminium Fuselage Components for Commercial Airliners</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Life Cycle, material flow analysis, recycling, fuel consumption, maintenance</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Institut für Technikfolgenabschätzung und Systemanalyse</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2157398-0</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor>
+                    <contributor>Achternbosch, Matthias</contributor>
+                </contributor>
+            </contributors>
+            <responsible>[ITAS]. Matthias Achternbosch...</responsible>
+            <publicationInfo>
+                <issued>2002</issued>
+                <edition>[Elektronische Ressource]</edition>
+                <publicationPlaces>
+                    <publicationPlace>Karlsruhe</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Technische Informationsbibliothek u. Universitätsbibliothek</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-296-TTN</identifier>
+                </isPartOf>
+                <publicationIDInfo>Differences between the printed and electronic version of the document are possible. - Contract BMBF 01SF9928/9. - Engl. abstract under title: Environmental Impact Analysis of manufacturing, use and fate of CFRP and Aluminium Fuselage Components for Commercial Airliners</publicationIDInfo>
+                <publicationIDInfo>nIndex p. 3 - 4</publicationIDInfo>
+                <publicationIDInfo>Also available as printed version</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>ill., graphs</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-296-TTN</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106416782" classificationName="bk">
+                    <code>43.50</code>
+                    <entries>
+                        <entry>Umweltbelastungen</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106418831" classificationName="bk">
+                    <code>58.53</code>
+                    <entries>
+                        <entry>Abfallwirtschaft</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>cet</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4001575-0" type="gnd">
+                    <subject xml:lang="de">Aluminiumbauelement</subject>
+                </subject>
+                <subject id="4133113-8" type="gnd">
+                    <subject xml:lang="de">Energiebilanz</subject>
+                </subject>
+                <subject id="4164540-6" type="gnd">
+                    <subject xml:lang="de">Kohlenstofffaserverstärkter Kunststoff</subject>
+                </subject>
+                <subject id="4076573-8" type="gnd">
+                    <subject xml:lang="de">Recycling</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">default</property>
+            <property name="displaySubscriberAccess">https://edocs.tib.eu/files/e01fb04/376635967.pdf</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

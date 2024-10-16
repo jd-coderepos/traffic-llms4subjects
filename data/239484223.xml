@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:239484223</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:239484223">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1998-02-02</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>239484223</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">239484223</identifier>
+                <identifier type="firstid">GBV:239484223</identifier>
+                <identifier type="isbn">3860460307</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">276540832</identifier>
+                    <creationDate>1998-06-19</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">L ver 260</location>
+                    <location type="tibShelfmark">T 98 B 3286</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">336 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Die Güterwagen der DB AG : Zahlen, Fakten, Entwicklungen, Fotos ; 1994 - 1998</title>
+            <abstracts>
+                <abstract xml:lang="de">"Fas 126" oder "Lbs 589" sind nicht etwa neue Systematikstellen, sondern die Bezeichnung für 2 von mehreren hundert Güterwagen-Bauarten, die derzeit zum Bestand der DB AG gehören oder in den letzten 4 Jahren ausgemustert wurden. Carstens, Bauingenieur der DB AG, führt in kompakter Form alle Güterwagen auf. Wesentliche technische Daten werden jeweils tabellarisch aufgelistet, Besonderheiten in einem kurzen Text erläutert, Farbfotos zeigen die Wagen im Einsatz. Die übersichtliche Seitengestaltung wird durch grafische Gestaltungselemente unterstützt. Zusätzlich gibt es Erläuterungen zu Wagennummernbereichen. Bestandszahlen werden genannt und Aufschriften auf Waggons erklärt. Das hervorragende Lexikon ersetzt das "Taschenbuch Deutsche Güterwagen" von H. J. Obermayer (zuletzt BA 4/90); die beiden Bände von H. Behrends: "Güterwagen deutscher Eisenbahnen" (BA 9/90) können unter dem Gesichtspunkt "Bahngeschichte" weiterlaufen. Trotz des hohen Preises und der Angabe "Stand 1998" Grundbestandstitel. (1 A) (Günter Buhl)</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Carstens, Stefan</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Stefan Carstens</responsible>
+            <publicationInfo>
+                <issued>1998</issued>
+                <edition>Stand 1998</edition>
+                <publicationPlaces>
+                    <publicationPlace>Nürnberg</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>MIBA-Verl.</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>MIBA-Exclusiv-Buch</title>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>24 cm</description>
+            <description>zahlr. Ill</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>MIBA-Exclusiv-Buch</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="dbn">
+                    <code>41</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 5200</code>
+                </classification>
+                <classification classificationID="106420569" classificationName="bk">
+                    <code>55.31</code>
+                    <entries>
+                        <entry>Schienenfahrzeuge</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>36</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="3020305-3" subtype="corporate-body" type="gnd">
+                    <subject xml:lang="de">Deutsche Bahn AG</subject>
+                </subject>
+                <subject id="4022497-1" type="gnd">
+                    <subject xml:lang="de">Güterwagen</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

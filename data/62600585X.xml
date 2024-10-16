@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:62600585X</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:62600585X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2009-04-08</databaseDate>
+            <changeDate>2022-08-06</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>62600585X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">62600585X</identifier>
+                <identifier type="doi">10.1787/9789282103296-en</identifier>
+                <identifier type="firstid">HBZ:HF000002589</identifier>
+                <identifier type="isbn13">9789282103296</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://doi.org/10.1787/9789282103296-en</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1445273322</identifier>
+                    <recallSign>OLR-OECD</recallSign>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2013-11-13</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online-Ressource (94 p.)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Implementing Sustainable Urban Travel Policies: Moving Ahead : National Policies to Promote Cycling</title>
+            <abstracts>
+                <abstract xml:lang="de">National Policies to Promote Cycling brings together the experience of 21 countries and 7 municipalities in developing and implementing policies and measures to promote cycling as a means of travel. Based on the findings of the study, a Declaration on National Cycling Policies for Sustainable Urban Travel was agreed by ECMT Ministers at their 2004 Ljubljana Council. With this Declaration, Ministers recognised for the first time the importance of a national policy and institutional framework for promoting cycling.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>OECD</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">5157-3</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+                <corporateCreator>
+                    <name>European Conference of Ministers of Transport</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2009614-8</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <responsible>European Conference of Ministers of Transport</responsible>
+            <publicationInfo>
+                <issued>2004</issued>
+                <publicationPlaces>
+                    <publicationPlace>Paris</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="FR" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>OECD Publishing and European Conference of Ministers of Transport</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-13-SOC</identifier>
+                    <identifier type="collectioncode">ZDB-13-SOC-ebook</identifier>
+                </isPartOf>
+            </additionalDocumentInfo>
+            <description>Campusweiter Zugriff (Universität Hannover) - Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Keine Weitergabe an Dritte. Kein systematisches Downloaden durch Robots.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-13-SOC</identifier>
+                <identifier type="collectioncode">ZDB-13-SOC-ebook</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="linsearch" classificationProcedure="lexicon">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4056783-7" type="gnd">
+                    <subject xml:lang="de">Stadtverkehr</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Transport</subject>
+                </subject>
+                <subject id="4076473-4" type="gnd">
+                    <subject xml:lang="de">Radfahrerverkehr</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://doi.org/10.1787/9789282103296-en</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

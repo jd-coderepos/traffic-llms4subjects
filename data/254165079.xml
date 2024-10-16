@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:254165079</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:254165079">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1999-02-04</databaseDate>
+            <changeDate>2024-04-18</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>254165079</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">254165079</identifier>
+                <identifier type="contract">50ST9502</identifier>
+                <identifier type="firstid">GBV:254165079</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="miscellaneous" type="url">https://edocs.tib.eu/files/e001/254165079l.pdf</location>
+                <location mimetype="application/pdf" subtype="fulltext" type="url">https://edocs.tib.eu/files/e001/254165079.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">319275221</identifier>
+                    <creationDate>1999-02-04</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-89</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">54 p. = 1337 kB, text and images</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Deutsche Position zu den globalen Space Debris-Vermeidungsstrategien : Endbericht zum Vorhaben 50 ST9502</title>
+            <abstracts>
+                <abstract xml:lang="de">Space debris, constellations, iridium, teledesic, big-LEOSs, GEO, graveyard-orbid, sources, Al2O3, SRM, slag, NaK, RORSAT, models, MASTER, ORDEM96, IDES</abstract>
+            </abstracts>
+            <contributors>
+                <contributor>
+                    <contributor>Wegener, Peter</contributor>
+                </contributor>
+            </contributors>
+            <responsible>[Autor: Wegener, Peter]</responsible>
+            <publicationInfo>
+                <issued>1999</issued>
+                <edition>[Electronic ed.]</edition>
+                <publicationPlaces>
+                    <publicationPlace>Braunschweig</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Techn. Univ., Inst. für Flugmechanik und Raumfahrttechnik</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-296-TTN</identifier>
+                </isPartOf>
+                <publicationIDInfo>Differences between the printed and electronic version of the document are possible. - Attachment 2 and 3 not included</publicationIDInfo>
+            </additionalDocumentInfo>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-296-TTN</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106410334" classificationName="bk">
+                    <code>55.60</code>
+                    <entries>
+                        <entry>Raumfahrttechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4322449-0" type="gnd">
+                    <subject xml:lang="de">Weltraummüll</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">default</property>
+            <property name="displaySubscriberAccess">https://edocs.tib.eu/files/e001/254165079.pdf</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

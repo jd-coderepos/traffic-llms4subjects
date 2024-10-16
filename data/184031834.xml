@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:184031834</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:184031834">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1995-04-28</databaseDate>
+            <changeDate>2024-04-18</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>184031834</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">184031834</identifier>
+                <identifier type="firstid">GBV:184031834</identifier>
+                <identifier type="isbn">3613016494</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">151428190</identifier>
+                    <creationDate>1995-06-29</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">T 95 B 5495</location>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-24</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">254 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Internationale Flughäfen Europas : Pläne - Daten - Fakten</title>
+            <abstracts>
+                <abstract xml:lang="de">Am Beispiel des Flughafens Frankfurt/Main beschreibt der bekannte Fachbuchautor (BA 11/93 und 10/94) die ganze Organisation und den technischen Aufwand eines Großflughafens. Diesem Einführungskapitel folgen 62 alphabetisch geordnete Flughafenporträts; jeweils mit Lageplan, Anflugkarte, technischen und statistischen Daten, touristischen Tips sowie weiteren Informationen. Besondere Berücksichtigung finden die Flughäfen der europäischen Tourismuszentren. Nicht aufgeführt sind leider die Flughäfen europäischer GUS-Staaten. Zusammen mit dem umfassenden Anhang - Anschriften der Flughäfen und europäischen Luftfahrtgesellschaften; Abkürzungen und Fachbegriffe - bietet das Handbuch Piloten, aber auch Flugreisenden und Luftfahrtinteressierten eine Fülle spezieller Informationen. (2) (Gisela Jonas)</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Bachmann, Peter</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">118003402</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Peter Bachmann</responsible>
+            <publicationInfo>
+                <issued>1995</issued>
+                <edition>1. Aufl.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Stuttgart</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Motorbuch-Verl.</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>25 cm</description>
+            <description>zahlr. Ill., graph. Darst</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106410660" classificationName="bk">
+                    <code>55.88</code>
+                    <entries>
+                        <entry>Luftverkehr, Raumfahrt</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>41</code>
+                </classification>
+                <classification classificationID="121826120" classificationName="bk">
+                    <code>56.83</code>
+                    <entries>
+                        <entry>Industriebau</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 7100</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>45</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>41</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>arc</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4154752-4" type="gnd">
+                    <subject xml:lang="de">Flughafen</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Europa</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Flughafen</subject>
+                </subject>
+                <subject id="4015701-5" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Europa</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

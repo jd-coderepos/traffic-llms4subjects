@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:598985115</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:598985115">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2009-04-30</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>598985115</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">598985115</identifier>
+                <identifier type="firstid">HBZ:HT015909018</identifier>
+                <identifier type="isbn13">9780470100158</identifier>
+                <identifier type="isbn">047010015X</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/bowker/toc/9780470100158.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">937401978</identifier>
+                    <creationDate>2010-06-23</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 10 B 321</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XVII, 286 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Injury biomechanics and control : optimal protection from impact</title>
+            <abstracts>
+                <abstract xml:lang="de">Fundamentals of impact and shock isolation -- Basic optimal shock isolation : single-degree-of-freedom systems -- Optimal shock isolation for multi-degree-of-freedom systems -- Spinal injury control -- Thoracic injury control -- Head injury control -- Injury control for wheelchair occupants</abstract>
+            </abstracts>
+            <contributors>
+                <contributor>
+                    <contributor>Pilkey, Walter D.</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">138888140</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Walter D. Pilkey ...</responsible>
+            <publicationInfo>
+                <issued>2009</issued>
+                <publicationPlaces>
+                    <publicationPlace>Hoboken, NJ</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Wiley</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>graph. Darst.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>ZO 4260</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>T55</code>
+                </classification>
+                <classification classificationID="181571900" classificationName="bk">
+                    <code>76.12</code>
+                    <entries>
+                        <entry>Biomechanik, Bewegungslehre</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>620.8/6</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>spo</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Human mechanics</subject>
+                </subject>
+                <subject id="4057757-0" type="gnd">
+                    <subject xml:lang="de">Stoßbeanspruchung</subject>
+                </subject>
+                <subject id="4006880-8" type="gnd">
+                    <subject xml:lang="de">Biomechanik</subject>
+                </subject>
+                <subject id="4214157-6" type="gnd">
+                    <subject xml:lang="de">Passive Sicherheit</subject>
+                </subject>
+                <subject id="4124397-3" type="gnd">
+                    <subject xml:lang="de">Verletzung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Industrial safety</subject>
+                </subject>
+                <subject id="4073757-3" type="gnd">
+                    <subject xml:lang="de">Kraftfahrzeug</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Shock absorbers</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

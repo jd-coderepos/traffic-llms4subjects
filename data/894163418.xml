@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:894163418</identifier><datestamp>2024-06-14</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:894163418">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2017-07-24</databaseDate>
+            <changeDate>2019-12-11</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>894163418</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">894163418</identifier>
+                <identifier type="firstid">GBV:894163418</identifier>
+                <identifier type="isbn13">9783319606026</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/894163418.pdf</location>
+                <location subtype="miscellaneous" type="url">http://www.springer.com/de/book/9783319606026#otherversion=9783319606033</location>
+                <location subtype="miscellaneous" type="url">http://vub.de/cover/data/isbn:9783319606026/medium/true/de/vub/cover.jpg</location>
+                <location subtype="miscellaneous" type="url">http://vub.de/cover/data/isbn%3A9783319606026/medium/true/de/vub/cover.jpg</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1703397126</identifier>
+                    <creationDate>2017-07-24</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RS 3333(119)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xii, 114 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Mapping, planning and exploration with Pose SLAM</title>
+            <abstracts>
+                <abstract xml:lang="de">This monograph introduces a unifying framework for mapping, planning and exploration with mobile robots considering uncertainty, linking such problems with a common SLAM approach, adopting Pose SLAM as the basic state estimation machinery. Pose SLAM is the variant of SLAM where only the robot trajectory is estimated and where landmarks are used to produce relative motion measurements between robot poses. With regards to extending the original Pose SLAM formulation, this monograph covers the study of such measurements when they are obtained with stereo cameras, develops the appropriate noise propagation models for such case, extends the Pose SLAM formulation to SE(3), introduces information-theoretic loop closure tests, and presents a technique to compute traversability maps from the 3D volumetric maps obtained with Pose SLAM. A relevant topic covered in this monograph is the introduction of a novel path planning approach that exploits the modeled uncertainties in Pose SLAM to search for the path in the pose graph that allows the robot to navigate to a given goal with the least probability of becoming lost. Another relevant topic is the introduction of an autonomous exploration method that selects the appropriate actions to drive the robot so as to maximize coverage, while minimizing localization and map uncertainties. This monograph is appropriate for readers interested in an information-theoretic unified perspective to the SLAM, path planning and exploration problems, and is a reference book for people who work in mobile robotics research in general.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Valencia, Rafael</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Andrade-Cetto, Juan</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Rafael Valencia, Juan Andrade-Cetto</responsible>
+            <publicationInfo>
+                <issued>2017</issued>
+                <publicationPlaces>
+                    <publicationPlace>Cham</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="CH" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-vub-HSOS-PDA</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>Springer tracts in advanced robotics</title>
+                    <volumeNumber>119</volumeNumber>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>23 cm</description>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-vub-HSOS-PDA</identifier>
+            </related>
+            <related type="parent">
+                <title>Springer tracts in advanced robotics</title>
+                <volumeNumber>119</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.892</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="7842968-7" type="gnd">
+                    <subject xml:lang="de">SLAM-Verfahren</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Artificial intelligence</subject>
+                </subject>
+                <subject id="4191911-7" type="gnd">
+                    <subject xml:lang="de">Mobiler Roboter</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Automation</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Engineering</subject>
+                </subject>
+                <subject id="4304075-5" type="gnd">
+                    <subject xml:lang="de">Autonomer Roboter</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Robotics</subject>
+                </subject>
+                <subject id="7569134-6" type="gnd">
+                    <subject xml:lang="de">Lokalisierung (Robotik)</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:73058982X</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:73058982X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2012-11-28</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>73058982X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">73058982X</identifier>
+                <identifier type="firstid">GBV:73058982X</identifier>
+                <identifier type="isbn13">9781600868979</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/bowker/toc/9781600868979.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1477334351</identifier>
+                    <creationDate>2014-06-12</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">Z 1279(241)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XVII, 489 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Advances in intelligent and autonomous aerospace systems</title>
+            <abstracts>
+                <abstract xml:lang="de">pt. 1. Intelligent flight control. Towards bio-inspired robotic aircraft: control experiments on flapping and gliding flight / Michael Dorothy, Aditya A. Paranjape, P. Daniel Kuang and Soon-Jo Chung -- Neural network-based optimal control of an unmanned helicopter / David Nodland ... [et al.] -- Intelligent constrained optimal control of aerospace vehicles with model uncertainties / Jie Ding and S.N. Balakrishnan -- Modified reference model MRAC (M-MRAC): an application to a generic transport aircraft / Vahram Stepanyan and Kalmanje Krishnakumar -- L1 adaptive control in flight / Enric Xargay ... [et al.] -- pt. 2. Intelligent propulsion and health management.  Integrated systems health management for intelligent systems / Fernando Figueroa and Kevin Melcher -- Intelligent propulsion control and health management / Sanjay Garg -- Genetic fuzzy controller for a gas-turbine fuel system / Andrew Vick and Kelly Cohen -- pt. 3. Intelligent planning and multi-agent systems. Multiresolution state-space discretization method for Q-learning for one or more regions of interest / Amanda Lampton and John Valasek -- Motion planning under uncertainty / Ali-Akbar Agha-Mohammadi, Sandip Kumar and Suman Chakravorty -- Protocol utilization in intelligent systems to facilitate exploration missions / M. Lyell ... [et al.] -- Framework for user-guided search and adaptive target tracking via cooperative UAVs -- R.A. Cortez ... [et al.]</abstract>
+            </abstracts>
+            <contributors>
+                <contributor>
+                    <contributor>Valasek, John</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Ed. by John Valasek</responsible>
+            <publicationInfo>
+                <issued>2012</issued>
+                <publicationPlaces>
+                    <publicationPlace>Reston, Va</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Amer. Inst. of Aeronautics and Astronautics</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Progress in astronautics and aeronautics</title>
+                    <volumeNumber>241</volumeNumber>
+                </journalInfo>
+            </additionalDocumentInfo>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Progress in astronautics and aeronautics</title>
+                <volumeNumber>241</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106410660" classificationName="bk">
+                    <code>55.88</code>
+                    <entries>
+                        <entry>Luftverkehr, Raumfahrt</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ssg">
+                    <code>16,12</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL565</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 7440</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4143713-5" type="gnd">
+                    <subject xml:lang="de">Autonomes System</subject>
+                </subject>
+                <subject id="4033447-8" type="gnd">
+                    <subject xml:lang="de">Künstliche Intelligenz</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Aerospace engineering</subject>
+                </subject>
+                <subject id="4154756-1" type="gnd">
+                    <subject xml:lang="de">Flugkörper</subject>
+                </subject>
+                <subject id="4177066-3" type="gnd">
+                    <subject xml:lang="de">Raumflugkörper</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Intelligent control systems</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

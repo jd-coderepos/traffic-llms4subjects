@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:334077567</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:334077567">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1995-01-04</databaseDate>
+            <changeDate>2024-06-01</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>334077567</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">334077567</identifier>
+                <identifier type="firstid">GBV:334077567</identifier>
+            </identifiers>
+            <locations>
+                <location type="library">89</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">389185639</identifier>
+                    <creationDate>1995-10-17</creationDate>
+                    <selectionKey>zce</selectionKey>
+                    <location type="libraryDepartment">15</location>
+                    <location type="tibLocationCode">FBE</location>
+                    <location type="tibShelfmark">87-1716</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-35</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">239 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Hermann Oberth : Vorkämpfer der Weltraumfahrt</title>
+            <abstracts>
+                <abstract xml:lang="de">das Werk des Siebenbürger Professors (geb. 1894), des "Vaters der Weltraumfahrt".</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Hartl, Hans</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Hans Hartl</responsible>
+            <publicationInfo>
+                <issued>1958</issued>
+                <publicationPlaces>
+                    <publicationPlace>Hannover</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Oppermann</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>mit Abb., 11 Bl. Abb., 1 Titelbild</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>700</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>18a</code>
+                </classification>
+                <classification classificationID="106420607" classificationName="bk">
+                    <code>55.61</code>
+                    <entries>
+                        <entry>Raumfahrzeuge</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>20a</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL781.85.O3</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Technik * Weltraum * Oberth * Biographie</subject>
+                </subject>
+                <subject id="118589229" subtype="person" type="gnd">
+                    <subject xml:lang="de">Oberth, Hermann 1894-1989</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Oberth, Hermann</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

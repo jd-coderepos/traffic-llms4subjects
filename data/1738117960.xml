@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1738117960</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1738117960">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2020-11-09</databaseDate>
+            <changeDate>2023-01-09</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1738117960</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1738117960</identifier>
+                <identifier type="doi">10.15480/882.3055</identifier>
+                <identifier type="firstid">KXP:1738117960</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="license" type="url">https://creativecommons.org/licenses/by/4.0/</location>
+                <location subtype="fulltext" type="url">http://nbn-resolving.de/urn:nbn:de:gbv:830-882.0111874</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3835875116</identifier>
+                    <creationDate>2021-01-14</creationDate>
+                    <selectionKey>zdt</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (xviii, 164 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Data-driven techniques for the nonlinear dynamics of mechanical structures</title>
+            <abstracts>
+                <abstract xml:lang="de">Trotz vielfältiger Fortschritte im Bereich der System-Identifikation stellen komplexe Schwingungen von multi-physikalischen, multi-skaligen und gefügten mechanischen Systemen auch heute noch Herausforderungen für die numerische Simulation dar. Insbesondere Dämpfungs- und Reibungseffekte sind aufgrund ihrer Unzugänglichkeit für Messungen und ihrer Variabilität der Grund für unzureichende Modellierungsansätze. Gleichzeitig stehen heutzutage die datengetriebene Modellierung und die Datenwissenschaften immer mehr im Fokus von Wissenschaft und Gesellschaft. Diese Thesis präsentiert neue Ansätze für die Anwendung von datengetriebenen Verfahren in der mechanischen Strukturdynamik. Die Potentiale und Limitierungen solcher Methoden werden anhand von Anwendungsstudien diskutiert.Diese Studien erstrecken sich von Ein-Freiheitsgrad-Schwingern bis hin zu komplexen Bremssystemen von Automobilen. Insbesondere stehen die physikalische Konformität der erlernten Modelle sowie deren schwingungstechnische Interpretation im Fokus dieser Arbeit.</abstract>
+                <abstract xml:lang="de">In structural vibrations, several modeling approaches have helped to develop better, i.e. safer, less-vibrating, and more controllable designs for machines and structures. However, complex nonlinear vibrations of multi-physics, multi-component, and multi-scale systems still represent challenges to today’s identification and vibration prediction approaches. Particularly, damping and friction can play a crucial role for vibration mitigation while being inherently difficult to characterize, quantify, or even approximate. At the same time, the data sciences have become omnipresent not only in different fields of science but also in society. This thesis introduces a rigorous framework and discusses chances and limitations for using machine learning in complex structural dynamics. Special focus is put on the physical peculiarities of the vibration signals and physics-informed learning. In the context of case studies, new methodologies are presented for several systems ranging from single-degree-of-freedom oscillators to complete automotive disk brake systems.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="degree-granting-institution">
+                    <type>degree-granting-institution</type>
+                    <name>Technische Universität Hamburg</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">1112763473</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+                <corporateCreator>
+                    <name>Technische Universität Hamburg, Dynamics Group</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">1171231121</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Stender, Merten</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1176156292</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Hoffmann, Norbert</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">113319978X</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Wagner, Utz</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">124836682</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>von Merten Stender ; Gutachter: Prof. Dr. rer. nat. habil. Norbert Hoffmann, Prof. Dr.-Ing. Utz von Wagner</responsible>
+            <publicationInfo>
+                <issued>2020</issued>
+                <publicationPlaces>
+                    <publicationPlace>Hamburg</publicationPlace>
+                </publicationPlaces>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2020</dateAccepted>
+                        <description>Dissertation, Technische Universität Hamburg</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+                <publicationIDInfo>Sonstige Körperschaft: Technische Universität Hamburg, Dynamics Group</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Data-driven techniques for the nonlinear dynamics of mechanical structures</title>
+                <identifier type="ppn">1741451183</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.24</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>620: Ingenieurwissenschaften</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Vibrations</subject>
+                </subject>
+                <subject id="4053999-4" type="gnd">
+                    <subject xml:lang="de">Schwingung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Nonlinear dynamics</subject>
+                </subject>
+                <subject id="4180569-0" type="gnd">
+                    <subject xml:lang="de">Schwingungsverhalten</subject>
+                </subject>
+                <subject id="4226174-0" type="gnd">
+                    <subject xml:lang="de">Strukturdynamik</subject>
+                </subject>
+                <subject id="4126141-0" type="gnd">
+                    <subject xml:lang="de">Nichtlineare Dynamik</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Friction-induced vibrations</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Signal processing</subject>
+                </subject>
+                <subject id="4148259-1" type="gnd">
+                    <subject xml:lang="de">Computersimulation</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Data Science</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Chaos</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://nbn-resolving.de/urn:nbn:de:gbv:830-882.0111874</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

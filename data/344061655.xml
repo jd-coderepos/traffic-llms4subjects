@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:344061655</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:344061655">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2002-03-19</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>344061655</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">344061655</identifier>
+                <identifier type="firstid">GBV:344061655</identifier>
+                <identifier type="isbn">3897571307</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">558188028</identifier>
+                    <creationDate>2002-07-16</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">T 02 B 3094</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">80 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Feuer, Wasser, Dampf : über den Dampfantrieb auf Seeschiffen</title>
+            <abstracts>
+                <abstract xml:lang="de">Der Autor ist Shiplover und ehemaliger Heizer auf dem noch fahrenden Museumsdampfeisbrecher "Stettin". Er erklärt laienverständlich und mit Erlebnissen von Fahrensleuten gewürzt die Funktionsweise von Kessel, Kolbendampfmaschine, Dampfturbine und schildert die harte Arbeit im Kessel- und Machinenraum. Anhand des Zerstörers "Lütjens" der Bundesmarine wird eine Hochdruck-Heißdampfanlage erklärt. Sachlich korrekt, leicht fasslich aber nicht bierernst wird eine Antriebstechnik, die Vergangenheit ist aber nicht in Vergessenheit geraten sollte, beschrieben. Zusammenhänge werden klar, warum ein Schiff mit Kohle oder Öl und Wasser fährt. Gute Abrundung zum Ersteinstieg "Dampfschiffe" (BA 11/01). (2) (Martin Paulini)</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Gottschalk, Friedrich</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Friedrich Gottschalk</responsible>
+            <publicationInfo>
+                <issued>2002</issued>
+                <publicationPlaces>
+                    <publicationPlace>Bremen</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Hauschild</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>23 cm</description>
+            <description>Ill., graph. Darst</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106413805" classificationName="bk">
+                    <code>55.41</code>
+                    <entries>
+                        <entry>Schiffe</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>36</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4020517-4" type="gnd">
+                    <subject xml:lang="de">Geschichte</subject>
+                </subject>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte</subject>
+                </subject>
+                <subject id="4054181-2" type="gnd">
+                    <subject xml:lang="de">Seeschiff</subject>
+                </subject>
+                <subject id="4010996-3" type="gnd">
+                    <subject xml:lang="de">Dampfschiff</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

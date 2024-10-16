@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:232214727</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:232214727">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1997-08-15</databaseDate>
+            <changeDate>2022-05-03</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>232214727</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">232214727</identifier>
+                <identifier type="firstid">GBV:232214727</identifier>
+                <identifier type="isbn">3770016041</identifier>
+            </identifiers>
+            <locations>
+                <location type="library">89</location>
+                <location subtype="toc" type="url">https://external.dandelon.com/download/attachments/dandelon/ids/DE022A2032AF2FFFF75AFC1257B6B00343F48.pdf</location>
+                <location subtype="miscellaneous" type="url">http://hsozkult.geschichte.hu-berlin.de/rezensionen/type=rezbuecher&amp;id=127</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">303255323</identifier>
+                    <creationDate>1999-02-18</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RB 798(50)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">314483055</identifier>
+                    <creationDate>1998-12-17</creationDate>
+                    <selectionKey>zsg</selectionKey>
+                    <location type="libraryDepartment">19</location>
+                    <location type="tibLocationCode">FBSBB</location>
+                    <location type="tibShelfmark">Hist 6867/130</location>
+                    <loanIndicator>i</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">IX, 976 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Flugzeugindustrie und Luftrüstung in Deutschland 1918 - 1945</title>
+            <abstracts>
+                <abstract xml:lang="de">Betr. auch Junkers-Flugzeug- u. Motorenwerke mit Stammwerk Dessau, sowie die Werke Aschersleben, Bernburg, Halberstadt, Leopoldshall u. d. Junkers-Motorenwerke mit Stammwerk Dessau u. d. Werke Köthen, Magdeburg, Schönebeck</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Budraß, Lutz</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">12065444X</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Lutz Budraß</responsible>
+            <publicationInfo>
+                <issued>1998</issued>
+                <publicationPlaces>
+                    <publicationPlace>Boppard am Rhein</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Boldt</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Schriften des Bundesarchivs</title>
+                    <volumeNumber>50</volumeNumber>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Teilw. zugl.: Bochum, Univ., Diss., 1995</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>25 cm</description>
+            <description>Ill., graph. Darst</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Schriften des Bundesarchivs</title>
+                <volumeNumber>50</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>HD9711.G32</code>
+                </classification>
+                <classification classificationID="106418068" classificationName="bk">
+                    <code>83.67</code>
+                    <entries>
+                        <entry>Produzierendes Gewerbe</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106423533" classificationName="bk">
+                    <code>89.87</code>
+                    <entries>
+                        <entry>Waffen, Kampfmittel</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>65</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>sow</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>oek</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="stw">
+                    <subject xml:lang="de">Luftfahrtindustrie</subject>
+                </subject>
+                <subject id="4178671-3" type="gnd">
+                    <subject xml:lang="de">Rüstungspolitik</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Rüstungspolitik</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Aircraft industry</subject>
+                </subject>
+                <subject id="4048576-6" type="gnd">
+                    <subject xml:lang="de">Luft- und Raumfahrtindustrie</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Deutschland (bis 1945)</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Airplanes, Military</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Militärluftfahrzeug</subject>
+                </subject>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte 1918-1945</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Kriegswirtschaft</subject>
+                </subject>
+                <subject id="4011882-4" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Deutschland</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Rüstungsindustrie</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

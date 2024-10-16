@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:181080485X</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:181080485X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2022-07-19</databaseDate>
+            <changeDate>2023-03-22</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>181080485X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">181080485X</identifier>
+                <identifier type="firstid">KXP:181080485X</identifier>
+                <identifier type="isbn13">9789811667145</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/181080485X.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4169955765</identifier>
+                    <creationDate>2023-02-08</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 22 B 3482</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xv, 519 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Theory to countermeasures against new radars</title>
+            <abstracts>
+                <abstract xml:lang="de">Development of radar and radar countermeasures -- Countermeasure technology of synthetic aperture radar -- Jamming pulse compression radar -- Jamming pulse doppler radar -- Uniform equation of radar jamming and jammer -- Configuration analysis of radar jammer and protected target.-Jamming of bistatic radar -- Broadband antenna technology -- Jamming of phased array radar -- New concepts and technologies of electronic warfare.</abstract>
+                <abstract xml:lang="de">This book introduces readers to a range of jamming principles and techniques for new radars, combining a wealth of theoretical analyses, test data, calculations, and charts. With rapid advances in military radar technology, new types of radar are constantly emerging. Therefore, there is an urgent need to carry out effective research on these new radars and to develop corresponding jamming techniques. The main topics covered include development of radar and radar countermeasures; jamming techniques for synthetic aperture radar; jamming techniques for pulse compression radar; jamming techniques for pulse Doppler radar; general jamming techniques for various radars; analysis and calculation of the effective jamming suppression zone and jamming exposure zone for radars installed on different platforms; jamming techniques for phased array radar; jamming techniques for dual (multiple) static radar; and solutions for high equivalent radiation power, high reception sensitivity, and transceiver isolation in jammer design.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Zhang, Xixiang</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Xiao, Kaiqi</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Gu, Jie</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Xixiang Zhang, Kaiqi Xiao, Jie Gu</responsible>
+            <publicationInfo>
+                <issued>2022</issued>
+                <publicationPlaces>
+                    <publicationPlace>Singapore</publicationPlace>
+                    <publicationPlace>Beijing</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="SG" />
+                    <publicationCountry code="CN" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustraionen, Diagramme</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106415182" classificationName="bk">
+                    <code>53.84</code>
+                    <entries>
+                        <entry>Ortungstechnik, Radartechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4176765-2" type="gnd">
+                    <subject xml:lang="de">Radar</subject>
+                </subject>
+                <subject id="4273774-6" type="gnd">
+                    <subject xml:lang="de">Störsender</subject>
+                </subject>
+                <subject id="1082384615" type="gnd">
+                    <subject xml:lang="de">Elektronische Gegenmaßnahme</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

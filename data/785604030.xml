@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:785604030</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:785604030">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2014-05-14</databaseDate>
+            <changeDate>2022-07-17</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>785604030</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">785604030</identifier>
+                <identifier type="firstid">GBV:785604030</identifier>
+                <identifier type="isbn13">9781250039439</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/bowker/toc/9781250039439.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1494777940</identifier>
+                    <creationDate>2015-10-30</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 14 B 6114</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">viii, 291 p.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Final frontier : the pioneering science and technology of exploring the universe</title>
+            <abstracts>
+                <abstract xml:lang="de">"In Final Frontier we discover the massive challenges that face explorers, both human and robotic, to uncover the current and future technologies that could take us out into the galaxy and on a voyage of discovery where no one has gone before... though one day someone will."--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Clegg, Brian</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">122558405</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Brian Clegg</responsible>
+            <publicationInfo>
+                <issued>2014</issued>
+                <edition>1st ed.</edition>
+                <publicationPlaces>
+                    <publicationPlace>New York</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>St. Martin's Press</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>22 cm</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc-dbn">
+                    <code>SCI003000</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.4</code>
+                </classification>
+                <classification classificationID="181570483" classificationName="bk">
+                    <code>50.93</code>
+                    <entries>
+                        <entry>Weltraumforschung</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106410334" classificationName="bk">
+                    <code>55.60</code>
+                    <entries>
+                        <entry>Raumfahrttechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>SCI005000</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL793</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Interplanetary voyages</subject>
+                </subject>
+                <subject id="4117629-7" type="gnd">
+                    <subject xml:lang="de">Weltraumforschung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Astronautics</subject>
+                </subject>
+                <subject id="4144455-3" type="gnd">
+                    <subject xml:lang="de">Bemannte Raumfahrt</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Outer space</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

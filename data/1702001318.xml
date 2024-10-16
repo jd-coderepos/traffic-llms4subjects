@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1702001318</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1702001318">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2020-06-24</databaseDate>
+            <changeDate>2024-05-12</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>1702001318</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1702001318</identifier>
+                <identifier type="firstid">KXP:1702001318</identifier>
+                <identifier type="isbn13">9780262542029</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1702001318.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3851025245</identifier>
+                    <creationDate>2022-03-11</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 21 B 830</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xviii, 464 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Cycling for sustainable cities</title>
+            <abstracts>
+                <abstract xml:lang="de">"A guide to all things cycling: present and future, local and global"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Buehler, Ralph</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1075813182</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Pucher, John R.</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">14063648X</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>edited by Ralph Buehler and John Pucher</responsible>
+            <publicationInfo>
+                <issued>2021</issued>
+                <publicationPlaces>
+                    <publicationPlace>Cambridge, Massachusetts</publicationPlace>
+                    <publicationPlace>London, England</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>The MIT Press</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Urban and industrial environments</title>
+                </journalInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>Cycling for sustainable cities</title>
+                <identifier type="ppn">178625476X</identifier>
+                <identifier type="isbn">0262362929</identifier>
+                <identifier type="isbn13">9780262362924</identifier>
+            </related>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>Cycling for sustainable cities</title>
+                <identifier type="isbn13">9780262362009</identifier>
+                <identifier type="ppn">1763763781</identifier>
+            </related>
+            <related type="parent">
+                <title>Urban and industrial environments</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>388.3/47</code>
+                </classification>
+                <classification classificationID="106411039" classificationName="bk">
+                    <code>74.72</code>
+                    <entries>
+                        <entry>Stadtplanung, kommunale Planung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>RB 10909</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>HE5736</code>
+                </classification>
+                <classification classificationID="106421050" classificationName="bk">
+                    <code>74.75</code>
+                    <entries>
+                        <entry>Verkehrsplanung, Verkehrspolitik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>arc</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Sustainable urban development</subject>
+                </subject>
+                <subject id="4056730-8" type="gnd">
+                    <subject xml:lang="de">Stadtentwicklung</subject>
+                </subject>
+                <subject id="4076473-4" type="gnd">
+                    <subject xml:lang="de">Radfahrerverkehr</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Urban transportation</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Bicycle commuting</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

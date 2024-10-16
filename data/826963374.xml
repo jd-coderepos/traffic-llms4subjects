@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:826963374</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:826963374">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2015-06-09</databaseDate>
+            <changeDate>2021-02-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>826963374</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">826963374</identifier>
+                <identifier type="firstid">GBV:826963374</identifier>
+                <identifier type="isbn13">9781466686731</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/826963374.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1556158521</identifier>
+                    <creationDate>2016-07-06</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 15 B 4849</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xxix, 355 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Mission adaptive display technologies and operational decision making in aviation</title>
+            <abstracts>
+                <abstract xml:lang="de">"This book explores the use of adaptive and assistive technologies in aviation to establish clear guidelines for the design and implementation of such technologies to better serve the needs of both military and civilian pilots"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Smith, Kevin M.</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Larrieu, Stéphane</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Kevin M. Smith (U.S. Navy (Ret.), USA), Stéphane Larrieu (Aero Research, LLC, France)</responsible>
+            <publicationInfo>
+                <issued>2015</issued>
+                <publicationPlaces>
+                    <publicationPlace>Hershey, PA</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Engineering Science Reference, an imprint of IGI Global</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Research essentials</title>
+                </journalInfo>
+                <publicationIDInfo>Includes bibliographical references (pages 307-351) and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>27 cm</description>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Research essentials</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>TL589.3</code>
+                </classification>
+                <classification classificationID="181570769" classificationName="bk">
+                    <code>55.54</code>
+                    <entries>
+                        <entry>Flugführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.135/5</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4196491-3" type="gnd">
+                    <subject xml:lang="de">Avionik</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Decision support systems</subject>
+                </subject>
+                <subject id="4191815-0" type="gnd">
+                    <subject xml:lang="de">Entscheidungsunterstützungssystem</subject>
+                </subject>
+                <subject id="4275084-2" type="gnd">
+                    <subject xml:lang="de">Graphische Benutzeroberfläche</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Aeronautical instruments</subject>
+                </subject>
+                <subject id="4247928-9" type="gnd">
+                    <subject xml:lang="de">Adaptives System</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Adaptive computing systems</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

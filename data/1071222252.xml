@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1071222252</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1071222252">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1992-01-01</databaseDate>
+            <changeDate>2024-04-24</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>1071222252</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1071222252</identifier>
+                <identifier type="firstid">BSZ:001222252</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">130521957</identifier>
+                    <creationDate>1994-08-09</creationDate>
+                    <selectionKey>zo</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">ZA 4016(28)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-24</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">XII, 266 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Die Nordseehäfen im EWG-Raum : Fakten u. Probleme ; Hamburg, Bremen, Wilhelmshaven, Emden, Amsterdam, Rotterdam, Antwerpen, Gent u. Dünkirchen</title>
+            <abstracts>
+                <abstract xml:lang="de">S. V-X: Salin, Edgar: Zur Einführung</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Oldewage, Rolf</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Salin, Edgar</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Rolf Oldewage; Edgar Salin</responsible>
+            <publicationInfo>
+                <issued>1963</issued>
+                <publicationPlaces>
+                    <publicationPlace>Basel [u.a.]</publicationPlace>
+                    <publicationPlace>Tübingen</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="CH" />
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Kyklos-Verl. [u.a.]</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Veröffentlichungen der List-Gesellschaft e.V.</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>Reihe A, Studien des List-Instituts</title>
+                    <volumeNumber>28</volumeNumber>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>8°</description>
+            <description>Ill., graph. Darst</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Veröffentlichungen der List-Gesellschaft e.V.</title>
+            </related>
+            <related type="parent">
+                <title>Reihe A, Studien des List-Instituts</title>
+                <volumeNumber>28</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106421832" classificationName="bk">
+                    <code>55.86</code>
+                    <entries>
+                        <entry>Schiffsverkehr, Schifffahrt</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>QR 830</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4022859-9" type="gnd">
+                    <subject xml:lang="de">Hafen</subject>
+                </subject>
+                <subject id="4042579-4" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Nordsee</subject>
+                </subject>
+                <subject id="35433-8" subtype="corporate-body" type="gnd">
+                    <subject xml:lang="de">Europäische Wirtschaftsgemeinschaft</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

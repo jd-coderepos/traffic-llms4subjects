@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1682147967</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1682147967">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2019-11-19</databaseDate>
+            <changeDate>2020-12-08</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1682147967</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1682147967</identifier>
+                <identifier type="firstid">KXP:1682147967</identifier>
+                <identifier type="isbn13">9783030146276</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/ilmenau/toc/1682147967.PDF</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3556344718</identifier>
+                    <creationDate>2020-12-08</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 20 B 121</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xi, 320 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Validation and verification of automated systems : results of the ENABLE-S3 project</title>
+            <abstracts>
+                <abstract xml:lang="de">The book summarizes the main results of the the project ENABLE-S3 covering the following aspects: validation and verification technology bricks (collection and selection of test scenarios, test executions envionments incl. respective models, assessment of test results), evaluation of technology bricks in selected use cases and standardization and related initiatives. ENABLE-S3 is an industry-driven EU-project and aspires to substitute todays' cost-intensive verification and validation efforts by more advanced and efficient methods. In addition, the book includes articles about complementary international activities in order to highlight the global importance of the topic and to cover the wide range of aspects that needs to be covered at a global scale.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Leitner, Andrea</contributor>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Watzenig, Daniel</contributor>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Ibanez-Guzman, Javier</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Andrea Leitner, Daniel Watzenig, Javier Ibanez-Guzman, editors</responsible>
+            <publicationInfo>
+                <issued>2020</issued>
+                <publicationPlaces>
+                    <publicationPlace>Cham, Switzerland</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="CH" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>Validation and Verification of Automated Systems</title>
+                <identifier type="isbn13">9783030146283</identifier>
+                <identifier type="ppn">1694950239</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>TJ163.5.T7</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>388</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZQ 9940</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4260</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mas</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Quality control</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Reliability</subject>
+                </subject>
+                <subject id="4187837-1" type="gnd">
+                    <subject xml:lang="de">Verkehrstechnik</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Automotive engineering</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Industrial safety</subject>
+                </subject>
+                <subject id="4077423-5" type="gnd">
+                    <subject xml:lang="de">Sicherheitstechnik</subject>
+                </subject>
+                <subject id="4059245-5" type="gnd">
+                    <subject xml:lang="de">Zuverlässigkeit</subject>
+                </subject>
+                <subject id="4622983-8" type="gnd">
+                    <subject xml:lang="de">Fahrerassistenzsystem</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Transportation</subject>
+                </subject>
+                <subject id="4047968-7" type="gnd">
+                    <subject xml:lang="de">Qualitätskontrolle</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

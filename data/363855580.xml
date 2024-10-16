@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:363855580</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:363855580">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2003-05-27</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>363855580</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">363855580</identifier>
+                <identifier type="contract">50JR0041</identifier>
+                <identifier type="firstid">GBV:363855580</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">60284732X</identifier>
+                    <creationDate>2003-06-16</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">F 03 B 499</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">28 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>SATSIM-HILT: Hardware-in-the-Loop-Test-Erweiterung für das Simulationssystem SATSIM : Endbericht</title>
+            <alternativeTitles>
+                <alternative>SATSIM-HILT: Hardware-in-the-Loop-Test-Extension of the Simulation System SATSIM</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Attitude control, satellite simulator, HILT, test and verification</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Theil, Stephan</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Matthews, Oliver</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Stephan Theil; Oliver Matthews</responsible>
+            <publicationInfo>
+                <issued>2001</issued>
+                <publicationPlaces>
+                    <publicationPlace>Bremen</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>ZARM, Univ.</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Förderkennzeichen BMBF 50 JR 0041 - Engl. Zusfass. u.d.T.: SATSIM-HILT: Hardware-in-the-Loop-Test-Extension of the Simulation System SATSIM</publicationIDInfo>
+                <publicationIDInfo>Unterschiede zwischen dem gedruckten Dokument und der elektronischen Ressource können nicht ausgeschlossen werden</publicationIDInfo>
+                <publicationIDInfo>Auch als elektronische Ressource vorh.</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106423339" classificationName="bk">
+                    <code>54.76</code>
+                    <entries>
+                        <entry>Computersimulation</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106410334" classificationName="bk">
+                    <code>55.60</code>
+                    <entries>
+                        <entry>Raumfahrttechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>inf</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4055382-6" type="gnd">
+                    <subject xml:lang="de">Software</subject>
+                </subject>
+                <subject id="4055072-2" type="gnd">
+                    <subject xml:lang="de">Simulation</subject>
+                </subject>
+                <subject id="4136498-3" type="gnd">
+                    <subject xml:lang="de">Satellit</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

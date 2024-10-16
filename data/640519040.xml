@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:640519040</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:640519040">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2010-11-24</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>640519040</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">640519040</identifier>
+                <identifier type="firstid">DNB:100840036X</identifier>
+                <identifier type="isbn13">9783868523881</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://d-nb.info/100840036X/04</location>
+                <location subtype="description" type="url">http://deposit.d-nb.de/cgi-bin/dokserv?id=3573396&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1230440682</identifier>
+                    <creationDate>2012-03-29</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 11 B 3127</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">319 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Jagdflugzeuge : Technik, Fakten und Geschichte</title>
+            <abstracts>
+                <abstract xml:lang="de">In dem ganz passablen, reich illustrierten Band werden 81 Flugzeugtypen der genannten Waffenkategorie für den Laien ausführlich dargestellt. Der Autor ordnet sie chronologisch in 4 Kapitel, vom 1. Weltkrieg bis hin zu den neuesten Entwicklungen wie dem "Eurofighter". Der Schwerpunkt liegt auf der Technikgeschichte, historische Hintergründe werden nur gestreift. Die militärische Perspektive bleibt zweitrangig, was sich auch in der angenehm sachlichen Sprache niederschlägt. Die Auswahl ist lobenswert: Nicht nur die wichtigen, in Grossserie produzierten Standardjäger der europäischen, japanischen und amerikanischen Luftwaffe werden vorgestellt, sondern auch Prototypen, die für die technische Entwicklung im Flugzeugbau wegweisend waren, wie z.B. der 1. deutsche Düsenjäger Heinkel He 178 von 1938, dessen Weiterentwicklung aus politischen Grünen abgelehnt wurde. Da Jagdflugzeuge im 20. Jahrhundert zu den kriegsentscheidenden Waffen gehörten, macht es Sinn, einen derartigen Typenband zur Waffentechnik zu stellen. (2)</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Leinburger, Ralf</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">135720885</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor>
+                    <contributor>Jarrett, Philip</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Ralf Leinburger. [Fotos von Philip Jarrett ...]</responsible>
+            <publicationInfo>
+                <issued>2011</issued>
+                <edition>[2. Aufl.]</edition>
+                <publicationPlaces>
+                    <publicationPlace>Königswinter</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Heel</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>28 cm</description>
+            <description>zahlr. Ill.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>623.74640904</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="106420593" classificationName="bk">
+                    <code>55.51</code>
+                    <entries>
+                        <entry>Flugzeuge</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4114064-3" type="gnd">
+                    <subject xml:lang="de">Jagdflugzeug</subject>
+                </subject>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte 1914-1990</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

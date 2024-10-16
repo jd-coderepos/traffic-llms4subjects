@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:756231469</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:756231469">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2013-07-30</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>756231469</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">756231469</identifier>
+                <identifier type="firstid">GBV:756231469</identifier>
+                <identifier type="isbn13">9781439886021</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/756231469.pdf</location>
+                <location subtype="cover" type="url">http://images.tandf.co.uk/common/jackets/websmall/978143988/9781439886021.jpg</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1432937065</identifier>
+                    <creationDate>2014-09-15</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 13 B 7935</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XVII, 354 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Elementary flight dynamics with an introduction to bifurcation and continuation methods</title>
+            <abstracts>
+                <abstract xml:lang="de">"Preface Flight mechanics lies at the heart of aeronautics. It is the point of confluence of other disciplines within aerospace engineering and the gateway to aircraft design. Almost every curriculum in aerospace engineering includes two courses in flight mechanics--one on applied aerodynamics and airplane performance and the other on airplane stability/control and flight dynamics. Having taught both these subjects for over two decades, the authors' experience can be summed up briefly in the following student response: 'These are the best subjects in the curriculum. When you teach it in class, everything is obvious, but when we go back and read the textbook, things get very confusing'. As we got down to decoding this statement, several questions emerged: - Why put students through the gruesome derivation of the sixdegree- of-freedom equations early in the course, preceded by the axis transformations, and followed by the small perturbation math, when the bulk of the course is focussed on the dynamic modes about straight and level flight trim, which can be easily presented without going this route? - Would it not be nicer to write the equations for the second-order modes in a manner similar to a spring-mass-damper system? Then, one could read off the stiffness and damping directly, which would also give the conditions for stability. - The definitions of 'static' and 'dynamic' stability have been the cause of much student heartbreak. With the second-order form of the equations, the requirement of positive stiffness is the same as the socalled 'static' stability condition, so why not drop the separate notion of static stability entirely? -"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Sinha, Nandan K.</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Ananthkrishnan, N.</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Nandan K. Sinha; N. Ananthkrishnan</responsible>
+            <publicationInfo>
+                <issued>2013</issued>
+                <publicationPlaces>
+                    <publicationPlace>Boca Raton, Fla. [u.a.]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                    <publicationCountry code="NL" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>CRC Press</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc-dbn">
+                    <code>TEC009070</code>
+                </classification>
+                <classification classificationID="106419498" classificationName="bk">
+                    <code>50.34</code>
+                    <entries>
+                        <entry>Gasdynamik, Aerodynamik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.132/3</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>TEC007000</code>
+                </classification>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>SCI041000</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 7250</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL570</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Continuation methods</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Ananthkrishnan</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Aerodynamics</subject>
+                </subject>
+                <subject id="4154760-3" type="gnd">
+                    <subject xml:lang="de">Flugmechanik</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Bifurcation theory</subject>
+                </subject>
+                <subject id="4135410-2" type="gnd">
+                    <subject xml:lang="de">Flugzeugaerodynamik</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

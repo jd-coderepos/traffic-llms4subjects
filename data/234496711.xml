@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:234496711</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:234496711">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1997-09-19</databaseDate>
+            <changeDate>2024-04-18</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>234496711</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">234496711</identifier>
+                <identifier type="firstid">GBV:234496711</identifier>
+                <identifier type="isbn">3613710560</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://external.dandelon.com/download/attachments/dandelon/ids/AT0013CD56.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">288648498</identifier>
+                    <creationDate>1998-07-24</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">T 98 B 3865</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-24</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">142 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Schnelle Stars der Schiene : der Hochgeschwindigkeitsreport</title>
+            <abstracts>
+                <abstract xml:lang="de">Mit Hochdruck wird weltweit an Hochgeschwindigkeitssystemen für schienengebundene Verkehrsmittel gearbeitet. Mittlerweile kann auf eine ausreichend lange Zeit zurückgeblickt werden, in denen sich "schnelle Stars" bewährt haben. Mit seiner Fachkenntnis als Konstrukteur und Autor ist Messerschmidt der richtige Experte, die Anforderungen an Netze, Strecken und Fahrzeuge zu beschreiben. Dabei beschränkt er sich nicht auf die Technik, er setzt sich in einzelnen kleineren Abschnitten auch mit Themen aus dem Umfeld des Hochgeschwindigkeitsverkehrs auseinander (Umweltfragen, Funktion der Bahnhöfe, Zugausstattung, Konkurrenz von Bahn- und Flugverkehr usw.), auch die Magnetschwebebahn findet Erwähnung. Das Buch sollte angeschafft werden, auch wenn thematisch verwandte (aber nicht mehr ganz aktuelle) Werke im Bestand sind: "Schienenschnellverkehr. Bd. 3: Das Hochgeschwindigkeitssystem der Deutschen Bundesbahn" (BA 10/90), "Schienenschnellverkehr. Bd. 4: Hochgeschwindigkeitsverkehr international" (BA 4/91), W. Messerschmidt: "Die Schnellsten der Schiene" (BA 12/90) und "ICE" (BA 12/91). (2) (Günter Buhl)</abstract>
+            </abstracts>
+            <contributors>
+                <contributor>
+                    <contributor>Messerschmidt, Wolfgang</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">118733125</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Wolfgang Messerschmidt</responsible>
+            <publicationInfo>
+                <issued>1997</issued>
+                <edition>1. Aufl.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Stuttgart</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Transpress-Verl.</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>28 cm</description>
+            <description>überw. Ill., graph. Darst., Kt</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>ZO 5400</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>41</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>36</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>36</code>
+                </classification>
+                <classification classificationID="106405691" classificationName="bk">
+                    <code>55.30</code>
+                    <entries>
+                        <entry>Schienenfahrzeugtechnik, Eisenbahntechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 5000</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Schienenschnellverkehr</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Schnellverkehr</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Eisenbahn</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Eisenbahnfahrzeug</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Hochgeschwindigkeitszug</subject>
+                </subject>
+                <subject id="4113934-3" type="gnd">
+                    <subject xml:lang="de">Hochgeschwindigkeitszug</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

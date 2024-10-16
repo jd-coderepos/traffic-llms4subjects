@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1684974402</identifier><datestamp>2024-06-14</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1684974402">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2019-12-10</databaseDate>
+            <changeDate>2023-03-09</changeDate>
+            <ftxCreationDate>2024-06-14</ftxCreationDate>
+            <documentID>1684974402</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1684974402</identifier>
+                <identifier type="doi">10.1007/978-3-658-28761-0</identifier>
+                <identifier type="firstid">KEP:048668931</identifier>
+                <identifier type="isbn13">9783658287610</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://doi.org/10.1007/978-3-658-28761-0</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3576291776</identifier>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2020-01-18</creationDate>
+                    <selectionKey>zesp</selectionKey>
+                    <loanIndicator>s</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (XXIX, 123 S. 1 Abb)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Ein reduziertes Modell zur Simulation des transienten thermischen Verhaltens einer Fahrzeugkabine</title>
+            <abstracts>
+                <abstract xml:lang="de">Grundlagen linearer zeitinvarianter Systeme (LTI), eindimensionaler Wärmeübertragung und Numerik finiter Differenzen -- Modellierung relevanter Größen des thermischen Verhaltens einer Fahrzeugkabine als LTI-System -- Modellbeschreibung des reduzierten transienten thermischen Simulationsmodells einer Fahrzeugkabine -- Validierung des reduzierten Simulationsmodells anhand dreidimensionaler CFD-Simulationen für die Lastfälle „Soak“, „Heatup“ und „Cooldown“</abstract>
+                <abstract xml:lang="de">David Klemm untersucht das transiente thermische Verhalten einer Fahrzeugkabine. Relevante lokale Parameter modelliert der Autor mit dem Ansatz eines linearen, zeitinvarianten Systems und charakterisiert drei Lastfälle durch dreidimensionale transiente CFD-Simulationen. Mit diesen Parametern entwickelt er auf Basis eindimensionaler Übertragungsprozesse ein reduziertes Simulationsmodell und validiert es anhand dreidimensionaler CFD-Simulationen. Dieses Modell benötigt eine um den Faktor 105 reduzierte Rechenzeit im Bereich von Echtzeit. Der Inhalt Grundlagen linearer zeitinvarianter Systeme (LTI), eindimensionaler Wärmeübertragung und Numerik finiter Differenzen Modellierung relevanter Größen des thermischen Verhaltens einer Fahrzeugkabine als LTI-System Modellbeschreibung des reduzierten transienten thermischen Simulationsmodells einer Fahrzeugkabine Validierung des reduzierten Simulationsmodells anhand dreidimensionaler CFD-Simulationen für die Lastfälle „Soak“, „Heatup“ und „Cooldown“ Die Zielgruppen Lehrende und Studierende der Thermodynamik, Systemmodellierung und Simulation Entwickler in der Industrie im Bereich der Fahrzeugklimatisierung und Regelung von Fahrzeugklimaanlagen Der Autor David Klemm hat mehrjährige Industrieerfahrung im Bereich der Strömungssimulation und der Auslegung von elektronischen Steuergeräten. Nach der Forschungstätigkeit am Institut für Verbrennungsmotoren und Kraftfahrwesen (IVK) der Universität Stuttgart beschäftigt er sich nun mit der Simulation in der Systementwicklung von Nutzfahrzeugen</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Klemm, David</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1209304481</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>David Klemm</responsible>
+            <publicationInfo>
+                <issued>2020</issued>
+                <publicationPlaces>
+                    <publicationPlace>Wiesbaden</publicationPlace>
+                    <publicationPlace>[Heidelberg]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer Vieweg</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-2-SEB</identifier>
+                    <identifier type="collectioncode">ZDB-2-STI</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>Wissenschaftliche Reihe Fahrzeugtechnik Universität Stuttgart</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>Research</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>Springer eBooks</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>computer science and engineering</title>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2019</dateAccepted>
+                        <description>Dissertation, Universität Stuttgart</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Campusweiter Zugriff (Universität Hannover) - Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Keine Weitergabe an Dritte. Kein systematisches Downloaden durch Robots.</description>
+            <description>Erworben aus Studienqualitätsmitteln</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Ein reduziertes Modell zur Simulation des transienten thermischen Verhaltens einer Fahrzeugkabine</title>
+                <identifier type="ppn">1681840812</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-2-SEB</identifier>
+                <identifier type="collectioncode">ZDB-2-STI</identifier>
+            </related>
+            <related type="parent">
+                <title>Wissenschaftliche Reihe Fahrzeugtechnik Universität Stuttgart</title>
+            </related>
+            <related type="parent">
+                <title>Research</title>
+            </related>
+            <related type="parent">
+                <title>Springer eBooks</title>
+            </related>
+            <related type="parent">
+                <title>computer science and engineering</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420534" classificationName="bk">
+                    <code>50.38</code>
+                    <entries>
+                        <entry>Technische Thermodynamik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.2</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL1-483</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4165435-3" type="gnd">
+                    <subject xml:lang="de">Kraftfahrzeuginnenraum</subject>
+                </subject>
+                <subject id="4136980-4" type="gnd">
+                    <subject xml:lang="de">Sommer</subject>
+                </subject>
+                <subject id="4031177-6" type="gnd">
+                    <subject xml:lang="de">Klimatechnik</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Automotive Engineering</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Thermodynamics</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Heat engineering</subject>
+                </subject>
+                <subject id="7725954-3" type="gnd">
+                    <subject xml:lang="de">Thermomanagement (Kraftfahrzeugtechnik)</subject>
+                </subject>
+                <subject id="4066326-7" type="gnd">
+                    <subject xml:lang="de">Winter</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Mass transfer</subject>
+                </subject>
+                <subject id="4064211-2" type="gnd">
+                    <subject xml:lang="de">Wärmeübertragung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Control engineering</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Software engineering</subject>
+                </subject>
+                <subject id="4690080-9" type="gnd">
+                    <subject xml:lang="de">Numerische Strömungssimulation</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Heat transfer</subject>
+                </subject>
+                <subject id="4338131-5" type="gnd">
+                    <subject xml:lang="de">Luftströmung</subject>
+                </subject>
+                <subject id="4328790-6" type="gnd">
+                    <subject xml:lang="de">Echtzeitsimulation</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Automotive engineering</subject>
+                </subject>
+                <subject id="4124300-6" type="gnd">
+                    <subject xml:lang="de">Temperaturverteilung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://doi.org/10.1007/978-3-658-28761-0</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

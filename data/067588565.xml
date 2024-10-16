@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:067588565</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:067588565">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1997-08-27</databaseDate>
+            <changeDate>2024-03-28</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>067588565</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">067588565</identifier>
+                <identifier type="firstid">GBV:067588565</identifier>
+                <identifier type="isbn">3860705954</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1305738829</identifier>
+                    <creationDate>2012-05-21</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 12 B 4248</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">189 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Giganten der Lüfte : Geschichte und Technik der Zeppeline in ausgewählten Berichten und zahlreichen Fotos ; mit einem aktuellen Beitrag über die Entwicklung des neuen Zeppelins</title>
+            <abstracts>
+                <abstract xml:lang="de">In Friedrichshafen, dem Geburtsort der "Giganten der Lüfte", werden heute wieder Luftschiffe gebaut. Fachleute beschreiben sowohl den Bau des neuen Zeppelin NT als auch die Entwicklung und Konstruktion der alten Luftschiffe, Zeitzeugen deren Pionierleistungen. Über die Katastrophe von Lakehurst am 6. Mai 1937, das Ende der Luftschiffahrt, enthält der Band den deutschen Untersuchungsbericht. Der mit zahlreichen historischen Schwarzweißaufnahmen ausgestattete Lese-Bildband erhält seine besondere Spannung durch den Wechsel von farbigen Erlebnisberichten und sachlicher Dokumentation. Sehr preisgünstig. Bibliotheken empfohlen, die sich den Bildband "Luftschiff Hindenburg und die große Zeit der Zeppeline" (BA 3/95) für 128,00 DM nicht leisten konnten. (2) (Gisela Jonas)</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Meighörner, Wolfgang</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">14056991X</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>hrsg. und eingel. von Wolfgang Meighörner</responsible>
+            <publicationInfo>
+                <issued>1996</issued>
+                <publicationPlaces>
+                    <publicationPlace>Erlangen [u.a.]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Müller</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>33 cm</description>
+            <description>Ill.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>ZO 7050</code>
+                </classification>
+                <classification classificationID="10641934X" classificationName="bk">
+                    <code>50.01</code>
+                    <entries>
+                        <entry>Technikgeschichte</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 7320</code>
+                </classification>
+                <classification classificationID="106419072" classificationName="bk">
+                    <code>55.59</code>
+                    <entries>
+                        <entry>Ballons, Luftschiffe, Fallschirme</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4036587-6" type="gnd">
+                    <subject xml:lang="de">Luftschiff</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

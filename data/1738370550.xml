@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1738370550</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1738370550">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2020-11-10</databaseDate>
+            <changeDate>2022-07-08</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1738370550</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1738370550</identifier>
+                <identifier type="firstid">KXP:1738370550</identifier>
+                <identifier type="isbn13">9780367466640</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://swbplus.bsz-bw.de/bsz1738370550inh.htm</location>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1738370550.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3958270506</identifier>
+                    <creationDate>2022-06-22</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 21 B 3211</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xviii, 503 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Designing interaction and interfaces for automated vehicles : user-centred ecological design and testing</title>
+            <abstracts>
+                <abstract xml:lang="de">"Driving Automation and Autonomy is already upon us and the problems that were predicted twenty years ago are beginning to appear. These problems include shortfalls in expected benefits, equipment unreliability, driver skill fade, and error-inducing equipment designs. This book investigates the difficult problem of how to interface drivers with automated vehicles by offering an inclusive, human-centered design process that focuses on human variability and capability in interaction with interfaces. This book is for designers of systems interfaces, interactions, UX, Human Factors and Ergonomics researchers, and practitioners involved with systems engineering, and automotive academics"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Stanton, Neville</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">138094128</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Revell, Kirsten M. A.</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1232084778</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Langdon, Patrick</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1049169158</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>edited by Neville A. Stanton, Kirsten M.A. Revell, and Patrick Langdon</responsible>
+            <publicationInfo>
+                <issued>2021</issued>
+                <edition>First edition</edition>
+                <publicationPlaces>
+                    <publicationPlace>Boca Raton</publicationPlace>
+                    <publicationPlace>London</publicationPlace>
+                    <publicationPlace>New York</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>CRC Press</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Transportation and human factors: Aerospace, aviation, maritime, railroad, and roads</title>
+                </journalInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Transportation and human factors: Aerospace, aviation, maritime, railroad, and roads</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.20285/5437</code>
+                </classification>
+                <classification classificationID="181570424" classificationName="bk">
+                    <code>55.24</code>
+                    <entries>
+                        <entry>Fahrzeugführung, Fahrtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL152.8</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4812463-1" type="gnd">
+                    <subject xml:lang="de">Faktor Mensch</subject>
+                </subject>
+                <subject id="4038662-4" type="gnd">
+                    <subject xml:lang="de">Mensch-Maschine-System</subject>
+                </subject>
+                <subject id="4015249-2" type="gnd">
+                    <subject xml:lang="de">Ergonomie</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Automobile driving</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Automated vehicles</subject>
+                </subject>
+                <subject id="7714938-5" type="gnd">
+                    <subject xml:lang="de">Autonomes Fahrzeug</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Human-machine systems</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

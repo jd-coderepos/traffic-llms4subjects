@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1685119182</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1685119182">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2019-12-11</databaseDate>
+            <changeDate>2024-02-13</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1685119182</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1685119182</identifier>
+                <identifier type="firstid">KXP:1685119182</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://nbn-resolving.de/urn:nbn:de:gbv:ilm1-2019000424</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">359217536X</identifier>
+                    <creationDate>2020-02-11</creationDate>
+                    <selectionKey>zdt</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (ix, 143 Blätter)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Robust control of brake systems with decoupled architecture</title>
+            <abstracts>
+                <abstract xml:lang="de">Moderne Bremssysteme tendieren zur entkoppelten Konstruktion mit involvierten elektrischen und/oder elektrohydraulischen Aktuatoren. In der vorliegenden Arbeit ist die entsprechende Bremsregelungsarchitektur für die elektrischen und automatisierten Fahrzeuge vorgeschlagen, die beinhaltet Funktionen zur (i) primären Bremsung, (ii) gemischten Bremsung und (iii) Radschlupfregelung. Der Schwerpunkt dieser Arbeit ist auf die Robustheit der kontinuierlichen Radschlupfregelung während einer Notbremsung bei hoher und niedriger Fahrbahnreibung gelegt. Als die Lösung sind mehrere Regelungsstrategien entwickelt und experimentell validiert. Die Ergebnisse für drei Fahrzeugprototypen mit individuellen Board- und Radnabemotoren und einem elektrohydraulischen Brake-by-Wire System demonstrieren wesentliche Verbesserung der Bremsleistung und Fahrqualität im Vergleich zu den konventionellen Strategien der Radschlupfregelung.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="degree-granting-institution">
+                    <type>degree-granting-institution</type>
+                    <name>Technische Universität Ilmenau</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2125187-3</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Savitski, Dzmitry</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1200212037</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Augsburg, Klaus</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">13000913X</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Victorino, Alessandro</contributor>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Sendler, Jan</contributor>
+                </contributor>
+            </contributors>
+            <responsible>vorgelegt von Dipl.-Ing. Dzmitry Savitski</responsible>
+            <publicationInfo>
+                <issued>2019</issued>
+                <publicationPlaces>
+                    <publicationPlace>Ilmenau</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Universitätsbibliothek</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2019</dateAccepted>
+                        <description>Dissertation, Technische Universität Ilmenau</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Diagramme, Illustrationen (teilweise farbig)</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Robust control of brake systems with decoupled architecture</title>
+                <identifier type="ppn">1681032368</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.276</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4008148-5" type="gnd">
+                    <subject xml:lang="de">Bremse</subject>
+                </subject>
+                <subject id="4320090-4" type="gnd">
+                    <subject xml:lang="de">Sliding-Mode</subject>
+                </subject>
+                <subject id="4165441-9" type="gnd">
+                    <subject xml:lang="de">Kraftfahrzeugtechnik</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://nbn-resolving.de/urn:nbn:de:gbv:ilm1-2019000424</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

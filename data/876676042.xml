@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:876676042</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:876676042">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2013-01-10</databaseDate>
+            <changeDate>2022-04-29</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>876676042</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">876676042</identifier>
+                <identifier type="doi">10.1109/9780470546734</identifier>
+                <identifier type="firstid">GBV:876676042</identifier>
+                <identifier type="isbn13">9780470546734</identifier>
+                <identifier type="isbn">0470546735</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/bowker/toc/9780780304284.pdf</location>
+                <location subtype="fulltext" type="url">http://ieeexplore.ieee.org/xpl/bkabstractplus.jsp?bkn=5263658</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1658398459</identifier>
+                    <recallSign>OLR-IEEE-Wiley</recallSign>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2017-01-17</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online Ressource (xv, 179 p.)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Traffic system design handbook : timesaving telecommunication traffic tables and programs</title>
+            <abstracts>
+                <abstract xml:lang="de">A volume in the IEEE Telecommunications Handbook Series, this book is the one-stop source for the formulas and tables needed to design dimension switching systems and networks. It covers frequently used traffic formulas such as Erlang B (including alternate routing and Neal-Wilkinson peaked traffic tables), Erlang C, Binomial, and Engset along with practical examples to demonstrate how each is used. Computer programs are provided for those who prefer to do their traffic engineering on a computer</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="distributor">
+                    <type>distributor</type>
+                    <name>IEEE Xplore (Online service)</name>
+                </corporateCreator>
+                <corporateCreator type="publisher">
+                    <type>publisher</type>
+                    <name>John Wiley &amp; Sons</name>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor>
+                    <contributor>Boucher, James R.</contributor>
+                </contributor>
+            </contributors>
+            <responsible>James R. Boucher</responsible>
+            <publicationInfo>
+                <issued>1993</issued>
+                <publicationPlaces>
+                    <publicationPlace>Piscataway, NJ</publicationPlace>
+                    <publicationPlace>New York</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>IEEE Press</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-35-WEL</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>IEEE telecommunications handbook series</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>IEEE Xplore Digital Library</title>
+                </journalInfo>
+                <publicationIDInfo>Chiefly tables. - Includes bibliographical references (p. 173-174) and index. - Description based on print version record</publicationIDInfo>
+                <publicationIDInfo>Includes bibliographical references (pages 173-174) and index</publicationIDInfo>
+                <publicationIDInfo>Restricted to subscribers or individual electronic text purchasers</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Campusweiter Zugriff (Universität Hannover) - Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Keine Weitergabe an Dritte. Kein systematisches Downloaden durch Robots.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Buchausg. u.d.T.</label>
+                <title>Traffic system design handbook</title>
+                <identifier type="isbn">0780304284</identifier>
+                <identifier type="ppn">110345029</identifier>
+            </related>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Traffic system design handbook</title>
+                <identifier type="isbn">0780304284</identifier>
+                <identifier type="ppn">110345029</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-35-WEL</identifier>
+            </related>
+            <related type="parent">
+                <title>IEEE telecommunications handbook series</title>
+            </related>
+            <related type="parent">
+                <title>IEEE Xplore Digital Library</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>TK5102.5</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZN 6020</code>
+                </classification>
+                <classification classificationID="181570424" classificationName="bk">
+                    <code>55.24</code>
+                    <entries>
+                        <entry>Fahrzeugführung, Fahrtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>621.382</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4386331-0" type="gnd">
+                    <subject xml:lang="de">Erlang-Verteilung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Switching systems</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Telecommunication</subject>
+                </subject>
+                <subject id="4154088-8" type="gnd">
+                    <subject xml:lang="de">Fernsprechverkehr</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Traffic</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Electronic books</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://ieeexplore.ieee.org/xpl/bkabstractplus.jsp?bkn=5263658</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

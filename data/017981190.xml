@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:017981190</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:017981190">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1987-09-14</databaseDate>
+            <changeDate>2024-03-28</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>017981190</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">017981190</identifier>
+                <identifier type="firstid">GBV:017981190</identifier>
+                <identifier type="isbn">351700667X</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://d-nb.info/861108779/04</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">019962150</identifier>
+                    <creationDate>1987-07-08</creationDate>
+                    <selectionKey>n</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">FJ 8805,2</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">263 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Das Bilderlexikon der Dampflokomotiven</title>
+            <alternativeTitles>
+                <alternative>Le locomotive a vapore</alternative>
+                <alternative>Dampflokomotiven</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Literaturverz. S. 262 - 263</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Greggio, Luciano</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Luciano Greggio. [Zeichn.: Guido Canestrari. Dt. Bearb.: Hans-Peter Friedrich]</responsible>
+            <publicationInfo>
+                <issued>1986</issued>
+                <edition>2. Aufl.</edition>
+                <publicationPlaces>
+                    <publicationPlace>München</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Südwest-Verl.</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Literaturverz. S. 262 - 263</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>30 cm</description>
+            <description>zahlr. Ill.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loksys">
+                    <code>ver 226</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>36</code>
+                </classification>
+                <classification classificationName="loksys">
+                    <code>tec 25</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte</subject>
+                </subject>
+                <subject id="4010989-6" type="gnd">
+                    <subject xml:lang="de">Dampflokomotive</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Dampflokomotive ; Geschichte</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

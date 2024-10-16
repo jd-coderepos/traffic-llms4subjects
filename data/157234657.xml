@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:157234657</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:157234657">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1994-08-24</databaseDate>
+            <changeDate>2024-04-17</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>157234657</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">157234657</identifier>
+                <identifier type="firstid">GBV:157234657</identifier>
+                <identifier type="isbn">3407853157</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://d-nb.info/941762521/04</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">152656944</identifier>
+                    <creationDate>1995-08-02</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">RA 9544(15)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">296624810</identifier>
+                    <creationDate>1998-09-16</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">RA 9544(15) a</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-31</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">205 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Telematik und Verkehr : elektronische Wege aus dem Stau?</title>
+            <abstracts>
+                <abstract xml:lang="de">Lit.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Gaßner, Robert</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Keilinghaus, Andreas</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Nolte, Roland</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Robert Gaßner; Andreas Keilinghaus; Roland Nolte. Mit einer Einf. von Rolf Kreibich</responsible>
+            <publicationInfo>
+                <issued>1994</issued>
+                <publicationPlaces>
+                    <publicationPlace>Weinheim</publicationPlace>
+                    <publicationPlace>Basel</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                    <publicationCountry code="CH" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Beltz</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Zukunftsstudien</title>
+                    <volumeNumber>15</volumeNumber>
+                </journalInfo>
+                <publicationIDInfo>Literaturverz. S. 199 - 205</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>21 cm</description>
+            <description>graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Zukunftsstudien</title>
+                <volumeNumber>15</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="10642064X" classificationName="bk">
+                    <code>55.84</code>
+                    <entries>
+                        <entry>Straßenverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>41</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4620</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>CW 7000</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>HE249.A2</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>37</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4265845-7" type="gnd">
+                    <subject xml:lang="de">Nachrichtenverkehr</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Urban transportation policy</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Traffic engineering</subject>
+                </subject>
+                <subject id="4242346-6" type="gnd">
+                    <subject xml:lang="de">Modal split</subject>
+                </subject>
+                <subject id="4187817-6" type="gnd">
+                    <subject xml:lang="de">Verkehrsleitsystem</subject>
+                </subject>
+                <subject id="4026926-7" type="gnd">
+                    <subject xml:lang="de">Informationstechnik</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Management</subject>
+                </subject>
+                <subject id="4061655-1" type="gnd">
+                    <subject xml:lang="de">Umweltverträglichkeit</subject>
+                </subject>
+                <subject id="4057931-1" type="gnd">
+                    <subject xml:lang="de">Straßenverkehr</subject>
+                </subject>
+                <subject id="4187841-3" type="gnd">
+                    <subject xml:lang="de">Verkehrsverteilung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Planning</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Germany</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Transportation</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Data processing</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

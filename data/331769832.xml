@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:331769832</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:331769832">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2001-07-19</databaseDate>
+            <changeDate>2024-04-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>331769832</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">331769832</identifier>
+                <identifier type="contract">13N7194</identifier>
+                <identifier type="firstid">GBV:331769832</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="miscellaneous" type="url">https://edocs.tib.eu/files/e01fb01/331769832l.pdf</location>
+                <location mimetype="application/pdf" subtype="fulltext" type="url">https://edocs.tib.eu/files/e01fb01/331769832.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">504667270</identifier>
+                    <creationDate>2001-07-19</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-89</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">Online Ressource, 56 p. = 1,11 MB, text and images</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Verbundvorhaben: Laserdiagnostische und plasmatechnologische Grundlagen zur Verminderung von Emissionen und Kraftstoffverbrauch von DI-Verbrennungsmotoren : Teilvorhaben: Reinigung von Dieselabgasen in gepulsten Plasmen ; Abschlussbericht</title>
+            <alternativeTitles>
+                <alternative>Laserdiagnostische und plasmatechnologische Grundlagen zur Verminderung von Emissionen und Kraftstoffverbrauch von DI-Verbrennungsmotoren</alternative>
+                <alternative>Reinigung von Dieselabgasen in gepulsten Plasmen</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Diesel exhaust, nitric oxide, reduction, pulsed plasma, dielectric barrier discharge, selective catalytic reduction, hybrid process, pulse voltage source, reducing agent</abstract>
+            </abstracts>
+            <contributors>
+                <contributor>
+                    <contributor>Hammer, Thomas</contributor>
+                </contributor>
+            </contributors>
+            <responsible>von Th. Hammer ..</responsible>
+            <publicationInfo>
+                <issued>2001</issued>
+                <edition>[Elektronische Ressource]</edition>
+                <publicationPlaces>
+                    <publicationPlace>Erlangen</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Siemens</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-296-TTN</identifier>
+                </isPartOf>
+                <publicationIDInfo>Contract BMBF 13N7194. - nIndex. - Differences between the printed and electronic version of the document are possible</publicationIDInfo>
+                <publicationIDInfo>Also available as printed version</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>ill., graph</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-296-TTN</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420798" classificationName="bk">
+                    <code>58.55</code>
+                    <entries>
+                        <entry>Luftreinhaltung</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="sigle">
+                    <code>13F</code>
+                </classification>
+                <classification classificationID="106419897" classificationName="bk">
+                    <code>52.35</code>
+                    <entries>
+                        <entry>Kolbenkraftmaschinen</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mas</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>cet</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4140353-8" type="gnd">
+                    <subject xml:lang="de">Plasmatechnik</subject>
+                </subject>
+                <subject id="4000125-8" type="gnd">
+                    <subject xml:lang="de">Abgasreinigung</subject>
+                </subject>
+                <subject id="4150126-3" type="gnd">
+                    <subject xml:lang="de">Direkteinspritzung</subject>
+                </subject>
+                <subject id="4273791-6" type="gnd">
+                    <subject xml:lang="de">Gepulste Gasentladung</subject>
+                </subject>
+                <subject id="4062661-1" type="gnd">
+                    <subject xml:lang="de">Verbrennungsmotor</subject>
+                </subject>
+                <subject id="4032664-0" type="gnd">
+                    <subject xml:lang="de">Kraftfahrzeugabgas</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">default</property>
+            <property name="displaySubscriberAccess">https://edocs.tib.eu/files/e01fb01/331769832.pdf</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

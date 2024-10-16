@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1840570784</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1840570784">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2023-03-30</databaseDate>
+            <changeDate>2023-05-05</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1840570784</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1840570784</identifier>
+                <identifier type="doi">10.22032/dbt.55809</identifier>
+                <identifier type="firstid">KXP:1840570784</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://nbn-resolving.de/urn:nbn:de:gbv:ilm1-2023000032</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4317923122</identifier>
+                    <creationDate>2023-05-04</creationDate>
+                    <selectionKey>zdt</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (xvi, 120, LVI Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Point cloud processing for environmental analysis in Autonomous Driving using Deep Learning</title>
+            <abstracts>
+                <abstract xml:lang="de">Eines der Hauptziele führender Automobilhersteller sind autonome Fahrzeuge. Sie benötigen ein sehr präzises System für die Wahrnehmung der Umgebung, dass für jedes denkbare Szenario überall auf der Welt funktioniert. Daher sind verschiedene Arten von Sensoren im Einsatz, sodass neben Kameras u. a. auch Lidar Sensoren ein wichtiger Bestandteil sind. Die Entwicklung auf diesem Gebiet ist für künftige Anwendungen von höchster Bedeutung, da Lidare eine genauere, von der Umgebungsbeleuchtung unabhängige, Tiefendarstellung bieten. Insbesondere Algorithmen und maschinelle Lernansätze wie Deep Learning, die Rohdaten über Lernzprozesse direkt verarbeiten können, sind aufgrund der großen Reichweite und der dreidimensionalen Auflösung der gemessenen Punktwolken sehr wichtig. Somit hat sich ein weites Forschungsfeld mit vielen Herausforderungen und ungelösten Problemen etabliert. Diese Arbeit zielt darauf ab, dieses Defizit zu verringern und effiziente Algorithmen zur 3D-Objekterkennung zu entwickeln. Sie stellt ein tiefes Neuronales Netzwerk mit spezifischen Schichten und einer neuartigen Fehlerfunktion zur sicheren Lokalisierung und Schätzung der Orientierung von Objekten aus Punktwolken bereit. Zunächst wird ein 3D-Detektor entwickelt, der in nur einem Vorwärtsdurchlauf aus einer Punktwolke alle Objekte detektiert. Anschließend wird dieser Detektor durch die Fusion von komplementären semantischen Merkmalen aus Kamerabildern und einem gemeinsamen probabilistischen Tracking verfeinert, um die Detektionen zu stabilisieren und Ausreißer zu filtern. Im letzten Teil wird ein Konzept für den Einsatz in einem bestehenden Testfahrzeug vorgestellt, das sich auf die halbautomatische Generierung eines geeigneten Datensatzes konzentriert. Hierbei wird eine Auswertung auf Daten von Automotive-Lidaren vorgestellt. Als Alternative zur zielgerichteten künstlichen Datengenerierung wird ein weiteres generatives Neuronales Netzwerk untersucht. Experimente mit den erzeugten anwendungsspezifischen- und Benchmark-Datensätzen zeigen, dass sich die vorgestellten Methoden mit dem Stand der Technik messen können und gleichzeitig auf Effizienz für den Einsatz in selbstfahrenden Autos optimiert sind. Darüber hinaus enthalten sie einen umfangreichen Satz an Evaluierungsmetriken und -ergebnissen, die eine solide Grundlage für die zukünftige Forschung bilden.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="degree-granting-institution">
+                    <type>degree-granting-institution</type>
+                    <name>Technische Universität Ilmenau</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2125187-3</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+                <corporateCreator type="publisher">
+                    <type>publisher</type>
+                    <name>Universitätsverlag Ilmenau</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">7635051-4</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Simon, Martin</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1284772578</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Groß, Horst-Michael</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">129669806</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Zöllner, J. Marius</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1119162157</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Sick, Bernhard</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1013874080</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Martin Simon</responsible>
+            <publicationInfo>
+                <issued>2023</issued>
+                <publicationPlaces>
+                    <publicationPlace>Ilmenau</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Universitätsverlag Ilmenau</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2023</dateAccepted>
+                        <description>Dissertation, Technische Universität Ilmenau</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Diagramme, Illustrationen</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Point cloud processing for environmental analysis in Autonomous Driving using Deep Learning</title>
+                <identifier type="isbn13">9783863602727</identifier>
+                <identifier type="ppn">1840493216</identifier>
+                <identifier type="isbn">3863602722</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>006.3</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ST 330</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>629.283</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="181570424" classificationName="bk">
+                    <code>55.24</code>
+                    <entries>
+                        <entry>Fahrzeugführung, Fahrtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="10641030X" classificationName="bk">
+                    <code>54.74</code>
+                    <entries>
+                        <entry>Maschinelles Sehen</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106418920" classificationName="bk">
+                    <code>54.73</code>
+                    <entries>
+                        <entry>Computergraphik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>inf</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4167607-5" type="gnd">
+                    <subject xml:lang="de">Lidar</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Merkmalsextraktion</subject>
+                </subject>
+                <subject id="4123055-3" type="gnd">
+                    <subject xml:lang="de">Detektor</subject>
+                </subject>
+                <subject id="1135597375" type="gnd">
+                    <subject xml:lang="de">Deep learning</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Autonomes Fahrzeug</subject>
+                </subject>
+                <subject id="7714938-5" type="gnd">
+                    <subject xml:lang="de">Autonomes Fahrzeug</subject>
+                </subject>
+                <subject id="4314334-9" type="gnd">
+                    <subject xml:lang="de">Objekterkennung</subject>
+                </subject>
+                <subject id="4530310-1" type="gnd">
+                    <subject xml:lang="de">Punktwolke</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Deep learning</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Maschinelles Lernen</subject>
+                </subject>
+                <subject id="4129594-8" type="gnd">
+                    <subject xml:lang="de">Maschinelles Sehen</subject>
+                </subject>
+                <subject id="4226127-2" type="gnd">
+                    <subject xml:lang="de">Neuronales Netz</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Neuronales Netz</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Objekterkennung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Fahrerassistenzsystem</subject>
+                </subject>
+                <subject id="1209706350" type="gnd">
+                    <subject xml:lang="de">Convolutional Neural Network</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://nbn-resolving.de/urn:nbn:de:gbv:ilm1-2023000032</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

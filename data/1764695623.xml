@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1764695623</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1764695623">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2021-07-27</databaseDate>
+            <changeDate>2023-02-10</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1764695623</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1764695623</identifier>
+                <identifier type="firstid">KXP:1764695623</identifier>
+                <identifier type="isbn13">9780367363581</identifier>
+                <identifier type="isbn13">9781032181899</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1764695623.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4053353785</identifier>
+                    <creationDate>2023-01-06</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 22 B 930</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XXIII, 229 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Megacity mobility : integrated urban transportation development and management</title>
+            <abstracts>
+                <abstract xml:lang="de">"This examines passenger and freight mobility in a multimodal context, for innovative solutions in urban transportation planning, travel demand management, multimodal integrated capacity expansion, efficient capacity utilization, and innovative financing and optimal budget allocation for long-run urban mobility, with real-world case studies"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Li, Zongzhi</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">137214944</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Moore, Adrian T.</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">171703650</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Staley, Sam</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">171504569</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Zongzhi Li, Adrian T. Moore, Samuel R. Staley</responsible>
+            <publicationInfo>
+                <issued>2022</issued>
+                <edition>First edition</edition>
+                <publicationPlaces>
+                    <publicationPlace>Boca Raton, FL</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>CRC Press</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>HE305</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>388.4</code>
+                </classification>
+                <classification classificationID="106420658" classificationName="bk">
+                    <code>55.83</code>
+                    <entries>
+                        <entry>Stadtverkehr, Nahverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106421050" classificationName="bk">
+                    <code>74.75</code>
+                    <entries>
+                        <entry>Verkehrsplanung, Verkehrspolitik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>arc</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4062954-5" type="gnd">
+                    <subject xml:lang="de">Verkehrsplanung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Transportation demand management</subject>
+                </subject>
+                <subject id="4039785-3" type="gnd">
+                    <subject xml:lang="de">Mobilität</subject>
+                </subject>
+                <subject id="7606947-3" type="gnd">
+                    <subject xml:lang="de">Megastadt</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Urban transportation</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

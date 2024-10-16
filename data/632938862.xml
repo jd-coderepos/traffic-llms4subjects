@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:632938862</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:632938862">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2010-08-12</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>632938862</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">cs</code>
+                        <code iso="639-2">cze</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">632938862</identifier>
+                <identifier type="ean">9788087130100</identifier>
+                <identifier type="firstid">BSZ:32708295X</identifier>
+                <identifier type="isbn13">9788087130100</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://swbplus.bsz-bw.de/bsz32708295Xinh.htm</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1178555364</identifier>
+                    <creationDate>2010-10-25</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">S 10 B 577</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">199 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Zlínské letectví : ilustrovaná historie 1924 - 2004</title>
+            <abstracts>
+                <abstract xml:lang="de">Zsfassung in engl. und dt. Sprache. - Dt. Zsfassung u.d.T.: 70 Jahre Flugzeugbau in Otrokovice</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Volejník, Jiří</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Jiří Volejník</responsible>
+            <publicationInfo>
+                <issued>2009</issued>
+                <edition>1. vyd.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Zlín</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="CZ" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Muzeum Jihovýchodní Moravy</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>zahlr. Ill.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>ZO 7200</code>
+                </classification>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ssg">
+                    <code>19,2</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4154782-2" type="gnd">
+                    <subject xml:lang="de">Flugzeugbau</subject>
+                </subject>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte 1924-2004</subject>
+                </subject>
+                <subject id="4269986-1" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Zlín</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

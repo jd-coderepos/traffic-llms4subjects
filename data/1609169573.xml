@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1609169573</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1609169573">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1996-09-09</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>1609169573</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1609169573</identifier>
+                <identifier type="firstid">BSZ:054244269</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">198113420</identifier>
+                    <creationDate>1995-05-02</creationDate>
+                    <selectionKey>r</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">AE 4098</location>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">126 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Leitbahn und Dial-a-Bus : Amerika plant für seine Städte</title>
+            <alternativeTitles>
+                <alternative>Tomorrow's Transportation &lt;dt.&gt;</alternative>
+                <alternative>tomorrow's transportation</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Behandelt u. a. Dial-a-Bus, Schienen-Straßenfahrzeuge, automatische Schienen-Straßen-Busse, Autotransportzüge, Auto"fähren" und innerstädtische Schnellverbindungen.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>USA, Urban Transport Administration</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2027922-X</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor>
+                    <contributor>Koelzer, Angelika</contributor>
+                </contributor>
+            </contributors>
+            <responsible>[Hrsg.: Ministerium für Wohnen und Statentwicklung der Veieinigten Staaten von Amerika. Übers.: Angelika Koelzer]</responsible>
+            <publicationInfo>
+                <issued>1972</issued>
+                <publicationPlaces>
+                    <publicationPlace>Düsseldorf</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Alba-Buchverlag</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Literaturverz. S. 123 - 126.</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., Tab.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loksys">
+                    <code>bau 488 a</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>QR 860</code>
+                </classification>
+                <classification classificationName="loksys">
+                    <code>bau 600</code>
+                </classification>
+                <classification classificationID="106420658" classificationName="bk">
+                    <code>55.83</code>
+                    <entries>
+                        <entry>Stadtverkehr, Nahverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4056783-7" type="gnd">
+                    <subject xml:lang="de">Stadtverkehr</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Stadtverkehr</subject>
+                </subject>
+                <subject id="4078704-7" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">USA</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Vereinigte Staaten / H. d. Verkehrs- und Nachrichtenwesen</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Verkehrsplanung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

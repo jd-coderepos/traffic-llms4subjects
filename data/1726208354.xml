@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1726208354</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1726208354">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2020-08-04</databaseDate>
+            <changeDate>2021-12-03</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1726208354</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1726208354</identifier>
+                <identifier type="firstid">KXP:1726208354</identifier>
+                <identifier type="isbn13">9780367419172</identifier>
+                <identifier type="isbn13">9780367419165</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1726208354.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3934436951</identifier>
+                    <creationDate>2021-11-09</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 21 B 2456</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xx, 212 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Bicycle engineering and technology</title>
+            <abstracts>
+                <abstract xml:lang="de">"Covering the applied science, manufacturing methods and mathematics related to cycles and cycling in an easy-to-understand way which will be accessible to both experienced cyclists and laypeople. This book will be a particularly useful resource for students on IMI, City &amp; Guilds and Cytech Cycle Maintenance courses"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Livesey, Andrew</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Andrew Livesey</responsible>
+            <publicationInfo>
+                <issued>2021</issued>
+                <publicationPlaces>
+                    <publicationPlace>London</publicationPlace>
+                    <publicationPlace>New York</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="GB" />
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Routledge, Taylor &amp; Francis Group</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Includes index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.227/2</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL410</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Bicycles</subject>
+                </subject>
+                <subject id="4153568-6" type="gnd">
+                    <subject xml:lang="de">Fahrradtechnik</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

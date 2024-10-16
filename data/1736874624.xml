@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1736874624</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1736874624">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2020-10-28</databaseDate>
+            <changeDate>2023-07-19</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>1736874624</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1736874624</identifier>
+                <identifier type="doi">10.18453/rosdok_id00002788</identifier>
+                <identifier type="firstid">KXP:1736874624</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://nbn-resolving.de/urn:nbn:de:gbv:28-rosdok_id00002788-2</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">435575197X</identifier>
+                    <creationDate>2023-07-20</creationDate>
+                    <selectionKey>zdt</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Cooperativity and its use in robust control and state estimation for uncertain dynamic systems with engineering applications</title>
+            <abstracts>
+                <abstract xml:lang="de">This work shows a general applicable approach to robustly control uncertain dynamic systems, where the uncertainty is given by bounded intervals. The presented robust control methods rely on a verified enclosure of the state intervals. Since state-of-the-art-methods to calculate this fail, the property of cooperativity is used. However, since not all systems are naturally cooperative, a transformation routine is established to widen the possible application of this method. Different application scenarios chosen from a variety of engineering fields are used to validate the theoretical findings.&lt;eng&gt;</abstract>
+                <abstract xml:lang="de">Diese Arbeit zeigt einen generell verwendbaren Ansatz, um ein unsicheres dynamisches System robust zu regeln. Der gezeigte Ansatz verwendet dabei verifizierte Intervalleinschlüsse, die sich aus der intervallbasierten Unsicherheit ergeben. Da moderne Rechenmethoden hierbei versagen, wird die Eigenschaft der Kooperativität ausgenutzt, um dies dennoch zu ermöglichen. Da nicht alle Systeme diese Eigenschaft direkt aufweisen, wird eine Transformationsroutine entwickelt, um den gezeigten Ansatz auf andere Einsatzszenarien zu erweitern. Dies wird durch verschiedene Anwendungen in der Arbeit bewiesen.&lt;ger&gt;</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="degree-granting-institution">
+                    <type>degree-granting-institution</type>
+                    <name>Universität Rostock</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">38329-6</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+                <corporateCreator type="degree-granting-institution">
+                    <type>degree-granting-institution</type>
+                    <name>Universität Rostock, Fakultät für Maschinenbau und Schiffstechnik</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">10085033-9</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Kersten, Julia</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1211652025</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Aschemann, Harald</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">141904461</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Raissi, Tarek</contributor>
+                </contributor>
+            </contributors>
+            <responsible>vorgelegt von Julia Kersten</responsible>
+            <publicationInfo>
+                <issued>2020</issued>
+                <publicationPlaces>
+                    <publicationPlace>Rostock</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Universität</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2020</dateAccepted>
+                        <description>Dissertation, Universität Rostock</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+                <publicationIDInfo>Eine parallele Verlagspublikation erfolgt unter der ISBN 978-3-8440-7609-7 im Shaker-Verlag.</publicationIDInfo>
+                <publicationIDInfo>GutachterInnen: Harald Aschemann (Universität Rostock, Lehrstuhl für Mechatronik) ; Tarek Raissi (CEDRIC Lab, CNAM)</publicationIDInfo>
+            </additionalDocumentInfo>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Cooperativity and its use in robust control and state estimation for uncertain dynamic systems with engineering applications</title>
+                <identifier type="isbn13">9783844076097</identifier>
+                <identifier type="ppn">1733260706</identifier>
+                <identifier type="isbn">3844076093</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc-dbn">
+                    <code>629.831</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>621.3</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="1144885965" type="gnd">
+                    <subject xml:lang="de">Kooperatives System</subject>
+                </subject>
+                <subject id="4151200-5" type="gnd">
+                    <subject xml:lang="de">Eigenwert</subject>
+                </subject>
+                <subject id="4186957-6" type="gnd">
+                    <subject xml:lang="de">Unsicherheit</subject>
+                </subject>
+                <subject id="4177447-4" type="gnd">
+                    <subject xml:lang="de">Reglerentwurf</subject>
+                </subject>
+                <subject id="4167992-1" type="gnd">
+                    <subject xml:lang="de">Ljapunov-Stabilitätstheorie</subject>
+                </subject>
+                <subject id="4362530-7" type="gnd">
+                    <subject xml:lang="de">Matrizenungleichung</subject>
+                </subject>
+                <subject id="4139504-9" type="gnd">
+                    <subject xml:lang="de">Beobachter (Kybernetik)</subject>
+                </subject>
+                <subject id="4013396-5" type="gnd">
+                    <subject xml:lang="de">Dynamisches System</subject>
+                </subject>
+                <subject id="4206985-3" type="gnd">
+                    <subject xml:lang="de">Robuste Regelung</subject>
+                </subject>
+                <subject id="4129826-3" type="gnd">
+                    <subject xml:lang="de">Zustandsschätzung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://nbn-resolving.de/urn:nbn:de:gbv:28-rosdok_id00002788-2</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

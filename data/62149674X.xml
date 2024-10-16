@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:62149674X</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:62149674X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2010-03-18</databaseDate>
+            <changeDate>2024-04-21</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>62149674X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">62149674X</identifier>
+                <identifier type="ean">9783866349247</identifier>
+                <identifier type="firstid">DNB:1000782530</identifier>
+                <identifier type="isbn13">9783866349247</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://d-nb.info/1000782530/04</location>
+                <location subtype="cover" type="url">http://ecx.images-amazon.com/images/I/51Q5Y2cGEgL._SL500_AA300_.jpg</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1154030938</identifier>
+                    <creationDate>2010-07-01</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 10 B 3430</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-3</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">127 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Das große Buch vom Fahrrad - eine Rückschau</title>
+            <abstracts>
+                <abstract xml:lang="de">Seltsamerweise beginnt die Geschichte des Fahrrades mit einem Vulkanausbruch ... Anfang des 19. Jahrhunderts konstruierte Karl Drais das erste Laufrad, das bald zu einer Modeerscheinung wurde. Doch bis erste pedalgetriebene Fahrräder gebaut wurden, wie wir sie heute kennen, vergingen noch Jahrzehnte. Warum eigentlich? Über manchmal sehr seltsame Konstruktionen entwickelte sich das Fahrrad zu einem Transportmittel und Sportgerät, das heute gar nicht mehr wegzudenken ist.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Wich, Franz</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Schuller, Andreas</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Franz Wich in Zsarb. mit Andreas Schuller</responsible>
+            <publicationInfo>
+                <issued>2010</issued>
+                <edition>1. Aufl.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Halle (Saale)</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Projekte-Verl. Cornelius</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>250 mm x 205 mm, 496 gr.</description>
+            <description>Ill.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>ZO 4340</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.2272</code>
+                </classification>
+                <classification classificationName="ssg">
+                    <code>19,2</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>600</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4016297-7" type="gnd">
+                    <subject xml:lang="de">Fahrrad</subject>
+                </subject>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

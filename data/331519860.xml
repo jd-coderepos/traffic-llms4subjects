@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:331519860</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:331519860">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2001-07-12</databaseDate>
+            <changeDate>2024-04-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>331519860</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">331519860</identifier>
+                <identifier type="firstid">GBV:331519860</identifier>
+                <identifier type="isbn">3613872153</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">520772830</identifier>
+                    <creationDate>2001-10-29</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RO 4393(105)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-24</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">95 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Borgward-Automobile : 1949 - 1961 ; eine Dokumentation</title>
+            <alternativeTitles>
+                <alternative>Borgward-Personenwagen</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Eingeführte Reihe. (3) (Kap)</abstract>
+            </abstracts>
+            <contributors>
+                <contributor>
+                    <contributor>Roland, Martin-Paul</contributor>
+                </contributor>
+            </contributors>
+            <responsible>von Martin-Paul Roland</responsible>
+            <publicationInfo>
+                <issued>2001</issued>
+                <edition>1. Aufl.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Stuttgart</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Schrader</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Schrader-Motor-Chronik</title>
+                    <volumeNumber>105</volumeNumber>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>20 x 21 cm</description>
+            <description>überw. Ill</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Schrader-Motor-Chronik</title>
+                <volumeNumber>105</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>ZO 4420</code>
+                </classification>
+                <classification classificationID="106414992" classificationName="bk">
+                    <code>55.21</code>
+                    <entries>
+                        <entry>Kraftfahrzeuge</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>65</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>36</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>46</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Personenkraftwagen</subject>
+                </subject>
+                <subject id="4486444-9" type="gnd">
+                    <subject xml:lang="de">Borgward (Marke)</subject>
+                </subject>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte 1946-1961</subject>
+                </subject>
+                <subject id="4076001-7" type="gnd">
+                    <subject xml:lang="de">Personenkraftwagen</subject>
+                </subject>
+                <subject id="4065541-6" type="gnd">
+                    <subject xml:lang="de">Werbung</subject>
+                </subject>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte 1949-1961</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Borgward</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Limousine</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

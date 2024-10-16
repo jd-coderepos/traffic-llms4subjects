@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1048269779</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1048269779">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2019-02-04</databaseDate>
+            <changeDate>2021-10-21</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>1048269779</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1048269779</identifier>
+                <identifier type="contract">03SX391A</identifier>
+                <identifier type="firstid">GBV:1048269779</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1048269779.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3506777262</identifier>
+                    <creationDate>2019-08-13</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RN 3150(1692)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">82 Blätter</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Einfluss der Formgebung von Schiffen auf die Propulsionseffizienz und die Propeller-Eis Belastung - ProEis : numerische und experimentelle Untersuchung der Formgebung von Schiffen im Hinblick auf die Propeller-Eis Interaktion - Numex : gefördert durch: Bundesministerium für Wirtschaft und Energie</title>
+            <alternativeTitles>
+                <alternative>ProEis</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Das Hauptaugenmerk der Arbeiten der Technischen Universität Hamburg (TUHH) als Beitrag zum Verbundforschungsvorhaben ProEis lag auf einer detaillierten Untersuchung der Modellierung der Umströmung von Schiffen in eisbedeckten Gewässern mit einem hochaufgelösten, nicht-linearen Strömungssimulationsverfahren in einer bidirektionalen, monolithischen Kopplung mit einem Kontakdynamik-Simulationstool. Die Entwicklungsarbeiten des Teilprojektes der TUHH mündeten in der Entwicklung und Anwendung eines komplexen numerischen Eistanks mittels dessen die Simulation der Umströmung von Schiffsrümpfen mit einer Anzahl in der Größenordnung von 1000 Eisschollen möglich ist. Die Eisschollen bewegen sich dabei voll-dynamisch in dem Rechengebiet und stehen sowohl untereinander als auch mit dem Rumpf und den Propulsionsorgangen in Interaktion. Die genaue Analyse der Schollendynamik im Vergleich zu den im Eistank der HSVA durchgeführten Modellversuche für unterschiedliche Rümpfe wie auch verschiedene Propulsionsarten (Azi-Pod Antrieb und Voith-Schneider-Propeller) zeigte eine gute Übereinstimmung, womit die physikalische Konsistenz des entwickelten der Strömungslösers nachgewiesen werden konnte.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="issuing-body">
+                    <type>issuing-body</type>
+                    <name>Hamburgische Schiffbau-Versuchsanstalt</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2054906-4</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Myland, Daniela</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Hisette, Quentin</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Daniela Myland; Quentin Hisette</responsible>
+            <publicationInfo>
+                <issued>2019</issued>
+                <publicationPlaces>
+                    <publicationPlace>Hamburg</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>HSVA</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>HSVA Bericht</title>
+                    <volumeNumber>Nr. 1692</volumeNumber>
+                </journalInfo>
+                <journalInfo>
+                    <title>HSVA Bericht</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>AT</title>
+                    <volumeNumber>652-18</volumeNumber>
+                </journalInfo>
+                <publicationIDInfo>Förderkennzeichen BMWi 03SX391A</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>Einfluss der Formgebung von Schiffen auf die Propulsionseffizienz und die Propeller-Eis Belastung - ProEis</title>
+                <identifier type="ppn">170025457X</identifier>
+            </related>
+            <related type="parent">
+                <title>HSVA Bericht</title>
+                <volumeNumber>Nr. 1692</volumeNumber>
+            </related>
+            <related type="parent">
+                <title>HSVA Bericht</title>
+            </related>
+            <related type="parent">
+                <title>AT</title>
+                <volumeNumber>652-18</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420577" classificationName="bk">
+                    <code>55.40</code>
+                    <entries>
+                        <entry>Schiffstechnik, Schiffbau</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4131348-3" type="gnd">
+                    <subject xml:lang="de">Eisbrecher</subject>
+                </subject>
+                <subject id="1152232746" type="gnd">
+                    <subject xml:lang="de">Belastung (Mechanik)</subject>
+                </subject>
+                <subject id="4131349-5" type="gnd">
+                    <subject xml:lang="de">Meereis</subject>
+                </subject>
+                <subject id="4138452-0" type="gnd">
+                    <subject xml:lang="de">Schiffspropeller</subject>
+                </subject>
+                <subject id="4052411-5" type="gnd">
+                    <subject xml:lang="de">Schiffsantrieb</subject>
+                </subject>
+                <subject id="4198196-0" type="gnd">
+                    <subject xml:lang="de">Schiffsrumpf</subject>
+                </subject>
+                <subject id="4113598-2" type="gnd">
+                    <subject xml:lang="de">Formgebung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

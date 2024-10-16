@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:656552913</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:656552913">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2011-04-18</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>656552913</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">656552913</identifier>
+                <identifier type="firstid">GBV:656552913</identifier>
+                <identifier type="isbn13">9783868538762</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/ilmenau/toc/656552913.PDF</location>
+                <location subtype="description" type="url">http://www.gbv.de/dms/ilmenau/abs/641906528hopf.txt</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">123982937X</identifier>
+                    <creationDate>2011-04-29</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">U 11 B 558</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">188 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Der dynamische Innenwiderstand von Blei-Akkumulatoren : experimentelle Analyse und Methode zur Ladezustandsschätzung</title>
+            <abstracts>
+                <abstract xml:lang="de">Die Elektrifizierung moderner Kraftfahrzeuge hat in den vergangenen Jahren rasant zugenommen. Dies führt sowohl zu einer Steigerung der mittleren benötigten elektrischen Leistung als auch der elektrischen Spitzenleistung. Während die Hauptaufgabe der Starterbatterie in den früheren Zeiten in der Leistungsabgabe für den Motorstart lag, muss zwischen der vom Generator bereitgestellten und der benötigten elektrischen Energie zu erzielen und um die zuverlässige Versorgung kritischer Verbraucher sowie die Startfähigkeit des Fahrzeugs sicherzustellen, ist es in modernen Fahrzeugen daher unumgänglich, ein Bordnetzmanagementsystem einzusetzen. Zur optimalen Bewertung des Bordnetzes wird von diesem unter anderem eine hinreichend genaue und sichere Kenntnis über den Ladezustand des Bordnetzakkumulators benötigt. Die vorliegende Arbeit leistet mit detaillierten Untersuchungen zum dynamischen Innenwiderstand von Blei-Akkumulatoren, hinsichtlich der Nutzbarkeit als Ladezustandsindikator, einen Beitrag zur indirekten Ladezustandsbestimmung. Untersuchungsgegenstand stellen dabei Blei-Akkumulatoren für den Einsatz im Kraftfahrzeug, in Nass- und VRLA-AGM-Technologie (Ventil reguliert und mit absorbierendem Mikroglasvlies), von verschiedenen Herstellern und mit unterschiedlichen Nennkapazitäten, dar. Es hat sich gezeigt, dass bei Einschränkung des Betriebsbereichs und bei Kenntnis weniger Zusatzinformationen ein eindeutiger Zusammenhang zwischen dem Wert des Ladezustands und dem Wert des dynamischen Innenwiderstands besteht. Auf Basis der gewonnenen Erkenntnisse wird schließlich ein Verfahren entwickelt, welches auch außerhalb des eingeschränkten Betriebsbereichs ermöglicht, den aktuellen Ladezustand sicher zu schätzen. Der Ladungsumsatz außerhalb des Betriebsbereichs sollte allerdings möglichst gering gehalten werden. Im Vergleich zu den bisher im Automobilsegment eingesetzten Verfahren, zeigt dieses bei einer weitgehend homogenen Zellalterung eine hohe Robustheit gegenüber der Alterung des Blei-Akkumulators. Ferner lässt sich das Verfahren derart auslegen, dass es weitgehend unabhängig vom Hersteller des Blei-Akkumulators, dessen Technologie und der Nennkapazität ist. Voraussetzung hierbei stellt lediglich ein vergleichbarer mechanischer Aufbau des Akkumulators dar.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Hopf, Markus Klaus</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1011174197</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor>
+                    <contributor>Ament, Christoph</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1058278150</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Geuer, Wolfgang</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Lambeck, Steven</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">130224227</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Markus Klaus Hopf</responsible>
+            <publicationInfo>
+                <issued>2011</issued>
+                <edition>1. Aufl.</edition>
+                <publicationPlaces>
+                    <publicationPlace>München</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Dr. Hut</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Zugl.: Ilmenau, Techn. Univ., Diss., 2010</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="106418645" classificationName="bk">
+                    <code>53.36</code>
+                    <entries>
+                        <entry>Energiedirektumwandler, elektrische Energiespeicher</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4007096-7" type="gnd">
+                    <subject xml:lang="de">Bleiakkumulator</subject>
+                </subject>
+                <subject id="4032671-8" type="gnd">
+                    <subject xml:lang="de">Kraftfahrzeugelektrik</subject>
+                </subject>
+                <subject id="4139505-0" type="gnd">
+                    <subject xml:lang="de">Zustandsbeobachter</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Hardback</subject>
+                </subject>
+                <subject id="4165422-5" type="gnd">
+                    <subject xml:lang="de">Kraftfahrzeugbatterie</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

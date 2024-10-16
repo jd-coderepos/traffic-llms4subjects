@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1006195831</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1006195831">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2017-11-28</databaseDate>
+            <changeDate>2021-04-07</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1006195831</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1006195831</identifier>
+                <identifier type="firstid">GBV:1006195831</identifier>
+                <identifier type="isbn13">9781138708976</identifier>
+                <identifier type="isbn13">9781138708945</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/zbw/1006195831.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1755644221</identifier>
+                    <creationDate>2018-06-01</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">L ver 502</location>
+                    <location type="tibShelfmark">T 18 B 1802</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xxi, 372 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Fundamentals of international aviation</title>
+            <abstracts>
+                <abstract xml:lang="de">International air law -- Aircraft -- Operations -- Navigation -- Airports -- Security -- Environment -- Accidents -- Safety -- Remotely piloted aircraft -- Index</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Kearns, Suzanne K.</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">121439275X</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Suzanne K. Kearns</responsible>
+            <publicationInfo>
+                <issued>2018</issued>
+                <publicationPlaces>
+                    <publicationPlace>London</publicationPlace>
+                    <publicationPlace>New York</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Routledge, Taylor &amp; Francis Group</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>Fundamentals of International Aviation.</title>
+                <identifier type="ppn">1018249672</identifier>
+                <identifier type="isbn13">9781351780674</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>HE9776</code>
+                </classification>
+                <classification classificationID="106410660" classificationName="bk">
+                    <code>55.88</code>
+                    <entries>
+                        <entry>Luftverkehr, Raumfahrt</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>QR 840</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 7000</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>387.7</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>PR 2205</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="stw">
+                    <subject xml:lang="de">Welt</subject>
+                </subject>
+                <subject id="4036597-9" type="gnd">
+                    <subject xml:lang="de">Luftverkehr</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">International</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Luftverkehr</subject>
+                </subject>
+                <subject id="4005962-5" type="gnd">
+                    <subject xml:lang="de">Berufswahl</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Aeronautics, Commercial</subject>
+                </subject>
+                <subject id="4036557-8" type="gnd">
+                    <subject xml:lang="de">Luftfahrt</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

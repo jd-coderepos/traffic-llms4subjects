@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1854032879</identifier><datestamp>2024-06-14</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1854032879">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2023-08-01</databaseDate>
+            <changeDate>2024-02-13</changeDate>
+            <ftxCreationDate>2024-06-14</ftxCreationDate>
+            <documentID>1854032879</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1854032879</identifier>
+                <identifier type="doi">10.1007/978-3-658-38463-0</identifier>
+                <identifier type="firstid">KEP:094075247</identifier>
+                <identifier type="isbn13">9783658384630</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://doi.org/10.1007/978-3-658-38463-0</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4362984631</identifier>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2023-08-04</creationDate>
+                    <selectionKey>zesp</selectionKey>
+                    <loanIndicator>s</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (XII, 542 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Practice of vibration measurement : measurement technology and vibration analysis with MATLAB®</title>
+            <alternativeTitles>
+                <alternative>Praxis der Schwingungsmessung</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">This technical book deals clearly with the construction and practical operation of vibration measurement systems. It describes the functioning of the entire measurement chain from the transducer to the evaluation and illustrates the interaction of the elements with numerous practical examples. A completely new focus is vibration analysis using MATLAB®. Contents Vibrations and their measurement - Measurement task and its realization - Vibrations in the time and frequency domain - Free vibrations - Forced vibrations - Vibration transducers - Displacement transducers - Fast transducers (vibration velocity transducers) - Acceleration transducers - Deformation transducers - Signal processing - MATLAB® and data formats, an introduction - Measuring with MATLAB® - Raspberry Pi as a measuring device - Methods and examples for signal analysis - Experimental modal analysis The target groups Students with basic knowledge and young professionals who want to solve their first practical measurement tasks independently Engineers and technicians in industrial practice who plan, perform and evaluate measurements Specialists for a part of the measurement chain and career changers who want to better understand the interaction within the measurement chain The authors Prof. Thomas Kuttner teaches at the University of the Federal Armed Forces Munich, Faculty of Mechanical Engineering. His work focuses on vibration measurement technology, experimental fatigue strength and test bench technology. Dipl.-Ing. Armin Rohnen teaches at the Munich University of Applied Sciences, Faculty of Mechanical Engineering, Automotive Engineering, Aircraft Engineering. He is specialized in the application of MATLAB® in measurement and signal analysis. This book is a translation of an original German edition. The translation was done with the help of artificial intelligence (machine translation by the service DeepL.com). A subsequent human revision was done primarily in terms of content, so that the book will read stylistically differently from a conventional translation.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Kuttner, Thomas</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">172660378</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Rohnen, Armin</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1211700631</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Thomas Kuttner, Armin Rohnen</responsible>
+            <publicationInfo>
+                <issued>2023</issued>
+                <publicationPlaces>
+                    <publicationPlace>Wiesbaden</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-2-SEB</identifier>
+                    <identifier type="collectioncode">ZDB-2-PHA</identifier>
+                    <identifier type="collectioncode">ZDB-2-SXP</identifier>
+                </isPartOf>
+            </additionalDocumentInfo>
+            <description>Campusweiter Zugriff (Universität Hannover) - Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Keine Weitergabe an Dritte. Kein systematisches Downloaden durch Robots.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Practice of vibration measurement</title>
+                <identifier type="ppn">1807500225</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-2-SEB</identifier>
+                <identifier type="collectioncode">ZDB-2-PHA</identifier>
+                <identifier type="collectioncode">ZDB-2-SXP</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>003</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.8312</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4038804-9" type="gnd">
+                    <subject xml:lang="de">Messwertverarbeitung</subject>
+                </subject>
+                <subject id="1148342370" type="gnd">
+                    <subject xml:lang="de">Schwingungsmesstechnik</subject>
+                </subject>
+                <subject id="1148342079" type="gnd">
+                    <subject xml:lang="de">Schwingungsmessung</subject>
+                </subject>
+                <subject id="4329066-8" type="gnd">
+                    <subject xml:lang="de">MATLAB</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Control engineering.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Automotive engineering.</subject>
+                </subject>
+                <subject id="1076034748" type="gnd">
+                    <subject xml:lang="de">Vibrationsanalyse</subject>
+                </subject>
+                <subject id="4520243-6" type="gnd">
+                    <subject xml:lang="de">Vibrationssensor</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://doi.org/10.1007/978-3-658-38463-0</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

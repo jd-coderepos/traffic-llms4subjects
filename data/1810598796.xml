@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1810598796</identifier><datestamp>2024-06-28</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1810598796">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2022-07-15</databaseDate>
+            <changeDate>2024-06-14</changeDate>
+            <ftxCreationDate>2024-06-17</ftxCreationDate>
+            <documentID>1810598796</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>CA</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1810598796</identifier>
+                <identifier type="doi">10.1007/978-3-662-64550-5_40</identifier>
+                <identifier type="firstid">KXP:1810598796</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="subscriber" type="url">https://doi.org/10.1007/978-3-662-64550-5_40</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4184026370</identifier>
+                    <recallSign>ConTIB</recallSign>
+                    <creationDate>2022-11-07</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RS 9690(12)</location>
+                    <loanIndicator>f</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Novel approaches for measuring and predicting particulate emissions from automotive brakes and tires</title>
+            <abstracts>
+                <abstract xml:lang="de">Traffic-related emissions are strongly criticised by the public because they con-tribute to climate change and are classified as hazardous to health. Combustion engine emissions have been regulated by limit values for almost three decades. There is currently no legal limit for non-exhaust emissions, which include par-ticulate brake and tire wear and resuspension. As a result, the percentage of total vehicle emissions has risen continuously. Since some of the particles can be as-signed to the size classes of particulate matter (≤ 10 µm), these sources of par-ticulate matter are of particular relevance to human health. To predict the amount of particles emitted as a function of the driving situation or driving condition, a comprehensive database must be prepared and transferred to a prediction model. This makes it possible to simulate environmental pollution in multivalent traffic scenarios. At present, no approaches have been described in the literature by whose application the emission indicators can be effectively pre-dicted. Furthermore, the mechanisms of brake and tire particle formation are as-sociated with highly stochastic phenomena that cannot be captured by traditional deterministic modelling tools. Therefore, machine learning algorithms are used in the present work to identify branched correlations between tribological properties, pad composition and operating conditions. Different experimental methods are presented to determine brake and tire particle emission models. In addition, an approach is presented which reduces the amount of emitted parti-cles on the basis of a situation-dependent driving condition control, especially with regard to future semi-autonomous and autonomous mobility systems.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Feißel, Toni</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1284593894</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Hesse, David</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1223940195</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Ricciardi, Vincenzo</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">123807913X</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Schiele, Martin</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1304142256</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Augsburg, Klaus</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">13000913X</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Toni Feißel, David Hesse, Vincenzo Ricciardi, Martin Schiele, Klaus Augsburg</responsible>
+            <publicationInfo>
+                <issued>2022</issued>
+                <publicationPlaces>
+                    <publicationPlace>Berlin, Germany</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Springer Vieweg</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="ppn">1776070607</identifier>
+                </isPartOf>
+                <articleInfo>
+                    <firstPage>708</firstPage>
+                    <lastPage>728</lastPage>
+                    <pages>708-728</pages>
+                </articleInfo>
+                <journalInfo>
+                    <relationVGE type="ppn">1776070607</relationVGE>
+                    <title>12th International Munich Chassis Symposium 2021</title>
+                    <coverDate>2022-01-01</coverDate>
+                </journalInfo>
+            </additionalDocumentInfo>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="ppn">1776070607</identifier>
+            </related>
+            <related type="parent">
+                <firstPage>708</firstPage>
+                <lastPage>728</lastPage>
+                <pages>708-728</pages>
+                <related type="parent">
+                    <title>12th International Munich Chassis Symposium 2021</title>
+                    <identifier type="ppn">1776070607</identifier>
+                    <coverDate>2022-01-01</coverDate>
+                </related>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106410628" classificationName="bk">
+                    <code>52.20</code>
+                    <entries>
+                        <entry>Antriebstechnik, Getriebelehre</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mas</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4153583-2" type="gnd">
+                    <subject xml:lang="de">Fahrzeugrahmen</subject>
+                </subject>
+                <subject id="4165423-7" type="gnd">
+                    <subject xml:lang="de">Kraftfahrzeugbau</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayKLD">true</property>
+            <property name="displaySubscriberAccess">https://doi.org/10.1007/978-3-662-64550-5_40</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

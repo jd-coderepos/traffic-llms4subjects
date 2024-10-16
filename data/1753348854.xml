@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1753348854</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1753348854">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2021-04-08</databaseDate>
+            <changeDate>2022-05-06</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1753348854</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1753348854</identifier>
+                <identifier type="firstid">KXP:1753348854</identifier>
+                <identifier type="isbn13">9789813365254</identifier>
+                <identifier type="isbn13">9787118117394</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1753348854.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3903408905</identifier>
+                    <creationDate>2022-03-24</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 21 B 1825</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xiv, 247 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Prediction and validation technologies of aerodynamic force and heat for hypersonic vehicle design</title>
+            <abstracts>
+                <abstract xml:lang="de">This book provides an overview of advanced prediction and verification technologies for aerodynamics and aerothermodynamics and assesses a number of critical issues in advanced hypersonic vehicle design. Focusing on state-of-the-art theories and promising technologies for engineering applications, it also presents a range of representative practical test cases. Given its scope, the book offers a valuable asset for researchers who are interested in thermodynamics, aircraft design, wind tunnel testing, fluid dynamics and aerothermodynamics research methods, introducing them to inspiring new research topics. .</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Zhao, Min</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Min Zhao</responsible>
+            <publicationInfo>
+                <issued>2021</issued>
+                <publicationPlaces>
+                    <publicationPlace>Singapore</publicationPlace>
+                    <publicationPlace>[Beijing]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="SG" />
+                    <publicationCountry code="CN" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Springer aerospace technology</title>
+                </journalInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Springer aerospace technology</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106413783" classificationName="bk">
+                    <code>50.33</code>
+                    <entries>
+                        <entry>Technische Strömungsmechanik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4313254-6" type="gnd">
+                    <subject xml:lang="de">Luftwiderstand</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Fluid mechanics.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Aerospace engineering.</subject>
+                </subject>
+                <subject id="4017672-1" type="gnd">
+                    <subject xml:lang="de">Flugzeug</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Astronautics.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Thermodynamics.</subject>
+                </subject>
+                <subject id="4161092-1" type="gnd">
+                    <subject xml:lang="de">Hyperschallbereich</subject>
+                </subject>
+                <subject id="4141510-3" type="gnd">
+                    <subject xml:lang="de">Aerodynamische Aufheizung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

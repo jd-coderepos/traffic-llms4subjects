@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1837639698</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1837639698">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2023-02-27</databaseDate>
+            <changeDate>2024-03-16</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1837639698</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1837639698</identifier>
+                <identifier type="firstid">KXP:1837639698</identifier>
+                <identifier type="isbn13">9783737610926</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1837639698.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4291796684</identifier>
+                    <creationDate>2024-02-02</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RT 1642(23)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XVIII, 234 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Posenbasierte Intentionserkennung von ungeschützten Verkehrsteilnehmern aus einem Fahrzeug</title>
+            <abstracts>
+                <abstract xml:lang="de">Um die Sicherheit, Effizienz und den Komfort im Strassenverkehr zu steigern,werden in Zukunft vermehrt Fahrerassistenzsysteme und teil- oder vollautomatisierteFahrzeuge zum Einsatz kommen. Solche Systeme müssen durchvorausschauendes Fahren in der Lage sein, mit Fussgängern und Radfahrern umzugehen.Dazu bedarf es einer Erkennung ihrer Intention und einer Vorhersageihres Verhaltens in der unmittelbaren Zukunft mithilfe von fahrzeugeigenerSensorik. Diese Arbeit widmet sich der Intentionserkennung von Fussgängernund Radfahrern im Strassenverkehr aus einem Fahrzeug. Unter der Intentionserkennungwerden dabei sowohl die Detektion des Bewegungszustandes,wie beispielsweise Bewegen oder Warten, als auch die Vorhersage zukünftigerAufenthaltsorte verstanden. Es werden maschinelle Lernverfahren zur Intentionserkennungauf Grundlage beobachteter Körperbewegungen und der lokalenUmgebung entwickelt. Der Schwerpunkt der Arbeit liegt auf der Untersuchungvon sog. Posen, eine Repräsentation der Körperhaltung von Fussgängern undRadfahrern, als Indikatoren für das (zukünftige) Verhalten. Dazu wird einVerfahren zur bildbasierten Schätzung der Posen aus einem fahrenden Fahrzeugvorgestellt und evaluiert</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Kreß, Viktor</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1284223698</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Viktor Kreß</responsible>
+            <publicationInfo>
+                <issued>2023</issued>
+                <publicationPlaces>
+                    <publicationPlace>Kassel</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Kassel University Press</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Intelligent embedded systems</title>
+                    <volumeNumber>Band 23</volumeNumber>
+                </journalInfo>
+                <publicationIDInfo>Literaturverzeichnis: Seite 215-234</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Intelligent embedded systems</title>
+                <volumeNumber>Band 23</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106417967" classificationName="bk">
+                    <code>54.80</code>
+                    <entries>
+                        <entry>Angewandte Informatik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>380</code>
+                </classification>
+                <classification classificationID="106421824" classificationName="bk">
+                    <code>55.00</code>
+                    <entries>
+                        <entry>Technik der Verkehrsmittel, Verkehrswesen: Allgemeines</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>150</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>inf</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Radfahrer</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Fussgänger</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Informatik</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Autonomes Fahren</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Intentionserkennung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Maschinelles Lernen</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Trajektorienvorhersage</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>ungeschützte Verkehrsteilnehmer</subject>
+                </subject>
+                <subject id="7714938-5" type="gnd">
+                    <subject xml:lang="de">Autonomes Fahrzeug</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Intelligente und automatisierte Verkehrssysteme</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1620737086</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1620737086">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2016-07-15</databaseDate>
+            <changeDate>2023-02-24</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1620737086</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1620737086</identifier>
+                <identifier type="firstid">BSZ:474263355</identifier>
+                <identifier type="isbn13">9781624103544</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/864305842.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1720631204</identifier>
+                    <creationDate>2018-02-13</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 17 B 4883</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">453 Seiten, 20 Seiten mit farbigen Abbildungen</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Civil and commercial unmanned aircraft systems</title>
+            <abstracts>
+                <abstract xml:lang="de">Introduction -- System Classes -- System Technologies for Civilian Missions -- Economics and Business -- Surveying, Mapping, and Aerial Photography -- Infrastructure -- Agriculture -- Forestry, Wetlands, and Ecology -- Law Enforcement and Public Safety -- Emergency Response -- Logistics and Transport -- Mining and Energy -- Scientific Research -- Communications -- Journalism, Cinematography, and Photography -- Wildlife Management -- Hobbies, Art, and Recreation -- Education and Research -- Miscellaneous Missions -- Special Topics</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Gundlach, Jay</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1065068379</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Jay Gundlach</responsible>
+            <publicationInfo>
+                <issued>2016</issued>
+                <publicationPlaces>
+                    <publicationPlace>Reston, VA</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>American Institute of Aeronautics and Astronautics, Inc.</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>AIAA Education Series</title>
+                </journalInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>AIAA Education Series</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>UG1242.D7</code>
+                </classification>
+                <classification classificationID="181570769" classificationName="bk">
+                    <code>55.54</code>
+                    <entries>
+                        <entry>Flugführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.133/39</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 7440</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4322103-8" type="gnd">
+                    <subject xml:lang="de">Unbemanntes Flugzeug</subject>
+                </subject>
+                <subject id="4332556-7" type="gnd">
+                    <subject xml:lang="de">Drohne (Flugkörper)</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Drone aircraft</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1626644977</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1626644977">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1994-10-04</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>1626644977</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1626644977</identifier>
+                <identifier type="firstid">DNB:940997290</identifier>
+                <identifier type="isbn">3782205812</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">132513498</identifier>
+                    <creationDate>1994-09-09</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">T 94 B 8354</location>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">152 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Tauchboote enträtseln die Meere der Welt : vom Handels-Unterseeboot zum Forschungs-Tauchboot</title>
+            <alternativeTitles>
+                <alternative>Tauchboote</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Bild-Textband über die Geschichte der zivilen Unterwasserschiffahrt des 20. Jahrhunderts. (Martin Paulini)</abstract>
+                <abstract xml:lang="de">Der Amateurforscher Rauter legt eine Geschichte der zivilen Unterwasserschiffahrt des 20. Jahrhunderts vor. Er beginnt mit den deutschen U-Frachtern im 1. Weltkrieg (ca. 1/3 des Umfangs), behandelt Offshore-Meerestechnik, Tiefseeforschung und Touristen-U-Boote. Breiteren Raum nehmen die Leistungen Piccards und Cousteaus ein. Das Werk stellt eine gelungene Mischung aus inhaltlicher Sachlichkeit, allgemeinverständlichem, teils unterhaltendem Text und ansprechender Illustrierung dar. Es sollte noch vor dem thematisch engeren N. Gierschner: Tauchboote (BA 1/81, 409) stehen. (2) (Martin Paulini)</abstract>
+            </abstracts>
+            <contributors>
+                <contributor>
+                    <contributor>Rauter, Julius</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Julius Rauter</responsible>
+            <publicationInfo>
+                <issued>1994</issued>
+                <publicationPlaces>
+                    <publicationPlace>Herford</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Koehler</publisher>
+                </publisher>
+            </publicationInfo>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc-dbn">
+                    <code>31</code>
+                </classification>
+                <classification classificationID="106413805" classificationName="bk">
+                    <code>55.41</code>
+                    <entries>
+                        <entry>Schiffe</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>31</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>36</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Unterseeboot</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Geschichte</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Unterwasserfahrzeug</subject>
+                </subject>
+                <subject id="4074685-9" type="gnd">
+                    <subject xml:lang="de">Meereskunde</subject>
+                </subject>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Meereskunde</subject>
+                </subject>
+                <subject id="4136258-5" type="gnd">
+                    <subject xml:lang="de">Unterwasserfahrzeug</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

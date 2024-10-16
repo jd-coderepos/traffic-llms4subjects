@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:165358341X</identifier><datestamp>2024-06-14</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:165358341X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2016-11-03</databaseDate>
+            <changeDate>2023-04-22</changeDate>
+            <ftxCreationDate>2024-06-14</ftxCreationDate>
+            <documentID>165358341X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">165358341X</identifier>
+                <identifier type="doi">10.1007/978-3-658-15613-8</identifier>
+                <identifier type="firstid">BSZ:479365342</identifier>
+                <identifier type="isbn13">9783658156138</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://doi.org/10.1007/978-3-658-15613-8</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1644002841</identifier>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2016-11-01</creationDate>
+                    <selectionKey>zesp</selectionKey>
+                    <loanIndicator>s</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online-Ressource (XVIII, 121 S. 78 Abb, online resource)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Ein universelles Fahrbahnmodell für die Fahrdynamiksimulation</title>
+            <abstracts>
+                <abstract xml:lang="de">Fahrbahnmodellierung: mathematische Beschreibung der Fahrbahngeometrie und die Interaktion der Fahrbahn mit Reifen-, Fahrer- und Messtechnikmodellen -- Fahrbahnparametrisierung: synthetische und versuchstechnische Fahrbahngenerierung -- Implementierung und Anwendung, Reifen- und Fahrermodelle.</abstract>
+                <abstract xml:lang="de">Andreas Wiesebrock zeigt wesentliche Erweiterungsansätze bei der Modellierung der Fahrbahn für den Einsatz in unterschiedlich komplexen fahrdynamischen Anwendungsfällen. Durch Verwendung einer verallgemeinerten Interpolationsmethodik kann der Autor nahezu jede beliebige Fahrbahnoberfläche mit geringem Rechenaufwand und Speicherbedarf darstellen. Er zeigt diese und weitere Vorteile des universellen Fahrbahnmodells in mehreren Anwendungsfällen auf. Der Inhalt Fahrbahnmodellierung: mathematische Beschreibung der Fahrbahngeometrie und die Interaktion der Fahrbahn mit Reifen-, Fahrer- und Messtechnikmodellen Fahrbahnparametrisierung: synthetische und versuchstechnische Fahrbahngenerierung Implementierung und Anwendung, Reifen- und Fahrermodelle Die Zielgruppen Forschende, Dozierende und Studierende der Kraftfahrzeugtechnik Praktiker der Automobilindustrie und der Zulieferer aus den Bereichen Simulation und Fahrdynamik Der Autor Andreas Wiesebrock erarbeitete die inhaltlichen Schwerpunkte dieses Buches als wissenschaftlicher Mitarbeiter am Institut für Verbrennungsmotoren und Kraftfahrwesen (IVK) der Universität Stuttgart im Bereich Fahrzeugtechnik und Fahrdynamik. Seit 2014 ist er bei einem Lieferant für Getriebesysteme mitverantwortlich für die Weiterentwicklung der internen Simulations- und Analysewerkzeuge im Hinblick auf die Attribute Betriebsfestigkeit, Fahrbarkeit und Effizienz.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Wiesebrock, Andreas</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1119358426</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>von Andreas Wiesebrock</responsible>
+            <publicationInfo>
+                <issued>2016</issued>
+                <publicationPlaces>
+                    <publicationPlace>Wiesbaden</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer Vieweg</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-2-SEB</identifier>
+                    <identifier type="collectioncode">ZDB-2-STI</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>Wissenschaftliche Reihe Fahrzeugtechnik Universität Stuttgart</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>SpringerLink</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>Bücher</title>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>Campusweiter Zugriff (Universität Hannover) - Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Keine Weitergabe an Dritte. Kein systematisches Downloaden durch Robots.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Ein universelles Fahrbahnmodell für die Fahrdynamiksimulation</title>
+                <identifier type="ppn">871137089</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-2-SEB</identifier>
+                <identifier type="collectioncode">ZDB-2-STI</identifier>
+            </related>
+            <related type="parent">
+                <title>Wissenschaftliche Reihe Fahrzeugtechnik Universität Stuttgart</title>
+            </related>
+            <related type="parent">
+                <title>SpringerLink</title>
+            </related>
+            <related type="parent">
+                <title>Bücher</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.2</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL1-483</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4215</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Engineering</subject>
+                </subject>
+                <subject id="4137152-5" type="gnd">
+                    <subject xml:lang="de">Reifen</subject>
+                </subject>
+                <subject id="4135102-2" type="gnd">
+                    <subject xml:lang="de">Fahrbahndecke</subject>
+                </subject>
+                <subject id="4038390-8" type="gnd">
+                    <subject xml:lang="de">Mehrkörpersystem</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Computer simulation</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Dynamical systems</subject>
+                </subject>
+                <subject id="4209037-4" type="gnd">
+                    <subject xml:lang="de">Prüfstand</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Vibration</subject>
+                </subject>
+                <subject id="4198800-0" type="gnd">
+                    <subject xml:lang="de">Fahrbahnunebenheit</subject>
+                </subject>
+                <subject id="4016278-3" type="gnd">
+                    <subject xml:lang="de">Fahrdynamik</subject>
+                </subject>
+                <subject id="4165449-3" type="gnd">
+                    <subject xml:lang="de">Kraftschluss</subject>
+                </subject>
+                <subject id="4376916-0" type="gnd">
+                    <subject xml:lang="de">NURBS</subject>
+                </subject>
+                <subject id="4166225-8" type="gnd">
+                    <subject xml:lang="de">Kurvenfahrt</subject>
+                </subject>
+                <subject id="4153572-8" type="gnd">
+                    <subject xml:lang="de">Fahrsimulator</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Automotive engineering</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Dynamics</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://doi.org/10.1007/978-3-658-15613-8</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

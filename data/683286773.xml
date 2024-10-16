@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:683286773</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:683286773">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2012-01-17</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>683286773</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">683286773</identifier>
+                <identifier type="firstid">GBV:683286773</identifier>
+                <identifier type="isbn13">9781466616431</identifier>
+                <identifier type="isbn13">9781466616455</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/683286773.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1306228492</identifier>
+                    <creationDate>2013-03-20</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 12 B 5605</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xxii, 463 p</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Railway safety, reliability, and security : technologies and systems engineering</title>
+            <abstracts>
+                <abstract xml:lang="de">"This book provides engineering students and professionals with a collection of state-of-the-art methodological and technological notions to support the development and certification of 'real-time safety-critical' railway control systems, as well as the protection of rail transportation infrastructures"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor>
+                    <contributor>Flammini, Francesco</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Francesco Flammini</responsible>
+            <publicationInfo>
+                <issued>2012</issued>
+                <publicationPlaces>
+                    <publicationPlace>Hershey Pa.</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Information Science Reference</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Premier reference source</title>
+                </journalInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>29 cm</description>
+            <description>ill</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Premier reference source</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>TF610</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ST 620</code>
+                </classification>
+                <classification classificationID="106405691" classificationName="bk">
+                    <code>55.30</code>
+                    <entries>
+                        <entry>Schienenfahrzeugtechnik, Eisenbahntechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>625.10028/9</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4054790-5" type="gnd">
+                    <subject xml:lang="de">Sicherheit</subject>
+                </subject>
+                <subject id="4213628-3" type="gnd">
+                    <subject xml:lang="de">Reliabilität</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Railroads</subject>
+                </subject>
+                <subject id="4014024-6" type="gnd">
+                    <subject xml:lang="de">Eisenbahnbetrieb</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

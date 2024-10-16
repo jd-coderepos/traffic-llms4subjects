@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:333323610</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:333323610">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2001-08-29</databaseDate>
+            <changeDate>2024-04-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>333323610</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">333323610</identifier>
+                <identifier type="ean">9783540420125</identifier>
+                <identifier type="firstid">GBV:333323610</identifier>
+                <identifier type="isbn">3540420126</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://external.dandelon.com/download/attachments/dandelon/ids/AT0013CBCA.pdf</location>
+                <location subtype="cover" type="url">https://swbplus.bsz-bw.de/bsz09560927xcov.jpg</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">518596036</identifier>
+                    <creationDate>2001-11-12</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">T 01 B 5553</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-31</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">XVIII, 309 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Kraftfahrzeugführung : [Gedenkband für Prof. Dr. Hans-Peter Willumeit]</title>
+            <abstracts>
+                <abstract xml:lang="de">von IMB an Ref Pn</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Jürgensohn, Thomas</contributor>
+                </contributor>
+                <contributor type="honoree">
+                    <type>honoree</type>
+                    <contributor>Willumeit, Hans-Peter</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">120422255</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor>
+                    <contributor>Timpe, Klaus-Peter</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Thomas Jürgensohn; Klaus-Peter Timpe (Hrsg.)</responsible>
+            <publicationInfo>
+                <issued>2001</issued>
+                <publicationPlaces>
+                    <publicationPlace>Berlin</publicationPlace>
+                    <publicationPlace>Heidelberg [u.a.]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                    <publicationCountry code="US" />
+                    <publicationCountry code="ES" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>ZO 2150</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4700</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>41</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>11</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL259</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>CW 3000</code>
+                </classification>
+                <classification classificationID="181570424" classificationName="bk">
+                    <code>55.24</code>
+                    <entries>
+                        <entry>Fahrzeugführung, Fahrtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4215</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Motor vehicle driving</subject>
+                </subject>
+                <subject id="4129415-4" type="gnd">
+                    <subject xml:lang="de">Bedienteil</subject>
+                </subject>
+                <subject id="4132165-0" type="gnd">
+                    <subject xml:lang="de">Fahrerverhalten</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Angewandte Psychologie</subject>
+                </subject>
+                <subject id="4122815-7" type="gnd">
+                    <subject xml:lang="de">Anzeige (Technik)</subject>
+                </subject>
+                <subject id="4184494-4" type="gnd">
+                    <subject xml:lang="de">Tastwahrnehmung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Motor vehicles</subject>
+                </subject>
+                <subject id="4622983-8" type="gnd">
+                    <subject xml:lang="de">Fahrerassistenzsystem</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

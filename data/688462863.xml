@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:688462863</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:688462863">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2013-02-25</databaseDate>
+            <changeDate>2022-08-07</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>688462863</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">688462863</identifier>
+                <identifier type="doi">10.1049/PBCE069E</identifier>
+                <identifier type="firstid">GBV:688462863</identifier>
+                <identifier type="isbn13">9781849190534</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/bowker/toc/9780863414503.pdf</location>
+                <location subtype="fulltext" type="url">http://dx.doi.org/10.1049/PBCE069E</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1490062424</identifier>
+                    <recallSign>OLR-IET</recallSign>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2014-07-20</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (xviii, 441 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Advances in unmanned marine vehicles</title>
+            <abstracts>
+                <abstract xml:lang="de">The book has 19 chapters and deals with the following topics: unmanned marine vehicle control; obstacle avoidance; tethered flight vehicle verification; ROV motion control; seabed relative navigation; spatio-temporal 3D data visualisation; unmanned surface vehicle; multiple autonomous marine robot and underwater glider</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Roberts, Geoffrey N.</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">136914349</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Sutton, Richard S.</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1099442435</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>edited by G.N. Roberts and R. Sutton</responsible>
+            <publicationInfo>
+                <issued>2006</issued>
+                <publicationPlaces>
+                    <publicationPlace>London</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Institution of engineering and technology</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-IET</identifier>
+                    <identifier type="collectioncode">ZDB-100-CRS</identifier>
+                    <identifier type="collectioncode">ZDB-100-IET</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>IET control engineering series</title>
+                    <volumeNumber>69</volumeNumber>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen</description>
+            <description>Campusweiter Zugriff (Universität Hannover) - Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Keine Weitergabe an Dritte. Kein systematisches Downloaden durch Robots.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druckausgabe</label>
+                <title>Advances in unmanned marine vehicles</title>
+                <identifier type="ppn">500671508</identifier>
+                <identifier type="isbn">0863414508</identifier>
+                <identifier type="isbn13">9780863414503</identifier>
+            </related>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Advances in unmanned marine vehicles</title>
+                <identifier type="ppn">500671508</identifier>
+                <identifier type="isbn">0863414508</identifier>
+                <identifier type="isbn13">9780863414503</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-IET</identifier>
+                <identifier type="collectioncode">ZDB-100-CRS</identifier>
+                <identifier type="collectioncode">ZDB-100-IET</identifier>
+            </related>
+            <related type="parent">
+                <title>IET control engineering series</title>
+                <volumeNumber>69</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.046</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 6660</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">mobile robots</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Vehicles, Remotely piloted</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">motion control</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Submarines (Ships)</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Parallel robots</subject>
+                </subject>
+                <subject id="4016862-1" type="gnd">
+                    <subject xml:lang="de">Fernsteuerung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Mobile robots</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Remote submersibles</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">underwater vehicles</subject>
+                </subject>
+                <subject id="4136257-3" type="gnd">
+                    <subject xml:lang="de">Wasserfahrzeug</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Research vessels</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">remotely operated vehicles</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Vehicles, Remotely piloted</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Motion control devices</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">multi-robot systems</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">collision avoidance</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Collision avoidance systems</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://dx.doi.org/10.1049/PBCE069E</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

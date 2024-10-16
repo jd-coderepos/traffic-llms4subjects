@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:49178452X</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:49178452X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2005-07-07</databaseDate>
+            <changeDate>2024-05-06</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>49178452X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">49178452X</identifier>
+                <identifier type="firstid">GBV:49178452X</identifier>
+                <identifier type="isbn">398047416X</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/bs/toc/49178452x.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">730955168</identifier>
+                    <creationDate>2005-08-02</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">RA 1756(61)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">755140729</identifier>
+                    <creationDate>2006-02-15</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">RA 1756(61) a</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-31</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">195, XV S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Wirkungsanalyse individuell-dynamischer Zielführungssysteme im Straßenverkehr</title>
+            <abstracts>
+                <abstract xml:lang="de">Pilotanwendung "Oberrheingebiet zwischen Karlsruhe und Mannheim/Ludwigshafen", S. 124 ff</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Eberhard, Olaf</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">130249181</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Olaf Eberhard</responsible>
+            <publicationInfo>
+                <issued>2005</issued>
+                <publicationPlaces>
+                    <publicationPlace>Karlsruhe</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Inst. für Verkehrswesen d. Univ.</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Schriftenreihe / Institut für Verkehrswesen, Universität Karlsruhe (TH)</title>
+                    <volumeNumber>61</volumeNumber>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Zugl.: Karlsruhe, Univ., Diss., 2004</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+                <publicationIDInfo>Kurzfassung in dt. und engl. Sprache</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>graph. Darst., Kt.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Schriftenreihe / Institut für Verkehrswesen, Universität Karlsruhe (TH)</title>
+                <volumeNumber>61</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="10642064X" classificationName="bk">
+                    <code>55.84</code>
+                    <entries>
+                        <entry>Straßenverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4620</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4055072-2" type="gnd">
+                    <subject xml:lang="de">Simulation</subject>
+                </subject>
+                <subject id="4134157-0" type="gnd">
+                    <subject xml:lang="de">Verkehrsnachfrage</subject>
+                </subject>
+                <subject id="4057931-1" type="gnd">
+                    <subject xml:lang="de">Straßenverkehr</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Straßenverkehr</subject>
+                </subject>
+                <subject id="4187817-6" type="gnd">
+                    <subject xml:lang="de">Verkehrsleitsystem</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Verkehr</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Verkehrsleitsystem</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

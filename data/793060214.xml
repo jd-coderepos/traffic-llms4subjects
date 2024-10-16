@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:793060214</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:793060214">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2014-08-19</databaseDate>
+            <changeDate>2022-07-17</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>793060214</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">793060214</identifier>
+                <identifier type="firstid">GBV:793060214</identifier>
+                <identifier type="isbn13">9780309295130</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/793060214.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">152087913X</identifier>
+                    <creationDate>2020-11-02</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">Z 4(314)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xvii, 174 pages</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>The Federal Aviation Administration's approach for determining future air traffic controller staffing needs</title>
+            <abstracts>
+                <abstract xml:lang="de">"TRB Special Report 314, The Federal Aviation Administration's Approach for Determining Future Air Traffic Controller Staffing Needs, examines the methods used by the Federal Aviation Administration (FAA) to estimate how many controllers are needed to staff its air traffic control facilities and FAA's processes for using these estimates to properly distribute controllers across facilities. According to the report, FAA's models for determining air traffic controller staffing needs are suitable for developing initial estimates of the number of controllers required at terminal areas and airport towers, but the models used for the centers controlling aircraft en route between airports can be improved. In addition, as a matter of priority, the FAA should collaborate with the National Air Traffic Controllers Association to develop and implement an enhanced tool for all facilities that is capable of creating efficient controller work schedules that incorporate fatigue mitigation strategies. The report recommends that the FAA analyze a wide range of data, such as accident and incident reports and voluntary reports by controllers, to identify relationships between staffing and safety. In addition, the controller workforce should be involved in staffing decisions, particularly as knowledge emerges about relevant safety issues. The report also says that FAA should ensure that staffing continue to be appropriate as FAA implements the new air traffic operations environment associated with the Next Generation Transportation System, a modernization initiative to shift air traffic management from ground-based radar to a satellite system"--Provided by publisher</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="issuing-body">
+                    <type>issuing-body</type>
+                    <name>National Research Council, Transportation Research Board, USA</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">13006-0</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <responsible>Committee for a Study of Federal Aviation Administration Air Traffic Controller Staffing, Transportation Research Board, Board on Human-Systems Integration, Division of Behavioral and Social Sciences and Education, National Research Council of the National Academies</responsible>
+            <publicationInfo>
+                <issued>2014</issued>
+                <publicationPlaces>
+                    <publicationPlace>Washington, D.C</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Transportation Research Board</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Transportation Research Board special report</title>
+                    <volumeNumber>314</volumeNumber>
+                </journalInfo>
+                <publicationIDInfo>Includes bibliographical references</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>23 cm</description>
+            <description>illustrations</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Transportation Research Board special report</title>
+                <volumeNumber>314</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.136/6092</code>
+                </classification>
+                <classification classificationID="181570769" classificationName="bk">
+                    <code>55.54</code>
+                    <entries>
+                        <entry>Flugführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>HD8039.A4252</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Federal Aviation Administration</subject>
+                </subject>
+                <subject id="19542-X" subtype="corporate-body" type="gnd">
+                    <subject xml:lang="de">USA Federal Aviation Administration</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Air traffic controllers</subject>
+                </subject>
+                <subject id="4154771-8" type="gnd">
+                    <subject xml:lang="de">Flugsicherung</subject>
+                </subject>
+                <subject id="4130532-2" type="gnd">
+                    <subject xml:lang="de">Personalbedarf</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">United States</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

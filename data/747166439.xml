@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:747166439</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:747166439">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2013-05-29</databaseDate>
+            <changeDate>2024-04-22</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>747166439</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">747166439</identifier>
+                <identifier type="ean">9783613035850</identifier>
+                <identifier type="firstid">DNB:1034686267</identifier>
+                <identifier type="isbn">3613035855</identifier>
+                <identifier type="isbn13">9783613035850</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/747166439.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1429288418</identifier>
+                    <creationDate>2013-11-13</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 13 B 7478</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-24</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">255 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Deutsche Sportwagen</title>
+            <abstracts>
+                <abstract xml:lang="de">Überblick über die deutsche Sportwagengeschichte nach 1945, der die ausgewählten Fahrzeuge auf über 500 Fotos in alphabetischer Reihenfolge vorstellt</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Köstnick, Joachim M.</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Joachim M. Köstnick</responsible>
+            <publicationInfo>
+                <issued>2013</issued>
+                <edition>1. Aufl.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Stuttgart</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Motorbuch-Verl.</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>305 mm x 230 mm</description>
+            <description>zahlr. Ill.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>ZO 4050</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.22210943022</code>
+                </classification>
+                <classification classificationID="106414992" classificationName="bk">
+                    <code>55.21</code>
+                    <entries>
+                        <entry>Kraftfahrzeuge</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ssg">
+                    <code>19,2</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4116577-9" type="gnd">
+                    <subject xml:lang="de">Sportwagen</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

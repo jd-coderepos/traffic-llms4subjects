@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:890739706</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:890739706">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2017-06-21</databaseDate>
+            <changeDate>2022-01-11</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>890739706</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">890739706</identifier>
+                <identifier type="firstid">GBV:890739706</identifier>
+                <identifier type="isbn13">9781522531760</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/890739706.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1737687488</identifier>
+                    <creationDate>2018-03-08</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 18 B 863</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xviii, 395 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Innovative applications of big data in the railway industry</title>
+            <abstracts>
+                <abstract xml:lang="de">"This book explores how big data technologies can address the operational challenges in the railway industry. It assists academics working in the big data domain to gain an understanding of the problems faced by the rail industry, enabling them to start developing their existing tools and technologies to meet the needs of this dynamic new application domain"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Kohli, Shruti</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1150337648</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Kumar, A. V. Senthil</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1042800766</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Easton, John M.</contributor>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Roberts, Clive</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1150339225</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Shruti Kohli (University of Birmingham, UK), A.V. Senthil Kumar (Hindusthan College of Arts and Science, India), John M. Easton (University of Birmingham, UK), Clive Roberts (University of Birmingham, UK)</responsible>
+            <publicationInfo>
+                <issued>2018</issued>
+                <publicationPlaces>
+                    <publicationPlace>Hershey, PA</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>IGI Global</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Advances in civil and industrial engineering</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>Premier reference source</title>
+                </journalInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>Innovative applications of big data in the railway industry</title>
+                <identifier type="ppn">1654452289</identifier>
+                <identifier type="isbn13">9781522531777</identifier>
+            </related>
+            <related type="parent">
+                <title>Advances in civil and industrial engineering</title>
+            </related>
+            <related type="parent">
+                <title>Premier reference source</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>385.0285/57</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TF507</code>
+                </classification>
+                <classification classificationID="10641240X" classificationName="bk">
+                    <code>54.72</code>
+                    <entries>
+                        <entry>Künstliche Intelligenz</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106405691" classificationName="bk">
+                    <code>55.30</code>
+                    <entries>
+                        <entry>Schienenfahrzeugtechnik, Eisenbahntechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>inf</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4014015-5" type="gnd">
+                    <subject xml:lang="de">Eisenbahn</subject>
+                </subject>
+                <subject id="4428654-5" type="gnd">
+                    <subject xml:lang="de">Data Mining</subject>
+                </subject>
+                <subject id="4802620-7" type="gnd">
+                    <subject xml:lang="de">Big Data</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Railroads</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Big data</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

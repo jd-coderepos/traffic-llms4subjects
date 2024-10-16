@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:322527198</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:322527198">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2001-12-05</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>322527198</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">322527198</identifier>
+                <identifier type="contract">19K9609</identifier>
+                <identifier type="firstid">GBV:322527198</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">414943368</identifier>
+                    <creationDate>2001-05-15</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">F 00 B 1588</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">64 Bl</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>MoTiV-PTA : Projektabschlussbericht ; Projektlaufzeit: 1.05.1996 bis 30.6.2000 ; Mobilität und Transport im intermodalen Verkehr</title>
+            <abstracts>
+                <abstract xml:lang="de">Verkehrstelematik, Telematikdienst, Reisedienst, Mehrwertdienst, Reiseplanung, intermodale Routenplanung, Agentensystem, mobile Datenkommunikation, Fahrzeugintegration von IT-Endgeräten, verkehrsträgerübergreifend, Reiseassistenzsystem</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Bayerische Motoren Werke</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2005475-0</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor>
+                    <contributor>Bauer, Bernhard</contributor>
+                </contributor>
+            </contributors>
+            <responsible>BMW AG ... [Bernhard Bauer] ...</responsible>
+            <publicationInfo>
+                <issued>2000</issued>
+                <publicationPlaces>
+                    <publicationPlace>München</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Unterschiede zwischen dem gedruckten Dokument und der elektronischen Dokumentenversion können nicht ausgeschlossen werden</publicationIDInfo>
+                <publicationIDInfo>Auch als elektronische Ressource vorh</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="181570424" classificationName="bk">
+                    <code>55.24</code>
+                    <entries>
+                        <entry>Fahrzeugführung, Fahrtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="sigle">
+                    <code>05V</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4622983-8" type="gnd">
+                    <subject xml:lang="de">Fahrerassistenzsystem</subject>
+                </subject>
+                <subject id="4467581-1" type="gnd">
+                    <subject xml:lang="de">Verkehrsinformation</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

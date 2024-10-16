@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:39093187X</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:39093187X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2004-07-21</databaseDate>
+            <changeDate>2024-04-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>39093187X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">39093187X</identifier>
+                <identifier type="contract">19B9901</identifier>
+                <identifier type="contract">19B9901F</identifier>
+                <identifier type="doi">10.2314/GBV:39093187X</identifier>
+                <identifier type="firstid">GBV:39093187X</identifier>
+            </identifiers>
+            <locations>
+                <location mimetype="application/pdf" subtype="fulltext" type="url">https://edocs.tib.eu/files/e01fb04/39093187X.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">656850345</identifier>
+                    <creationDate>2004-07-21</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-89</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">Online-Ressource (52 p. = 2,51 MB)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Leitprojekt WAYFLOW - Satellitengestützte Erfassung und Verwertung von Daten aus dem fließenden Verkehr (City-FCD) : Schlussbericht ; Teilprojekt: City-FCD</title>
+            <alternativeTitles>
+                <alternative>WAYFLOW</alternative>
+                <alternative>Satellitengestützte Erfassung und Verwertung von Daten aus dem fließenden Verkehr (City-FCD)</alternative>
+                <alternative>Mobility project - Wayflow - satellite supported acquisition and utilisation of mobile traffic data (City-FCO)</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Floating car data, traffic control, traffic information, services, traffic management, vehicle tracking</abstract>
+            </abstracts>
+            <contributors>
+                <contributor>
+                    <contributor>Schmidt, Susanne</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Schönewolf, Werner</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Susanne Schmidt; Werner Schönewolf</responsible>
+            <publicationInfo>
+                <issued>2003</issued>
+                <edition>Version: 1.0</edition>
+                <publicationPlaces>
+                    <publicationPlace>Berlin</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Fraunhofer Inst. für Produktionsanlagen und Konstruktionstechnik, IPK</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-296-TTN</identifier>
+                </isPartOf>
+                <publicationIDInfo>nIndex. - Contract BMBF 19B9901F. - Engl. title [researched]: Mobility project - Wayflow - satellite supported acquisition and utilisation of mobile traffic data (City-FCO)</publicationIDInfo>
+                <publicationIDInfo>Differences between the printed and electronic version of the document are possible</publicationIDInfo>
+                <publicationIDInfo>Also available as printed version</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>ill., graphs., map</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-296-TTN</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420658" classificationName="bk">
+                    <code>55.83</code>
+                    <entries>
+                        <entry>Stadtverkehr, Nahverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4216824-7" type="gnd">
+                    <subject xml:lang="de">GPS</subject>
+                </subject>
+                <subject id="4467581-1" type="gnd">
+                    <subject xml:lang="de">Verkehrsinformation</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">default</property>
+            <property name="displaySubscriberAccess">https://edocs.tib.eu/files/e01fb04/39093187X.pdf</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

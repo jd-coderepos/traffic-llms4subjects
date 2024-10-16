@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1688722165</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1688722165">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2020-01-28</databaseDate>
+            <changeDate>2021-10-06</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1688722165</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1688722165</identifier>
+                <identifier type="firstid">KXP:1688722165</identifier>
+                <identifier type="isbn13">9781119667001</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1688722165.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3695882409</identifier>
+                    <creationDate>2021-08-20</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 20 B 2513</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xix, 158 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Essentials of supersonic commercial aircraft conceptual design</title>
+            <abstracts>
+                <abstract xml:lang="de">"Since the birth of Concorde there has been a wealth of scientific publications on topics such as the development of supersonic cruise vehicles, aerodynamics, propulsion, structural design and flight physics, in particular analysis of the sonic boom. However, since the demise of Concorde more than half a century ago, there are no designers left with the experience and knowledge required for developing a new initial design proposal. Conceptual Design of Supersonic Commercial Aircraft addresses this need and is a must-have guide to conceptual supersonic aircraft design, providing a state-of-the art overview, expert analysis and discussion. It examines the challenges of high-speed flight, covers aerodynamic phenomena in supersonic flow and aerodynamic drag in cruising flight, and discusses the advantages and disadvantages of oblique wing aircraft. The development of supersonic technology since the end of the twentieth century has primarily advanced in the field of transonic and supersonic aerodynamics. For example, many studies have been made in the field of configurations with oblique wings, promising improvements of the flight efficiency up to 20% as well as large gains in reducing the sonic boom, take-off noise and low speed performance improvements. From this point of a view, a new generation of supersonic passenger aircraft could have a commercial future a decade from now"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Torenbeek, Egbert</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1213999367</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Egbert Torenbeek, Delft University of Technology, Netherlands</responsible>
+            <publicationInfo>
+                <issued>2020</issued>
+                <publicationPlaces>
+                    <publicationPlace>Hoboken, NJ</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>JWiley</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Aerospace series</title>
+                </journalInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Diagramme, Illustrationen</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Aerospace series</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.133/349</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL685.7</code>
+                </classification>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4186622-8" type="gnd">
+                    <subject xml:lang="de">Überschallflugzeug</subject>
+                </subject>
+                <subject id="4121851-6" type="gnd">
+                    <subject xml:lang="de">Verkehrsflugzeug</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Supersonic transport planes</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

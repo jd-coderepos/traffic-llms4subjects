@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:671726803</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:671726803">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2011-11-08</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>671726803</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">671726803</identifier>
+                <identifier type="firstid">GBV:671726803</identifier>
+                <identifier type="isbn">1560278919</identifier>
+                <identifier type="isbn13">9781560278917</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1287261329</identifier>
+                    <creationDate>2012-10-09</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 12 B 1714</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">VI, 98 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Helicopter maneuvers manual : a step-by-step illustrated guide to performing all helicopter flight operations</title>
+            <abstracts>
+                <abstract xml:lang="de">"Providing a detailed look at helicopter maneuvers, the information in this guide helps to solidify concepts gained from flight training in a student pilot's mind by incorporating the Practical Test Standards into every maneuver description. The graphical and textual explanations work in conjunction with an instructor's lessons, allowing students to prepare before sessions and to review afterwards as well. Because helicopter pilots must rely on their memory or understanding of a particular maneuver, the Helicopter Maneuvers Manual provides readers with a crystal-clear picture of what level of performance is expected of them every step and includes insights into the common errors associated with each move"--</abstract>
+                <abstract xml:lang="de">"An excellent resource for students and flight instructors alike, the Helicopter Maneuvers Manual helps pilots acquire a mental picture of each phase of flight. With this comprehensive guide, author Ryan Dale has captured his countless hours spent at the whiteboard in full-color illustrations that show exactly what to do or expect in each part of a maneuver. The information in this guide helps pilots visualize concepts learned in flight training and incorporate the Practical Test Standards into every maneuver. The full-color illustrations and textual explanations work in conjunction with an instructor's lessons, and facilitate effective preflight and postflight briefings. The Helicopter Maneuvers Manual gives readers a crystal-clear picture of what level of performance is expected of them for each flight profile and includes insights into the common errors associated with each maneuver. Applicable to all helicopter models, the book also features tips for the popular Robinson R22. This book is an essential tool for any helicopter pilot's flight bag"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Dale, Ryan</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Ryan Dale</responsible>
+            <publicationInfo>
+                <issued>2011</issued>
+                <publicationPlaces>
+                    <publicationPlace>Newcastle, Wash. [u.a.]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Aviation Supplies &amp; Academics</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>28 cm</description>
+            <description>Ill.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.132/5252</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>TRA002050</code>
+                </classification>
+                <classification classificationID="181570769" classificationName="bk">
+                    <code>55.54</code>
+                    <entries>
+                        <entry>Flugführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL716.5</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>STU021000</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4025993-6" type="gnd">
+                    <subject xml:lang="de">Hubschrauber</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Helicopters</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

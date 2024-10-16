@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:826993648</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:826993648">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2015-06-10</databaseDate>
+            <changeDate>2023-04-12</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>826993648</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">826993648</identifier>
+                <identifier type="firstid">GBV:826993648</identifier>
+                <identifier type="isbn13">9783000494956</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/826993648.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1545347719</identifier>
+                    <creationDate>2015-06-10</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 15 B 2726</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">195 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Solution methods for variational problems of low thrust space flight mechanics</title>
+            <abstracts>
+                <abstract xml:lang="de">Introduction -- Methods of low thrust space flight optimization -- Mathematical models of optimization problems -- Applied problems of low thrust space flight optimization</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Salmin, Vadim Viktorovich</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Ishkov, Sergey Alekseevichi</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Starinova, Olga Leonardovna</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Ishkov, Sergey Alekseevich</contributor>
+                </contributor>
+            </contributors>
+            <responsible>V. V. Samin; S. A. Ishkov; O. L. Starinova</responsible>
+            <publicationInfo>
+                <issued>2014</issued>
+                <publicationPlaces>
+                    <publicationPlace>Hanover</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>European Acad. of Natural Science Press</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Literaturverz. S. 191 - 195</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>graph. Darst.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 8200</code>
+                </classification>
+                <classification classificationID="106410334" classificationName="bk">
+                    <code>55.60</code>
+                    <entries>
+                        <entry>Raumfahrttechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL784.T5</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Space flight</subject>
+                </subject>
+                <subject id="4154760-3" type="gnd">
+                    <subject xml:lang="de">Flugmechanik</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Raumfahrt</subject>
+                </subject>
+                <subject id="4048574-2" type="gnd">
+                    <subject xml:lang="de">Raumfahrt</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Rocket engines</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Flugmechanik</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

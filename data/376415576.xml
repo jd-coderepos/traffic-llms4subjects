@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:376415576</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:376415576">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2004-01-07</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>376415576</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">376415576</identifier>
+                <identifier type="contract">01IL903E4</identifier>
+                <identifier type="contract">01IL903E</identifier>
+                <identifier type="contract">01IL903</identifier>
+                <identifier type="firstid">GBV:376415576</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">62932820X</identifier>
+                    <creationDate>2004-05-19</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">F 04 B 164</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">52 Bl</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>BMBF-Leitprojekt ARVIKA 1999 - 2003 : Berichtszeitraum: 01.07.1999 - 30.06.2003 ; (Schlussbericht)</title>
+            <alternativeTitles>
+                <alternative>ARVIKA Abschlussbericht</alternative>
+                <alternative>ARVIKA final report</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Augmented reality (AR), mobile computing, multimodal interaction (MMI), virtual reality (VR), industrial user interfaces, user-centered system design, new IT-methods, streaming visualisation, cable installation</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Willers, Dominik</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Regenbrecht, Holger</contributor>
+                </contributor>
+            </contributors>
+            <responsible>[Autoren des Berichts: Dominik Willers; Holger Regenbrecht]. Projektleiter: Bernd Lühr</responsible>
+            <publicationInfo>
+                <issued>2003</issued>
+                <edition>Version: 23.09.2003</edition>
+                <publicationPlaces>
+                    <publicationPlace>Hamburg</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Airbus Deutschland</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Förderkennzeichen BMBF 01 IL 903 E4. - Engl. Zsfass. u.d.T.: ARVIKA final report. - Literaturverz. Bl. 46 - 47</publicationIDInfo>
+                <publicationIDInfo>Unterschiede zwischen dem gedruckten Dokument und der elektronischen Ressource können nicht ausgeschlossen werden</publicationIDInfo>
+                <publicationIDInfo>Auch als elektronische Ressource vorh.</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106423339" classificationName="bk">
+                    <code>54.76</code>
+                    <entries>
+                        <entry>Computersimulation</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>inf</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4154782-2" type="gnd">
+                    <subject xml:lang="de">Flugzeugbau</subject>
+                </subject>
+                <subject id="4715802-5" type="gnd">
+                    <subject xml:lang="de">Erweiterte Realität (Informatik)</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

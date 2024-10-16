@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:15676931X</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:15676931X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1994-08-12</databaseDate>
+            <changeDate>2024-03-28</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>15676931X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">15676931X</identifier>
+                <identifier type="firstid">DNB:941696316</identifier>
+                <identifier type="isbn">376880853X</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">135681812</identifier>
+                    <creationDate>1994-11-11</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">L ver 300</location>
+                    <location type="tibShelfmark">U 94 B 2323</location>
+                    <loanIndicator>i</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">478 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Seemännisches Wörterbuch</title>
+            <abstracts>
+                <abstract xml:lang="de">Bringt kurze, allgemeinverständliche Begriffsbestimmungen zur Seefahrt und zu angrenzenden Fachgebieten (Meteorologie, Meereskunde u.a.) in übersichtlicher Zusammenstellung für Fachleute und Laien. Wurde gegenüber der 1. Auflage 1973 (BA 310, 282) aktualisiert und ergänzt (z.B. bei Navigation, Ausbildung, Seerecht). Nach wie vor empfehlenswert (die Vorauflage sollte ersetzt werden). (2 A) (LK/N: Pleuß)</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Claviez, Wolfram</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Wolfram Claviez</responsible>
+            <publicationInfo>
+                <issued>1994</issued>
+                <edition>3., aktualisierte und erweiterte Auflage</edition>
+                <publicationPlaces>
+                    <publicationPlace>Bielefeld</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Delius Klasing Verlag</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Literaturverzeichnis: Seite 475-478</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>23 cm</description>
+            <description>Illustrationen</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106421832" classificationName="bk">
+                    <code>55.86</code>
+                    <entries>
+                        <entry>Schiffsverkehr, Schifffahrt</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106420577" classificationName="bk">
+                    <code>55.40</code>
+                    <entries>
+                        <entry>Schiffstechnik, Schiffbau</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>NC 2900</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 6000</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>41</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>03</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>03</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4052397-4" type="gnd">
+                    <subject xml:lang="de">Schiffbau</subject>
+                </subject>
+                <subject id="4116383-7" type="gnd">
+                    <subject xml:lang="de">Schifffahrt</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Schiffbau</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Wörterbuch</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Schiffahrt</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+            <property name="displayKLD">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

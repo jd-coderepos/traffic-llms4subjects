@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:68448546X</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:68448546X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2012-01-31</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>68448546X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">68448546X</identifier>
+                <identifier type="firstid">GBV:68448546X</identifier>
+                <identifier type="isbn13">9781439819654</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1300606169</identifier>
+                    <creationDate>2012-05-04</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 12 B 3791</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XVIII, 89 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>The basics of self-balancing processes : true lean continuous flow</title>
+            <abstracts>
+                <abstract xml:lang="de">"Since Henry Ford sent the first chassis down the assembly line, line balancing issues have proven hard to eradicate. Often time the achievement of takt is an illusion. Relying on a number of successful case studies of improvements initiated by the author, this book demonstrates ways to recognize weak links and continually solve them. It offers rules, tools (including simulation software), and guidelines to eliminate problems before they start or at the root"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Ghirann, Gordon</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Gordon Ghirann</responsible>
+            <publicationInfo>
+                <issued>2012</issued>
+                <publicationPlaces>
+                    <publicationPlace>Boca Raton, Fla [u.a.]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>CRC Press / Taylor &amp; Francis</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>A Productivity Press Book</publicationIDInfo>
+                <publicationIDInfo>Includes index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>24 cm</description>
+            <description>graph. Darst</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>670.42</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>BUS053000</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>BUS070050</code>
+                </classification>
+                <classification classificationID="106421409" classificationName="bk">
+                    <code>52.80</code>
+                    <entries>
+                        <entry>Montage, Handhabungstechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>QP 543</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TS178.5</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mas</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4154634-9" type="gnd">
+                    <subject xml:lang="de">Fließfertigung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Assembly-line balancing</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Lean manufacturing</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

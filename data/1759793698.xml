@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1759793698</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1759793698">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2021-06-04</databaseDate>
+            <changeDate>2022-07-08</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1759793698</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1759793698</identifier>
+                <identifier type="firstid">KXP:1759793698</identifier>
+                <identifier type="isbn13">9789811589003</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1759793698.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3934517552</identifier>
+                    <creationDate>2022-06-09</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 21 B 2822</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xxxii, 461 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Steady glide dynamics and guidance of hypersonic vehicle</title>
+            <abstracts>
+                <abstract xml:lang="de">This book presents the latest researches on hypersonic steady glide dynamics and guidance, including the concept of steady glide reentry trajectory and the stability of its regular perturbation solutions, trajectory damping control technique for hypersonic glide reentry, singular perturbation guidance of hypersonic glide reentry, trajectory optimization based on steady glide, linear pseudospectral generalized nominal effort miss distance guidance, analytical entry guidance and trajectory-shaping guidance with final speed and load factor constraints. They can be used to solve many new difficult problems in entry guidance. And many practical engineering cases are provided for the readers for better understanding. Researchers and students in the fields of flight vehicle design or flight dynamics, guidance and control could use the book as valuable reference.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Chen, Wanchun</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Zhou, Hao</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Yu, Wenbin</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Yang, Liang</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Wanchun Chen, Hao Zhou, Wenbin Yu, Liang Yang</responsible>
+            <publicationInfo>
+                <issued>2021</issued>
+                <publicationPlaces>
+                    <publicationPlace>Singapore</publicationPlace>
+                    <publicationPlace>Beijing</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="SG" />
+                    <publicationCountry code="CN" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Diagramme</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="181570769" classificationName="bk">
+                    <code>55.54</code>
+                    <entries>
+                        <entry>Flugführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Mathematical optimization.</subject>
+                </subject>
+                <subject id="4154760-3" type="gnd">
+                    <subject xml:lang="de">Flugmechanik</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">System theory.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Astrophysics.</subject>
+                </subject>
+                <subject id="4154750-0" type="gnd">
+                    <subject xml:lang="de">Flugführung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Control engineering.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Aerospace engineering.</subject>
+                </subject>
+                <subject id="4168246-4" type="gnd">
+                    <subject xml:lang="de">Luftfahrzeug</subject>
+                </subject>
+                <subject id="7706581-5" type="gnd">
+                    <subject xml:lang="de">Hypersonische Geschwindigkeit</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Astronautics.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Astronomy.</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

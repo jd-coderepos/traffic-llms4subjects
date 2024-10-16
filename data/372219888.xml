@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:372219888</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:372219888">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2003-10-28</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>372219888</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">372219888</identifier>
+                <identifier type="contract">50YH0001</identifier>
+                <identifier type="contract">MEDIS-TPOTN-TN-055</identifier>
+                <identifier type="firstid">GBV:372219888</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">62009432X</identifier>
+                    <creationDate>2004-03-24</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">F 03 B 1351</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">56 Bl</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Medis Schlussbericht : [Phase A/B-Untersuchungen des Multimedia Demonstrationsexperiments (MEDIS)]</title>
+            <abstracts>
+                <abstract xml:lang="de">Multimedia, broadband, Ka-band, communication, constellation, MEO, GPS, star tracker, laser terminal, on-board processing, COLUMBUS, TCP/IP, ATM, in-orbit verification, MEDIS</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Astrium GmbH, Raumfahrt-Infrastruktur, Bremen</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">6087249-4</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+                <corporateCreator>
+                    <name>Tesat-Spacecom GmbH, Backnang</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">6086105-8</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor>
+                    <contributor>Bank, Christian</contributor>
+                </contributor>
+            </contributors>
+            <responsible>astrium; TESAT Spacecom. [ Autoren des Berichts: Bank, Christian ...]</responsible>
+            <publicationInfo>
+                <issued>2003</issued>
+                <publicationPlaces>
+                    <publicationPlace>München [u.a.]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Förderkennzeichen BMBF 50 YH 0001</publicationIDInfo>
+                <publicationIDInfo>Unterschiede zwischen dem gedruckten Dokument und der elektronischen Ressource können nicht ausgeschlossen werden</publicationIDInfo>
+                <publicationIDInfo>Auch als elektronische Ressource vorh</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106417665" classificationName="bk">
+                    <code>53.74</code>
+                    <entries>
+                        <entry>Hochfrequenztechnik, Funktechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106410334" classificationName="bk">
+                    <code>55.60</code>
+                    <entries>
+                        <entry>Raumfahrttechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4192358-3" type="gnd">
+                    <subject xml:lang="de">Multimedia</subject>
+                </subject>
+                <subject id="4164812-2" type="gnd">
+                    <subject xml:lang="de">Kommunikationssatellit</subject>
+                </subject>
+                <subject id="4767988-8" type="gnd">
+                    <subject xml:lang="de">Ka-Band</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

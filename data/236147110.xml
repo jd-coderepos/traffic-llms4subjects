@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:236147110</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:236147110">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1997-11-05</databaseDate>
+            <changeDate>2024-05-06</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>236147110</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">236147110</identifier>
+                <identifier type="firstid">DNB:951576429</identifier>
+                <identifier type="isbn">3613018535</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="review" type="url">http://www.gbv.de/dms/faz-rez/F19971216WPBUCH-100.pdf</location>
+                <location subtype="review" type="url">http://www.gbv.de/dms/faz-rez/FTUM201208283605651_7.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">270766839</identifier>
+                    <creationDate>1998-03-30</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">T 98 B 777</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-24</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">412 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Die NSU-Story : die Chronik einer Weltmarke ; [Jubiläumsausgabe 125 Jahre NSU]</title>
+            <abstracts>
+                <abstract xml:lang="de">NSU hat jede Menge Know-how in Sachen Zweirad. Aber auch die Autos aus Neckarsulm können sich sehen lassen. Der Ro 80 schrieb sogar Automobilgeschichte.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>NSU GmbH, Neckarsulm</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2174658-8</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Schneider, Peter</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">128515732</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Peter Schneider</responsible>
+            <publicationInfo>
+                <issued>1997</issued>
+                <edition>1. Aufl.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Stuttgart</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Motorbuch-Verl.</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>27 cm</description>
+            <description>überw. Ill</description>
+            <hiddenSearchTerm>Hundertfünfundzwanzig</hiddenSearchTerm>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>ZO 4200</code>
+                </classification>
+                <classification classificationID="106414992" classificationName="bk">
+                    <code>55.21</code>
+                    <entries>
+                        <entry>Kraftfahrzeuge</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>36</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Unternehmensgeschichte</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Neuzeit 1871-1918</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Kraftfahrzeugbau</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>NSU</subject>
+                </subject>
+                <subject id="4371389-0" type="gnd">
+                    <subject xml:lang="de">NSU (Marke)</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>20. Jahrhundert</subject>
+                </subject>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Kraftfahrzeugindustrie</subject>
+                </subject>
+                <subject id="4073757-3" type="gnd">
+                    <subject xml:lang="de">Kraftfahrzeug</subject>
+                </subject>
+                <subject id="4040392-0" type="gnd">
+                    <subject xml:lang="de">Motorrad</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Kraftfahrzeug</subject>
+                </subject>
+                <subject id="2020392-5" subtype="corporate-body" type="gnd">
+                    <subject xml:lang="de">NSU-Motorenwerke</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

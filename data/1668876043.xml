@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1668876043</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1668876043">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2019-07-09</databaseDate>
+            <changeDate>2021-07-05</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1668876043</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1668876043</identifier>
+                <identifier type="firstid">KXP:1668876043</identifier>
+                <identifier type="isbn13">9781118934456</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1668876043.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3574941633</identifier>
+                    <creationDate>2021-01-25</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 20 B 328</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xxxiii, 520 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Flight dynamics and control of aero and space vehicles</title>
+            <abstracts>
+                <abstract xml:lang="de">"Flight Vehicle Dynamics and Control is a comprehensive textbook which presents aircraft and spacecraft dynamics and control in one unified treatment. It covers thefundamental topics in the dynamics and control of various flight vehicles, including wing, rotary wing atmospheric vehicles, as well as space vehicles including spacecraft, missiles and launch vehicles. It begins with derivation of the equations and the application of these to aircraft and spacecraft cases, before covering the essentials of aircraft and spacecraft dynamics. An introduction to state space and transfer function description of dynamic systems is also presented. Finally flight vehicle control systems design is covered with illustrative examples of application to aircraft and spacecraft control systems design. Worked examples and end of chapter problems are also included with a solutions manual available on a companion website"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Yedavalli, Rama K.</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1219164372</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Rama K. Yedavalli (The Ohio State University, USA)</responsible>
+            <publicationInfo>
+                <issued>2020</issued>
+                <edition>First edition</edition>
+                <publicationPlaces>
+                    <publicationPlace>Hoboken, NJ</publicationPlace>
+                    <publicationPlace>Chichester, West Sussex</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Wiley</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Aerospace series</title>
+                </journalInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Aerospace series</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>TL589.4</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.132/6</code>
+                </classification>
+                <classification classificationID="181570416" classificationName="bk">
+                    <code>55.64</code>
+                    <entries>
+                        <entry>Raumfahrzeugführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="181570769" classificationName="bk">
+                    <code>55.54</code>
+                    <entries>
+                        <entry>Flugführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 7000</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Airplanes</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Space vehicles</subject>
+                </subject>
+                <subject id="4048579-1" type="gnd">
+                    <subject xml:lang="de">Raumfahrzeug</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Flight control</subject>
+                </subject>
+                <subject id="4048574-2" type="gnd">
+                    <subject xml:lang="de">Raumfahrt</subject>
+                </subject>
+                <subject id="4017672-1" type="gnd">
+                    <subject xml:lang="de">Flugzeug</subject>
+                </subject>
+                <subject id="4328094-8" type="gnd">
+                    <subject xml:lang="de">Flugregelung</subject>
+                </subject>
+                <subject id="4036557-8" type="gnd">
+                    <subject xml:lang="de">Luftfahrt</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:667117067</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:667117067">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2011-08-24</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>667117067</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">667117067</identifier>
+                <identifier type="ean">9780470626672</identifier>
+                <identifier type="firstid">GBV:667117067</identifier>
+                <identifier type="isbn13">9780470626672</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/bowker/toc/9780470626672.pdf</location>
+                <location subtype="cover" type="url">https://swbplus.bsz-bw.de/bsz356136701cov.jpg</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1286116228</identifier>
+                    <creationDate>2012-10-05</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 12 B 1567</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XIV, 706 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Aircraft dynamics : from modeling to simulation</title>
+            <abstracts>
+                <abstract xml:lang="de">"Napolitano's Aircraft Dynamics is designed to help readers extrapolate from low level formulas, equations, and details to high level comprehensive views of the main concepts. the text also helps readers with fundamental skills of learning the "basic modeling" of the aircraft aerodynamics and dynamics. The main objective is to organize the topics in "modular blocks" each of them leading to the understanding of the inner mechanisms of the aircraft aerodynamics and dynamics, eventually leading to the development of simple flight simulations schemes"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Napolitano, Marcello R.</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1022327135</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Marcello R. Napolitano</responsible>
+            <publicationInfo>
+                <issued>2012</issued>
+                <publicationPlaces>
+                    <publicationPlace>Hoboken, NJ</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Wiley</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 7230</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.132/30015118</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 7250</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL570</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Structural dynamics</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Aerodynamics</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Airplanes</subject>
+                </subject>
+                <subject id="4154760-3" type="gnd">
+                    <subject xml:lang="de">Flugmechanik</subject>
+                </subject>
+                <subject id="4135410-2" type="gnd">
+                    <subject xml:lang="de">Flugzeugaerodynamik</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

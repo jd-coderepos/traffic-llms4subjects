@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:604723407</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:604723407">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2009-07-15</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>604723407</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">604723407</identifier>
+                <identifier type="firstid">GBV:604723407</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1154322823</identifier>
+                    <creationDate>2012-06-25</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RT 717(2642)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">22 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Infrastructure investment in network industries : the role of incentive regulation and regulatory independence</title>
+            <abstracts>
+                <abstract xml:lang="de">This paper finds that coherent regulatory policies can boost investment in network industries of OECD economies. Rate-of-return regulation is generally thought to result in overinvestment, while incentive regulation is believed to entail underinvestment. Yet, previous empirical work has generally found that the introduction of incentive regulation has not systematically changed investment in network industries. According to the theoretical literature, regulatory uncertainty exposes both types of regimes to the danger of underinvestment. However, regulatory uncertainty is arguably higher under rate-of-return regulation because investment decisions (what can be included in the rate base) are usually evaluated in a discretionary manner, while firms operating under incentive regulation are less affected by this behaviour. In addition, incentive regulation encourages investment in cost-reducing technologies. Using Bayesian model averaging techniques, this paper shows that incentive regulation implemented jointly with an independent sector regulator (indicating lower regulatory uncertainty) has a strong positive impact on investment in network industries. In addition, lower barriers to entry are also found to encourage sectoral investment. These results support the importance of implementing policies in a coherent framework.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Égert, Balázs</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">130374881</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Balázs Égert</responsible>
+            <publicationInfo>
+                <issued>2009</issued>
+                <publicationPlaces>
+                    <publicationPlace>München</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Univ., Center for Economic Studies [u.a.]</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>CESifo working paper series</title>
+                    <volumeNumber>2642</volumeNumber>
+                </journalInfo>
+                <journalInfo>
+                    <title>Industrial organisation</title>
+                </journalInfo>
+                <publicationIDInfo>Literaturverz. S. 20 - 21</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>CESifo working paper series</title>
+                <volumeNumber>2642</volumeNumber>
+            </related>
+            <related type="parent">
+                <title>Industrial organisation</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc-dbn">
+                    <code>670</code>
+                </classification>
+                <classification classificationID="106421050" classificationName="bk">
+                    <code>74.75</code>
+                    <entries>
+                        <entry>Verkehrsplanung, Verkehrspolitik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>arc</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4201190-5" type="gnd">
+                    <subject xml:lang="de">Regulierung</subject>
+                </subject>
+                <subject id="4027556-5" type="gnd">
+                    <subject xml:lang="de">Investition</subject>
+                </subject>
+                <subject id="4026779-9" type="gnd">
+                    <subject xml:lang="de">Industrie</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

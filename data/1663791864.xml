@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1663791864</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1663791864">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2019-04-29</databaseDate>
+            <changeDate>2023-12-14</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>1663791864</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1663791864</identifier>
+                <identifier type="firstid">KXP:1663791864</identifier>
+                <identifier type="isbn13">9781522582144</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1663791864.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3490958535</identifier>
+                    <creationDate>2020-10-01</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 19 B 2817</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xviii, 313 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Recent advances in satellite aeronautical communications modeling</title>
+            <abstracts>
+                <abstract xml:lang="de">"This book explores aeronautical satellite communications modeling, taking into account various standards, types of communication channels, modulations, types of fading, different architecture of satellite communication channels, traffic types, and the number of aircraft and satellites"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Grekhov, Andrii Mikhailovich</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1218723769</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Andrii Mikhailovich Grekhov, National Aviation University, Ukraine</responsible>
+            <publicationInfo>
+                <issued>2019</issued>
+                <publicationPlaces>
+                    <publicationPlace>Hershey, PA</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>IGI Global</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Premier reference source</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>Advances in wireless technologies and telecommunication (AWWT)</title>
+                </journalInfo>
+                <publicationIDInfo>Includes bibliographical references</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>Recent advances in satellite aeronautical communications modeling</title>
+                <identifier type="isbn">1522582150</identifier>
+                <identifier type="ppn">1067584285</identifier>
+                <identifier type="isbn13">9781522582151</identifier>
+            </related>
+            <related type="parent">
+                <title>Premier reference source</title>
+            </related>
+            <related type="parent">
+                <title>Advances in wireless technologies and telecommunication (AWWT)</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>621.3841/56011</code>
+                </classification>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106417665" classificationName="bk">
+                    <code>53.74</code>
+                    <entries>
+                        <entry>Hochfrequenztechnik, Funktechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL692</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4138349-7" type="gnd">
+                    <subject xml:lang="de">Satellitenfunk</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Artificial satellites in telecommunication</subject>
+                </subject>
+                <subject id="4154756-1" type="gnd">
+                    <subject xml:lang="de">Flugkörper</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Aeronautics</subject>
+                </subject>
+                <subject id="4168246-4" type="gnd">
+                    <subject xml:lang="de">Luftfahrzeug</subject>
+                </subject>
+                <subject id="1312926775" type="gnd">
+                    <subject xml:lang="de">Ferngesteuertes Luftfahrtsystem</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

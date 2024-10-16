@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1164551884</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1164551884">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2001-09-17</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1164551884</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1164551884</identifier>
+                <identifier type="contract">DLR FB  2000 44</identifier>
+                <identifier type="contract">DLR-FB--2000-44</identifier>
+                <identifier type="firstid">BSZ:09455188X</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/bs/toc/333770234.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">515552577</identifier>
+                    <creationDate>2001-09-11</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RN 437(2000,44)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">154 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Final report: SIREV - development of a functional model : 9 tables</title>
+            <abstracts>
+                <abstract xml:lang="de">Forward looking airborne radar (FLAR), extended chirp scaling (ECS) algorithm</abstract>
+            </abstracts>
+            <contributors>
+                <contributor>
+                    <contributor>Buckreuß, Stefan</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Stefan Buckreuß ...</responsible>
+            <publicationInfo>
+                <issued>2001</issued>
+                <edition>Als Ms. gedr.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Köln</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Dt. Zentrum für Luft- und Raumfahrt e.V., Bibliotheks- und Informationswesen</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Forschungsbericht / Deutsches Zentrum für Luft- und Raumfahrt e.V.</title>
+                    <volumeNumber>2000-44</volumeNumber>
+                </journalInfo>
+                <publicationIDInfo>Mit 91 Bildern, 8 Literaturstellen</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Forschungsbericht / Deutsches Zentrum für Luft- und Raumfahrt e.V.</title>
+                <volumeNumber>2000-44</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106415182" classificationName="bk">
+                    <code>53.84</code>
+                    <entries>
+                        <entry>Ortungstechnik, Radartechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="181570769" classificationName="bk">
+                    <code>55.54</code>
+                    <entries>
+                        <entry>Flugführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4017672-1" type="gnd">
+                    <subject xml:lang="de">Flugzeug</subject>
+                </subject>
+                <subject id="4456131-3" type="gnd">
+                    <subject xml:lang="de">Bordradar</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

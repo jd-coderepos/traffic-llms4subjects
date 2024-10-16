@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:024564737</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:024564737">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1971-01-01</databaseDate>
+            <changeDate>2024-03-28</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>024564737</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">024564737</identifier>
+                <identifier type="firstid">GBV:024564737</identifier>
+                <identifier type="isbn">3763752390</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://d-nb.info/830428615/04</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">031243975</identifier>
+                    <creationDate>1984-04-03</creationDate>
+                    <selectionKey>n</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">FF 7517</location>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">256 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Segel-Kriegsschiffe, 1400 - 1860</title>
+            <alternativeTitles>
+                <alternative>Sailing ships of war 1400 - 1860 &lt;dt.&gt;</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Literaturverzeichnis</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Howard, Frank</contributor>
+                </contributor>
+                <contributor type="translator">
+                    <type>translator</type>
+                    <contributor>Koop, Gerhard</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Frank Howard. [Übers.: Gerhard Koop]</responsible>
+            <publicationInfo>
+                <issued>1983</issued>
+                <publicationPlaces>
+                    <publicationPlace>München</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Bernard &amp; Graefe</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>31 cm</description>
+            <description>zahlr. Ill</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="dbn">
+                    <code>21</code>
+                </classification>
+                <classification classificationID="106413805" classificationName="bk">
+                    <code>55.41</code>
+                    <entries>
+                        <entry>Schiffe</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106407783" classificationName="bk">
+                    <code>89.83</code>
+                    <entries>
+                        <entry>Kriegführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>MZ 5000</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>sow</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte 1400-1860</subject>
+                </subject>
+                <subject id="4201208-9" type="gnd">
+                    <subject xml:lang="de">Segelkriegsschiff</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

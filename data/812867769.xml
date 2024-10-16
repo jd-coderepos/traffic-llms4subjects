@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:812867769</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:812867769">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2014-12-17</databaseDate>
+            <changeDate>2022-07-18</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>812867769</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">812867769</identifier>
+                <identifier type="ean">9783844032192</identifier>
+                <identifier type="firstid">GBV:812867769</identifier>
+                <identifier type="isbn13">9783844032192</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/ilmenau/toc/812867769.PDF</location>
+                <location subtype="description" type="url">http://www.gbv.de/dms/ilmenau/abs/812867769ramsp.txt</location>
+                <location subtype="description" type="url">http://deposit.d-nb.de/cgi-bin/dokserv?id=4825226&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1518515908</identifier>
+                    <creationDate>2015-01-19</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">U 15 B 73</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">171 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Entwurf einer aktiven Ventil-Regler-Einheit für den Betrieb mit gasförmigem Wasserstoff bis 87,5 MPa zum Einsatz in Brennstoffzellen-Fahrzeugen</title>
+            <abstracts>
+                <abstract xml:lang="de">Komprimierter gasförmiger Wasserstoff (H 2) kann als Energiespeichermedium genutzt werden. Der hohe Speicherdruck erforderte die Entwicklung einer Komponente zur Druckreduktion zwischen Tank und Brennstoffzelle. Versuche für H 2-Systeme wurden in der Vergangenheit oft mit Luft anstatt mit Wasserstoff durchgeführt. Daher wurde untersucht, ob Versuchsergebnisse dieser beiden Medien übertragen werden können. Das reale Gasverhalten wurde miteinbezogen, die Extremzustände des Fluids berechnet und die thermodynamischen Annahmen der isenthalpen Zustandsänderung von Luft und H 2 analysiert. Des Weiteren ist im Gegensatz zum idealen Gasbereich bei realem Gas momentan kein ṁ-Modell für Drosselelemente mit Strömungsverlusten verfügbar, das zur Berechnung pneumatischer Systeme genutzt werden kann. Die entwickelte mechatronische Ventil-Regler-Einheit wurde zweistufig mit aktiver Druckregelung realisiert. Sie vereint die hohe Dichtheit von Kegel-Sitz-Ventilen und die gute Regelbarkeit von Schieberventilen. Die Druckregelgüte und die Leckage wurden gemessen und mit dem Stand der Technik verglichen. Die Übertragbarkeit von Versuchsergebnissen mit Ersatzmedien konnte anhand der ṁ-Charakteristik und des Joule-Thomson-Effekts untersucht werden. Das ṁ-Modell nach ISO 6358 wurde im Bereich realer Gase angewendet und mit Messungen verifiziert. Die Ventil-Regler-Einheit weist im Vergleich zu einem passiven Hochdruckregler eine um den Faktor 9 höhere Druckregelgüte auf und die Führungsgröße des aktiven Systems kann im Betrieb variiert werden. Die Funktion wurde auch mit H 2-Tests nachgewiesen. Die mit Helium gemessene Leckage hat den zulässigen Wert etwa um den Faktor 100 unterschritten, wobei die interne Leckage ein deutliches Hystereseverhalten zeigte. Die untersuchte Übertragbarkeit von Luft- und H 2-Versuchen führte zu Abweichungen der ṁ-Charakteristik von ± 14,5%. Die Temperaturunterschiede zwischen Luft und H2 aufgrund des Joule-Thomson-Effekts betragen bis zu 68°C. Die Annahmen der isenthalpen Zustandsänderung einer Drosselung von H 2 bzw. Luft wurden experimentell verifiziert. Im Gegensatz zu Luft stellt die Isenthalpe für H 2 eine gute Näherung dar, allerdings wurden die Abweichungen durch unterschiedliche Störgrößen verursacht. Die Extremtemperaturen im H 2-System liegen zwischen -90,8°C und +127,8°C. Das getestete ṁ-Modell ist zur Anwendung im Realgasbereich geeignet und führt zu ṁ-Abweichungen von 1%. Die lokale Gültigkeit der Modellparameter wurde nachgewiesen und eine Berechnung vorgeschlagen, um den Einfluss des realen Gases zu kompensieren.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Ramsperger, Marcel</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1064710956</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor>
+                    <contributor>Ströhla, Tom</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">130486639</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor>
+                    <contributor>Weber, Christian</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">135617049</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Schmidt, Herbert</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Marcel Ramsperger</responsible>
+            <publicationInfo>
+                <issued>2014</issued>
+                <publicationPlaces>
+                    <publicationPlace>Aachen</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Shaker</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Berichte aus dem Maschinenbau</title>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Zugl.: Ilmenau, Techn. Univ., Diss., 2014</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>24 cm, 272 g</description>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Berichte aus dem Maschinenbau</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.22930284</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="106418645" classificationName="bk">
+                    <code>53.36</code>
+                    <entries>
+                        <entry>Energiedirektumwandler, elektrische Energiespeicher</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4150759-9" type="gnd">
+                    <subject xml:lang="de">Druckminderventil</subject>
+                </subject>
+                <subject id="4187491-2" type="gnd">
+                    <subject xml:lang="de">Ventilsteuerung</subject>
+                </subject>
+                <subject id="4160094-0" type="gnd">
+                    <subject xml:lang="de">Hochdruckbehälter</subject>
+                </subject>
+                <subject id="4016320-9" type="gnd">
+                    <subject xml:lang="de">Fahrzeug</subject>
+                </subject>
+                <subject id="4123177-6" type="gnd">
+                    <subject xml:lang="de">Fahrzeugantrieb</subject>
+                </subject>
+                <subject id="4008195-3" type="gnd">
+                    <subject xml:lang="de">Brennstoffzelle</subject>
+                </subject>
+                <subject id="4073757-3" type="gnd">
+                    <subject xml:lang="de">Kraftfahrzeug</subject>
+                </subject>
+                <subject id="4238812-0" type="gnd">
+                    <subject xml:lang="de">Mechatronik</subject>
+                </subject>
+                <subject id="4480116-6" type="gnd">
+                    <subject xml:lang="de">Wasserstoff-Speicher</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:173519381X</identifier><datestamp>2024-06-14</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:173519381X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2020-10-08</databaseDate>
+            <changeDate>2022-05-18</changeDate>
+            <ftxCreationDate>2024-06-14</ftxCreationDate>
+            <documentID>173519381X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">173519381X</identifier>
+                <identifier type="firstid">KXP:173519381X</identifier>
+                <identifier type="isbn13">9783030528584</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/173519381x.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3772673805</identifier>
+                    <creationDate>2021-11-26</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 20 B 4609</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XIII, 314 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Life support systems for humans in space</title>
+            <abstracts>
+                <abstract xml:lang="de">Life support systems are an integral part of crewed spacecraft designs and habitation systems. This textbook introduces the LSS capabilities that sustain humans who live and work in space, and it is written at a level appropriate for both undergraduate and postgraduate students. The book begins with the basics of space physiology before detailing the features that make up different kinds of life support systems. It includes concise descriptions of how atmospheric pressure is monitored, how oxygen levels are maintained, how waste management is achieved and how water is recycled, and also describes the processes of fire detection and suppression. Several chapters are devoted to chronicling the evolution of life support systems through the decades. Each chapter includes a list of learning objectives, summary sections and review questions. Additionally, various analogs for spaceflight life support systems are examined, including nuclear submarines and our natural life support system here on Earth! Overall, this book serves as an approachable primer for any student seeking to understand the intricacies of spacecraft life support systems.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Seedhouse, Erik</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1060419181</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Erik Seedhouse</responsible>
+            <publicationInfo>
+                <issued>2020</issued>
+                <publicationPlaces>
+                    <publicationPlace>Cham</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="CH" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>Life support systems for humans in space</title>
+                <identifier type="ppn">1734622954</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106410660" classificationName="bk">
+                    <code>55.88</code>
+                    <entries>
+                        <entry>Luftverkehr, Raumfahrt</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>520</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>500.5</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Space sciences.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Human physiology.</subject>
+                </subject>
+                <subject id="4144455-3" type="gnd">
+                    <subject xml:lang="de">Bemannte Raumfahrt</subject>
+                </subject>
+                <subject id="4620450-7" type="gnd">
+                    <subject xml:lang="de">Lebenserhaltungssystem</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Aerospace engineering.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Astronautics.</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

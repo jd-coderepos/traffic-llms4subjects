@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:017070325</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:017070325">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1989-09-25</databaseDate>
+            <changeDate>2022-04-27</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>017070325</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">017070325</identifier>
+                <identifier type="firstid">GBV:017070325</identifier>
+                <identifier type="isbn">3184008363</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="review" type="url">http://www.gbv.de/dms/faz-rez/890919_FAZ_0052_T4_0001.pdf</location>
+                <location subtype="toc" type="url">http://d-nb.info/891161376/04</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">018841813</identifier>
+                    <creationDate>1989-09-25</creationDate>
+                    <selectionKey>n</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">FO 697</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">X, 242 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Automobiltechnik der Zukunft</title>
+            <abstracts>
+                <abstract xml:lang="de">Literaturverz. S. 233 - 236</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Seiffert, Ulrich</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1067207910</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Walzer, Peter</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Ulrich Seiffert; Peter Walzer</responsible>
+            <publicationInfo>
+                <issued>1989</issued>
+                <publicationPlaces>
+                    <publicationPlace>Düsseldorf</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>VDI-Verl.</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>25 cm</description>
+            <description>Ill, graph. Darst</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>ZO 4200</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL154</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loksys">
+                    <code>tec 30</code>
+                </classification>
+                <classification classificationName="loksys">
+                    <code>ver 30</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>36</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.222</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Automobiles</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Kraftfahrzeugtechnik</subject>
+                </subject>
+                <subject id="4027089-0" type="gnd">
+                    <subject xml:lang="de">Innovation</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Innovation</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Technological innovations</subject>
+                </subject>
+                <subject id="4165441-9" type="gnd">
+                    <subject xml:lang="de">Kraftfahrzeugtechnik</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

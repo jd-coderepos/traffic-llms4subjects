@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1827840293</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1827840293">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2022-12-19</databaseDate>
+            <changeDate>2023-07-20</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1827840293</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1827840293</identifier>
+                <identifier type="doi">10.22032/dbt.53449</identifier>
+                <identifier type="firstid">KXP:1827840293</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://nbn-resolving.de/urn:nbn:de:gbv:ilm1-2022000320</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4356663438</identifier>
+                    <creationDate>2023-07-21</creationDate>
+                    <selectionKey>zdt</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (198 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Observability studies for spacecraft attitude determination based on temperature data</title>
+            <abstracts>
+                <abstract xml:lang="de">Die Schätzung und Steuerung der Fluglage ist elementar für jede Raumfahrzeugmission. Die erforderliche Genauigkeit hängt von der jeweiligen Mission und ihren Nutzlasten ab. Ein funktionierendes Lageregelungssystem ist jedoch immer unverzichtbar, um die Zielgenauigkeit und Stabilität der Nutzlasten zu gewährleisten, die für den Erfolg der Mission entscheidend sind. Daher ist es sinnvoll, redundante Methoden zur Schätzung und Regelung der aktuellen Fluglage einzusetzen. Diese Arbeit fokussiert sich primär auf die Lageschätzung. Hierbei wird untersucht ob und wie Temperaturmessungen für die Lagebestimmung genutzt werden können. Diese Untersuchung wird durchgeführt, indem die zugrundeliegenden mathematischen Beschreibungen der Fluglage sowie der Temperaturdynamik betrachtet werden. Auf deren Grundlage wird dann ein Beobachter zur Lageschätzung entwickelt, der sich hauptsächlich auf die Temperaturdaten von zwei verschiedenen Sensorkonfigurationen stützt. In der ersten Konfiguration wird nur ein einziger Temperatursensor verwendet, dessen Informationen mit Gyroskopmessungen fusioniert werden, um die Lage zu bestimmen. Dies wird durch eine Transformation in Normalform und eine neuartige Lagebeschreibung erreicht. Auftretende Mehrdeutigkeiten bei der Lagebestimmung sowie alternative Beobachterdesigns werden vorgestellt. Die Analyse zeigt, dass mit dem vorgeschlagenen Beobachter lokale Aussagen zur Lageschätzung getroffen werden können - vorausgesetzt, die verwendeten Modelle und Messungen sind ausreichend genau und es steht genügend Rechenleistung zur Verfügung. In der zweiten Konfiguration werden sechs Paare von Temperatursensoren betrachtet. Jedes Paar besteht aus zwei Sensoren mit unterschiedlichen physikalischen Eigenschaften und zeigt in Richtung einer anderen Raumfahrzeugachse. Diese Sensorsignale enthalten genügend Informationen, um die Fluglage zu rekonstruieren, ohne dass die Verwendung von Ableitungen höherer Ordnung erforderlich ist. Es wird ein Algorithmus vorgeschlagen, der die Position der Sonne und der Erde schätzt und diese zur Bestimmung der Lage verwendet. Die Beobachter für beide Konfigurationen verwenden eine Transformation in eine kanonische Form, um ihre Schätzungen zu erhalten. Die resultierenden Beobachter sind daher sowohl in den transformierten als auch in den ursprünglichen Koordinaten formuliert. Während diese Beobachter unter Annahmen die häufig in der Literatur verwendeten werden äquivalent sind, kann es, sobald diese Annahmen fallengelassen werden, zu einer Reihe interessanter Phänomene wie Mehrdeutigkeit der Lösungen und sogar Instabilität kommen. Diese Phänomene werden an unserem vorgestellten System veranschaulicht und es werden Methoden vorgeschlagen, um sie zu bewältigen. Die für die zweite Konfiguration entworfenen Beobachter werden auf die von der Raumsondenmission GRACE erhaltenen Daten angewandt. Dabei hat sich gezeigt, dass die vorgeschlagenen Modelle für die Temperaturschätzung mit einem R2-Wert zwischen 78,8 % und 99,9 % gut geeignet sind. Die vorgeschlagenen Algorithmen erlauben eine Genauigkeit mit einem mittleren Fehler über eine Umlaufbahn von weniger als fünf Grad und lassen sich nachweislich leicht durch zusätzliche Messungen ergänzen.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="degree-granting-institution">
+                    <type>degree-granting-institution</type>
+                    <name>Technische Universität Ilmenau</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2125187-3</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Posielek, Tobias</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1268854697</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Reger, Johann</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">129394947</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Moreno Pérez, Jaine Alberto</contributor>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Röbenack, Klaus</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1145989985</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>von Tobias Posielek</responsible>
+            <publicationInfo>
+                <issued>2022</issued>
+                <publicationPlaces>
+                    <publicationPlace>Ilmenau</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Universitätsbibliothek</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2022</dateAccepted>
+                        <description>Dissertation, Technische Universität Ilmenau</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Diagramme, Illustrationen</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Observability studies for spacecraft attitude determination based on temperature data</title>
+                <identifier type="ppn">1817668749</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc-dbn">
+                    <code>629.47</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 8300</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Parameterschätzung</subject>
+                </subject>
+                <subject id="4132964-8" type="gnd">
+                    <subject xml:lang="de">Nichtlineare Regelung</subject>
+                </subject>
+                <subject id="4133187-4" type="gnd">
+                    <subject xml:lang="de">Temperaturmessung</subject>
+                </subject>
+                <subject id="4048579-1" type="gnd">
+                    <subject xml:lang="de">Raumfahrzeug</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Lageregelung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Zustandsbeobachter</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Robuste Regelung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Nichtlineares System</subject>
+                </subject>
+                <subject id="4158614-1" type="gnd">
+                    <subject xml:lang="de">Gyroskop</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Zustandsschätzung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Beobachter</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://nbn-resolving.de/urn:nbn:de:gbv:ilm1-2022000320</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1024585794</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1024585794">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2018-06-14</databaseDate>
+            <changeDate>2021-02-23</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1024585794</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1024585794</identifier>
+                <identifier type="firstid">GBV:1024585794</identifier>
+                <identifier type="isbn13">9781476669618</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1024585794.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1780772556</identifier>
+                    <creationDate>2019-11-18</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 18 B 3757</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">vii, 306 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Electric airplanes and drones : a history</title>
+            <abstracts>
+                <abstract xml:lang="de">"Attempts at electric powered flight date to well before the 19th century. Battery weight and low energy output made it impractical until the 1990s. The author describes the diverse designs of modern electric flying machines--from tiny insect-styled drones to stratospheric airships--and explores developing trends, including flying cars and passenger airliners"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Desmond, Kevin</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1193148790</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="writer-of-preface">
+                    <type>writer-of-preface</type>
+                    <contributor>Boscarol, Ivo</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1072709341</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Kevin Desmond ; foreword by Ivo Boscarol</responsible>
+            <publicationInfo>
+                <issued>2018</issued>
+                <publicationPlaces>
+                    <publicationPlace>Jefferson, North Carolina</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>McFarland &amp; Company, Inc., Publishers</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.133/3404</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL685.35</code>
+                </classification>
+                <classification classificationID="106420593" classificationName="bk">
+                    <code>55.51</code>
+                    <entries>
+                        <entry>Flugzeuge</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Electric airplanes</subject>
+                </subject>
+                <subject id="4332556-7" type="gnd">
+                    <subject xml:lang="de">Drohne (Flugkörper)</subject>
+                </subject>
+                <subject id="4017672-1" type="gnd">
+                    <subject xml:lang="de">Flugzeug</subject>
+                </subject>
+                <subject id="4014238-3" type="gnd">
+                    <subject xml:lang="de">Elektroantrieb</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Drone aircraft</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

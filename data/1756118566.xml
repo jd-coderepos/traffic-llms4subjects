@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1756118566</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1756118566">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2021-04-28</databaseDate>
+            <changeDate>2022-07-15</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1756118566</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1756118566</identifier>
+                <identifier type="firstid">KXP:1756118566</identifier>
+                <identifier type="isbn13">9789811600876</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1756118566.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3918623084</identifier>
+                    <creationDate>2022-05-12</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 21 B 2321</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XIII, 146 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Information support and aircraft flight management</title>
+            <abstracts>
+                <abstract xml:lang="de">This book presents materials on the implementation of modern technologies for aircraft information support and ground-based radio equipment for flights in the Russian Federation, especially in the Arctic and far Eastern regions, as well as new methods for monitoring the flight of civil aviation aircraft based on the use of local control and correction stations and optical systems that fully meet the requirements of international and domestic organizations for the reliability and integrity of transmitted information. The book is intended for engineering and technical specialists involved in the development, manufacturing and operation of aircraft avionics and ground-based radio electronic flight support systems, as well as graduate students and senior students of radio engineering specialties. It is useful to researchers and professionals whose activities are related to air traffic control.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Zavalishin, Oleg Ivanovich</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Korotonoshko, Anatoly Nikolaevich</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Zatuchny, Dmitry Alexandrovich</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Shatrakov, Yury Grigorievich</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Oleg Ivanovich Zavalishin, Anatoly Nikolaevich Korotonoshko, Dmitry Alexandrovich Zatuchny, Yury Grigorievich Shatrakov</responsible>
+            <publicationInfo>
+                <issued>2021</issued>
+                <publicationPlaces>
+                    <publicationPlace>Singapore</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="SG" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Springer aerospace technology</title>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Springer aerospace technology</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106410660" classificationName="bk">
+                    <code>55.88</code>
+                    <entries>
+                        <entry>Luftverkehr, Raumfahrt</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="181570769" classificationName="bk">
+                    <code>55.54</code>
+                    <entries>
+                        <entry>Flugführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4036597-9" type="gnd">
+                    <subject xml:lang="de">Luftverkehr</subject>
+                </subject>
+                <subject id="4072806-7" type="gnd">
+                    <subject xml:lang="de">Informationssystem</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Electrical engineering.</subject>
+                </subject>
+                <subject id="4154750-0" type="gnd">
+                    <subject xml:lang="de">Flugführung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Signal processing.</subject>
+                </subject>
+                <subject id="4154771-8" type="gnd">
+                    <subject xml:lang="de">Flugsicherung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Aerospace engineering.</subject>
+                </subject>
+                <subject id="4076899-5" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Russland</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">System safety.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Speech processing systems.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Astronautics.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Image processing.</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

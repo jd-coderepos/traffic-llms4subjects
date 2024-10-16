@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1693553732</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1693553732">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2020-03-30</databaseDate>
+            <changeDate>2021-07-17</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1693553732</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1693553732</identifier>
+                <identifier type="firstid">KXP:1693553732</identifier>
+                <identifier type="isbn13">9781107193796</identifier>
+                <identifier type="isbn13">9781108149914</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1693553732.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3738002685</identifier>
+                    <creationDate>2021-03-29</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RR 1385(48)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xxviii, 557 pages</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Introduction to spacecraft thermal design</title>
+            <abstracts>
+                <abstract xml:lang="de">"Develop a fundamental understanding of heat transfer analysis techniques as applied to earth based spacecraft with this practical guide. Written in a tutorial style, this essential text provides a how-to manual tailored for those who wish to understand and develop spacecraft thermal analyses. Providing an overview of basic heat transfer analysis fundamentals such as thermal circuits, limiting resistance, MLI, environmental thermal sources and sinks, as well as contemporary space based thermal technologies, and the distinctions between design considerations inherent to room temperature and cryogenic temperature applications, this is the perfect tool for graduate students, professionals and academic researchers"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Silk, Eric</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1214265529</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Eric A. Silk</responsible>
+            <publicationInfo>
+                <issued>2020</issued>
+                <publicationPlaces>
+                    <publicationPlace>Cambridge</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="GB" />
+                    <publicationCountry code="US" />
+                    <publicationCountry code="AU" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Cambridge University Press</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Cambridge aerospace series</title>
+                    <volumeNumber>48</volumeNumber>
+                </journalInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Cambridge aerospace series</title>
+                <volumeNumber>48</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420534" classificationName="bk">
+                    <code>50.38</code>
+                    <entries>
+                        <entry>Technische Thermodynamik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.47</code>
+                </classification>
+                <classification classificationID="106410334" classificationName="bk">
+                    <code>55.60</code>
+                    <entries>
+                        <entry>Raumfahrttechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL900</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Low temperature engineering</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Space vehicles</subject>
+                </subject>
+                <subject id="4048579-1" type="gnd">
+                    <subject xml:lang="de">Raumfahrzeug</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Heat</subject>
+                </subject>
+                <subject id="4059827-5" type="gnd">
+                    <subject xml:lang="de">Thermodynamik</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:728391163</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:728391163">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2012-10-23</databaseDate>
+            <changeDate>2023-03-24</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>728391163</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">728391163</identifier>
+                <identifier type="firstid">HBZ:CT004000830</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">http://nbn-resolving.de/urn:nbn:de:hbz:466:2-9957</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1439883793</identifier>
+                    <creationDate>2013-10-13</creationDate>
+                    <selectionKey>zdt</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online-Ressource</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Systematik zur effizienten Bildung geospezifischer Umgebungsmodelle für Fahrsimulationen</title>
+            <abstracts>
+                <abstract xml:lang="de">Interaktive Fahrsimulationen ermöglichen die frühzeitige, ganzheitliche Erprobung inEntwicklung befindlicher Fahrerassistenzsysteme. Das komplexe Zusammenspiel vonFahrer, Assistenzsystem und Umgebung kann dabei in einem sicheren Umfeld unterreproduzierbaren Bedingungen analysiert werden. Interaktive Fahrsimulationen sindjedoch für sich komplexe Systeme, die auf dem Zusammenspiel verschiedener Simulationsmodellebasieren. Geospezifische Umgebungsmodelle, die reale Umgebungen abbilden,sind dabei ein wichtiger Bestandteil. Deren effiziente Bildung ist jedoch eineHerausforderung. Es fehlt insbesondere eine systematische Integration von Geodaten.Zur effizienten Nutzung interaktiver Fahrsimulation müssen Umgebungsmodelle systematischgebildet werden. Wichtige Anforderungen ergeben sich dabei angesichts derIntegration gegenwärtig verfügbarer Geodaten sowie der technischen Rahmenbedingungeninteraktiver Fahrsimulationen. Um diesen Anforderungen gerecht zu werdenwurde eine Systematik zur effizienten Bildung geospezifischer Umgebungsmodelle fürFahrsimulationen erarbeitet. Der Kern der Systematik ist ein Vorgehensmodell, das dieeinzelnen Tätigkeiten und Hilfsmittel zur effizienten Modellbildung strukturiert. Dabeiwerden bestehende Hilfsmittel integriert und sofern notwendig neue entwickelt. DasVorgehensmodell wird durch ein prototypisch implementiertes Software-Werkzeugergänzt, das die Bildung vollständiger Umgebungsmodelle erst ermöglicht.Die Systematik wird anhand von zwei realen Umgebungen validiert, für die exemplarischUmgebungsmodelle gebildet wurden. Die abschließende Bewertung zeigt, dass dieSystematik die formulierten Anforderungen in vollem Umfang erfüllt.. - Interactive driving simulations enable early and comprehensive tests of driver assistancesystems under development. The close interplay between driver, assistance system, andenvironment can be investigated in a safe setting under reproducible conditions. Interactivedriving simulations, though, are complex systems on their own. They are based onvarious simulation models that need to interact at runtime. In this context, geo-specificenvironment models, which represent real world environments, are one important component.However, efficiently building such models is a challenge. For instance, there isa lack of a systematic integration of geo-data.In order to efficiently utilize interactive driving simulations, environment models needto be built systematically. Essential requirements in this field arise from the integrationof currently available geo-data as well as from the technical conditions of interactivedriving simulations. To address these issues, a systematics for the efficient building ofgeo-specific environment models for driving simulations has been developed. Central tothe systematics is a process model that structures necessary activities and tools in orderto efficiently build environment models. Thereby, existing methods and tools were integratedand whenever necessary new ones have been developed. The process modelis complemented by a prototypically implemented software tool, which finally enablesbuilding complete environment models.The systematics is validated by two real environments, for which environment modelshave been built exemplarily. The final evaluation of the systematics shows that the initiallyformulated requirements are entirely met.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Kreft, Sven</contributor>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Gausemeier, Jürgen</contributor>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Trächtler, Ansgar</contributor>
+                </contributor>
+            </contributors>
+            <publicationInfo>
+                <issued>2012</issued>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Paderborn, Univ., Diss., 2012</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+                <publicationIDInfo>Tag der Verteidigung: 05.09.2012</publicationIDInfo>
+            </additionalDocumentInfo>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druckausg.</label>
+                <title>Systematik zur effizienten Bildung geospezifischer Umgebungsmodelle für Fahrsimulationen</title>
+                <identifier type="ppn">160143023X</identifier>
+                <identifier type="isbn13">9783942647243</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.2830113</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="181570424" classificationName="bk">
+                    <code>55.24</code>
+                    <entries>
+                        <entry>Fahrzeugführung, Fahrtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4215</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4132165-0" type="gnd">
+                    <subject xml:lang="de">Fahrerverhalten</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://nbn-resolving.de/urn:nbn:de:hbz:466:2-9957</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

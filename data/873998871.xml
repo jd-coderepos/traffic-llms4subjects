@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:873998871</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:873998871">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2016-12-07</databaseDate>
+            <changeDate>2024-04-23</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>873998871</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">873998871</identifier>
+                <identifier type="firstid">GBV:873998871</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">http://nbn-resolving.de/urn:nbn:de:gbv:089-8739988719</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1649734921</identifier>
+                    <creationDate>2016-12-07</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>oa</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-89</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (xiv, 151 Seiten, 145 MB)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>On the sensitivity of the radial mode analysis (RMA) for the experimental evaluation of sound propagation in a low-pressure turbine</title>
+            <abstracts>
+                <abstract xml:lang="de">Sound propagation, turbine, radial mode analysis (RMA), sensitivity analysis. - Schallausbreitung, Radialmodenanalyse (RMA), Sensitivitätsanalyse</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="degree-granting-institution">
+                    <type>degree-granting-institution</type>
+                    <name>Gottfried Wilhelm Leibniz Universität Hannover</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">64681-7</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Laguna, Juan David</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1122562845</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Seume, Jörg</contributor>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Moreau, Stéphane</contributor>
+                </contributor>
+            </contributors>
+            <responsible>von Juan David Laguna Trujillo, M.Sc.</responsible>
+            <publicationInfo>
+                <issued>2016</issued>
+                <publicationPlaces>
+                    <publicationPlace>Hannover</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Institut für Turbomaschinen und Fluid-Dynamik</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>Berichte aus dem Institut für Turbomaschinen und Fluid-Dynamik</title>
+                    <volumeNumber>9</volumeNumber>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2015</dateAccepted>
+                        <description>Dissertation, Gottfried Wilhelm Leibniz Universität Hannover</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Illustrationen</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>On the sensitivity of the radial mode analysis (RMA) for the experimental evaluation of sound propagation in a low-pressure turbine</title>
+                <identifier type="ppn">875719945</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+            <related type="parent">
+                <title>Berichte aus dem Institut für Turbomaschinen und Fluid-Dynamik</title>
+                <volumeNumber>9</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420518" classificationName="bk">
+                    <code>50.36</code>
+                    <entries>
+                        <entry>Technische Akustik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106410601" classificationName="bk">
+                    <code>52.30</code>
+                    <entries>
+                        <entry>Strömungskraftmaschinen, Turbomaschinen</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.13435</code>
+                </classification>
+                <classification classificationID="106413783" classificationName="bk">
+                    <code>50.33</code>
+                    <entries>
+                        <entry>Technische Strömungsmechanik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mas</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4121611-8" type="gnd">
+                    <subject xml:lang="de">Schallfeld</subject>
+                </subject>
+                <subject id="4061226-0" type="gnd">
+                    <subject xml:lang="de">Turbine</subject>
+                </subject>
+                <subject id="4154773-1" type="gnd">
+                    <subject xml:lang="de">Flugtriebwerk</subject>
+                </subject>
+                <subject id="4034054-5" type="gnd">
+                    <subject xml:lang="de">Lärmschutz</subject>
+                </subject>
+                <subject id="4226177-6" type="gnd">
+                    <subject xml:lang="de">Modalanalyse</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://nbn-resolving.de/urn:nbn:de:gbv:089-8739988719</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

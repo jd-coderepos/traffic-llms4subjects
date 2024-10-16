@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1796853291</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1796853291">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2022-03-29</databaseDate>
+            <changeDate>2023-08-12</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1796853291</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1796853291</identifier>
+                <identifier type="firstid">KXP:1796853291</identifier>
+                <identifier type="isbn13">9789811688133</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1796853291.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4105313363</identifier>
+                    <creationDate>2023-02-06</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 22 B 1661</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xii, 149 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Water content estimation and control of PEM fuel cell stack and the individual cell in vehicle</title>
+            <abstracts>
+                <abstract xml:lang="de">This book focuses on water content estimation and control of the PEM fuel cell stack and the individual cell in vehicle. Firstly, the mathematical connection between polarization curve and equivalent circuit model proves importance of MEA and its feasibility to study water content. Optimizing structure of MEA realizes the internal water content recirculation of a fuel cell and improves its performance under middle or lower current density. The influence of water content on performance of MEA is quantified, and variation of equivalent circuit model is an excellent indicator of water content. Secondly, the comprehensive online AC impedance measurement method is put forward, including current excitation method, weak voltage and current signal processing method, and method for analyzing measurement error, and experiment validates measurement accuracy. The high-frequency impedance and statistical characteristic are proposed as indicator of water content. Finally, the dynamic model of the air supply system of a fuel cell engine is established and the closed-loop control of the air supply system and the water content estimation are decoupled. The experiment on a fuel cell system validates the proposed method for searching optimized operating conditions and the water management strategy.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Hong, Po</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Po Hong</responsible>
+            <publicationInfo>
+                <issued>2022</issued>
+                <publicationPlaces>
+                    <publicationPlace>Singapore</publicationPlace>
+                    <publicationPlace>Beijing</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="SG" />
+                    <publicationCountry code="CN" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Springer Theses</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>Recognizing outstanding Ph.D. research</title>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2019</dateAccepted>
+                        <description>Dissertation, Tsinghua University</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Springer Theses</title>
+            </related>
+            <related type="parent">
+                <title>Recognizing outstanding Ph.D. research</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>621.312429</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>620.11</code>
+                </classification>
+                <classification classificationID="106418645" classificationName="bk">
+                    <code>53.36</code>
+                    <entries>
+                        <entry>Energiedirektumwandler, elektrische Energiespeicher</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Power electronics.</subject>
+                </subject>
+                <subject id="1262258251" type="gnd">
+                    <subject xml:lang="de">Brennstoffzellenfahrzeug</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Fuel cells.</subject>
+                </subject>
+                <subject id="4064689-0" type="gnd">
+                    <subject xml:lang="de">Wasser</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Electrochemistry.</subject>
+                </subject>
+                <subject id="4450903-0" type="gnd">
+                    <subject xml:lang="de">Polymer-Elektrolytmembran-Brennstoffzelle</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Materials.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Vehicles.</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

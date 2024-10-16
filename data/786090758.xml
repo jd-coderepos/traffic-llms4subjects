@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:786090758</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:786090758">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2014-05-20</databaseDate>
+            <changeDate>2022-07-17</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>786090758</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">786090758</identifier>
+                <identifier type="firstid">GBV:786090758</identifier>
+                <identifier type="isbn13">9781619607637</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/786090758.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1488353468</identifier>
+                    <creationDate>2015-03-16</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RS 8805(7),4</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">432 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Auto heating and air conditioning</title>
+            <abstracts>
+                <abstract xml:lang="de">"Auto Heating and Air Conditioning details the operation, diagnosis, and service for automotive heating, ventilation, and air conditioning systems. This comprehensive text contains detailed information on refrigeration, heating, and engine cooling system components; climate control electronics; refrigeration handling; and both manual and automatic temperature control systems. Auto Heating and Air Conditioning is a valuable resource for anyone who needs a thorough understanding of today's automotive heating and air conditioning systems, including those preparing for ASE Certification Test A7, Heating and Air Conditioning. "--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Johanson, Chris</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Chris Johanson</responsible>
+            <publicationInfo>
+                <issued>2015</issued>
+                <edition>4. ed.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Tinley Park, Ill.</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Goodheart-Willcox</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>G-W training series for ASE certification</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>A</title>
+                    <volumeNumber>7</volumeNumber>
+                </journalInfo>
+                <publicationIDInfo>Includes index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>29 cm</description>
+            <description>zahlr. Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>G-W training series for ASE certification</title>
+            </related>
+            <related type="parent">
+                <title>A</title>
+                <volumeNumber>7</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc-dbn">
+                    <code>EDU000000</code>
+                </classification>
+                <classification classificationID="106421379" classificationName="bk">
+                    <code>52.42</code>
+                    <entries>
+                        <entry>Heizungstechnik, Lüftungstechnik, Klimatechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>TRA001000</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL271</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>TRA001140</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.2/772</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mas</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Automobiles</subject>
+                </subject>
+                <subject id="4024271-7" type="gnd">
+                    <subject xml:lang="de">Heizung</subject>
+                </subject>
+                <subject id="4031177-6" type="gnd">
+                    <subject xml:lang="de">Klimatechnik</subject>
+                </subject>
+                <subject id="4076001-7" type="gnd">
+                    <subject xml:lang="de">Personenkraftwagen</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

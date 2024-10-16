@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:767783018</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:767783018">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2013-09-12</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>767783018</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">767783018</identifier>
+                <identifier type="contract">03SX307</identifier>
+                <identifier type="firstid">GBV:767783018</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/sub-hamburg/767783018.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1458874958</identifier>
+                    <creationDate>2014-02-24</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RN 3150(1676)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">108 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Dynamic positioning in ice : Schlussbericht des Vorhabens: Entwicklung, Herstellung und Test eines Systems zum dynamischen Positionieren im Eis ; Förderkennzeichen: 03SX307 ; Verbundvorhaben im Rahmen von ERA-NET MARTEC-DYPIC</title>
+            <abstracts>
+                <abstract xml:lang="de">DYPIC (Dynamic Positioning in Ice) is a research and development project within the MARTEC ERA-NET project of the European Union. Its objective is to contribute to the closure of the gap between DP in open water being an industry standard, and DP in ice which has some extra challenges to tackle. Two phases of model testing in ice form the back bone of the project and are facilitated by HSVA (Hamburg Ship Model Basin, Germany).</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Haase, Andrea</contributor>
+                </contributor>
+            </contributors>
+            <responsible>[Andrea Haase]</responsible>
+            <publicationInfo>
+                <issued>2013</issued>
+                <publicationPlaces>
+                    <publicationPlace>Hamburg</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>HSVA</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>HSVA-Report</title>
+                    <volumeNumber>1676</volumeNumber>
+                </journalInfo>
+                <journalInfo>
+                    <title>HSVA Bericht</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>AT</title>
+                    <volumeNumber>528/13</volumeNumber>
+                </journalInfo>
+                <publicationIDInfo>Förderkennzeichen 03SX307</publicationIDInfo>
+                <publicationIDInfo>Unterschiede zwischen dem gedruckten Dokument und der elektronischen Ressource können nicht ausgeschlossen werden</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst., Kt.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausg.</label>
+                <title>Dynamic positioning in ice</title>
+                <identifier type="ppn">779192672</identifier>
+            </related>
+            <related type="parent">
+                <title>HSVA-Report</title>
+                <volumeNumber>1676</volumeNumber>
+            </related>
+            <related type="parent">
+                <title>HSVA Bericht</title>
+            </related>
+            <related type="parent">
+                <title>AT</title>
+                <volumeNumber>528/13</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420577" classificationName="bk">
+                    <code>55.40</code>
+                    <entries>
+                        <entry>Schiffstechnik, Schiffbau</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4116384-9" type="gnd">
+                    <subject xml:lang="de">Schiffsmodell</subject>
+                </subject>
+                <subject id="4055072-2" type="gnd">
+                    <subject xml:lang="de">Simulation</subject>
+                </subject>
+                <subject id="4131349-5" type="gnd">
+                    <subject xml:lang="de">Meereis</subject>
+                </subject>
+                <subject id="4140478-6" type="gnd">
+                    <subject xml:lang="de">Positionierung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

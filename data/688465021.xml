@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:688465021</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:688465021">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2012-03-13</databaseDate>
+            <changeDate>2022-08-07</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>688465021</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">688465021</identifier>
+                <identifier type="doi">10.1049/PBRN007E</identifier>
+                <identifier type="firstid">GBV:688465021</identifier>
+                <identifier type="isbn13">9781849191487</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/bowker/toc/9781849191470.pdf</location>
+                <location subtype="fulltext" type="url">http://dx.doi.org/10.1049/PBRN007E</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1490064567</identifier>
+                    <recallSign>OLR-IET</recallSign>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2014-07-20</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online-Ressource (608 S.)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Propulsion Systems for Hybrid Vehicles</title>
+            <abstracts>
+                <abstract xml:lang="de">The following topics are dealt with: hybrid vehicles; hybrid power plant specifications; electric drive system; power electronics; AC drives; drive system control; hybrid vehicle characterization; energy storage technologies; and automated electrified transportation</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Miller, John M.</contributor>
+                </contributor>
+            </contributors>
+            <responsible>John M. Miller</responsible>
+            <publicationInfo>
+                <issued>2010</issued>
+                <edition>2nd ed</edition>
+                <publicationPlaces>
+                    <publicationPlace>London</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>IET</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-IET</identifier>
+                    <identifier type="collectioncode">ZDB-100-IET</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>IET renewable energy series</title>
+                    <volumeNumber>7</volumeNumber>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>Campusweiter Zugriff (Universität Hannover) - Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Keine Weitergabe an Dritte. Kein systematisches Downloaden durch Robots.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-IET</identifier>
+                <identifier type="collectioncode">ZDB-100-IET</identifier>
+            </related>
+            <related type="parent">
+                <title>IET renewable energy series</title>
+                <volumeNumber>7</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>ZO 4230</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4480</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4490</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Energy storage</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Electric motors</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Hybrid electric vehicles</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Power electronics</subject>
+                </subject>
+                <subject id="4073757-3" type="gnd">
+                    <subject xml:lang="de">Kraftfahrzeug</subject>
+                </subject>
+                <subject id="4160835-5" type="gnd">
+                    <subject xml:lang="de">Hybridantrieb</subject>
+                </subject>
+                <subject id="4151795-7" type="gnd">
+                    <subject xml:lang="de">Elektrofahrzeug</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Transportation</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://dx.doi.org/10.1049/PBRN007E</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

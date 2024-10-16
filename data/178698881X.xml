@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:178698881X</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:178698881X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2022-01-24</databaseDate>
+            <changeDate>2023-04-06</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>178698881X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">178698881X</identifier>
+                <identifier type="doi">10.22032/dbt.50751</identifier>
+                <identifier type="firstid">KXP:178698881X</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://nbn-resolving.de/urn:nbn:de:gbv:ilm1-2021000421</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4051083357</identifier>
+                    <creationDate>2022-02-03</creationDate>
+                    <selectionKey>zdt</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (xxv, 219 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Multi-task near-field perception for autonomous driving using surround-view fisheye cameras</title>
+            <abstracts>
+                <abstract xml:lang="de">Die Bildung der Augen führte zum Urknall der Evolution. Die Dynamik änderte sich von einem primitiven Organismus, der auf den Kontakt mit der Nahrung wartete, zu einem Organismus, der durch visuelle Sensoren gesucht wurde. Das menschliche Auge ist eine der raffiniertesten Entwicklungen der Evolution, aber es hat immer noch Mängel. Der Mensch hat über Millionen von Jahren einen biologischen Wahrnehmungsalgorithmus entwickelt, der in der Lage ist, Autos zu fahren, Maschinen zu bedienen, Flugzeuge zu steuern und Schiffe zu navigieren. Die Automatisierung dieser Fähigkeiten für Computer ist entscheidend für verschiedene Anwendungen, darunter selbstfahrende Autos, Augmented Realität und architektonische Vermessung. Die visuelle Nahfeldwahrnehmung im Kontext von selbstfahrenden Autos kann die Umgebung in einem Bereich von 0-10 Metern und 360° Abdeckung um das Fahrzeug herum wahrnehmen. Sie ist eine entscheidende Entscheidungskomponente bei der Entwicklung eines sichereren automatisierten Fahrens. Jüngste Fortschritte im Bereich Computer Vision und Deep Learning in Verbindung mit hochwertigen Sensoren wie Kameras und LiDARs haben ausgereifte Lösungen für die visuelle Wahrnehmung hervorgebracht. Bisher stand die Fernfeldwahrnehmung im Vordergrund. Ein weiteres wichtiges Problem ist die begrenzte Rechenleistung, die für die Entwicklung von Echtzeit-Anwendungen zur Verfügung steht. Aufgrund dieses Engpasses kommt es häufig zu einem Kompromiss zwischen Leistung und Laufzeiteffizienz. Wir konzentrieren uns auf die folgenden Themen, um diese anzugehen: 1) Entwicklung von Nahfeld-Wahrnehmungsalgorithmen mit hoher Leistung und geringer Rechenkomplexität für verschiedene visuelle Wahrnehmungsaufgaben wie geometrische und semantische Aufgaben unter Verwendung von faltbaren neuronalen Netzen. 2) Verwendung von Multi-Task-Learning zur Überwindung von Rechenengpässen durch die gemeinsame Nutzung von initialen Faltungsschichten zwischen den Aufgaben und die Entwicklung von Optimierungsstrategien, die die Aufgaben ausbalancieren.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="degree-granting-institution">
+                    <type>degree-granting-institution</type>
+                    <name>Technische Universität Ilmenau</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2125187-3</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Ravi Kumar, Varun</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1245874845</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Mäder, Patrick</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1196738718</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>McDonald, John</contributor>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Notni, Gunther</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">172636973</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>vorgelegt von Varun Ravi Kumar</responsible>
+            <publicationInfo>
+                <issued>2021</issued>
+                <publicationPlaces>
+                    <publicationPlace>Ilmenau</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Universitätsbibliothek</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2021</dateAccepted>
+                        <description>Dissertation, Technische Universität Ilmenau</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+                <publicationIDInfo>Literaturverzeichnis: Seite 183-219</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Diagramme, Illustrationen</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Multi-task near-field perception for autonomous driving using surround-view fisheye cameras</title>
+                <identifier type="ppn">178484473X</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>006.3</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ST 330</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>004</code>
+                </classification>
+                <classification classificationID="181570424" classificationName="bk">
+                    <code>55.24</code>
+                    <entries>
+                        <entry>Fahrzeugführung, Fahrtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="10641030X" classificationName="bk">
+                    <code>54.74</code>
+                    <entries>
+                        <entry>Maschinelles Sehen</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106418920" classificationName="bk">
+                    <code>54.73</code>
+                    <entries>
+                        <entry>Computergraphik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>inf</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4202022-0" type="gnd">
+                    <subject xml:lang="de">Bildverstehen</subject>
+                </subject>
+                <subject id="1135597375" type="gnd">
+                    <subject xml:lang="de">Deep learning</subject>
+                </subject>
+                <subject id="4145391-8" type="gnd">
+                    <subject xml:lang="de">Bildanalyse</subject>
+                </subject>
+                <subject id="4366655-3" type="gnd">
+                    <subject xml:lang="de">Kamera</subject>
+                </subject>
+                <subject id="4129594-8" type="gnd">
+                    <subject xml:lang="de">Maschinelles Sehen</subject>
+                </subject>
+                <subject id="4226127-2" type="gnd">
+                    <subject xml:lang="de">Neuronales Netz</subject>
+                </subject>
+                <subject id="4312216-4" type="gnd">
+                    <subject xml:lang="de">Nahfeld</subject>
+                </subject>
+                <subject id="7714938-5" type="gnd">
+                    <subject xml:lang="de">Autonomes Fahrzeug</subject>
+                </subject>
+                <subject id="1209706350" type="gnd">
+                    <subject xml:lang="de">Convolutional Neural Network</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://nbn-resolving.de/urn:nbn:de:gbv:ilm1-2021000421</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

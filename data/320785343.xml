@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:320785343</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:320785343">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2001-10-18</databaseDate>
+            <changeDate>2024-04-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>320785343</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">320785343</identifier>
+                <identifier type="ean">9783613872073</identifier>
+                <identifier type="firstid">GBV:320785343</identifier>
+                <identifier type="isbn">3613872072</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">531757676</identifier>
+                    <creationDate>2001-11-20</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RO 4393(101)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-24</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">94 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Deutsche Raupenschlepper : Raupen aus deutscher Produktion für Feld, Forst und Moor ; eine Dokumentation</title>
+            <abstracts>
+                <abstract xml:lang="de">Eingeführte Reihe. (3) (Kap)</abstract>
+            </abstracts>
+            <contributors>
+                <contributor>
+                    <contributor>Gebhardt, Wolfgang H.</contributor>
+                </contributor>
+            </contributors>
+            <responsible>von Wolfgang H. Gebhardt</responsible>
+            <publicationInfo>
+                <issued>2000</issued>
+                <edition>1. Aufl.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Stuttgart</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Schrader</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Schrader-Motor-Chronik</title>
+                    <volumeNumber>101</volumeNumber>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>20 x 21 cm</description>
+            <description>überw. Ill</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Schrader-Motor-Chronik</title>
+                <volumeNumber>101</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>ZO 4460</code>
+                </classification>
+                <classification classificationID="10642162X" classificationName="bk">
+                    <code>48.20</code>
+                    <entries>
+                        <entry>Landtechnik, Forsttechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106414992" classificationName="bk">
+                    <code>55.21</code>
+                    <entries>
+                        <entry>Kraftfahrzeuge</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ssg">
+                    <code>19,2</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>36</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZD 71000</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>hor</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Gleiskettenfahrzeug</subject>
+                </subject>
+                <subject id="4157570-2" type="gnd">
+                    <subject xml:lang="de">Gleiskettenfahrzeug</subject>
+                </subject>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte 1920-1970</subject>
+                </subject>
+                <subject id="4011882-4" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Deutschland</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Schlepper</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

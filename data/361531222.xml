@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:361531222</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:361531222">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2003-03-18</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>361531222</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">361531222</identifier>
+                <identifier type="contract">19S98127</identifier>
+                <identifier type="contract">19S9812</identifier>
+                <identifier type="firstid">GBV:361531222</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">595153054</identifier>
+                    <creationDate>2003-03-18</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">F 03 B 224</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">208 Bl</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Wirkungen von Assistenz und Automation auf Fahrerzustand und Fahrsicherheit : Projekt: EMPHASIS, Effort-Management und Performance-Handling in sicherheitsrelevanten Situationen ; Abschlussbericht</title>
+            <alternativeTitles>
+                <alternative>Effects of driver assistance and automation on driver's state and driving safety</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Intelligent transport systems, driver assistance, driver information, adaptive cruise controle, lane departure warning, workload driver performance, driver behaviour, situational awareness, haptic, kinesthesia</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Julius-Maximilians-Universität Würzburg, Interdisziplinäres Zentrum für Verkehrswissenschaften</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">5158672-1</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor>
+                    <contributor>Buld, Susanne</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Krüger, Hans-Peter</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Interdisziplinäres Zentrum für Verkehrswissenschaften an der Universität Würzburg. S. Buld; H.-P. Krüger ...</responsible>
+            <publicationInfo>
+                <issued>2002</issued>
+                <publicationPlaces>
+                    <publicationPlace>Würzburg</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Förderkennzeichen BMBF 19 S 9812 7. - Engl. Zsfass. u.d.T.: Effects of driver assistance and automation on driver's state and driving safety</publicationIDInfo>
+                <publicationIDInfo>Unterschiede zwischen dem gedruckten Dokument und der elektronischen Dokumentenversion können nicht ausgeschlossen werden</publicationIDInfo>
+                <publicationIDInfo>Auch als elektronische Ressource vorh</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="181570424" classificationName="bk">
+                    <code>55.24</code>
+                    <entries>
+                        <entry>Fahrzeugführung, Fahrtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4132165-0" type="gnd">
+                    <subject xml:lang="de">Fahrerverhalten</subject>
+                </subject>
+                <subject id="4622983-8" type="gnd">
+                    <subject xml:lang="de">Fahrerassistenzsystem</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1740769759</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1740769759">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2020-11-24</databaseDate>
+            <changeDate>2023-01-09</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>1740769759</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1740769759</identifier>
+                <identifier type="doi">10.15480/882.3081</identifier>
+                <identifier type="firstid">KXP:1740769759</identifier>
+                <identifier type="isbn13">9783892207214</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="license" type="url">https://creativecommons.org/licenses/by/4.0/</location>
+                <location subtype="fulltext" type="url">http://nbn-resolving.de/urn:nbn:de:gbv:830-882.0113223</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3835875914</identifier>
+                    <creationDate>2021-01-14</creationDate>
+                    <selectionKey>zdt</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (xxi, 83 Seiten, Seite xxiii - xxxii)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Numerical modelling of multi-body hydrodynamics in multi-phase simulations</title>
+            <abstracts>
+                <abstract xml:lang="de">Die vorliegende Arbeit beschäftigt sich mit der Simulation von mechanisch gekoppelten Körpern in einem mehrphasigen Strömungsgebiet. Im Fokus steht die Erweiterung eines viskosen Fluid-Boden-Lösers mit der Overset-Grid-Technik durch geeignete mechanische Modelle zur Analyse der Hydrodynamik komplexer gekoppelter Systeme. Ein quaternionenbasiertes Bewegungsmodell mit grundlegenden mechanischen Kopplungselementen wird verwendet, um deren Einfluss in einem Mehrkörpersystem zu modellieren. Implizite Seegangs-Randbedingungen ermöglichen die Verwendung kompakter Rechengitter und variabler Welleneinfallswinkel. Simulationen mit Berücksichtigung der Struktur-Meerboden-Interaktion wurden unter Verwendung aller numerischen Methoden analysiert.</abstract>
+                <abstract xml:lang="de">This thesis is concerned with the simulation of mechanically coupled bodies in a multi-phase environment. While the applications of such cases are very wide, they are of particular interest for offshore wind parks, where numerical investigations can support the safety margins of an operation. The computational focus of the present study is to supplement a viscous three-phase fluid-soil solver featuring the overset grids technique by appropriate mechanical models to analyse the hydrodynamics of complex systems composed of multiple mechanically coupled bodies. A quaternion-based motion modeller featuring several basic joint elements is used to model their influence in a multi-body arrangement or the mechanical interaction between different moving parts of a structure, which can be seen as a multi-body system. Implicit seaway boundary conditions allow the use of compact domain sizes and variable headings of incident waves. Validation examples included refer to rigid links, ropes, fenders or guide frames restricting the motion in experiments, which aim to illustrate the predictive capabilities of the procedure. Finally, investigations on the simulation of a floating tug in waves, boatlanding for safe transfer, grounding of gravity foundations for wind turbines and the installation process of jack-up rigs in seaway involving structure-seabed interactions has been considered for application purposes while utilizing all features of the computational framework.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="degree-granting-institution">
+                    <type>degree-granting-institution</type>
+                    <name>Technische Universität Hamburg</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">1112763473</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+                <corporateCreator>
+                    <name>Technische Universität Hamburg, Institut für Fluiddynamik und Schiffstheorie</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">1120147859</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Theilen, Elin</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1196155801</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Rung, Thomas</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">122358910</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Düster, Alexander</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1160258074</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>von Elin Theilen ; Gutachter: 1. Gutachter: Prof. Dr.-Ing. Thomas Rung, 2. Gutachter: Prof. Dr.-Ing. habil. Alexander Düster</responsible>
+            <publicationInfo>
+                <issued>2020</issued>
+                <publicationPlaces>
+                    <publicationPlace>Hamburg</publicationPlace>
+                </publicationPlaces>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>Schriftenreihe Schiffbau</title>
+                    <volumeNumber>721</volumeNumber>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2020</dateAccepted>
+                        <description>Dissertation, Technische Universität Hamburg-Harburg, Institut für Fluiddynamik und Schiffstheorie M-8</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+                <publicationIDInfo>Sonstige Körperschaft: Technische Universität Hamburg, Institut für Fluiddynamik und Schiffstheorie</publicationIDInfo>
+                <publicationIDInfo>In: Schriftenreihe Schiffbau (721): (2020)</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Numerical modelling of multi-body hydrodynamics in multi-phase simulations</title>
+                <identifier type="ppn">1738271951</identifier>
+                <identifier type="isbn13">9783892207214</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+            <related type="parent">
+                <title>Schriftenreihe Schiffbau</title>
+                <volumeNumber>721</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420577" classificationName="bk">
+                    <code>55.40</code>
+                    <entries>
+                        <entry>Schiffstechnik, Schiffbau</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>523.4</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>520</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>600: Technik</code>
+                </classification>
+                <classification classificationID="106413929" classificationName="bk">
+                    <code>50.92</code>
+                    <entries>
+                        <entry>Meerestechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106413783" classificationName="bk">
+                    <code>50.33</code>
+                    <entries>
+                        <entry>Technische Strömungsmechanik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4128556-6" type="gnd">
+                    <subject xml:lang="de">Offshorebauwerk</subject>
+                </subject>
+                <subject id="4052397-4" type="gnd">
+                    <subject xml:lang="de">Schiffbau</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>multi-body hydrodynamics</subject>
+                </subject>
+                <subject id="4026302-2" type="gnd">
+                    <subject xml:lang="de">Hydrodynamik</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>seaway</subject>
+                </subject>
+                <subject id="4038390-8" type="gnd">
+                    <subject xml:lang="de">Mehrkörpersystem</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>mechanical joints</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>coupled bodies</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>offshore application</subject>
+                </subject>
+                <subject id="4148259-1" type="gnd">
+                    <subject xml:lang="de">Computersimulation</subject>
+                </subject>
+                <subject id="4261715-7" type="gnd">
+                    <subject xml:lang="de">Reynoldssche Gleichung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://nbn-resolving.de/urn:nbn:de:gbv:830-882.0113223</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

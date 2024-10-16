@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:485256371</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:485256371">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2005-05-04</databaseDate>
+            <changeDate>2024-04-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>485256371</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">485256371</identifier>
+                <identifier type="ean">9783980887960</identifier>
+                <identifier type="firstid">GBV:485256371</identifier>
+                <identifier type="isbn">3980887960</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">722274645</identifier>
+                    <creationDate>2005-12-29</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">L bau 471</location>
+                    <location type="tibShelfmark">T 05 B 4966</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-14</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">262 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Straßenbrücken über die Elbe in Deutschland : eine Darstellung der historischen Entwicklung dieser Brücken</title>
+            <abstracts>
+                <abstract xml:lang="de">Betrifft auch Brücken bei Vockerode u. Roßlau</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Fiedler, Erich</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">124841643</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>von Erich Fiedler</responsible>
+            <publicationInfo>
+                <issued>2005</issued>
+                <edition>1. Aufl.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Dresden</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Saxoprint</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Literaturverz. S. 241 - 245</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>29 cm, 1200 gr.</description>
+            <description>zahlr. Ill., graph. Darst., Kt</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106412132" classificationName="bk">
+                    <code>56.01</code>
+                    <entries>
+                        <entry>Geschichte des Bauingenieurwesens</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZI 6605</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>720</code>
+                </classification>
+                <classification classificationID="18156968X" classificationName="bk">
+                    <code>74.20</code>
+                    <entries>
+                        <entry>Deutschland, Österreich, Schweiz</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>720</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TG74.E43</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZI 6600</code>
+                </classification>
+                <classification classificationID="106410164" classificationName="bk">
+                    <code>56.23</code>
+                    <entries>
+                        <entry>Brückenbau</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106421050" classificationName="bk">
+                    <code>74.75</code>
+                    <entries>
+                        <entry>Verkehrsplanung, Verkehrspolitik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>bau</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>arc</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>geo</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Stahlbrücke</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Bridges</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Elbe River (Czech Republic and Germany)</subject>
+                </subject>
+                <subject id="4014170-6" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Elbe</subject>
+                </subject>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Brückenbau</subject>
+                </subject>
+                <subject id="4008415-2" type="gnd">
+                    <subject xml:lang="de">Brückenbau</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Brücke</subject>
+                </subject>
+                <subject id="4011882-4" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Deutschland</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1666747564</identifier><datestamp>2024-06-14</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1666747564">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2019-05-27</databaseDate>
+            <changeDate>2022-12-25</changeDate>
+            <ftxCreationDate>2024-06-14</ftxCreationDate>
+            <documentID>1666747564</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1666747564</identifier>
+                <identifier type="doi">10.1007/978-3-658-25863-4</identifier>
+                <identifier type="firstid">KEP:043975879</identifier>
+                <identifier type="isbn13">9783658258634</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://doi.org/10.1007/978-3-658-25863-4</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3514917817</identifier>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2019-09-12</creationDate>
+                    <selectionKey>zesp</selectionKey>
+                    <loanIndicator>s</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (XXIV, 121 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Methodischer Ansatz zur Optimierung von Energieladestrategien für elektrisch angetriebene Fahrzeuge</title>
+            <abstracts>
+                <abstract xml:lang="de">Untersuchung und Identifizierung relevanter Betriebsparameter von elektrisch angetriebenen Fahrzeugen -- Modellierung und Koppelung von Verkehrs- und Fahrzeugsimulationen -- Auswahl und Einsatz der Partikelschwarmoptimierung zur Lösung multikriterieller Optimierungsprobleme -- Methode und Anwendung der Optimierung von Energieladestrategien</abstract>
+                <abstract xml:lang="de">Raphael Pfeil stellt eine Methode zur Verbesserung der nutzbaren Reichweite von elektrisch angetriebenen Fahrzeugen durch die Optimierung des Betriebsablaufs und der Ladestrategie vor. Basierend auf den Analysen von real ermittelten E-Taxidaten werden für die Optimierung relevante Betriebsparameter identifiziert. Der Autor realisiert die Berechnung der Betriebsparameter durch ein modulares Simulationsframework, in dem eine Verkehrs- und eine Fahrzeugsimulation rechenzeiteffizient gekoppelt sind. Zur Optimierung der dynamischen und nichtdeterministischen Vorgänge setzt er die Partikelschwarmoptimierung ein. Die Validierung der Modelle erfolgt mittels empirisch ermittelter und statistisch abgesicherter Daten aus Fahrversuchen und Probandenstudien. Der Inhalt Untersuchung und Identifizierung relevanter Betriebsparameter von elektrisch angetriebenen Fahrzeugen Modellierung und Koppelung von Verkehrs- und Fahrzeugsimulationen Auswahl und Einsatz der Partikelschwarmoptimierung zur Lösung multikriterieller Optimierungsprobleme Methode und Anwendung der Optimierung von Energieladestrategien Die Zielgruppen Forschende und Studierende der Fachgebiete Fahrzeug- und Motorentechnik, insbesondere der Kraftfahrzeugmechatronik und Elektromobilität Führungs- und Fachkräfte aus der Automobil- und Zulieferindustrie, die sich mit Elektromobilität und Betriebsstrategien befassen Der Autor Raphael Pfeil promovierte an der Universität Stuttgart und ist heute im Bereich Elektromobilität und Kraftfahrzeugvernetzung tätig</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Pfeil, Raphael</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1189107511</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Raphael Pfeil</responsible>
+            <publicationInfo>
+                <issued>2019</issued>
+                <publicationPlaces>
+                    <publicationPlace>Wiesbaden</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer Vieweg</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-2-SEB</identifier>
+                    <identifier type="collectioncode">ZDB-2-STI</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>Wissenschaftliche Reihe Fahrzeugtechnik Universität Stuttgart</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>Springer eBooks</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>Computer Science and Engineering</title>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2018</dateAccepted>
+                        <description>Dissertation, Universität Stuttgart</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+            <description>Campusweiter Zugriff (Universität Hannover) - Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Keine Weitergabe an Dritte. Kein systematisches Downloaden durch Robots.</description>
+            <description>Erworben aus Studienqualitätsmitteln</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Methodischer Ansatz zur Optimierung von Energieladestrategien für elektrisch angetriebene Fahrzeuge</title>
+                <identifier type="ppn">1665133953</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-2-SEB</identifier>
+                <identifier type="collectioncode">ZDB-2-STI</identifier>
+            </related>
+            <related type="parent">
+                <title>Wissenschaftliche Reihe Fahrzeugtechnik Universität Stuttgart</title>
+            </related>
+            <related type="parent">
+                <title>Springer eBooks</title>
+            </related>
+            <related type="parent">
+                <title>Computer Science and Engineering</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="10642064X" classificationName="bk">
+                    <code>55.84</code>
+                    <entries>
+                        <entry>Straßenverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.2</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL1-483</code>
+                </classification>
+                <classification classificationID="106418637" classificationName="bk">
+                    <code>53.33</code>
+                    <entries>
+                        <entry>Elektrische Maschinen und Antriebe</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Engineering</subject>
+                </subject>
+                <subject id="4062937-5" type="gnd">
+                    <subject xml:lang="de">Verkehrsinfrastruktur</subject>
+                </subject>
+                <subject id="1023747006" type="gnd">
+                    <subject xml:lang="de">Batterieaufladung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Electrical engineering.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Automotive Engineering</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Computer simulation</subject>
+                </subject>
+                <subject id="4059185-2" type="gnd">
+                    <subject xml:lang="de">Taxi</subject>
+                </subject>
+                <subject id="4151795-7" type="gnd">
+                    <subject xml:lang="de">Elektrofahrzeug</subject>
+                </subject>
+                <subject id="4049187-0" type="gnd">
+                    <subject xml:lang="de">Reichweite</subject>
+                </subject>
+                <subject id="4144126-6" type="gnd">
+                    <subject xml:lang="de">Batteriefahrzeug</subject>
+                </subject>
+                <subject id="4593441-1" type="gnd">
+                    <subject xml:lang="de">Verkehrsmodell</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Computer engineering</subject>
+                </subject>
+                <subject id="4431076-6" type="gnd">
+                    <subject xml:lang="de">Triebstrang</subject>
+                </subject>
+                <subject id="4014733-2" type="gnd">
+                    <subject xml:lang="de">Energieverbrauch</subject>
+                </subject>
+                <subject id="7658941-9" type="gnd">
+                    <subject xml:lang="de">Partikel-Schwarm-Optimierung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://doi.org/10.1007/978-3-658-25863-4</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

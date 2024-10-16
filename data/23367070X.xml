@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:23367070X</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:23367070X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1997-09-03</databaseDate>
+            <changeDate>2024-04-18</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>23367070X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">23367070X</identifier>
+                <identifier type="firstid">GBV:23367070X</identifier>
+                <identifier type="isbn">3440072274</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://swbplus.bsz-bw.de/bsz062763008inh.htm</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">319922561</identifier>
+                    <creationDate>1999-03-05</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">T 99 B 1264</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-24</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">159 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Das NASA-Protokoll : Erfolge und Niederlagen</title>
+            <abstracts>
+                <abstract xml:lang="de">Die "Kosmos-Report-Reihe sieht in Layout und Gestaltung aus, wie eine noch zu etablierende "Focus"-Buchreihe wohl aussehen würde: viele mehr oder weniger aussagekräftige Illustrationen, sehr viele farblich abgesetzte Textkästen mit zusätzlichen Informationen und Zitaten, Texte, die sich auf das Wesentliche zu beschränken suchen und Überschriften, die manchmal etwas arg Boulevardmäßiges an sich haben ("Wie die Sowjetunion den Wettlauf zum Mond verlor"). Im vorliegenden Fall ist dieses Konzept in recht überzeugender Art und Weise umgesetzt worden. Der Autor erhebt nie den Anspruch, etwa eine "Geschichte der NASA" vorgelegt zu haben, durch die verwendete Form der Reportage erreicht er aber trotzdem einen hohen Informationsgehalt und einen nicht zu unterschätzenden Unterhaltungswert gerade für in die Geschichte der Weltraumfahrt nicht tiefer eingeweihte Leser. Politische Zusammenhänge werden zwar nur angerissen, aber in der gebotenen Kürze durchaus verständnisfördernd dargestellt. - Insgesamt empfehlenswert. (2) (Edgar Schichtl)</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Zimmer, Harro</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Harro Zimmer</responsible>
+            <publicationInfo>
+                <issued>1997</issued>
+                <publicationPlaces>
+                    <publicationPlace>Stuttgart</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Kosmos</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Kosmos-Report</title>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>22 cm</description>
+            <description>Ill</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Kosmos-Report</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="dbn">
+                    <code>29</code>
+                </classification>
+                <classification classificationID="106420607" classificationName="bk">
+                    <code>55.61</code>
+                    <entries>
+                        <entry>Raumfahrzeuge</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>21</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 8050</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>21</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>36</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Geschichte</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>USA</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Raumfahrt</subject>
+                </subject>
+                <subject id="4048574-2" type="gnd">
+                    <subject xml:lang="de">Raumfahrt</subject>
+                </subject>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte</subject>
+                </subject>
+                <subject id="2294-9" subtype="corporate-body" type="gnd">
+                    <subject xml:lang="de">USA National Aeronautics and Space Administration</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

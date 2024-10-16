@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:644457074</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:644457074">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2011-01-21</databaseDate>
+            <changeDate>2023-03-24</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>644457074</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">644457074</identifier>
+                <identifier type="firstid">GBV:644457074</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">http://nbn-resolving.de/urn:nbn:de:gbv:46-00101839-12</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1236834488</identifier>
+                    <creationDate>2011-04-06</creationDate>
+                    <selectionKey>zdt</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online-Ressource (PDF-Datei: 137 S., 6,1 MB)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Autonome Sensorsysteme in der Transport- und Lebensmittellogistik</title>
+            <abstracts>
+                <abstract xml:lang="de">Autonomous agents, transport telematics, wireless sensor networks, intelligent container. - A concise supervision of food products during transport is an essential precondition for the improvement of their quality and reduction of losses. However, existing remote or telemetric systems implement only parts of the entire supervision task. Standard systems measure temperature only at one or two points, and the evaluation of sensor data has to be done manually. This thesis presents a system which measures a spatial profile of temperature and other parameters. The idea of remote transport supervision is extended to a self-contained sensor system that locally processes measurement data and detects critical situations autonomously. The algorithms for sensor data evaluation are implemented inside the means of transport; they can either share a common embedded processor unit or run separately on wireless sensors nodes, which are attached to the loaded freight objects. The system automatically adapts the supervision process to different kinds of goods. This intelligent container combines technologies from different fields, such as RFID, wireless sensor networks, and telemetric system, which have so far been applied separately. A shelf life model, based on the dynamic temperature profile, estimates the amount of quality loss during transport. The quality supervision is implemented as a set of software agents. Each freight object is supervised by an individual sensory way bill . A demonstration system for the supervision of food transports shows the feasibility of this new approach.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Jedermann, Reiner</contributor>
+                </contributor>
+            </contributors>
+            <responsible>von Reiner Jedermann</responsible>
+            <publicationInfo>
+                <issued>2011</issued>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Staats- und Universitaetsbibliothek [Host]</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Zugl.: Bremen, Univ., Diss., 2009</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druckausg.</label>
+                <title>Autonome Sensorsysteme in der Transport- und Lebensmittellogistik</title>
+                <identifier type="ppn">61583468X</identifier>
+                <identifier type="isbn13">9783868532890</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>QR 800</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 3950</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>530</code>
+                </classification>
+                <classification classificationID="181571803" classificationName="bk">
+                    <code>50.22</code>
+                    <entries>
+                        <entry>Sensorik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>530</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZQ 3950</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4143713-5" type="gnd">
+                    <subject xml:lang="de">Autonomes System</subject>
+                </subject>
+                <subject id="4184696-5" type="gnd">
+                    <subject xml:lang="de">Temperatursensor</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://nbn-resolving.de/urn:nbn:de:gbv:46-00101839-12</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:88636714X</identifier><datestamp>2024-06-14</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:88636714X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2017-05-09</databaseDate>
+            <changeDate>2021-07-05</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>88636714X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">88636714X</identifier>
+                <identifier type="firstid">GBV:88636714X</identifier>
+                <identifier type="isbn13">9781536120301</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/88636714x.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1710828668</identifier>
+                    <creationDate>2018-05-04</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 17 B 3903</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xii, 176 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Progress in aircraft icing and aircraft erosion research</title>
+            <abstracts>
+                <abstract xml:lang="de">A review of aircraft icing in aeronautics / (Omid Gohardani, Springs of Dreams Corporation, Orange County, California, U.S.A.) -- Droplet impingement in aircraft icing / (R. S. Myong, Department of Aerospace and System Engineering and Research Center for Aircraft Parts Technology, Gyeongsang National University, South Korea) -- Icing wind tunnels : a review / (Omid Gohardani, Springs of Dreams Corporation, Orange County, California, U.S.A.) -- Erosion research in aeronautical applications / (Omid Gohardani, Springs of Dreams Corporation, Orange County, California, U.S.A.) -- Solid particle erosion resistant hard coatings for gas turbine engine applications / (Qi Yang, Linruo Zhao, Prakash Patnaik, Aerospace Portfolio, National Research Council of Canada) -- Flight in dusty conditions / (Theodore I. Lekas, Department of Aerodynamics and Flight Mechanics, Hellenic Air Force Academy, Dekelia AFB, Dekelia, Attica, Greece)</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Gohardani, Omid</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Omid Gohardani, PH.D., editor</responsible>
+            <publicationInfo>
+                <issued>2017</issued>
+                <publicationPlaces>
+                    <publicationPlace>New York</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Nova Science Publishers</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Aerospace and system engineering and research</title>
+                </journalInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>23 cm</description>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Aerospace and system engineering and research</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106421395" classificationName="bk">
+                    <code>52.78</code>
+                    <entries>
+                        <entry>Oberflächentechnik, Wärmebehandlung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL557.I3</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.134/32</code>
+                </classification>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mas</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Airplanes</subject>
+                </subject>
+                <subject id="4187665-9" type="gnd">
+                    <subject xml:lang="de">Vereisung</subject>
+                </subject>
+                <subject id="4017672-1" type="gnd">
+                    <subject xml:lang="de">Flugzeug</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Metals</subject>
+                </subject>
+                <subject id="4015366-6" type="gnd">
+                    <subject xml:lang="de">Erosion</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

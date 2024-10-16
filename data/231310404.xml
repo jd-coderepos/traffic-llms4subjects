@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:231310404</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:231310404">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1997-07-29</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>231310404</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">231310404</identifier>
+                <identifier type="firstid">GBV:231310404</identifier>
+                <identifier type="isbn">3895951234</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/ilmenau/toc/231310404.PDF</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">261494813</identifier>
+                    <creationDate>1997-11-25</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">U 97 B 1334</location>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">165 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Das Powerbike : Fahrräder mit elektrischem Zusatzantrieb ; [Pioniere, Modelle, Visionen]</title>
+            <abstracts>
+                <abstract xml:lang="de">Gegenstand der Publikation sind Fahrräder mit elektrischem Hilfsantrieb. Die Autoren wollen die Vielfalt der Entwicklungen aufzeigen, das Marktangebot transparent machen und nicht zuletzt Aufklärungsarbeit leisten für eine Fahrradvariante, der mit Recht erhebliche Chancen für den Zukunftsverkehr eingeräumt werden. Um das Buch zusammenzustellen, haben sich eine Reihe von Pionieren, Insidern und Freaks zusammengefunden; nicht immer wird ganz klar, welcher Autor welchen Beitrag geleistet hat. Die grundlegende Schwäche des Buches ist eine unklare Konzeption. In weiten Teilen entsteht der Eindruck, daß hier Freaks für Freaks schreiben - der unbedarfte Leser findet einen verwirrenden Mix aus technischer Detailfreudigkeit, historischen Ausflügen, Nebensächlichkeiten und fachlichen Verweisen, die nicht erklärt werden, vor. Es werden eine Vielzahl von Personen aufgeführt - ein Personenregister ist nicht vorhanden. Die einzelnen Modelle werden zwar vorgestellt, wo, welches zu was für einem Preis produziert wird, bleibt offen, keine Adressangaben. Hier fehlte der Lektor. Verzichten. (Haike Wirrmann)</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Neupert, Hannes</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Hannes Neupert</responsible>
+            <publicationInfo>
+                <issued>1997</issued>
+                <publicationPlaces>
+                    <publicationPlace>Kiel</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Delius Klasing Ed. Moby Dick</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Delius Klasing - Edition Moby Dick</title>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>24 cm</description>
+            <description>Ill</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Delius Klasing - Edition Moby Dick</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="dbn">
+                    <code>50</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>36</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4221392-7" type="gnd">
+                    <subject xml:lang="de">Fahrrad mit Hilfsmotor</subject>
+                </subject>
+                <subject id="4508332-0" type="gnd">
+                    <subject xml:lang="de">Solarfahrrad</subject>
+                </subject>
+                <subject id="4508380-0" type="gnd">
+                    <subject xml:lang="de">Elektrofahrrad</subject>
+                </subject>
+                <subject id="4014238-3" type="gnd">
+                    <subject xml:lang="de">Elektroantrieb</subject>
+                </subject>
+                <subject id="4151795-7" type="gnd">
+                    <subject xml:lang="de">Elektrofahrzeug</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:736062300</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:736062300">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2013-02-12</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>736062300</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">736062300</identifier>
+                <identifier type="firstid">GBV:736062300</identifier>
+                <identifier type="isbn13">9781466514294</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/736062300.pdf</location>
+                <location subtype="cover" type="url">http://jacketsearch.tandf.co.uk/common/jackets/covers/websmall/978146651/9781466514294.jpg</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1380847346</identifier>
+                    <creationDate>2014-01-13</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 13 B 3153</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XVIII, 212 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Usability evaluation for in-vehicle systems</title>
+            <abstracts>
+                <abstract xml:lang="de">"Preface The work presented in this book was prompted by the need for an evaluation framework that is useful and relevant to the automotive industry. It is often argued that ergonomics is involved too late in the commercial project development processes to have substantive impact on design and usability. In the automotive industry, and specifically in relation to In-Vehicle Information Systems (IVIS), a lack of attention to the issue of usability can lead not only to poor customer satisfaction but can also present a significant risk to safe and efficient driving. This work contributes to the understanding and evaluation of usability in the context of IVIS and is written for students, researchers, designers, and engineers who are involved or interested in the design and evaluation of in-vehicle systems. The book has three key objectives - Define and understand usability in the context of IVIS. This guides the specification of criteria against which usability can be successfully evaluated. - Develop a multimethod framework to support designers in the evaluation of IVIS usability. The underlying motivations for the framework are a need for early-stage evaluation to support proactive redesign and a practical and realistic approach that can be used successfully by automotive manufacturers. - Develop an analytic usability evaluation method that enables useful predictions of task interaction, while accounting for the specific context-of- use of IVIS"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Harvey, Catherine</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1038358663</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Stanton, Neville</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">138094128</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Catherine Harvey; Neville A. Stanton</responsible>
+            <publicationInfo>
+                <issued>2013</issued>
+                <publicationPlaces>
+                    <publicationPlace>Boca Raton, Fla. [u.a.]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>CRC Press</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Includes bibliographical references (p. 187-206) -- Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>24 cm</description>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausg.</label>
+                <title>Usability evaluation for in-vehicle systems</title>
+                <identifier type="isbn13">9781466514300</identifier>
+                <identifier type="ppn">1653454601</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc-dbn">
+                    <code>TEC017000</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>TEC009070</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.2/73</code>
+                </classification>
+                <classification classificationID="10641478X" classificationName="bk">
+                    <code>85.52</code>
+                    <entries>
+                        <entry>Arbeitswissenschaft</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>TEC061000</code>
+                </classification>
+                <classification classificationID="181570424" classificationName="bk">
+                    <code>55.24</code>
+                    <entries>
+                        <entry>Fahrzeugführung, Fahrtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ST 278</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL272.55</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>oek</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>pae</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Automobiles</subject>
+                </subject>
+                <subject id="4005541-3" type="gnd">
+                    <subject xml:lang="de">Benutzerfreundlichkeit</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Human-machine systems</subject>
+                </subject>
+                <subject id="4622983-8" type="gnd">
+                    <subject xml:lang="de">Fahrerassistenzsystem</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

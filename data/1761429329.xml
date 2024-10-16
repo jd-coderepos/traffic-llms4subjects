@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1761429329</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1761429329">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2021-06-29</databaseDate>
+            <changeDate>2024-02-15</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1761429329</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1761429329</identifier>
+                <identifier type="firstid">KXP:1761429329</identifier>
+                <identifier type="isbn13">9780128202760</identifier>
+                <identifier type="isbn">0128202769</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1761429329.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">394188834X</identifier>
+                    <creationDate>2022-06-28</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 21 B 2884</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xxiii, 626 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Unmanned aerial systems : theoretical foundation and applications</title>
+            <abstracts>
+                <abstract xml:lang="de">"Unmanned Aerial Systems: Theoretical Foundation and Applications presents some of the latest innovative approaches to drones from the point-of-view of dynamic modeling, system analysis, optimization, control, communications, 3D-mapping, search and rescue, surveillance, farmland and construction monitoring, and more. With the emergence of low-cost UAS, a vast array of research works in academia and products in the industrial sectors have evolved. The book covers the safe operation of UAS, including, but not limited to, fundamental design, mission and path planning, control theory, computer vision, artificial intelligence, applications requirements, and more. This book provides a unique reference of the state-of-the-art research and development of unmanned aerial systems, making it an essential resource for researchers, instructors and practitioners."--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Koubâa, Anis</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1084800659</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Azar, Ahmad Taher</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1129711226</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>edited by Anis Koubaa (Robotics and Internet-of-Things Lab (RIOTU), Prince Sultan University, Riyadh, Saudi Arabia, CISTER Research Center, Porto, Portugal), Ahmad Taher Azar (Faculty of Computers and Artificial Intelligence, Benha University, Benha, Egypt, Robotics and Internet-of-Things Lab (RIOTU), Prince Sultan University, Riyadh, Saudi Arabia)</responsible>
+            <publicationInfo>
+                <issued>2021</issued>
+                <publicationPlaces>
+                    <publicationPlace>London</publicationPlace>
+                    <publicationPlace>San Diego, CA</publicationPlace>
+                    <publicationPlace>Cambridge, MA</publicationPlace>
+                    <publicationPlace>Kidlington, Oxford</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="GB" />
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Academic Press, an imprint of Elsevier</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Advances in nonlinear dynamics and chaos</title>
+                </journalInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Advances in nonlinear dynamics and chaos</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.13339</code>
+                </classification>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL685.35</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4154756-1" type="gnd">
+                    <subject xml:lang="de">Flugkörper</subject>
+                </subject>
+                <subject id="4332556-7" type="gnd">
+                    <subject xml:lang="de">Drohne (Flugkörper)</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Drone aircraft</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Drone aircraft</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

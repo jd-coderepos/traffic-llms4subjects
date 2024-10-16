@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:359022278</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:359022278">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2003-01-13</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>359022278</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">359022278</identifier>
+                <identifier type="contract">20044321</identifier>
+                <identifier type="contract">UBA-FB-000255</identifier>
+                <identifier type="firstid">GBV:359022278</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/359022278.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">585283214</identifier>
+                    <creationDate>2003-01-13</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RN 8908(2000,255)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">98 Bl</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Verminderung gasförmiger Emissionen beim Transport von Ottokraftstoffen und Mineralölprodukten mit Binnenschiffen (20.BImSchV) : Forschungsbericht 200 44 321</title>
+            <alternativeTitles>
+                <alternative>Reduction of vaporous emissions during transport of petrol and mineral oil products by river tank ships (20.BImSchV)</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Ventilation of river tank ships, vapour recovery unit, tank atmosphere concentrations, diffuse emissions of VOC</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Schäfer, Klaus</contributor>
+                </contributor>
+            </contributors>
+            <responsible>von Klaus Schäfer</responsible>
+            <publicationInfo>
+                <issued>2001</issued>
+                <publicationPlaces>
+                    <publicationPlace>Garmisch-Partenkirchen</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Fraunhofer-Inst. f. Atmosphär. Umweltforschung (IFU)</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>UBA-FB</title>
+                    <volumeNumber>00,255</volumeNumber>
+                </journalInfo>
+                <journalInfo>
+                    <title>Umweltforschungsplan des Bundesministers für Umwelt, Naturschutz und Reaktorsicherheit</title>
+                </journalInfo>
+                <publicationIDInfo>1. Serie aufgestempelt, Zählung handschriftl. - Literaturverz. S. 87 - 91. - Engl. Zsfass. u.d.T.: Reduction of vaporous emissions during transport of petrol and mineral oil products by river tank ships (20.BImSchV)</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst., Kt</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>UBA-FB</title>
+                <volumeNumber>00,255</volumeNumber>
+            </related>
+            <related type="parent">
+                <title>Umweltforschungsplan des Bundesministers für Umwelt, Naturschutz und Reaktorsicherheit</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106421832" classificationName="bk">
+                    <code>55.86</code>
+                    <entries>
+                        <entry>Schiffsverkehr, Schifffahrt</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106416928" classificationName="bk">
+                    <code>43.62</code>
+                    <entries>
+                        <entry>Umweltbelastung durch Transport und Verkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>cet</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4145578-2" type="gnd">
+                    <subject xml:lang="de">Binnenschiff</subject>
+                </subject>
+                <subject id="4133314-7" type="gnd">
+                    <subject xml:lang="de">Entgasung</subject>
+                </subject>
+                <subject id="4351499-6" type="gnd">
+                    <subject xml:lang="de">VOC (Ökologische Chemie)</subject>
+                </subject>
+                <subject id="4125647-5" type="gnd">
+                    <subject xml:lang="de">Tank</subject>
+                </subject>
+                <subject id="4184401-4" type="gnd">
+                    <subject xml:lang="de">Tankschiff</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:613751981</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:613751981">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2009-11-26</databaseDate>
+            <changeDate>2024-04-21</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>613751981</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">613751981</identifier>
+                <identifier type="contract">03178</identifier>
+                <identifier type="ean">9783613031784</identifier>
+                <identifier type="firstid">DNB:998364924</identifier>
+                <identifier type="isbn13">9783613031784</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://d-nb.info/998364924/04</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">111213414X</identifier>
+                    <creationDate>2011-01-19</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 10 B 1876</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-24</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">127 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Airbus : Flugzeuge seit 1972</title>
+            <abstracts>
+                <abstract xml:lang="de">Das reihentypisch aufgemachte Taschenbuch verzeichnet nach einer kurzen Firmengeschichte die Maschinen des größt︢en europäischen Flugzeugherstellers. Erfasst werden alle Modelle, angefangen von der Erstentwicklung A300 von 1972 bis zum Militärtransporter A400M, dessen Auslieferung 2012 beginnen soll. Jedes Flugzeug wird mit Farbfoto, Kurzbeschreibung, Modellgeschichte und Techniksteckbrief vorgestellt. Ein kompakter, aktueller und preisgünstiger Überblick, gut geeignet als Update zu Karl Morgenstern: "Airbus" (BA 6/04) oder als Ergänzung zu allgemeinen Titeln wie "Das grosse Buch der Verkehrsflugzeuge" von Achim Figgen (BA 7/09). (2)</abstract>
+            </abstracts>
+            <contributors>
+                <contributor>
+                    <contributor>Lang, Gerhard</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">132964805</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Gerhard Lang</responsible>
+            <publicationInfo>
+                <issued>2010</issued>
+                <edition>1. Aufl.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Stuttgart</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Motorbuch-Verl.</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Typenkompass</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>Basiswissen für Luftfahrt-Freunde</title>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>205 mm x 140 mm</description>
+            <description>zahlr. Ill.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Typenkompass</title>
+            </related>
+            <related type="parent">
+                <title>Basiswissen für Luftfahrt-Freunde</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>ZO 7420</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="106420593" classificationName="bk">
+                    <code>55.51</code>
+                    <entries>
+                        <entry>Flugzeuge</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.133349</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4000852-6" type="gnd">
+                    <subject xml:lang="de">Airbus</subject>
+                </subject>
+                <subject id="4022223-8" type="gnd">
+                    <subject xml:lang="de">Großraumflugzeug</subject>
+                </subject>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte 1972-2010</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

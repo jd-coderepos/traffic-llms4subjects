@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:742503933</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:742503933">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2013-04-22</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>742503933</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">742503933</identifier>
+                <identifier type="firstid">GBV:742503933</identifier>
+                <identifier type="isbn13">9783844015515</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/ilmenau/toc/742503933.PDF</location>
+                <location subtype="description" type="url">http://www.gbv.de/dms/ilmenau/abs/742503933muell.txt</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1390193837</identifier>
+                    <creationDate>2013-05-13</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">U 13 B 574</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XIII, 153 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Entwurf und Realisierung eines modulbasierten Fahrtführungssystems für autonome Fahrzeuge</title>
+            <abstracts>
+                <abstract xml:lang="de">In dieser Arbeit wird ein neues Konzept eines modulbasierten Fahrtführungssystems entwickelt und prototypisch umgesetzt. Autonome Fahrzeuge sollen sich in ihrer Umgebung zielgerichtet bewegen, um eine gestellte Aufgabe bzw. Mission erfüllen zu können. Beispiele sind Anwendungen in den Bereichen Logistik, Straßenverkehr und Sicherheit, die jeweils unterschiedliche Anforderungen an ein Fahrtführungssystem, als Gesamtheit der Komponenten zur Sensordatenerfassung sowie zur Planung und Regelung, stellen. Das vorgestellte Fahrtführungssystem zeichnet sich in einer neuartigen Form durch eine modulbasierte Architektur aus. Hierbei werden bestimmte Funktionen in deren algorithmischer Beschreibung zusammen mit ggf. notwendiger Sensorik in der Umsetzung auf speziellen Rechnereinheiten zu Modulen zusammengefasst. Die Module ermöglichen die Realisierung eines flexiblen und entwicklungsfähigen Konzeptes der Fahrtführung autonomer Fahrzeuge, welches erstmals in dieser Form für das Test- und Entwicklungssystem "Quanjo TDS" demonstriert wurde. Als Basismodule der Fahrtführung wurden die Module "Lokalisierung", "Umgebungserfassung", "Autonome Wegpunktfahrt" und "Fahrzeugschnittstelle" definiert und prototypisch realisiert. Durch das Modul "Lokalisierung" werden die Daten eines satellitenbasierten Positionsbestimmungssystems (Stützsystem) mit den Daten von Sensoren zur Messung von relativen Bewegungsgrößen fusioniert, um die Verfügbarkeit und die Datenrate der Positionsinformation zu erhöhen. Zu diesem Zweck wurde ein Positionsfilter auf Basis des Erweiterten Kalman-Filters entwickelt. Kurzzeitige Störungen, die durch Abschattung oder Mehrwegeausbreitung des Satellitensignals entstehen können, werden durch das Modul "Lokalisierung" auf diese Weise reduziert. Das Modul "Umgebungserfassung" detektiert die Objekte der Umgebung, welche für die Fahrtführung relevant sind und generiert eine kompakte Beschreibung der Umgebungssituation. Durch das Modul "Autonome Wegpunktfahrt" werden für die Funktion der autonomen Anfahrt von definierten Positionen die entsprechenden Komponenten der Planung und Regelung ausgeführt. Hierbei wird die Positionsinformation und die Information über die Umgebung verwendet, um einen hindernisfreien Pfad zur Zielposition über eine Reihe von Wegpunkten zu planen und autonom abzufahren, wobei Umplanungen in dynamischen Umgebungen notwendig sein können. Das Modul "Fahrzeugschnittstelle" dient zur Generierung der fahrzeugspezifischen Stellkommandos hinsichtlich der Aktorik.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Müller, Fabian</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1033865192</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor>
+                    <contributor>Ament, Christoph</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1058278150</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Bretthauer, Georg</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Wernstedt, Jürgen</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">130244864</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Fabian Müller</responsible>
+            <publicationInfo>
+                <issued>2012</issued>
+                <publicationPlaces>
+                    <publicationPlace>Aachen</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Shaker</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Berichte aus der Automatisierungstechnik</title>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Zugl.: Ilmenau, Techn. Univ., Diss., 2012</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Berichte aus der Automatisierungstechnik</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="181570424" classificationName="bk">
+                    <code>55.24</code>
+                    <entries>
+                        <entry>Fahrzeugführung, Fahrtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4267628-9" type="gnd">
+                    <subject xml:lang="de">Bahnplanung</subject>
+                </subject>
+                <subject id="4307964-7" type="gnd">
+                    <subject xml:lang="de">Sensorsystem</subject>
+                </subject>
+                <subject id="4126945-7" type="gnd">
+                    <subject xml:lang="de">Systementwicklung</subject>
+                </subject>
+                <subject id="4206329-2" type="gnd">
+                    <subject xml:lang="de">Lagemessung</subject>
+                </subject>
+                <subject id="4134712-2" type="gnd">
+                    <subject xml:lang="de">Regelungssystem</subject>
+                </subject>
+                <subject id="7714938-5" type="gnd">
+                    <subject xml:lang="de">Autonomes Fahrzeug</subject>
+                </subject>
+                <subject id="4125467-3" type="gnd">
+                    <subject xml:lang="de">Modulbauweise</subject>
+                </subject>
+                <subject id="7657772-7" type="gnd">
+                    <subject xml:lang="de">Drive-by-wire</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

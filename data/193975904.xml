@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:193975904</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:193975904">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1996-03-11</databaseDate>
+            <changeDate>2024-03-28</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>193975904</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">193975904</identifier>
+                <identifier type="firstid">GBV:193975904</identifier>
+                <identifier type="isbn">3874121542</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">188934359</identifier>
+                    <creationDate>1996-11-13</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">ZA 5165(112)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">143 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>GMDSS : weltweites Seenot- und Sicherheitsfunksystem : Kommunikation und Sicherheitsausrüstung auf kleinen Schiffen</title>
+            <alternativeTitles>
+                <alternative>Global Maritime Distress and Safety System</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">GMDSS ist, wie der Untertitel schon sagt, ein Kommunikationssystem, das bis 1999 weltweit eingeführt sein wird. Es ist für die Berufsschiffahrt konzipiert, der Funker läßt sich einsparen, und besteht aus mehreren Elementen, von denen für die Sportschiffahrt allenfalls der digitale Selektivruf und vor allem die Notfunkbojen interessant sind. Die in elektronischer Yachtausrüstung kompetente und durch Funkkurse ausgewiesene Autorin erläutert die Funktionsweise des Systems allgemein und der einzelnen Geräte speziell, nennnt die für die Teilnahme notwendigen Funkzeugnisse und bringt Klarheit in's Abkürzungswirrwarr. Ein verständlicher und redundanzfreier Titel, der für einen Teil der Sportskipper nützlich ist. (3) (Martin Paulini)</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Stahnke, Angelika</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Angelika Stahnke</responsible>
+            <publicationInfo>
+                <issued>1996</issued>
+                <publicationPlaces>
+                    <publicationPlace>Bielefeld</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Klasing</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Yacht-Bücherei</title>
+                    <volumeNumber>112</volumeNumber>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>20 cm</description>
+            <description>zahlr. Ill., graph. Darst., Kt</description>
+            <hiddenSearchTerm>Global Maritime Distress and Safety System</hiddenSearchTerm>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Yacht-Bücherei</title>
+                <volumeNumber>112</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="dbn">
+                    <code>41</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>50</code>
+                </classification>
+                <classification classificationID="181569973" classificationName="bk">
+                    <code>55.44</code>
+                    <entries>
+                        <entry>Schiffsführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>37</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4375801-0" type="gnd">
+                    <subject xml:lang="de">GMDSS</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

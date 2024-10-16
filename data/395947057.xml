@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:395947057</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:395947057">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2004-09-29</databaseDate>
+            <changeDate>2024-04-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>395947057</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">395947057</identifier>
+                <identifier type="contract">19B0062</identifier>
+                <identifier type="contract">01013083</identifier>
+                <identifier type="doi">10.2314/GBV:395947057</identifier>
+                <identifier type="firstid">GBV:395947057</identifier>
+            </identifiers>
+            <locations>
+                <location mimetype="application/pdf" subtype="fulltext" type="url">https://edocs.tib.eu/files/e01fb04/395947057.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">667323171</identifier>
+                    <creationDate>2004-09-29</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-89</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">Online-Ressource (71 p. = 2,30 MB)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>stadtinfoköln : Mobilität im Ballungsraum ; Beitrag des Zuwendungsempfängers: PTV AG Karlsruhe zu den Arbeitspaketen: AP 1 - Parken im Ballungsraum Köln; AP 2 - MIV Informations- und Leitemfehlungen; AP 9 - Systemarchitektur; AP 10 - Datenstrukturen und Kommunikationswege; AP 11 - Provider und Realisierungsstrukturen; AP 12 - Endgeräte ; Laufzeit 01.08.2000 bis 31.10.2002 verlängert bis 30.05.2003 ; Schlussbericht</title>
+            <abstracts>
+                <abstract xml:lang="de">Stadtinfoköln, mobile services, mobility services, mobile internet, traffic management, mobility management</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>PTV Planung Transport Verkehr AG</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">6094580-1</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor>
+                    <contributor>Kipp, Wolfgang</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Orgiese, Michael</contributor>
+                </contributor>
+            </contributors>
+            <responsible>[Autoren: Wolfgang Kipp; Michael Orgiese]</responsible>
+            <publicationInfo>
+                <issued>2003</issued>
+                <publicationPlaces>
+                    <publicationPlace>Karlsruhe</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Technische Informationsbibliothek u. Universitätsbibliothek</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-296-TTN</identifier>
+                </isPartOf>
+                <publicationIDInfo>Contract BMBF 19B0062. - Joint project no. 01013083</publicationIDInfo>
+                <publicationIDInfo>Differences between the printed and electronic version of the document are possible</publicationIDInfo>
+                <publicationIDInfo>Also available as printed version</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>graphs</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-296-TTN</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420658" classificationName="bk">
+                    <code>55.83</code>
+                    <entries>
+                        <entry>Stadtverkehr, Nahverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4554074-3" type="gnd">
+                    <subject xml:lang="de">Parksuchverkehr</subject>
+                </subject>
+                <subject id="4031493-5" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Köln</subject>
+                </subject>
+                <subject id="4467581-1" type="gnd">
+                    <subject xml:lang="de">Verkehrsinformation</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">default</property>
+            <property name="displaySubscriberAccess">https://edocs.tib.eu/files/e01fb04/395947057.pdf</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

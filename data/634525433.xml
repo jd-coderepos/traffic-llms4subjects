@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:634525433</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:634525433">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2010-09-04</databaseDate>
+            <changeDate>2023-03-24</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>634525433</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">634525433</identifier>
+                <identifier type="firstid">GBV:634525433</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">http://nbn-resolving.de/urn:nbn:de:gbv:28-diss2010-0123-9</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1236821955</identifier>
+                    <creationDate>2011-04-06</creationDate>
+                    <selectionKey>zdo</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online-Ressource</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Zur Physik des Straßenverkehrs : empirische Daten und dynamische Modelle</title>
+            <abstracts>
+                <abstract xml:lang="de">Diese Arbeit befasst sich mit Straßenverkehr in Theorie und Experiment. Das Experiment stellt dabei Datensätze dar, die Fahrzeugtrajektorien einer komplexen Verkehrssituation beinhalten. Diese Daten werden analysiert und so aufbereitet, dass sie mit einem Modell vergleichbar werden. Die Datenanalyse zeigt den starken Einfluss der Spurwechsel und die starke Abhängigkeit des Fahrzeug-Folge-Verhaltens von der Geschwindigkeitsdifferenz zum Vordermann. Der Vergleich mit dem Modell zeigt deutliche Unterschiede. Gründe sind das Modell selbst und eine stark vereinfachte Verkehrssituation.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Liebe, Christof</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">142213462</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>vorgelegt von Christof Liebe</responsible>
+            <publicationInfo>
+                <issued>2010</issued>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Universitätsbibliothek</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Rostock, Univ., Mathematisch-Naturwiss. Fak., Diss., 2010</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druckausg.</label>
+                <title>Zur Physik des Straßenverkehrs</title>
+                <identifier type="ppn">633099562</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="10642064X" classificationName="bk">
+                    <code>55.84</code>
+                    <entries>
+                        <entry>Straßenverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>530</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>380</code>
+                </classification>
+                <classification classificationID="106407651" classificationName="bk">
+                    <code>33.19</code>
+                    <entries>
+                        <entry>Theoretische Physik: Sonstiges</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>388.0153</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4252387-4" type="gnd">
+                    <subject xml:lang="de">Doppelmuldenpotenzial</subject>
+                </subject>
+                <subject id="4057931-1" type="gnd">
+                    <subject xml:lang="de">Straßenverkehr</subject>
+                </subject>
+                <subject id="4150932-8" type="gnd">
+                    <subject xml:lang="de">Dynamisches Modell</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://nbn-resolving.de/urn:nbn:de:gbv:28-diss2010-0123-9</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

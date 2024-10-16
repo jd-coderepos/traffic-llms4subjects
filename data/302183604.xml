@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:302183604</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:302183604">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1999-09-03</databaseDate>
+            <changeDate>2024-04-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>302183604</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">302183604</identifier>
+                <identifier type="contract">01IB405F6</identifier>
+                <identifier type="contract">52300038</identifier>
+                <identifier type="firstid">GBV:302183604</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="miscellaneous" type="url">https://edocs.tib.eu/files/e001/302183604l.pdf</location>
+                <location mimetype="application/pdf" subtype="fulltext" type="url">https://edocs.tib.eu/files/e001/302183604.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">355441365</identifier>
+                    <creationDate>1999-09-03</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-89</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">70 p. = 701 Kb., text and images</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Evolutionäre Algorithmen im Flugplanungsbereich (EVOFLU) : Abschlußbericht 1996 ; BMBF-Fördergebiet Optimierungsstrategien in der Bioinformatik - evolutionäre Algorithmen, Verbundprojekt HYBRID Anwendung paralleler genetischer Algorithmen in der kombinatorischen Optimierung</title>
+            <alternativeTitles>
+                <alternative>Evolutionary algorithms in airline schedule planning (EVOFLU)</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Airlines, schedule planning, service planning, market share model, optimisation, evolutionary algorithms, neural networks, fleet assignment, tail assignment, calibration</abstract>
+            </abstracts>
+            <contributors>
+                <contributor>
+                    <contributor>Bolz, Georg F.</contributor>
+                </contributor>
+            </contributors>
+            <responsible>erstellt von Georg F. Bolz</responsible>
+            <publicationInfo>
+                <issued>1999</issued>
+                <edition>[Electronic ed.]</edition>
+                <publicationPlaces>
+                    <publicationPlace>Kelsterbach</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Lufthansa Systems GmbH</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-296-TTN</identifier>
+                </isPartOf>
+                <publicationIDInfo>nIndex. - Contract FKZ 01 IB 405 F6. - Common project no. 52300038. - Title of the Englisch summary: Evolutionary algorithms in airline schedule planning (EVOFLU). - Bibliographic data partially researched</publicationIDInfo>
+                <publicationIDInfo>Differences between the printed and electronic version of the document are possible</publicationIDInfo>
+            </additionalDocumentInfo>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-296-TTN</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106417320" classificationName="bk">
+                    <code>85.03</code>
+                    <entries>
+                        <entry>Methoden und Techniken der Betriebswirtschaft</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106410660" classificationName="bk">
+                    <code>55.88</code>
+                    <entries>
+                        <entry>Luftverkehr, Raumfahrt</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mat</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>oek</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4036597-9" type="gnd">
+                    <subject xml:lang="de">Luftverkehr</subject>
+                </subject>
+                <subject id="4125215-9" type="gnd">
+                    <subject xml:lang="de">Prognosemodell</subject>
+                </subject>
+                <subject id="4366912-8" type="gnd">
+                    <subject xml:lang="de">Evolutionärer Algorithmus</subject>
+                </subject>
+                <subject id="4120544-3" type="gnd">
+                    <subject xml:lang="de">Kapazitätsplanung</subject>
+                </subject>
+                <subject id="4313183-9" type="gnd">
+                    <subject xml:lang="de">Flugplan</subject>
+                </subject>
+                <subject id="4154763-9" type="gnd">
+                    <subject xml:lang="de">Flugpassagier</subject>
+                </subject>
+                <subject id="4226127-2" type="gnd">
+                    <subject xml:lang="de">Neuronales Netz</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">default</property>
+            <property name="displaySubscriberAccess">https://edocs.tib.eu/files/e001/302183604.pdf</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

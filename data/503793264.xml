@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:503793264</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:503793264">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2005-11-30</databaseDate>
+            <changeDate>2024-04-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>503793264</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">503793264</identifier>
+                <identifier type="contract">71279</identifier>
+                <identifier type="ean">9783613712799</identifier>
+                <identifier type="firstid">GBV:503793264</identifier>
+                <identifier type="isbn">3613712792</identifier>
+                <identifier type="isbn13">9783613712799</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/hebis-darmstadt/toc/178510904.pdf</location>
+                <location subtype="description" type="url">http://deposit.dnb.de/cgi-bin/dokserv?id=2711908&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">748620648</identifier>
+                    <creationDate>2008-11-07</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">T 06 B 2963</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-24</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">159 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>So funktioniert das Bahnbetriebswerk</title>
+            <abstracts>
+                <abstract xml:lang="de">In BA 8/99 wurde das Buch "Die Dampflok im Bahnbetriebswerk" und in BA 12/01 der Titel "Diesel-und E-Loks im Bahnbetriebswerk" (beide verfasst von M. U. Kratzsch-Leichsenring) zur Anschaffung empfohlen. Wenn diese beiden Bücher vorhanden und noch nicht verschlissen sind, können sie weiter eingesetzt werden. Transpress hat den neuen Band in seine "So funktioniert ..."-Reihe eingebunden (bisher: D. Endisch: "So funktioniert die Dampflok", BA 4/04; S. Alkofer: "So funktioniert die Diesellok", BA 8/05 und E. Preuß: "So funktionieren Eisenbahn-Signalsysteme", BA 1/06), bietet aber gegenüber den beiden Vergleichsbänden kaum Neues. Einige Abschnitte basieren sogar auf den älteren Büchern, wobei Dampfloks den Inhalt dominieren. Auf Betriebshöfe von Triebwagen, die sich beispielsweise bei S-Bahnen oder ICE-Zügen deutlich von den Einrichtungen für Lokomotiven unterscheiden, wird gar nicht eingegangen. So empfiehlt sich das Buch lediglich dann, wenn die zu Beginn genannten Bücher nicht im Bestand oder Ersatzbeschaffungen notwendig sind. (2)</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Reiners, Jan</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Jan Reiners</responsible>
+            <publicationInfo>
+                <issued>2006</issued>
+                <edition>1. Aufl.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Stuttgart</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Transpress</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Behandelt die Entwicklung des Betriebswerks von den ersten Anfängen in den 1830er Jahren bis zum Betriebshof der DB AG.</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>25 cm</description>
+            <description>Ill., graph. Darst</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 5100</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4014027-1" type="gnd">
+                    <subject xml:lang="de">Bahnbetriebswerk</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

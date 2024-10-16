@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:750767626</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:750767626">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2013-07-02</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>750767626</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">nl</code>
+                        <code iso="639-2">dut</code>
+                    </languageCodes>
+                </documentLanguage>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">750767626</identifier>
+                <identifier type="firstid">HBZ:HT017683859</identifier>
+                <identifier type="isbn13">9789462080515</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/750767626.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1430031263</identifier>
+                    <creationDate>2014-06-05</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 13 B 5954</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">192 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Fietsinfrastructuur</title>
+            <alternativeTitles>
+                <alternative>Cycle infrastructure</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">From bicycle highway to parking tower. Cycling is experiencing a worldwide revival. It is a sustainable, affordable and above all trendy alternative to the car and public transport. Experiments in new cycling facilities are underway everywhere. This book includes international examples, interviews with the makers of prominent cycling routes and a glimpse at future innovations. The possibilities that cycling offers for the spatial quality and the liveability of cities are enormous, but have not been fully exploited. This book is a handbook for anyone interested in the development, design and promotion of high-quality cycling routes. The goal is to activate the full potential of cycling for the (urban) landscape and to consider cycling infrastructure as an integral design challenge instead of purely an issue of traffic engineering</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Bendiks, Stefan</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1054195781</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Degros, Aglaée</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1054195889</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Stefan Bendiks; Aglaée Degros</responsible>
+            <publicationInfo>
+                <issued>2013</issued>
+                <publicationPlaces>
+                    <publicationPlace>Rotterdam</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="NL" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>nai010</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Text niederl. u. engl.</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>zahlr. Ill., graph. Darst., Kt.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>TE301</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4340</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>711</code>
+                </classification>
+                <classification classificationID="106421050" classificationName="bk">
+                    <code>74.75</code>
+                    <entries>
+                        <entry>Verkehrsplanung, Verkehrspolitik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>arc</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Transportation engineering</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Bicycle trails</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Bicycle lanes</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Urban transportation</subject>
+                </subject>
+                <subject id="4076489-8" type="gnd">
+                    <subject xml:lang="de">Radweg</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Landscape architecture</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

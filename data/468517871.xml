@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:468517871</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:468517871">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2004-10-25</databaseDate>
+            <changeDate>2024-04-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>468517871</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">468517871</identifier>
+                <identifier type="contract">19G2056</identifier>
+                <identifier type="doi">10.2314/GBV:468517871</identifier>
+                <identifier type="firstid">GBV:468517871</identifier>
+            </identifiers>
+            <locations>
+                <location mimetype="application/pdf" subtype="fulltext" type="url">https://edocs.tib.eu/files/e01fb04/468517871.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">670479217</identifier>
+                    <creationDate>2004-10-25</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-89</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">Online-Ressource (118 p. = 8,44 MB)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Modernisierung und Qualifizierung des europäischen Schienengüterverkehrs durch markt- und kundenorientierte Innovationen : Europäischer Schienengüterverkehr 2010 ; Defininitionsphase für ein Verbundvorhaben ; Schlussbericht im Auftrag des Bundesministerium für Forschung und Bildung</title>
+            <alternativeTitles>
+                <alternative>Modernization and qualification of the European rail goods traffic by market and customer-oriented innovations</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Rail-technical innovations, door-to-door transport, logistics concepts, international transport chain, goods stream</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Institut für Bahntechnik, Berlin</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">5132642-5</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor>
+                    <contributor>Nuszkiewicz, Andrzej</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Arenales, Heike</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Templin, Frank</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Institut für Bahntechnik GmbH. [Projektleiter: Andrzej Nuszkiewicz. Bearbeiter: Heike Arenales; Frank Templin]</responsible>
+            <publicationInfo>
+                <issued>2002</issued>
+                <publicationPlaces>
+                    <publicationPlace>Berlin</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>IFB</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-296-TTN</identifier>
+                </isPartOf>
+                <publicationIDInfo>Contract BMBF 19G2056. - Engl. title: Modernization and qualification of the European rail goods traffic by market and customer-oriented innovations</publicationIDInfo>
+                <publicationIDInfo>Differences between the printed and electronic version of the document are possible</publicationIDInfo>
+                <publicationIDInfo>Also available as printed version</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>graphs</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-296-TTN</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="181571811" classificationName="bk">
+                    <code>55.82</code>
+                    <entries>
+                        <entry>Güterverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106420666" classificationName="bk">
+                    <code>55.85</code>
+                    <entries>
+                        <entry>Schienenverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4151488-9" type="gnd">
+                    <subject xml:lang="de">Eisenbahngüterverkehr</subject>
+                </subject>
+                <subject id="4120755-5" type="gnd">
+                    <subject xml:lang="de">Modernisierung</subject>
+                </subject>
+                <subject id="4015701-5" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Europa</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">default</property>
+            <property name="displaySubscriberAccess">https://edocs.tib.eu/files/e01fb04/468517871.pdf</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

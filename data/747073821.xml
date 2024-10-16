@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:747073821</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:747073821">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2013-05-29</databaseDate>
+            <changeDate>2023-03-24</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>747073821</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">747073821</identifier>
+                <identifier type="firstid">HBZ:HT017649336</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">http://nbn-resolving.de/urn:nbn:de:hbz:5N-31921</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1462341195</identifier>
+                    <creationDate>2014-03-08</creationDate>
+                    <selectionKey>zdt</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online-Ressource</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Formation navigation and relative localisation of multi-robot systems</title>
+            <abstracts>
+                <abstract xml:lang="de">...The presented method enables a group of mobile robots to start at an unknown location in an unknown environment and then to incrementally estimate their own positions and the relative locations of the other robots using only sensor information. The result is a robust, fast and precise approach, which does not need any preconditions or special assumptions about the environment. To validate the approach extensive tests with both, real and simulated, robots have been conducted. For a more specific evaluation, the Mean Localisation Error (MLE) is introduced. The conducted experiments include a comparison between the proposed Extended Kalman Filter and a standard SLAM-based approach. The developed method robustly delivered an accuracy better than 2 cm and performed at least as well as the SLAM approach. The algorithm coped with scattered groups of robots while moving on arbitrarily shaped paths. - In summary, this thesis presents novel approaches to the field of coordinated navigation in multi-robot systems. The results facilitate cooperative movements of robot groups as well as relative localisation among the group members. In addition, a solid foundation for a non-environment related metric for formation navigation is introduced.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor>
+                    <contributor>Schneider, Frank</contributor>
+                </contributor>
+            </contributors>
+            <responsible>vorgelegt von Frank E. Schneider</responsible>
+            <publicationInfo>
+                <issued>2013</issued>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Bonn, Univ., Diss., 2013</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc-dbn">
+                    <code>910</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.8932</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>621.3</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>004</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>inf</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>his</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>geo</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4191911-7" type="gnd">
+                    <subject xml:lang="de">Mobiler Roboter</subject>
+                </subject>
+                <subject id="7569134-6" type="gnd">
+                    <subject xml:lang="de">Lokalisierung (Robotik)</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://nbn-resolving.de/urn:nbn:de:hbz:5N-31921</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

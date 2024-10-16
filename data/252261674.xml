@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:252261674</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:252261674">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1998-12-08</databaseDate>
+            <changeDate>2024-04-18</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>252261674</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">252261674</identifier>
+                <identifier type="contract">18S0059</identifier>
+                <identifier type="contract">61600023</identifier>
+                <identifier type="firstid">GBV:252261674</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="miscellaneous" type="url">https://edocs.tib.eu/files/e001/252261674l.pdf</location>
+                <location mimetype="application/pdf" subtype="fulltext" type="url">https://edocs.tib.eu/files/e001/252261674.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">313350086</identifier>
+                    <creationDate>1999-01-12</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-89</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">169 p. = 2994 kB, text and images</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Der Einsatz modularer Entwurfskonzepte bei der Erstellung von Strukturmodellen mittels STEERBEAR : Schlußbericht zum BMBF Verbundforschungsvorhaben Life-Cycle Design, Teilvorhaben A2</title>
+            <abstracts>
+                <abstract xml:lang="de">CAD, TRIBON, ship structure design, early design</abstract>
+            </abstracts>
+            <contributors>
+                <contributor>
+                    <contributor>Grafe, Wiegand</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Stenzel, Karsten</contributor>
+                </contributor>
+            </contributors>
+            <responsible>von Wiegand Grafe; Karsten Stenzel</responsible>
+            <publicationInfo>
+                <issued>1998</issued>
+                <edition>[Electronic ed.]</edition>
+                <publicationPlaces>
+                    <publicationPlace>Hamburg</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Techn. Univ. Hamburg-Harburg, Arbeitsbereich Schiffstechnische Konstruktionen und Berechnungen</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-296-TTN</identifier>
+                </isPartOf>
+                <publicationIDInfo>Contract no. BMBF 18S0059</publicationIDInfo>
+                <publicationIDInfo>Differences between the printed and electronic version of the document are possible</publicationIDInfo>
+            </additionalDocumentInfo>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-296-TTN</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106421336" classificationName="bk">
+                    <code>50.15</code>
+                    <entries>
+                        <entry>Konstruktionslehre</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106420577" classificationName="bk">
+                    <code>55.40</code>
+                    <entries>
+                        <entry>Schiffstechnik, Schiffbau</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4052397-4" type="gnd">
+                    <subject xml:lang="de">Schiffbau</subject>
+                </subject>
+                <subject id="4069794-0" type="gnd">
+                    <subject xml:lang="de">CAD</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">default</property>
+            <property name="displaySubscriberAccess">https://edocs.tib.eu/files/e001/252261674.pdf</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

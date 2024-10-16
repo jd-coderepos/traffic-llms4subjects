@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:767863933</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:767863933">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2013-09-16</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>767863933</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">767863933</identifier>
+                <identifier type="contract">21918171</identifier>
+                <identifier type="firstid">HBZ:HT017766610</identifier>
+                <identifier type="isbn13">9781461466956</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/767863933.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1465026215</identifier>
+                    <creationDate>2015-03-30</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 14 B 2910</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XVII, 85 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Fundamentals of space business and economics</title>
+            <abstracts>
+                <abstract xml:lang="de">This book provides an overview of key topics related to space business and management. Case studies and an integrative section are included to illustrate the fundamental concepts and to build intuition. Key topics in the field, such as risk management and cost management, are covered in detail --</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Gurtuna, Ozgur</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1041702787</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Ozgur Gurtuna</responsible>
+            <publicationInfo>
+                <issued>2013</issued>
+                <publicationPlaces>
+                    <publicationPlace>New York, NY [u.a.]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                    <publicationCountry code="DE" />
+                    <publicationCountry code="NL" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Springer-briefs in space development</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>ISU - International Space University</title>
+                </journalInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+                <publicationIDInfo>Author: Dr. Ozgur Gurtuna (Westmount, QC, Canada; Turquoise Technology Solutions Inc., Montreal, Canada)</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Springer-briefs in space development</title>
+            </related>
+            <related type="parent">
+                <title>ISU - International Space University</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>QB498</code>
+                </classification>
+                <classification classificationID="106407023" classificationName="bk">
+                    <code>39.22</code>
+                    <entries>
+                        <entry>Astrophysik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106410334" classificationName="bk">
+                    <code>55.60</code>
+                    <entries>
+                        <entry>Raumfahrttechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>500.5</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4003326-0" type="gnd">
+                    <subject xml:lang="de">Astrophysik</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Space sciences</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Aerospace engineering</subject>
+                </subject>
+                <subject id="4181167-7" type="gnd">
+                    <subject xml:lang="de">Sicherheitsmaßnahme</subject>
+                </subject>
+                <subject id="4037589-4" type="gnd">
+                    <subject xml:lang="de">Marketing</subject>
+                </subject>
+                <subject id="4177061-4" type="gnd">
+                    <subject xml:lang="de">Raumfahrttechnik</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Outer space</subject>
+                </subject>
+                <subject id="4047968-7" type="gnd">
+                    <subject xml:lang="de">Qualitätskontrolle</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

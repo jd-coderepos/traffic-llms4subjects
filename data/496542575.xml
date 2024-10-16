@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:496542575</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:496542575">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2005-08-17</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>496542575</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">496542575</identifier>
+                <identifier type="ean">9783768852227</identifier>
+                <identifier type="firstid">GBV:496542575</identifier>
+                <identifier type="isbn">3768852229</identifier>
+                <identifier type="isbn13">9783768852227</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">736857575</identifier>
+                    <creationDate>2006-03-31</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">T 05 B 7760</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">256 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Fahrradphysik und Biomechanik : Technik, Formeln, Gesetze</title>
+            <abstracts>
+                <abstract xml:lang="de">Verlagstext: Was geschieht physikalisch gesehen, wenn wir mit dem Fahrrad das Gleichgewicht halten, bremsen, Kurven fahren, Steigungen bewältigen? Michael Gressmann erläutert gründlich und verständlich die Geheimnisse der Fahrradphysik. Energie, Leistung, Beschleunigungskräfte und Reibungswiderstände, Hebelverhältnisse und der Einfluß der Körperhaltung, werden am konkreten Beispiel berechnet. Daraus folgen viele Hinweise für die Fahrradtechnik und das technische Material. Besonders wertvoll für den Praktiker: Überlegungen und Berechnungen zu Luftwiderstand, Kreiselkräften, Rahmengeometrie, Sitzposition und Trittfrequenz.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Gressmann, Michael</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">120045850</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Michael Gressmann</responsible>
+            <publicationInfo>
+                <issued>2005</issued>
+                <edition>9., durchgeseh. u. erg. Aufl.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Kiel</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Delius Klasing</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>21 cm</description>
+            <description>zahlr. Ill. und graph. Darst.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc-dbn">
+                    <code>530</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>570</code>
+                </classification>
+                <classification classificationID="106420631" classificationName="bk">
+                    <code>55.80</code>
+                    <entries>
+                        <entry>Verkehrswesen, Transportwesen: Allgemeines</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106407902" classificationName="bk">
+                    <code>33.11</code>
+                    <entries>
+                        <entry>Mechanik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="181571927" classificationName="bk">
+                    <code>76.19</code>
+                    <entries>
+                        <entry>Sportarten: Sonstiges</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4340</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="181571900" classificationName="bk">
+                    <code>76.12</code>
+                    <entries>
+                        <entry>Biomechanik, Bewegungslehre</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>796</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>spo</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4048155-4" type="gnd">
+                    <subject xml:lang="de">Radfahren</subject>
+                </subject>
+                <subject id="4016278-3" type="gnd">
+                    <subject xml:lang="de">Fahrdynamik</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Radsport</subject>
+                </subject>
+                <subject id="4006880-8" type="gnd">
+                    <subject xml:lang="de">Biomechanik</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Fahrdynamik</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Biomechanik</subject>
+                </subject>
+                <subject id="4125280-9" type="gnd">
+                    <subject xml:lang="de">Radsport</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Radfahren</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

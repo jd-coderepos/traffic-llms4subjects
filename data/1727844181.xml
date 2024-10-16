@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1727844181</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1727844181">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2020-08-26</databaseDate>
+            <changeDate>2023-09-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1727844181</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1727844181</identifier>
+                <identifier type="ean">9783030241292</identifier>
+                <identifier type="firstid">KXP:1727844181</identifier>
+                <identifier type="isbn13">9783030241292</identifier>
+                <identifier type="isbn13">9783030241261</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1678489867.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3520226545</identifier>
+                    <creationDate>2020-11-05</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 19 B 3584</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xix, 294 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Energy-efficient driving of road vehicles : toward cooperative, connected, and automated mobility</title>
+            <abstracts>
+                <abstract xml:lang="de">This book elaborates the science and engineering basis for energy-efficient driving in conventional and autonomous cars. After covering the physics of energy-efficient motion in conventional, hybrid, and electric powertrains, the book chiefly focuses on the energy-saving potential of connected and automated vehicles. It reveals how being connected to other vehicles and the infrastructure enables the anticipation of upcoming driving-relevant factors, e.g. hills, curves, slow traffic, state of traffic signals, and movements of nearby vehicles. In turn, automation allows vehicles to adjust their motion more precisely in anticipation of upcoming events, and to save energy. Lastly, the energy-efficient motion of connected and automated vehicles could have a harmonizing effect on mixed traffic, leading to additional energy savings for neighboring vehicles. Building on classical methods of powertrain modeling, optimization, and optimal control, the book further develops the theory of energy-efficient driving. In addition, it presents numerous theoretical and applied case studies that highlight the real-world implications of the theory developed. The book is chiefly intended for undergraduate and graduate engineering students and industry practitioners with a background in mechanical, electrical, or automotive engineering, computer science or robotics</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Sciarretta, Antonio</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1109796048</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Vahidi, Ardalan</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Antonio Sciarretta, Ardalan Vahidi</responsible>
+            <publicationInfo>
+                <issued>2020</issued>
+                <publicationPlaces>
+                    <publicationPlace>Cham, Switzerland</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="CH" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Lecture notes in intelligent transportation and infrastructure</title>
+                </journalInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Lecture notes in intelligent transportation and infrastructure</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>ZO 4650</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4660</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.2/04</code>
+                </classification>
+                <classification classificationID="181570424" classificationName="bk">
+                    <code>55.24</code>
+                    <entries>
+                        <entry>Fahrzeugführung, Fahrtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="10640623X" classificationName="bk">
+                    <code>54.32</code>
+                    <entries>
+                        <entry>Rechnerkommunikation</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>inf</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Automobiles</subject>
+                </subject>
+                <subject id="4359141-3" type="gnd">
+                    <subject xml:lang="de">Vernetzung</subject>
+                </subject>
+                <subject id="4137755-2" type="gnd">
+                    <subject xml:lang="de">Straßenfahrzeug</subject>
+                </subject>
+                <subject id="1024622754" type="gnd">
+                    <subject xml:lang="de">Car-to-Car-Kommunikation</subject>
+                </subject>
+                <subject id="7660153-5" type="gnd">
+                    <subject xml:lang="de">Energieeffizienz</subject>
+                </subject>
+                <subject id="4132165-0" type="gnd">
+                    <subject xml:lang="de">Fahrerverhalten</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Automated vehicles</subject>
+                </subject>
+                <subject id="7714938-5" type="gnd">
+                    <subject xml:lang="de">Autonomes Fahrzeug</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

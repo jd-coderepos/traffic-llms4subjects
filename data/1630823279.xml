@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1630823279</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1630823279">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2017-12-04</databaseDate>
+            <changeDate>2022-12-22</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>1630823279</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1630823279</identifier>
+                <identifier type="firstid">BSZ:495997315</identifier>
+                <identifier type="isbn13">9780080977478</identifier>
+                <identifier type="isbn">0080977472</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/770410405.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1490180656</identifier>
+                    <creationDate>2014-09-16</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 14 B 5819</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xiii, 751 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Orbital mechanics for engineering students</title>
+            <alternativeTitles>
+                <alternative>Orbital mechanics</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Dynamics of point masses -- The two-body problem -- Orbital position as a function of time -- Orbits in three dimensions -- Preliminary orbit determination -- Orbital maneuvers -- Relative motion and rendezvous -- Interplanetary trajectories -- Rigid body dynamics -- Satellite attitude dynamics -- Rocket vehicle dynamics -- Introduction to orbital perturbations</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Curtis, Howard D.</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1127259164</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Howard D. Curtis, Professor of Aerospace Engineering, Embry-Riddle Aeronautical University, Daytona Beach, Florida</responsible>
+            <publicationInfo>
+                <issued>2014</issued>
+                <edition>Third edition</edition>
+                <publicationPlaces>
+                    <publicationPlace>Amsterdam</publicationPlace>
+                    <publicationPlace>Boston</publicationPlace>
+                    <publicationPlace>Heidelberg</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="NL" />
+                    <publicationCountry code="US" />
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Elsevier, Butterworth-Heinemann</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Elsevier aerospace engineering series</title>
+                </journalInfo>
+                <publicationIDInfo>Previous edition: 2010. - Includes bibliographical references (pages 739-740) and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>25 cm</description>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausg.</label>
+                <title>Orbital mechanics for engineering students</title>
+                <identifier type="isbn">0080977472</identifier>
+                <identifier type="ppn">780117123</identifier>
+                <identifier type="isbn13">9780080977478</identifier>
+                <identifier type="isbn13">9780080977485</identifier>
+                <identifier type="isbn">0080977480</identifier>
+            </related>
+            <related type="parent">
+                <title>Elsevier aerospace engineering series</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.4113</code>
+                </classification>
+                <classification classificationName="ssg">
+                    <code>16,12</code>
+                </classification>
+                <classification classificationID="181570416" classificationName="bk">
+                    <code>55.64</code>
+                    <entries>
+                        <entry>Raumfahrzeugführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>US 1200</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL1050</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>SK 950</code>
+                </classification>
+                <classification classificationID="10640783X" classificationName="bk">
+                    <code>39.23</code>
+                    <entries>
+                        <entry>Himmelsmechanik, Astrodynamik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4154760-3" type="gnd">
+                    <subject xml:lang="de">Flugmechanik</subject>
+                </subject>
+                <subject id="4154743-3" type="gnd">
+                    <subject xml:lang="de">Flugbahn</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Orbital mechanics</subject>
+                </subject>
+                <subject id="4238276-2" type="gnd">
+                    <subject xml:lang="de">Umlaufbahn</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

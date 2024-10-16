@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:822218801</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:822218801">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2015-04-16</databaseDate>
+            <changeDate>2022-07-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>822218801</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">822218801</identifier>
+                <identifier type="firstid">HBZ:HT018601234</identifier>
+                <identifier type="isbn13">9783183503070</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://d-nb.info/1071499491/04</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1550159208</identifier>
+                    <creationDate>2015-06-25</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">ZN 741(503)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XIV, 111 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Energetische und akustische Modellierung einer Diesellokomotive unter Berücksichtigung dynamischer Betriebszustände</title>
+            <abstracts>
+                <abstract xml:lang="de">Zsfassung in engl. Sprache</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Knirsch, Sebastian</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1069349755</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Sebastian Knirsch</responsible>
+            <publicationInfo>
+                <issued>2015</issued>
+                <edition>Als Ms. gedr.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Düsseldorf</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>VDI-Verl.</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Fortschritt-Berichte VDI</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>Reihe 7, Strömungstechnik</title>
+                    <volumeNumber>503</volumeNumber>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Zugl.: Siegen, Univ., Diss., 2014</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+                <publicationIDInfo>Zsfassung in engl. Sprache</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Fortschritt-Berichte VDI</title>
+            </related>
+            <related type="parent">
+                <title>Reihe 7, Strömungstechnik</title>
+                <volumeNumber>503</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420518" classificationName="bk">
+                    <code>50.36</code>
+                    <entries>
+                        <entry>Technische Akustik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="181571161" classificationName="bk">
+                    <code>50.32</code>
+                    <entries>
+                        <entry>Dynamik, Schwingungslehre</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>625.26640113</code>
+                </classification>
+                <classification classificationID="106405691" classificationName="bk">
+                    <code>55.30</code>
+                    <entries>
+                        <entry>Schienenfahrzeugtechnik, Eisenbahntechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>UF 1090</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4129292-3" type="gnd">
+                    <subject xml:lang="de">Geräuschminderung</subject>
+                </subject>
+                <subject id="4338132-7" type="gnd">
+                    <subject xml:lang="de">Numerisches Modell</subject>
+                </subject>
+                <subject id="7660153-5" type="gnd">
+                    <subject xml:lang="de">Energieeffizienz</subject>
+                </subject>
+                <subject id="4277174-2" type="gnd">
+                    <subject xml:lang="de">Dieselhydraulische Lokomotive</subject>
+                </subject>
+                <subject id="4120612-5" type="gnd">
+                    <subject xml:lang="de">Kraftstoffverbrauch</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

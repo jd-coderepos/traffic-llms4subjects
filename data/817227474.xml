@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:817227474</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:817227474">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2015-02-03</databaseDate>
+            <changeDate>2023-11-23</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>817227474</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">817227474</identifier>
+                <identifier type="ean">9781472436788</identifier>
+                <identifier type="firstid">GBV:817227474</identifier>
+                <identifier type="isbn13">9781472436788</identifier>
+                <identifier type="isbn13">9781472436818</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/817227474.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1535027673</identifier>
+                    <creationDate>2015-07-01</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 15 B 3044</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XXXIV, 616 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Air transportation : a management perspective</title>
+            <abstracts>
+                <abstract xml:lang="de">"Now in its eighth edition, Air Transportation: A Management Perspective by John Wensveen is a proven textbook that offers a comprehensive introduction to the theory and practice of air transportation management"--Provided by publisher</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Wensveen, John G.</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1180755731</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>John G. Wensveen</responsible>
+            <publicationInfo>
+                <issued>2015</issued>
+                <edition>8. ed.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Farnham</publicationPlace>
+                    <publicationPlace>Burlington, Vt.</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="GB" />
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Ashgate</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Author: John G. Wensveen (PhD, head of Aviation Technology, Purdue University; President and CEO, Airline Visions, LLC)</publicationIDInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>25 cm</description>
+            <description>Ill., graph. Darst., Kt.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106410660" classificationName="bk">
+                    <code>55.88</code>
+                    <entries>
+                        <entry>Luftverkehr, Raumfahrt</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106408682" classificationName="bk">
+                    <code>85.06</code>
+                    <entries>
+                        <entry>Unternehmensführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>QR 840</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>HE9781</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 7610</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>387.7068</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>oek</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>pae</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Airlines</subject>
+                </subject>
+                <subject id="4036559-1" type="gnd">
+                    <subject xml:lang="de">Luftverkehrsgesellschaft</subject>
+                </subject>
+                <subject id="4124261-0" type="gnd">
+                    <subject xml:lang="de">Strategisches Management</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Aeronautics, Commercial</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

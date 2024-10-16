@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:848481259</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:848481259">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2016-02-25</databaseDate>
+            <changeDate>2024-04-22</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>848481259</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">848481259</identifier>
+                <identifier type="firstid">GBV:848481259</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">http://nbn-resolving.de/urn:nbn:de:gbv:ilm1-2015000554</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1645983137</identifier>
+                    <creationDate>2016-11-11</creationDate>
+                    <selectionKey>zdt</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-27</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (IX, 135 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Wahrung der Netzsicherheit durch Nutzung flexibler Lasten am Beispiel des gesteuerten Ladens von Elektrofahrzeugen</title>
+            <abstracts>
+                <abstract xml:lang="de">Die Erzeugungsstruktur für elektrische Energie im europäischen Verbundnetz ist geprägt von ökologischen, ökonomischen und sozialen Wandlungsprozessen. Diese Prozesse sind unter anderem an dem Ausbau Erneuerbarer Energien sowie durch den länderspezifischen Ausstieg aus der Kernkraftnutzung erkennbar. Mit der steten Veränderung der Erzeugungsstruktur ändern sich auch die Standorte der Erzeugung. Daraus resultiert eine zunehmende Belastung der elektrischen Netze, welche sich in der Folge vor allem im Anstieg von Gefährdungen der Netzsicherheit bemerkbar macht. Eine Anpassung der Last zur Reduzierung von Netzbelastungen kann ein probates Mittel zur Lösung des Problems darstellen. Insbesondere durch die zukünftige Beeinflussung von Elektrofahrzeugen während des Ladevorgangs kann eine flexible Leistung für den sicheren Betrieb elektrischer Netze zur Verfügung gestellt werden. Diese Arbeit widmet sich der Fragestellung, inwieweit die Nutzung von Elektrofahrzeugen der Wahrung der Netzsicherheit dienen kann. Für die Beantwortung der Fragestellung wird ein Verfahren vorgeschlagen, welches die bisher nicht berücksichtigten Anpassungsoptionen durch Elektrofahrzeuge methodisch bestimmt und in eine mit technologischen Alternativen vergleichbare Beschreibungsform überführt. Weiterhin wird eine innovative Methode zur optimalen Bestimmung der Anpassungsmaßnahmen vorgeschlagen. Dabei findet das (n-1)-Netzsicherheitskriterium zur Beurteilung des Netzbetriebszustandes Anwendung. Zudem wird eine Entkopplung der rechenintensiven Ausfallsimulation von der eigentlichen Optimierung betrachtet. Der zur Optimierung verwendete genetische Optimierungsalgorithmus, welcher den Kern der Methode darstellt, erweist sich als besonders robust für Optimierungsprobleme von Netzen mit hoher Knotenanzahl und einer gemischten Art von Steuerungsvariablen. Zusätzlich können in der Optimierung neben dem Netzsicherheitsproblem beliebige partielle Optimierungsziele formuliert werden. In Bezug auf die wechselnden Anforderungen an die Netzführung, die teilweise im Rahmen der Modellierung nicht vollständig beschreibbar sind, erscheint die damit gegebene Adaptierbarkeit als besonderer Vorteil. Die dargestellte Methode wird, basierend auf stationärer Netzberechnung, an einem realistisch modellierten Höchstspannungsnetz verifiziert. Unter Nutzung der beschriebenen Methoden werden numerische Fallstudien durchgeführt. Als Ergebnis kann festgestellt werden, dass bei entsprechender Anzahl an Elektrofahrzeugen ausreichend flexible Leistung bereit gestellt werden kann, um die andernfalls notwendige Reduzierung der Einspeiseleistung von Erneuerbaren Energien-Anlagen zur Wahrung der Netzsicherheit zu vermeiden.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="degree-granting-institution">
+                    <type>degree-granting-institution</type>
+                    <name>Technische Universität Ilmenau</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2125187-3</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+                <corporateCreator type="publisher">
+                    <type>publisher</type>
+                    <name>Universitätsverlag Ilmenau</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">7635051-4</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Schlegel, Steffen</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1088801013</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Westermann, Dirk</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">134094646</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Schegner, Peter</contributor>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Sturm, Matthias</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">136450857</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>vorgelegt von Steffen Schlegel</responsible>
+            <publicationInfo>
+                <issued>2016</issued>
+                <publicationPlaces>
+                    <publicationPlace>Ilmenau</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Universitätsverlag Ilmenau</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>Ilmenauer Beiträge zur elektrischen Energiesystem-, Geräte- und Anlagentechnik (IBEGA)</title>
+                    <volumeNumber>Band 15</volumeNumber>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2015</dateAccepted>
+                        <description>Dissertation, Technische Universität Ilmenau</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Wahrung der Netzsicherheit durch Nutzung flexibler Lasten am Beispiel des gesteuerten Ladens von Elektrofahrzeugen</title>
+                <identifier type="isbn13">9783863601287</identifier>
+                <identifier type="ppn">848480155</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+            <related type="parent">
+                <title>Ilmenauer Beiträge zur elektrischen Energiesystem-, Geräte- und Anlagentechnik (IBEGA)</title>
+                <volumeNumber>Band 15</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc-dbn">
+                    <code>621.3</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>621.319</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.2293</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>333.7</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>oek</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4138375-8" type="gnd">
+                    <subject xml:lang="de">Netzführung</subject>
+                </subject>
+                <subject id="4151718-0" type="gnd">
+                    <subject xml:lang="de">Elektrische Aufladung</subject>
+                </subject>
+                <subject id="4057472-6" type="gnd">
+                    <subject xml:lang="de">Steuerung</subject>
+                </subject>
+                <subject id="4449975-9" type="gnd">
+                    <subject xml:lang="de">Verbundnetz</subject>
+                </subject>
+                <subject id="4151795-7" type="gnd">
+                    <subject xml:lang="de">Elektrofahrzeug</subject>
+                </subject>
+                <subject id="4415875-0" type="gnd">
+                    <subject xml:lang="de">Netzstabilität (Elektrische Energietechnik)</subject>
+                </subject>
+                <subject id="7839944-0" type="gnd">
+                    <subject xml:lang="de">Versorgungssicherheit</subject>
+                </subject>
+                <subject id="4121178-9" type="gnd">
+                    <subject xml:lang="de">Elektrizitätsversorgungsnetz</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://nbn-resolving.de/urn:nbn:de:gbv:ilm1-2015000554</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

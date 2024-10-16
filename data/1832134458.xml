@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1832134458</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1832134458">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2023-01-24</databaseDate>
+            <changeDate>2024-05-06</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1832134458</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1832134458</identifier>
+                <identifier type="firstid">KXP:1832134458</identifier>
+                <identifier type="isbn13">9781108420600</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1832134458.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4476512674</identifier>
+                    <creationDate>2024-02-05</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RR 1385(52)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xxi, 503 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Dynamics of flexible aircraft : coupled flight mechanics, aeroelasticity, and control</title>
+            <abstracts>
+                <abstract xml:lang="de">"This text explores the interface between aeroelasticity, flight dynamics and control. Presenting concepts in a rigorous yet accessible way, the book builds up to state-of-the-art models through an intuitive step-by-step approach. It empowers the reader to design better, more eco-friendly aircraft, and features many hands on examples"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Palacios, Rafael</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1309263051</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Cesnik, Carlos E. S.</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1309263221</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Rafael Palacios (Imperial College of Science, Technology and Medicine, London), Carlos E. S. Cesnik (University of Michigan)</responsible>
+            <publicationInfo>
+                <issued>2023</issued>
+                <publicationPlaces>
+                    <publicationPlace>Cambridge</publicationPlace>
+                    <publicationPlace>New York, NY</publicationPlace>
+                    <publicationPlace>Port Melbourne, VIC</publicationPlace>
+                    <publicationPlace>New Delhi</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="GB" />
+                    <publicationCountry code="US" />
+                    <publicationCountry code="AU" />
+                    <publicationCountry code="IN" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Cambridge University Press</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Cambridge aerospace series</title>
+                    <volumeNumber>volume 52</volumeNumber>
+                </journalInfo>
+                <publicationIDInfo>Literaturverzeichnis: Seite 475-499</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Cambridge aerospace series</title>
+                <volumeNumber>volume 52</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>TL574.C6</code>
+                </classification>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.134/33</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Airplanes</subject>
+                </subject>
+                <subject id="4154760-3" type="gnd">
+                    <subject xml:lang="de">Flugmechanik</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Equilibrium of flexible surfaces</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Surfaces, Deformation of</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Flutter (Aerodynamics)</subject>
+                </subject>
+                <subject id="4017672-1" type="gnd">
+                    <subject xml:lang="de">Flugzeug</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Flying machines</subject>
+                </subject>
+                <subject id="7633500-8" type="gnd">
+                    <subject xml:lang="de">Biegsamkeit</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

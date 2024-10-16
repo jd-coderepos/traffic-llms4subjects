@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:161880927X</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:161880927X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2016-03-03</databaseDate>
+            <changeDate>2023-02-20</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>161880927X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">161880927X</identifier>
+                <identifier type="ean">9781466687233</identifier>
+                <identifier type="firstid">BSZ:456890238</identifier>
+                <identifier type="isbn13">9781466687233</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/826964923.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1552023990</identifier>
+                    <creationDate>2016-07-25</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 15 B 5666</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xvi, 456 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Innovative research in attention modeling and computer vision applications</title>
+            <abstracts>
+                <abstract xml:lang="de">"This book explores the latest research in image processing and pattern recognition for use in robotic real-time cryptography and surveillance applications"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Pal, Rajarshi</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1078926131</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Rajarshi Pal (Institute for Development and Research in Banking Technology, India)</responsible>
+            <publicationInfo>
+                <issued>2016</issued>
+                <publicationPlaces>
+                    <publicationPlace>Hershey, PA</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Information Science Reference, an Imprint of IGI Global</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Premier reference source</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>Advances in computational intelligence and robotics (ACIR)book series</title>
+                </journalInfo>
+                <publicationIDInfo>Includes bibliographical references (pages 400-445) and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>29 cm</description>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>Innovative research in attention modeling and computer vision applications</title>
+                <identifier type="isbn13">9781466687240</identifier>
+                <identifier type="ppn">897751000</identifier>
+            </related>
+            <related type="parent">
+                <title>Premier reference source</title>
+            </related>
+            <related type="parent">
+                <title>Advances in computational intelligence and robotics (ACIR)book series</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>006.3/7</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>006.37</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TA1634</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Tracking (Engineering)</subject>
+                </subject>
+                <subject id="4129594-8" type="gnd">
+                    <subject xml:lang="de">Maschinelles Sehen</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Computer vision</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Robot vision</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

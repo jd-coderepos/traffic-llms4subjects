@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1736822578</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1736822578">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2020-10-27</databaseDate>
+            <changeDate>2021-08-03</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1736822578</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1736822578</identifier>
+                <identifier type="firstid">KXP:1736822578</identifier>
+                <identifier type="isbn13">9781624105937</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1736822578.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3932176715</identifier>
+                    <creationDate>2021-06-25</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 21 B 2175</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xxvi, 977 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Design of rockets and space launch vehicles</title>
+            <abstracts>
+                <abstract xml:lang="de">"Interest is growing in space activity, and many new launchers are in development. Design of Rockets and Space Launch Vehicles is a timely and comprehensive exposé of important concepts and applications. It provides enhanced understanding and exposure to practical aspects of design, engineering, manufacturing, and testing. The subject is mature, but the applications are changing and a new generation of engineers and designers are joining the aerospace industry. Although it is primarily intended for readers with at least a 3rd-year level knowledge of aerospace engineering, mathematics, and physics, because it contains many applications and step-by-step illustrated examples along with photographs or line drawings of actual hardware, it will also be of interest to practicing engineers, technical managers, and others who are interested in "how rockets work" in either the "big picture" sense, or in areas other than one's specialty. This book will answer many questions as to "why things are done this way.""--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Edberg, Don</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1225514843</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Costa, Guillermo</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1225515165</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Don Edberg (Consultant &amp; Professor of Aerospace Engineering, California State Polytechnic University, Pomona), Willie Costa (Engineering &amp; Management Consultant)</responsible>
+            <publicationInfo>
+                <issued>2020</issued>
+                <publicationPlaces>
+                    <publicationPlace>Reston, Virginia</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>American Institute of Aeronautics and Astronautics, Inc</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>AIAA education series</title>
+                </journalInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>AIAA education series</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.47</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL782</code>
+                </classification>
+                <classification classificationID="106410334" classificationName="bk">
+                    <code>55.60</code>
+                    <entries>
+                        <entry>Raumfahrttechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4185818-9" type="gnd">
+                    <subject xml:lang="de">Trägerrakete</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Rockets (Aeronautics)</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Launch vehicles (Astronautics)</subject>
+                </subject>
+                <subject id="1180403177" type="gnd">
+                    <subject xml:lang="de">Raketentechnik</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

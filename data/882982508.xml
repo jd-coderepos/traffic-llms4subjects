@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:882982508</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:882982508">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2017-03-27</databaseDate>
+            <changeDate>2024-04-23</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>882982508</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">882982508</identifier>
+                <identifier type="firstid">GBV:882982508</identifier>
+                <identifier type="isbn13">9783935732444</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/882982508.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1674836244</identifier>
+                    <creationDate>2017-05-30</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RN 2767(2017,2)</location>
+                    <loanIndicator>i</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1690907150</identifier>
+                    <creationDate>2017-05-30</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RN 2767(2017,2) a</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1690907169</identifier>
+                    <creationDate>2017-05-30</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RN 2767(2017,2) b</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1690907177</identifier>
+                    <creationDate>2017-05-30</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RN 2767(2017,2) c</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-35</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">viii, 139 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>A constitutive contact model for homogenized tread-road interaction in rolling resistance computations</title>
+            <abstracts>
+                <abstract xml:lang="de">Rough surface contact, contact homogenization, thermomechanical coupling, arbitrary Lagrangian Eulerian kinematics (ALE-kinematics), rolling contact, rolling resistance, finite element method (FEM), time discontinuous Galerkin method (TDG-method). - Kontakt mit rauer Oberfläche, Kontakthomogenisierung; thermomechanische Kopplung, gemischte Euler-Lagrange Kinematik (ALE-Kinematik), Rollkontakt, Rollwiderstand, Finite Elemente Methode, Zeit-diskontinuierliche Galerkin Methode (TDG-Methode)</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="degree-granting-institution">
+                    <type>degree-granting-institution</type>
+                    <name>Gottfried Wilhelm Leibniz Universität Hannover</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">64681-7</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Beyer, Robert</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1128407957</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Nackenhorst, Udo</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">113094620</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Kaliske, Michael</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1183322798</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>von Robert Beyer, M.Sc.</responsible>
+            <publicationInfo>
+                <issued>2016</issued>
+                <publicationPlaces>
+                    <publicationPlace>Hannover</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Institut für Baumechanik und Numerische Mechanik</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Institut für Baumechanik und Numerische Mechanik, Gottfried Wilhelm Leibniz Universität Hannover</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>F</title>
+                    <volumeNumber>17/2</volumeNumber>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2016</dateAccepted>
+                        <description>Dissertation, Gottfried Wilhelm Leibniz Universität Hannover</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>A constitutive contact model for homogenized tread-road interaction in rolling resistance computations</title>
+                <identifier type="ppn">878071288</identifier>
+            </related>
+            <related type="parent">
+                <title>Institut für Baumechanik und Numerische Mechanik, Gottfried Wilhelm Leibniz Universität Hannover</title>
+            </related>
+            <related type="parent">
+                <title>F</title>
+                <volumeNumber>17/2</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="181571455" classificationName="bk">
+                    <code>50.03</code>
+                    <entries>
+                        <entry>Methoden und Techniken der Ingenieurwissenschaften</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="10642050X" classificationName="bk">
+                    <code>50.31</code>
+                    <entries>
+                        <entry>Technische Mechanik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mat</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4191975-0" type="gnd">
+                    <subject xml:lang="de">Rollkontakt</subject>
+                </subject>
+                <subject id="4137152-5" type="gnd">
+                    <subject xml:lang="de">Reifen</subject>
+                </subject>
+                <subject id="4588309-9" type="gnd">
+                    <subject xml:lang="de">Diskontinuierliche Galerkin-Methode</subject>
+                </subject>
+                <subject id="4135102-2" type="gnd">
+                    <subject xml:lang="de">Fahrbahndecke</subject>
+                </subject>
+                <subject id="4700698-5" type="gnd">
+                    <subject xml:lang="de">Euler-Lagrange-Gleichung</subject>
+                </subject>
+                <subject id="4130268-0" type="gnd">
+                    <subject xml:lang="de">Wälzreibung</subject>
+                </subject>
+                <subject id="4240945-7" type="gnd">
+                    <subject xml:lang="de">Monte-Carlo-Simulation</subject>
+                </subject>
+                <subject id="107633380X" type="gnd">
+                    <subject xml:lang="de">Thermomechanik</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

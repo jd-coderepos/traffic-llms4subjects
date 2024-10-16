@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:312721927</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:312721927">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2001-05-04</databaseDate>
+            <changeDate>2024-04-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>312721927</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">312721927</identifier>
+                <identifier type="ean">9783613020061</identifier>
+                <identifier type="firstid">GBV:312721927</identifier>
+                <identifier type="isbn">3613020068</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/bs/toc/312721927.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">39558096X</identifier>
+                    <creationDate>2001-07-21</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">L ver 690</location>
+                    <location type="tibShelfmark">T 00 B 4082</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-24</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">239 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Luftfahrzeug-Technik : Einführung, Grundlagen, Luftfahrzeugkunde</title>
+            <abstracts>
+                <abstract xml:lang="de">Das Werk sei keineswegs "allein als Fachbuch für angehende Flugzeugmechaniker zu sehen", so der Klappentext, auch dem interessierten Laien würde die Welt der Technik rund um Flugzeug und Hubschrauber erschlossen. Einerseits wird tatsächlich Grundlagenwissen vermittelt; der 1. Teil des Bandes beschäftigt sich ausführlich und didaktisch strukturiert mit Atmosphäre, Strömungslehre, Aerodynamik etc., andererseits kommt man natürlich weder in diesem Grundlagenkapitel noch in der darauf aufbauenden Luftfahrzeugkunde ohne ein gewisses Maß an naturwissenschaftlichen Kenntnissen aus, der Ausdruck "Laie" ist - wie immer - ein echter Gummi-Begriff. Ausführlichst mit Grafiken und Abbildungen versehen, ausgestattet mit einem durchaus hinreichendem Stichwortverzeichnis wird sich wohl doch mehr der sehr ernsthaft Interessierte für den Band begeistern, der sich im übrigen preislich durchaus im Rahmen bewegt, wenn man ihn als Fachbuch für ausgebaute Bestände betrachtet. (3) (Edgar Schichtl)</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Götsch, Ernst</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Ernst Götsch</responsible>
+            <publicationInfo>
+                <issued>2000</issued>
+                <edition>1. Aufl.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Stuttgart</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Motorbuch-Verlag</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>25 cm</description>
+            <description>Ill., graph. Darst</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>ZO 7270</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 7000</code>
+                </classification>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>36</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4036563-3" type="gnd">
+                    <subject xml:lang="de">Luftfahrzeugtechnik</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

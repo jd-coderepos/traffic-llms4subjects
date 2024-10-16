@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1664874739</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1664874739">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2019-05-07</databaseDate>
+            <changeDate>2023-10-19</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>1664874739</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1664874739</identifier>
+                <identifier type="doi">10.4018/978-1-5225-8365-3</identifier>
+                <identifier type="firstid">KXP:1664874739</identifier>
+                <identifier type="isbn13">9781522583660</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">http://services.igi-global.com/resolvedoi/resolve.aspx?doi=10.4018/978-1-5225-8365-3</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3471926844</identifier>
+                    <recallSign>OLR-IGE</recallSign>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2019-05-07</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Unmanned aerial vehicles : breakthroughs in research and practice</title>
+            <abstracts>
+                <abstract xml:lang="de">"This book is a critical source of academic knowledge on the design, construction, and maintenance of drones, as well as their applications across all aspects of society. Highlighting a range of pertinent topics such as intelligent systems, artificial intelligence, and situation awareness"--</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="issuing-body">
+                    <type>issuing-body</type>
+                    <name>Information Resources Management Association</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">5010976-5</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <responsible>Information Resources Management Association (USA), editor</responsible>
+            <publicationInfo>
+                <issued>2019</issued>
+                <publicationPlaces>
+                    <publicationPlace>Hershey, PA</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>IGI Global</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">BSZ-98-IGB-MAUB</identifier>
+                    <identifier type="collectioncode">ZDB-1-IGE</identifier>
+                    <identifier type="collectioncode">ZDB-98-IGB</identifier>
+                    <identifier type="collectioncode">BSZ-98-IGB-EBA</identifier>
+                </isPartOf>
+            </additionalDocumentInfo>
+            <description>Campusweiter Zugriff (Universität Hannover) - Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Keine Weitergabe an Dritte. Kein systematisches Downloaden durch Robots.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Unmanned aerial vehicles</title>
+                <identifier type="isbn13">9781522583653</identifier>
+                <identifier type="ppn">1663956766</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">BSZ-98-IGB-MAUB</identifier>
+                <identifier type="collectioncode">ZDB-1-IGE</identifier>
+                <identifier type="collectioncode">ZDB-98-IGB</identifier>
+                <identifier type="collectioncode">BSZ-98-IGB-EBA</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL685.35</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.133/39</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4154756-1" type="gnd">
+                    <subject xml:lang="de">Flugkörper</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Drone aircraft ; Maintenance and repair</subject>
+                </subject>
+                <subject id="4332556-7" type="gnd">
+                    <subject xml:lang="de">Drohne (Flugkörper)</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Drone aircraft</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Drone aircraft ; Design and construction</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://services.igi-global.com/resolvedoi/resolve.aspx?doi=10.4018/978-1-5225-8365-3</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

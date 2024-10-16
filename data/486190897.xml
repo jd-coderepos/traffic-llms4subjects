@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:486190897</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:486190897">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2005-05-11</databaseDate>
+            <changeDate>2024-04-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>486190897</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">486190897</identifier>
+                <identifier type="contract">2521</identifier>
+                <identifier type="ean">9783613025219</identifier>
+                <identifier type="firstid">GBV:486190897</identifier>
+                <identifier type="isbn">3613025213</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/hebis-darmstadt/toc/132609738.pdf</location>
+                <location subtype="description" type="url">http://deposit.dnb.de/cgi-bin/dokserv?id=2624711&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</location>
+                <location subtype="miscellaneous" type="url">http://deposit.dnb.de/cgi-bin/dokserv?id=2624711&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">725443413</identifier>
+                    <creationDate>2006-02-07</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">L ver 810</location>
+                    <location type="tibShelfmark">T 05 B 6290</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-24</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">222 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Flugsicherung in Deutschland</title>
+            <abstracts>
+                <abstract xml:lang="de">Zunächst Geschichte (ab ca. 1900), dann Organisation, Technik und Verfahren der Flugsicherung in Deutschland unter Einbezug des Berufsbildes Fluglotse. Dazu Hinweise auf Rechtsgrundlagen im Flugverkehr, auf Luftraumklassen, auf nationale und internationale Luftfahrt-Organisationen. Klar strukturierte, mit zahlreichen Schwarz-Weiß-Fotos ausgestattete Darstellung für ein breites Publikum, die durch ein Abkürzungs-Verzeichnis und durch wichtige Anschriften ergänzt wird. Kommt von daher nicht nur für Laien, sondern auch für Auszubildende infrage. Momentan das einzige neuere Sachbuch zum Thema (H. Mensen, mehr für Fachleute, ID 29/89, ist größtenteils überholt). (2)</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Bachmann, Peter</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">118003402</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Peter Bachmann</responsible>
+            <publicationInfo>
+                <issued>2005</issued>
+                <edition>1. Aufl.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Stuttgart</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Motorbuch Verl.</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Literaturverz. S. 220 - 221</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>25 cm</description>
+            <description>zahlr. Ill., graph. Darst., Kt</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>TL725.3.T7</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>380</code>
+                </classification>
+                <classification classificationID="181570769" classificationName="bk">
+                    <code>55.54</code>
+                    <entries>
+                        <entry>Flugführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>380</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 7872</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Air traffic control</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Flugsicherung</subject>
+                </subject>
+                <subject id="5086422-1" subtype="corporate-body" type="gnd">
+                    <subject xml:lang="de">Deutsche Flugsicherung GmbH</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Deutsche Flugsicherung GmbH</subject>
+                </subject>
+                <subject id="4154771-8" type="gnd">
+                    <subject xml:lang="de">Flugsicherung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Luftfahrt</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Germany</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:887520693</identifier><datestamp>2024-06-14</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:887520693">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2017-05-16</databaseDate>
+            <changeDate>2021-02-22</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>887520693</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">887520693</identifier>
+                <identifier type="contract">ASA-DAT-6</identifier>
+                <identifier type="firstid">GBV:887520693</identifier>
+                <identifier type="isbn">1619545772</identifier>
+                <identifier type="isbn13">9781619545779</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/887520693.pdf</location>
+                <location subtype="miscellaneous" type="url">http://www.asa2fly.com/Dictionary-of-Aeronautical-Terms-P3824.aspx</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1710051205</identifier>
+                    <creationDate>2018-08-14</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">L ver 500</location>
+                    <location type="tibShelfmark">T 17 B 4422</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">viii, 787 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Dictionary of aeronautical terms : over 11,000 entries</title>
+            <alternativeTitles>
+                <alternative>ASA dictionary of aeronautical terms</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">"An essential dictionary for everyone in the industry, with more than 11,000 aviation terms, acronyms, and phrases supported by encyclopedia-style definitions and nearly 500 illustrations."--</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Aviation Supplies &amp; Academics Inc., Newcastle, Wash.</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">10074573-8</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Crane, Dale</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">116448513X</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>based on the original compilation by Dale Crane ; revised and edited by ASA editorial staff</responsible>
+            <publicationInfo>
+                <issued>2017</issued>
+                <edition>Sixth edition</edition>
+                <publicationPlaces>
+                    <publicationPlace>Newcastle, Washington</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>ASA, Aviation Supplies &amp; Academics, Inc.</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>23 cm</description>
+            <description>Illustrationen</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.13003</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL509</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4168244-0" type="gnd">
+                    <subject xml:lang="de">Luftfahrttechnik</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Aeronautics</subject>
+                </subject>
+                <subject id="4036557-8" type="gnd">
+                    <subject xml:lang="de">Luftfahrt</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

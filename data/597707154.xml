@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:597707154</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:597707154">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2009-04-08</databaseDate>
+            <changeDate>2022-08-06</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>597707154</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">fr</code>
+                        <code iso="639-2">fre</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">597707154</identifier>
+                <identifier type="doi">10.1787/9789264034891-fr</identifier>
+                <identifier type="firstid">HBZ:HF000002215</identifier>
+                <identifier type="isbn13">9789264034891</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://doi.org/10.1787/9789264034891-fr</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1445261731</identifier>
+                    <recallSign>OLR-OECD</recallSign>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2013-11-13</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online-Ressource (222 p.)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Pour des bâtiments écologiquement viables : Enjeux et politiques</title>
+            <abstracts>
+                <abstract xml:lang="de">Cet ouvrage analyse les incidences environnementales du secteur du bâtiment et les politiques actuelles qui visent à les atténuer. Ces questions sont étudiées sous l’angle de la réduction des émissions de CO2, de la réduction maximale des déchets de construction et de démolition, et de la prévention de la pollution de l’air dans les bâtiments. L’analyse porte sur un vaste éventail d’instruments d’intervention : règles de construction, programmes de subvention de capital, taxe sur l’énergie, taxe sur la mise en décharge, systèmes d’éco-étiquetage, systèmes d’audits énergétiques.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>OECD</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">5157-3</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <responsible>Organisation de coopération et de développement économiques</responsible>
+            <publicationInfo>
+                <issued>2003</issued>
+                <publicationPlaces>
+                    <publicationPlace>Paris</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="FR" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>OECD Publishing</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-13-SOC</identifier>
+                    <identifier type="collectioncode">ZDB-13-SOC-ebook</identifier>
+                </isPartOf>
+            </additionalDocumentInfo>
+            <description>ill.</description>
+            <description>Campusweiter Zugriff (Universität Hannover) - Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Keine Weitergabe an Dritte. Kein systematisches Downloaden durch Robots.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-13-SOC</identifier>
+                <identifier type="collectioncode">ZDB-13-SOC-ebook</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationModel="tib-linsearch-fasttext:2024-04-16" classificationName="linsearch" classificationProcedure="automatic">
+                    <code confidence="0.26593536138534546">tec</code>
+                </classification>
+                <classification classificationModel="tib-linsearch-fasttext:2024-04-16" classificationName="linsearch" classificationProcedure="automatic">
+                    <code confidence="0.22835949063301086">ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4061619-8" type="gnd">
+                    <subject xml:lang="de">Umweltbelastung</subject>
+                </subject>
+                <subject id="4326464-5" type="gnd">
+                    <subject xml:lang="de">Nachhaltigkeit</subject>
+                </subject>
+                <subject id="4137876-3" type="gnd">
+                    <subject xml:lang="de">Energiebedarf</subject>
+                </subject>
+                <subject id="4014700-9" type="gnd">
+                    <subject xml:lang="de">Energieeinsparung</subject>
+                </subject>
+                <subject id="4069177-9" type="gnd">
+                    <subject xml:lang="de">Bauwirtschaft</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Environment</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://doi.org/10.1787/9789264034891-fr</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

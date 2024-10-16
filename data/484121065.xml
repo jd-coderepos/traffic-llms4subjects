@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:484121065</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:484121065">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2005-04-21</databaseDate>
+            <changeDate>2024-04-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>484121065</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">484121065</identifier>
+                <identifier type="contract">20H9910</identifier>
+                <identifier type="doi">10.2314/GBV:484121065</identifier>
+                <identifier type="firstid">GBV:484121065</identifier>
+            </identifiers>
+            <locations>
+                <location mimetype="application/pdf" subtype="fulltext" type="url">https://edocs.tib.eu/files/e01fb05/484121065.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">716549611</identifier>
+                    <creationDate>2005-04-21</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-89</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">Online-Ressource (145 S., 10,1 MB)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Technologiedemonstrator für ein Integriertes Dynamisches System (IDS) : Schlussbericht ; Laufzeit des Vorhabens/Berichtszeitraum: 01.11.1999 bis 31.12.2003</title>
+            <alternativeTitles>
+                <alternative>Technology demonstrator for an integrated dynamic system (IDS)</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Helicopter, power transmission, integrated dynamic system, rotor control, IBC</abstract>
+            </abstracts>
+            <contributors>
+                <contributor>
+                    <contributor>Haber, Axel</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Autor des Berichts: Haber, Axel</responsible>
+            <publicationInfo>
+                <issued>2004</issued>
+                <publicationPlaces>
+                    <publicationPlace>Calden</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>ZF Luftfahrttechnik</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-296-TTN</identifier>
+                </isPartOf>
+                <publicationIDInfo>Förderkennzeichen BMBF 20H9910. - Engl. Titel: Technology demonstrator for an integrated dynamic system (IDS)</publicationIDInfo>
+                <publicationIDInfo>Unterschiede zwischen dem gedruckten Dokument und der elektronischen Ressource können nicht ausgeschlossen werden</publicationIDInfo>
+                <publicationIDInfo>Auch als gedr. Ausg. vorh.</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-296-TTN</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106410628" classificationName="bk">
+                    <code>52.20</code>
+                    <entries>
+                        <entry>Antriebstechnik, Getriebelehre</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mas</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4136888-5" type="gnd">
+                    <subject xml:lang="de">Rotor (Drehflügel)</subject>
+                </subject>
+                <subject id="4025993-6" type="gnd">
+                    <subject xml:lang="de">Hubschrauber</subject>
+                </subject>
+                <subject id="4020807-2" type="gnd">
+                    <subject xml:lang="de">Getriebe</subject>
+                </subject>
+                <subject id="4057472-6" type="gnd">
+                    <subject xml:lang="de">Steuerung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">default</property>
+            <property name="displaySubscriberAccess">https://edocs.tib.eu/files/e01fb05/484121065.pdf</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

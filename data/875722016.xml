@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:875722016</identifier><datestamp>2024-06-14</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:875722016">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2017-01-02</databaseDate>
+            <changeDate>2024-04-23</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>875722016</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">875722016</identifier>
+                <identifier type="ean">9783736994317</identifier>
+                <identifier type="firstid">DNB:1122361793</identifier>
+                <identifier type="isbn13">9783736994317</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/ilmenau/toc/875722016.PDF</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">166114893X</identifier>
+                    <creationDate>2017-02-01</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">U 17 B 120</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-35</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">iii, 199 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Parallelization of automotive control software</title>
+            <abstracts>
+                <abstract xml:lang="de">Der eingebettete Mehrkernprozessor wird als die Hardware-Plattform angesehen, welche den stetig steigenden Rechenanforderungen von Steuerungs-Software in Automobilen gerecht wird. Dieser verfügt über eine höhere Rechenleistung und verbraucht weniger Energie. Steuerungs-Software wird entsprechend dem AUTomotive Open System ARchitecture (AUTOSAR)- Standard entwickelt. Runnables, elementare Code-Abschnitte, bilden strukturiert in Software-Components angeordnet das funktionale Verhalten des Reglers ab. Bei der Migration auf Mehrkernprozessoren soll existierende Steuerungs-Software wiederverwendet werden. Gegenstand der Dissertation ist die Migration existierender AUTOSAR-Steuerungs-Software auf Mehrkernprozessorsteuergeräte. Zentrale Herausforderungen sind: 1) Datenabhängigkeiten zwischen Runnables müssen beachtet werden, was die erreichbare Parallelität einschränkt. 2) Der ursprüngliche Datenfluss und dessen Latenz müssen nachgebildet werden, um dasselbe funktionale Verhalten ohne aufwändige Validierung oder Tests zu erreichen. 3) Das Energiesparpotenzial des Prozessors soll genutzt werden. Auf Runnable-Ebene verteilt RunPar Runnables statt Tasks. Darüber hinaus wird die Parallelität durch das Konzept der Supertask erhöht. Diese gruppiert Runnables von nacheinander ausgeführten Tasks, deren Runnables anschließend mittels RunPar verteilt werden. Auf Task-Ebene entkoppelt Timed Implicit Communication (TIC) die Kommunikation zwischen Tasks, um die parallele Ausführung von produzierender und konsumierender Task zu ermöglichen. Ein Vergleich mit RunPar legt nahe, dass es sich bei Runnable- und Task-Ebenen-Parallelisierung um einander ergänzend einzusetzende Strategien handelt. Schließlich wird eine koordinierende Strategie vorgeschlagen, welche beide Parallelisierungsebenen kombiniert. Der Verarbeitungspfad von Sensor zu Aktuator wird explizit modelliert. Dies ermöglicht die Berücksichtigung der Latenz. Task-Perioden und Prozessortakt werden anschließend so angepasst, dass Leerlaufzeiten minimiert und Latenzzeiten eingehalten werden. Die Metrik Parallel-Schedule-Quality- wird eingeführt, um den Erfolg der Parallelisierung zu quantifizieren. Damit wird es möglich den besten parallelen Ausführungsplan auszuwählen. Insgesamt wird dieselbe Antwortzeit wie im Referenzsystem erreicht. Gleichzeitig wird der Energieverbrauch des Steuergerätes minimiert.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="publisher">
+                    <type>publisher</type>
+                    <name>Eric Cuvillier, Firma</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">1067137041</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+                <corporateCreator type="degree-granting-institution">
+                    <type>degree-granting-institution</type>
+                    <name>Technische Universität Ilmenau</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2125187-3</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Kehr, Sebastian</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1123151490</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Schäfer, Günter</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">133950875</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Kühnhauser, Winfried</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">130159727</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Quiñones, Eduardo</contributor>
+                </contributor>
+            </contributors>
+            <responsible>vorgelegt von: Dipl.-Inf. Sebastian Kehr</responsible>
+            <publicationInfo>
+                <issued>2016</issued>
+                <edition>1. Auflage</edition>
+                <publicationPlaces>
+                    <publicationPlace>Göttingen</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Cuvillier Verlag</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2016</dateAccepted>
+                        <description>Dissertation, Technische Universität Ilmenau</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Illustrationen</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106410903" classificationName="bk">
+                    <code>54.31</code>
+                    <entries>
+                        <entry>Rechnerarchitektur</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>004</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4230</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.2720285435</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>inf</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4366912-8" type="gnd">
+                    <subject xml:lang="de">Evolutionärer Algorithmus</subject>
+                </subject>
+                <subject id="7665620-2" subtype="work" type="gnd">
+                    <subject xml:lang="de">AUTOSAR</subject>
+                </subject>
+                <subject id="4613846-8" type="gnd">
+                    <subject xml:lang="de">Parallelisierung</subject>
+                </subject>
+                <subject id="4135913-6" type="gnd">
+                    <subject xml:lang="de">Task</subject>
+                </subject>
+                <subject id="4116615-2" type="gnd">
+                    <subject xml:lang="de">Steuerungstechnik</subject>
+                </subject>
+                <subject id="7598578-0" type="gnd">
+                    <subject xml:lang="de">Mehrkernprozessor</subject>
+                </subject>
+                <subject id="4191571-9" type="gnd">
+                    <subject xml:lang="de">Datenfluss</subject>
+                </subject>
+                <subject id="7578671-0" type="gnd">
+                    <subject xml:lang="de">Motorsteuerung</subject>
+                </subject>
+                <subject id="103238512X" type="gnd">
+                    <subject xml:lang="de">Steuergerät</subject>
+                </subject>
+                <subject id="4343107-0" type="gnd">
+                    <subject xml:lang="de">Laufzeitsystem</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

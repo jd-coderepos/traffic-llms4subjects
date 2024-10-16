@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:471260339</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:471260339">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2004-11-16</databaseDate>
+            <changeDate>2024-04-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>471260339</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">471260339</identifier>
+                <identifier type="contract">HALO2003</identifier>
+                <identifier type="contract">IABG-B-VG-6004/01</identifier>
+                <identifier type="doi">10.2314/GBV:471260339</identifier>
+                <identifier type="firstid">GBV:471260339</identifier>
+            </identifiers>
+            <locations>
+                <location mimetype="application/pdf" subtype="fulltext" type="url">https://edocs.tib.eu/files/e01fb04/471260339.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">683656449</identifier>
+                    <creationDate>2004-11-16</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-89</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">Online-Ressource (208 S., 1,76 MB)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Studie Wirtschaftlichkeit von Beschaffungsalternativen für ein neues Forschungsflugzeug (HALO)</title>
+            <alternativeTitles>
+                <alternative>Cost to benefit study of different procurement alternatives for a new research aircraft (HALO)</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Atmospheric research, earth observation, life-cycle-cost (LCC), economical assessment, procurement alternatives, high altitude and long range research aicraft (HALO)</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Industrieanlagen-Betriebsgesellschaft</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2027690-4</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor>
+                    <contributor>Hayn, Dieter</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Industrieanlagen-Betriebsgesellschaft mbH. Dieter Hayn ...</responsible>
+            <publicationInfo>
+                <issued>2004</issued>
+                <publicationPlaces>
+                    <publicationPlace>Ottobrunn</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Technische Informationsbibliothek u. Universitätsbibliothek</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-296-TTN</identifier>
+                </isPartOf>
+                <publicationIDInfo>Förderkennzeichen BMBF HAL2003. - Engl. Zsfassung u.d.T.: Cost to benefit study of different procurement alternatives for a new research aircraft (HALO)</publicationIDInfo>
+                <publicationIDInfo>Unterschiede zwischen dem gedruckten Dokument und der elektronischen Ressource können nicht ausgeschlossen werden</publicationIDInfo>
+                <publicationIDInfo>Auch als gedr. Ausg. vorhanden</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-296-TTN</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106421891" classificationName="bk">
+                    <code>38.82</code>
+                    <entries>
+                        <entry>Klimatologie</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>geo</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4031178-8" type="gnd">
+                    <subject xml:lang="de">Klimatologie</subject>
+                </subject>
+                <subject id="4710810-1" type="gnd">
+                    <subject xml:lang="de">Forschungsflugzeug</subject>
+                </subject>
+                <subject id="4005988-1" type="gnd">
+                    <subject xml:lang="de">Beschaffung</subject>
+                </subject>
+                <subject id="4197873-0" type="gnd">
+                    <subject xml:lang="de">Wirtschaftlichkeitsprüfung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">default</property>
+            <property name="displaySubscriberAccess">https://edocs.tib.eu/files/e01fb04/471260339.pdf</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

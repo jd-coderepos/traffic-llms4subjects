@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:181166003</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:181166003">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1995-02-15</databaseDate>
+            <changeDate>2024-05-06</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>181166003</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">181166003</identifier>
+                <identifier type="firstid">GBV:181166003</identifier>
+                <identifier type="isbn">3980314855</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">15348330X</identifier>
+                    <creationDate>1995-08-21</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RO 9500(16)</location>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">153484942</identifier>
+                    <creationDate>1995-08-21</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RO 9500(16) a</location>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-24</isil>
+            </preservation>
+            <preservation procedure="digital-preservation">
+                <isil>DE-93</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">260 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Abwicklung des Lieferverkehrs an innerörtlichen Hauptverkehrsstrassen</title>
+            <abstracts>
+                <abstract xml:lang="de">Betr. u.a. Pforzheim, Rottweil, Stuttgart, Ulm, Karlsruhe und Moosburg</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Hamed, Ashraf</contributor>
+                </contributor>
+            </contributors>
+            <responsible>von Ashraf Hamed</responsible>
+            <publicationInfo>
+                <issued>1994</issued>
+                <publicationPlaces>
+                    <publicationPlace>Stuttgart</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Inst. f. Strassen- und Verkehrswesen</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Veröffentlichungen aus dem Institut für Strassen- und Verkehrswesen</title>
+                    <volumeNumber>H. 16</volumeNumber>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Zugl.: Stuttgart, Univ., Diss., 1994</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst., Kt</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Veröffentlichungen aus dem Institut für Strassen- und Verkehrswesen</title>
+                <volumeNumber>H. 16</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="10642064X" classificationName="bk">
+                    <code>55.84</code>
+                    <entries>
+                        <entry>Straßenverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>QR 800</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>41</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>QR 850</code>
+                </classification>
+                <classification classificationID="106420658" classificationName="bk">
+                    <code>55.83</code>
+                    <entries>
+                        <entry>Stadtverkehr, Nahverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4183580-3" type="gnd">
+                    <subject xml:lang="de">Straßengüterverkehr</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Verkehrsplanung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Straßenverkehr</subject>
+                </subject>
+                <subject id="4474079-7" type="gnd">
+                    <subject xml:lang="de">City-Logistik</subject>
+                </subject>
+                <subject id="4159220-7" type="gnd">
+                    <subject xml:lang="de">Hauptverkehrsstraße</subject>
+                </subject>
+                <subject id="4209679-0" type="gnd">
+                    <subject xml:lang="de">Innerortsstraße</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

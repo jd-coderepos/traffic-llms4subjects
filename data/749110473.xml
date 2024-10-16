@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:749110473</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:749110473">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2013-06-10</databaseDate>
+            <changeDate>2024-02-14</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>749110473</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">749110473</identifier>
+                <identifier type="doi">10.1007/BFb0043099</identifier>
+                <identifier type="firstid">GBV:749110473</identifier>
+                <identifier type="isbn13">9783540391227</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="description" type="url">https://zbmath.org/?q=an:0648.93001</location>
+                <location subtype="toc" type="url">https://external.dandelon.com/download/attachments/dandelon/ids/DE0042EBE9EE0713584A6C125750A005503D4.pdf</location>
+                <location subtype="fulltext" type="url">http://dx.doi.org/10.1007/BFb0043099</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1532494254</identifier>
+                    <recallSign>OLR-SBAEN</recallSign>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2015-03-27</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1164482866</identifier>
+                    <creationDate>2010-06-01</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online-Ressource (VIII, 288 pp. 86 figs)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Modern Aircraft Flight Control</title>
+            <abstracts>
+                <abstract xml:lang="de">A complete dynamic model of flight dynamics is presented. Based on this model, the inverse problem and that of the synthesis of programmed motion are solved. A new approach to decoupled control of large-scale nonlinear systems is applied to dynamic flight control. Control synthesis is performed in two steps. First the nominal programmed control is synthesized using the complete model of flight dynamics. This nominal control should realize nominal trajectory under ideal conditions with no perturbations. At the second step the tracking of nominal trajectory is realized. The system is viewed as a set of decoupled subsystems and for each subsystem local control is synthesized. Then the stability of the overall system is analyzed and global control is introduced to compensate coupling among some of the subsystems. In the book a particular choice of subsystems is proposed in a case of flight control, and the local and global control synthesis is presented. Extensive simulations of flight control with different control laws are also presented</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Vukobratović, Miomir</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Stojić, Radoslav</contributor>
+                </contributor>
+            </contributors>
+            <responsible>edited by Miomir Vukobratović, Radoslav Stojić</responsible>
+            <publicationInfo>
+                <issued>1988</issued>
+                <publicationPlaces>
+                    <publicationPlace>Berlin</publicationPlace>
+                    <publicationPlace>Heidelberg</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-1-SLN</identifier>
+                    <identifier type="collectioncode">GBV-SPRINGER-LNCIS</identifier>
+                    <identifier type="collectioncode">ZDB-2-ENG</identifier>
+                    <identifier type="collectioncode">ZDB-2-BAE</identifier>
+                    <identifier type="collectioncode">ZDB-2-LNI</identifier>
+                    <identifier type="collectioncode">ZDB-2-SXE</identifier>
+                    <identifier type="collectioncode">ZDB-2-SEB</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>Lecture Notes in Control and Information Sciences</title>
+                    <volumeNumber>109</volumeNumber>
+                </journalInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>digital</description>
+            <description>Campusweiter Zugriff (Universität Hannover). - Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Keine Weitergabe an Dritte. Kein systematisches Downloaden durch Robots.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druckausg.</label>
+                <title>Modern aircraft flight control</title>
+                <identifier type="ppn">025177192</identifier>
+                <identifier type="isbn">3540191194</identifier>
+                <identifier type="isbn">0387191194</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-1-SLN</identifier>
+                <identifier type="collectioncode">GBV-SPRINGER-LNCIS</identifier>
+                <identifier type="collectioncode">ZDB-2-ENG</identifier>
+                <identifier type="collectioncode">ZDB-2-BAE</identifier>
+                <identifier type="collectioncode">ZDB-2-LNI</identifier>
+                <identifier type="collectioncode">ZDB-2-SXE</identifier>
+                <identifier type="collectioncode">ZDB-2-SEB</identifier>
+            </related>
+            <related type="parent">
+                <title>Lecture Notes in Control and Information Sciences</title>
+                <volumeNumber>109</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.8</code>
+                </classification>
+                <classification classificationName="msc">
+                    <code>93D15</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.132/6</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>SI 845</code>
+                </classification>
+                <classification classificationName="msc">
+                    <code>93C95</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 7870</code>
+                </classification>
+                <classification classificationName="msc">
+                    <code>*93-02</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>37</code>
+                </classification>
+                <classification classificationName="msc">
+                    <code>93C15</code>
+                </classification>
+                <classification classificationName="msc">
+                    <code>93C35</code>
+                </classification>
+                <classification classificationName="msc">
+                    <code>93A15</code>
+                </classification>
+                <classification classificationName="msc">
+                    <code>74F10</code>
+                </classification>
+                <classification classificationName="msc">
+                    <code>76G25</code>
+                </classification>
+                <classification classificationName="msc">
+                    <code>70Q05</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mat</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Engineering</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Computers.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Engineering design</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Robotics.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Automation.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Control engineering.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Telecommunication</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Engineering mathematics</subject>
+                </subject>
+                <subject id="4143715-9" type="gnd">
+                    <subject xml:lang="de">Autopilot</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Mechanics</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Computer hardware</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://dx.doi.org/10.1007/BFb0043099</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1807337278</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1807337278">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2022-06-21</databaseDate>
+            <changeDate>2023-03-11</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1807337278</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1807337278</identifier>
+                <identifier type="firstid">KXP:1807337278</identifier>
+                <identifier type="isbn">1630817856</identifier>
+                <identifier type="isbn13">9781630817855</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1807337278.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4153103470</identifier>
+                    <creationDate>2023-02-22</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 22 B 2140</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">211 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Antenna design for CubeSats</title>
+            <abstracts>
+                <abstract xml:lang="de">Orbits and Small Satellites -- CubeSats: From Concept to Orbit -- Overview of CubeSat Antennas: Design Considerations, Categories, and Link Budget Development -- Traditional CubeSat Antennas -- Conformal Integration of Antennas with CubeSat Solar Panels -- High Gain Antennas for CubeSats and Emerging Solutions.</abstract>
+                <abstract xml:lang="de">A CubeSat is a miniaturized modular satellite that can be constructed from off-the-shelf components. With advancements in digital signal processing, power electronics, and packaging technology, it is feasible to fit science instruments and communication devices that were traditionally carried on larger satellites on CubeSat consolations. This not only reduces mission cost, repair, risk, but also provides more precise and real-time science data. Their low cost and versatility allow for CubeSats to be used to test technologies that are planned to use on larger satellites, to collect point-to-point data in space when launched as CubeSat constellations, or to monitor health of larger spacecrafts. &amp;nbsp; This comprehensive reference explores CubeSat standards, launching methods, and detailed design guidelines for antennas specially made for CubeSat applications. Deployed CubeSat antennas, such as low gain antennas, high gain wire-based antennas, and horn and dish antennas as they relate to the technology are explored. Conformal CubeSat Antennas, including those that are independent of CubeSats and those integrated in CubeSat solar panels, are discussed. An antenna design guideline is provided to demonstrate the basics of a CubeSat link budget, which is transitionally published in signal and system community. Written by an expert in the field, this book enables readers to read antenna specifics when choosing communication front-end</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Baktur, Reyhan</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Reyhan Baktur</responsible>
+            <publicationInfo>
+                <issued>2022</issued>
+                <publicationPlaces>
+                    <publicationPlace>Boston</publicationPlace>
+                    <publicationPlace>London</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Artech House</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Artech House antennas and propagation library</title>
+                </journalInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>24 cm</description>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Artech House antennas and propagation library</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106417665" classificationName="bk">
+                    <code>53.74</code>
+                    <entries>
+                        <entry>Hochfrequenztechnik, Funktechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106410334" classificationName="bk">
+                    <code>55.60</code>
+                    <entries>
+                        <entry>Raumfahrttechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL3035</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4002210-9" type="gnd">
+                    <subject xml:lang="de">Antenne</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Artificial satellites</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Artificial satellites ; Radio antennas</subject>
+                </subject>
+                <subject id="4456134-9" type="gnd">
+                    <subject xml:lang="de">Kleinsatellit</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

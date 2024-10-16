@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1727338693</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1727338693">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2020-08-18</databaseDate>
+            <changeDate>2022-02-27</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1727338693</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1727338693</identifier>
+                <identifier type="firstid">KXP:1727338693</identifier>
+                <identifier type="isbn13">9789811548789</identifier>
+                <identifier type="isbn13">9789811548802</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="cover" type="url">https://swbplus.bsz-bw.de/bsz1726040917cov.jpg</location>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1727338693.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3740723610</identifier>
+                    <creationDate>2021-09-23</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 20 B 3306</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xxi, 340 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Spacecraft autonomous navigation technologies based on multi-source information fusion</title>
+            <abstracts>
+                <abstract xml:lang="de">Introduction -- Point Estimation Theory -- Estimation Fusion Algorithm -- Performance Analysis -- Time and Coordinate Systems -- Dynamic Models and Environment Models -- Inertial Autonomous Navigation Technology -- Optical Autonomous Navigation Technology -- Optical/Pulsar Integrated Autonomous Navigation Technology -- Altimeter and Velocimeter/Optical Aided Inertial Navigation Technology -- Simulation Testing Techniques for Autonomous Navigation Based on Multi-source Information Fusion -- Prospect for Multi-source Information Fusion Navigation.</abstract>
+                <abstract xml:lang="de">This book introduces readers to the fundamentals of estimation and dynamical system theory, and their applications in the field of multi-source information fused autonomous navigation for spacecraft. The content is divided into two parts: theory and application. The theory part (Part I) covers the mathematical background of navigation algorithm design, including parameter and state estimate methods, linear fusion, centralized and distributed fusion, observability analysis, Monte Carlo technology, and linear covariance analysis. In turn, the application part (Part II) focuses on autonomous navigation algorithm design for different phases of deep space missions, which involves multiple sensors, such as inertial measurement units, optical image sensors, and pulsar detectors. By concentrating on the relationships between estimation theory and autonomous navigation systems for spacecraft, the book bridges the gap between theory and practice. A wealth of helpful formulas and various types of estimators are also included to help readers grasp basic estimation concepts and offer them a ready-reference guide. .</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Wang, Dayi</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Li, Maodeng</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Huang, Xiangyu</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Zhang, Xiaowen</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Dayi Wang, Maodeng Li, Xiangyu Huang, Xiaowen Zhang</responsible>
+            <publicationInfo>
+                <issued>2021</issued>
+                <publicationPlaces>
+                    <publicationPlace>Singapore</publicationPlace>
+                    <publicationPlace>Beijing</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="SG" />
+                    <publicationCountry code="CN" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Space science and technologies</title>
+                </journalInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>Spacecraft Autonomous Navigation Technologies Based on Multi-source Information Fusion</title>
+                <identifier type="isbn13">9789811548796</identifier>
+                <identifier type="ppn">1726040917</identifier>
+            </related>
+            <related type="parent">
+                <title>Space science and technologies</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="181570416" classificationName="bk">
+                    <code>55.64</code>
+                    <entries>
+                        <entry>Raumfahrzeugführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="181570483" classificationName="bk">
+                    <code>50.93</code>
+                    <entries>
+                        <entry>Weltraumforschung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.1</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Robotics.</subject>
+                </subject>
+                <subject id="4117629-7" type="gnd">
+                    <subject xml:lang="de">Weltraumforschung</subject>
+                </subject>
+                <subject id="4041457-7" type="gnd">
+                    <subject xml:lang="de">Navigation</subject>
+                </subject>
+                <subject id="4048579-1" type="gnd">
+                    <subject xml:lang="de">Raumfahrzeug</subject>
+                </subject>
+                <subject id="4206329-2" type="gnd">
+                    <subject xml:lang="de">Lagemessung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Aerospace engineering.</subject>
+                </subject>
+                <subject id="4582612-2" type="gnd">
+                    <subject xml:lang="de">Datenfusion</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Speech processing systems.</subject>
+                </subject>
+                <subject id="7714938-5" type="gnd">
+                    <subject xml:lang="de">Autonomes Fahrzeug</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Image processing.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Mechatronics.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Control engineering.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Signal processing.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Astronautics.</subject>
+                </subject>
+                <subject id="4013396-5" type="gnd">
+                    <subject xml:lang="de">Dynamisches System</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

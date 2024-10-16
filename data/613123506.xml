@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:613123506</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:613123506">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2009-11-19</databaseDate>
+            <changeDate>2023-01-19</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>613123506</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">613123506</identifier>
+                <identifier type="doi">10.15480/882.725</identifier>
+                <identifier type="firstid">GBV:613123506</identifier>
+                <identifier type="isbn">3183339129</identifier>
+                <identifier type="isbn13">9783183339129</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://external.dandelon.com/download/attachments/dandelon/ids/DE004154F8A48A4B8C4FFC12575850057080D.pdf</location>
+                <location subtype="fulltext" type="url">http://nbn-resolving.de/urn:nbn:de:gbv:830-tubdok-8118</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1228063699</identifier>
+                    <creationDate>2011-02-20</creationDate>
+                    <selectionKey>zdt</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online-Ressource (PDF-Datei: VII, 159 S., 1.7 MB)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Fahrzeugklassifikation und Schätzung streckenbezogener Verkehrsdaten mit Methoden der Mustererkennung</title>
+            <alternativeTitles>
+                <alternative>Vehicle classification and estimation of section-related traffic data using pattern recognition methods</alternative>
+                <alternative>Vehicle Classification and Estimation of Section-Related Traffic Data Using Pattern Recognition Methods</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Im Rahmen dieser Arbeit werden für die Klassifikation und Wiedererkennung von Fahrzeugen mit Signalen von Induktionsschleifen effiziente Verfahren mit Mustererkennungssystemen angegeben. Unterschiedliche Ansätze zur Fahrzeugklassifikation u.a auch mit neuronalen Netzwerken werden untersucht und bewertet. Durch die Fahrzeugwiedererkennung können streckenbezogene Verkehrsdaten geschätzt werden. Im Vergleich zu einem Referenzverfahren werden zwei unterschiedliche Methoden entwickelt und analysiert. Das erste Verfahren benutzt Kostenfunktionen auf der Basis von Fahrzeugmerkmalen und lokalen Streckenprognosen, das zweite Verfahren berücksichtigt die statistischen Bindungen der Fahrzeuge im Streckenabschnitt durch eine Modellierung mit Hidden-Markov-Modellen. Die Einsatzmöglichkeit der streckenbezogenen Verkehrsdaten in Verkehrsleitsystemen wird abschließend anhand der Verkehrszustandsschätzung mit einem modellgestützten Schätzverfahren beschrieben.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Technische Universität Hamburg-Harburg, Arbeitsbereich Nachrichtentechnik</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">1229808-6</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Wohlers, Jens</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">118090925</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Fliege, Norbert</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">172076994</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Cremer, Michael</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">124705022</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Jens Wohlers</responsible>
+            <publicationInfo>
+                <issued>1997</issued>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>1997</dateAccepted>
+                        <description>Dissertation, Technische Universität Hamburg-Harburg, Arbeitsbereich Nachrichtentechnik</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+                <publicationIDInfo>Unterschiede zwischen dem gedruckten Dokument und der elektronischen Ressource können nicht ausgeschlossen werden</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druckausg.</label>
+                <title>Fahrzeugklassifikation und Schätzung streckenbezogener Verkehrsdaten mit Methoden der Mustererkennung</title>
+                <identifier type="isbn13">9783183339129</identifier>
+                <identifier type="isbn">3183339129</identifier>
+                <identifier type="ppn">238726630</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="dbn">
+                    <code>41</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4600</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="181570424" classificationName="bk">
+                    <code>55.24</code>
+                    <entries>
+                        <entry>Fahrzeugführung, Fahrtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="10641030X" classificationName="bk">
+                    <code>54.74</code>
+                    <entries>
+                        <entry>Maschinelles Sehen</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>inf</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4030958-7" type="gnd">
+                    <subject xml:lang="de">Klassifikation</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Pattern Recognition</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Classification</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Traffic Control</subject>
+                </subject>
+                <subject id="4511937-5" type="gnd">
+                    <subject xml:lang="de">Online-Ressource</subject>
+                </subject>
+                <subject id="4057931-1" type="gnd">
+                    <subject xml:lang="de">Straßenverkehr</subject>
+                </subject>
+                <subject id="4187817-6" type="gnd">
+                    <subject xml:lang="de">Verkehrsleitsystem</subject>
+                </subject>
+                <subject id="4073757-3" type="gnd">
+                    <subject xml:lang="de">Kraftfahrzeug</subject>
+                </subject>
+                <subject id="4040936-3" type="gnd">
+                    <subject xml:lang="de">Mustererkennung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Traffic Monitoring</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://nbn-resolving.de/urn:nbn:de:gbv:830-tubdok-8118</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

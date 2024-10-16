@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1029090246</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1029090246">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2018-08-15</databaseDate>
+            <changeDate>2021-02-23</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1029090246</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1029090246</identifier>
+                <identifier type="ean">9781624104909</identifier>
+                <identifier type="firstid">GBV:1029090246</identifier>
+                <identifier type="isbn13">9781624104909</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/1029090246.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1811354513</identifier>
+                    <creationDate>2018-12-07</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 18 B 4001</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xxx, 1062 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Aircraft design : a conceptual approach</title>
+            <abstracts>
+                <abstract xml:lang="de">"Aircraft Design: A Conceptual Approach, Sixth Edition by AIAA Fellow Dr. Daniel P. Raymer provides updates to what has become a standard textbook and reference throughout the world on the subject of aircraft conceptual design. This new edition expands and updates this modern classic including timely topics such as "green aircraft" and electric propulsion, but retains the completeness and readability that have placed it in universities and design offices everywhere. The book covers every topic necessary to the understanding of aircraft design, such as aerodynamics, structures, stability and control, propulsion, etc., with an overview introduction starting from first principles. All are discussed from the point of view of the designer, not the specialist in any given topic area"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Raymer, Daniel P.</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1053640064</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Daniel P. Raymer, Conceptual Research Corporation, Playa del Rey, California</responsible>
+            <publicationInfo>
+                <issued>2018</issued>
+                <edition>Sixth edition</edition>
+                <publicationPlaces>
+                    <publicationPlace>Reston, VA</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>American Institute of Aeronautics and Astronautics, Inc.</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>AIAA education series</title>
+                </journalInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>AIAA education series</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.1341</code>
+                </classification>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL671.2</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.134/1</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Airplanes</subject>
+                </subject>
+                <subject id="4121208-3" type="gnd">
+                    <subject xml:lang="de">Entwurf</subject>
+                </subject>
+                <subject id="4032231-2" type="gnd">
+                    <subject xml:lang="de">Konstruktion</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Design and construction</subject>
+                </subject>
+                <subject id="4017672-1" type="gnd">
+                    <subject xml:lang="de">Flugzeug</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

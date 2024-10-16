@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1783644907</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1783644907">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2021-12-28</databaseDate>
+            <changeDate>2023-03-11</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1783644907</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1783644907</identifier>
+                <identifier type="firstid">KXP:1783644907</identifier>
+                <identifier type="isbn13">9783030889906</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1783644907.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4027173058</identifier>
+                    <creationDate>2022-12-15</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 22 B 574</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xii, 165 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Internet access in vehicular networks</title>
+            <abstracts>
+                <abstract xml:lang="de">This book introduces the Internet access for vehicles as well as novel communication and computing paradigms based on the Internet of vehicles. To enable efficient and reliable Internet connection for mobile vehicle users, this book first introduces analytical modelling methods for the practical vehicle-to-roadside (V2R) Internet access procedure, and employ the interworking of V2R and vehicle-to-vehicle (V2V) to improve the network performance for a variety of automotive applications. In addition, the wireless link performance between a vehicle and an Internet access station is investigated, and a machine learning based algorithm is proposed to improve the link throughout by selecting an efficient modulation and coding scheme. This book also investigates the distributed machine learning algorithms over the Internet access of vehicles. A novel broadcasting scheme is designed to intelligently adjust the training users that are involved in the iteration rounds for an asynchronous federated learning scheme, which is shown to greatly improve the training efficiency. This book conducts the fully asynchronous machine learning evaluations among vehicle users that can utilize the opportunistic V2R communication to train machine learning models. Researchers and advanced-level students who focus on vehicular networks, industrial entities for internet of vehicles providers, government agencies target on transportation system and road management will find this book useful as reference. Network device manufacturers and network operators will also want to purchase this book. .</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Xu, Wenchao</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Zhou, Haibo</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Shen, Xuemin</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">142337242</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Wenchao Xu, Haibo Zhou, Xuemin (Sherman) Shen</responsible>
+            <publicationInfo>
+                <issued>2021</issued>
+                <publicationPlaces>
+                    <publicationPlace>Cham</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="CH" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106417665" classificationName="bk">
+                    <code>53.74</code>
+                    <entries>
+                        <entry>Hochfrequenztechnik, Funktechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="1024622754" type="gnd">
+                    <subject xml:lang="de">Car-to-Car-Kommunikation</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Special purpose computers.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Mobile communication systems.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Automotive engineering.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Computer communication systems.</subject>
+                </subject>
+                <subject id="4073757-3" type="gnd">
+                    <subject xml:lang="de">Kraftfahrzeug</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Wireless communication systems.</subject>
+                </subject>
+                <subject id="7627927-3" type="gnd">
+                    <subject xml:lang="de">Mobiles Internet</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

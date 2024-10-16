@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:663425220</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:663425220">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2011-06-30</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>663425220</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">663425220</identifier>
+                <identifier type="ean">9783834332424</identifier>
+                <identifier type="firstid">DNB:1012997898</identifier>
+                <identifier type="isbn13">9783834332424</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://d-nb.info/1012997898/04</location>
+                <location subtype="description" type="url">http://deposit.d-nb.de/cgi-bin/dokserv?id=3844799&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1267284811</identifier>
+                    <creationDate>2012-07-30</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 11 B 6759</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">190 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Airbag und Gurtstraffer</title>
+            <abstracts>
+                <abstract xml:lang="de">Die zuhnemende Ausstattung der Fahrzeuge mit Airbags und Gurtstraffern konfrontiert nicht nur Mitarbeiter im Kfz-Bereich, sondern auch Unfallhelfer, Retter und Notärzte mit den Systemen und deren Gefahren. Hier wird ein Überblick zu aktuellen und zukünftigen Systemen geboten, ohne allzusehr ins Detail zugehen, um die inhaltliche Aktualität möglichst lange zu gewährleisten</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Rokosch, Uwe</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">123865026</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Uwe Rokosch</responsible>
+            <publicationInfo>
+                <issued>2011</issued>
+                <edition>2., überarb. Aufl.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Würzburg</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Vogel-Buchverl.</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Vogel-Fachbuch</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>Service-Fibel</title>
+                </journalInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>21 cm</description>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausg.</label>
+                <title>Airbag und Gurtstraffer</title>
+                <identifier type="isbn13">9783834332424</identifier>
+                <identifier type="ppn">1651849269</identifier>
+            </related>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>Airbag und Gurtstraffer</title>
+                <identifier type="ppn">1659212103</identifier>
+                <identifier type="isbn13">9783834361486</identifier>
+            </related>
+            <related type="parent">
+                <title>Vogel-Fachbuch</title>
+            </related>
+            <related type="parent">
+                <title>Service-Fibel</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.276</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4260</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Paperback / softback</subject>
+                </subject>
+                <subject id="4301232-2" type="gnd">
+                    <subject xml:lang="de">Airbag</subject>
+                </subject>
+                <subject id="4699279-0" type="gnd">
+                    <subject xml:lang="de">Gurtstraffer</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

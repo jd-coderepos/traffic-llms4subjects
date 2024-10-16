@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:169852238X</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:169852238X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2020-05-19</databaseDate>
+            <changeDate>2021-09-14</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>169852238X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">169852238X</identifier>
+                <identifier type="firstid">KXP:169852238X</identifier>
+                <identifier type="isbn13">9783030462628</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/169852238x.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3668502692</identifier>
+                    <creationDate>2021-07-07</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 20 B 2026</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xiii, 160 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Data-driven detection and diagnosis of faults in traction systems of high-speed trains</title>
+            <abstracts>
+                <abstract xml:lang="de">This book addresses the needs of researchers and practitioners in the field of high-speed trains, especially those whose work involves safety and reliability issues in traction systems. It will appeal to researchers and graduate students at institutions of higher learning, research labs, and in the industrial R&amp;D sector, catering to a readership from a broad range of disciplines including intelligent transportation, electrical engineering, mechanical engineering, chemical engineering, the biological sciences and engineering, economics, ecology, and the mathematical sciences. .</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Chen, Hongtian</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Jiang, Bin</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Lu, Ningyun</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Chen, Wen</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Hongtian Chen, Bin Jiang, Ningyun Lu, Wen Chen</responsible>
+            <publicationInfo>
+                <issued>2020</issued>
+                <publicationPlaces>
+                    <publicationPlace>Cham</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="CH" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Lecture Notes in intelligent transportation and infrastructure</title>
+                </journalInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Lecture Notes in intelligent transportation and infrastructure</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106419404" classificationName="bk">
+                    <code>50.16</code>
+                    <entries>
+                        <entry>Technische Zuverlässigkeit, Instandhaltung</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106405691" classificationName="bk">
+                    <code>55.30</code>
+                    <entries>
+                        <entry>Schienenfahrzeugtechnik, Eisenbahntechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Transportation engineering.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Control engineering.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Traffic engineering.</subject>
+                </subject>
+                <subject id="4002360-6" type="gnd">
+                    <subject xml:lang="de">Antrieb (Technik)</subject>
+                </subject>
+                <subject id="4133764-5" type="gnd">
+                    <subject xml:lang="de">Fehlererkennung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Computational intelligence.</subject>
+                </subject>
+                <subject id="4113934-3" type="gnd">
+                    <subject xml:lang="de">Hochgeschwindigkeitszug</subject>
+                </subject>
+                <subject id="4149458-1" type="gnd">
+                    <subject xml:lang="de">Diagnosesystem</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

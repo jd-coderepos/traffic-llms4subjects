@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:601814746</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:601814746">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2009-06-15</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>601814746</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">601814746</identifier>
+                <identifier type="firstid">OBV:AC07647892</identifier>
+                <identifier type="isbn13">9783901983917</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://d-nb.info/99496031X/04</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">942662539</identifier>
+                    <creationDate>2009-09-15</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 09 B 6092</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">302 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Handbuch Öffentlicher Verkehr : Schwerpunkt Österreich</title>
+            <abstracts>
+                <abstract xml:lang="de">Literaturverz. S. 281 - 289</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Österreichische Verkehrswissenschaftliche Gesellschaft</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2036973-6</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor>
+                    <contributor>Rollinger, Wolfgang</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Amtmann, Gerhard</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Hrsg.: ÖVG Österreichische Verkehrswissenschaftliche Gesellschaft, Arbeitskreis Öffentlicher Verkehr. Red.: Wolfgang Rollinger ... Mit Beitr. von: Gerhard Amtmann ...</responsible>
+            <publicationInfo>
+                <issued>2009</issued>
+                <edition>1. Aufl.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Wien</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="AT" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Bohmann</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>24 cm</description>
+            <description>Ill., graph. Darst</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>QR 800</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>380</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>388.09436</code>
+                </classification>
+                <classification classificationID="106420658" classificationName="bk">
+                    <code>55.83</code>
+                    <entries>
+                        <entry>Stadtverkehr, Nahverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4043271-3" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Österreich</subject>
+                </subject>
+                <subject id="4172386-7" type="gnd">
+                    <subject xml:lang="de">Öffentlicher Verkehr</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

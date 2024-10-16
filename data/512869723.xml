@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:512869723</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:512869723">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2006-06-06</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>512869723</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">512869723</identifier>
+                <identifier type="firstid">GBV:512869723</identifier>
+                <identifier type="isbn">0872291464</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="biographical-note" type="url">https://www.loc.gov/catdir/enhancements/fy1616/2006017121-b.html</location>
+                <location subtype="toc" type="url">https://swbplus.bsz-bw.de/bsz279559054inh.htm</location>
+                <location subtype="miscellaneous" type="url">https://www.loc.gov/catdir/enhancements/fy1616/2006017121-d.html</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">774875380</identifier>
+                    <creationDate>2007-01-17</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 07 B 507</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">IX, 101 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Transportation technology and imperialism in the Ottoman Empire, 1800 - 1923</title>
+            <abstracts>
+                <abstract xml:lang="de">The Ottoman Empire in the nineteenth and twentieth centuries -- Sailing ships and the ships of the desert -- The steamship and the steam locomotive -- Imperialism and transportation -- Transportation technology and the security of the Empire -- Technology transfer and the problem of industrialization</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Mentzel, Peter</contributor>
+                </contributor>
+            </contributors>
+            <responsible>by Peter Mentzel</responsible>
+            <publicationInfo>
+                <issued>2006</issued>
+                <publicationPlaces>
+                    <publicationPlace>Washington, DC</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Society for the History of Technology and the American Historical Association</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Historical Perspectives on technology, society and culture</title>
+                </journalInfo>
+                <publicationIDInfo>Includes bibliographical references</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., Kt.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Historical Perspectives on technology, society and culture</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ssg">
+                    <code>6,23</code>
+                </classification>
+                <classification classificationID="106420631" classificationName="bk">
+                    <code>55.80</code>
+                    <entries>
+                        <entry>Verkehrswesen, Transportwesen: Allgemeines</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ssg">
+                    <code>19,2</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 3050</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TA1111</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.040956</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Transportation engineering</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Imperialism</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Industrialization</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Ottoman Empire, 1288-1918</subject>
+                </subject>
+                <subject id="4062901-6" type="gnd">
+                    <subject xml:lang="de">Verkehr</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">History</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Social Aspects</subject>
+                </subject>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte 1800-1923</subject>
+                </subject>
+                <subject id="4075720-1" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Osmanisches Reich</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Turkey</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Transportation</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

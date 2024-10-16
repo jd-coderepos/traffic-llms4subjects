@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1831136589</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1831136589">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2023-01-16</databaseDate>
+            <changeDate>2024-05-22</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>1831136589</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1831136589</identifier>
+                <identifier type="firstid">KXP:1831136589</identifier>
+                <identifier type="isbn13">9781630818500</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/bowker/toc/9781630818494.pdf</location>
+                <location subtype="fulltext" type="url">https://ieeexplore.ieee.org/servlet/opac?bknumber=10000423</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4248354152</identifier>
+                    <recallSign>OLR-IAHO</recallSign>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2023-01-16</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (281 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Modern automotive antenna measurements</title>
+            <abstracts>
+                <abstract xml:lang="de">This book provides practical and theoretical aspects for automotive antenna measurements. It comprehensively covers all the information you need to design, develop, place, and use antennas and antenna systems in automotive applications. Special chapters are devoted to some of the most advanced topics in this area, including OTA measurements for Vehicle to Everything (V2X) applications, emulation of virtual drive testing, and specific topics for measurements of automotive RADAR systems. You will understand the various measurement techniques specifically for automotive antennas, including chamber design, absorbers, near-to-far field transformation, and some of the newest techniques such as the use of drones. The book presents both well accepted and standard practices and includes innovative methods that help you quickly adapt to the rapidly evolving field of automotive antenna testing today. This is an excellent reference for antenna engineers, automotive system designers, and anyone who measures and designs antennas for automotive applications</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Foged, Lars J.</contributor>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Sierra Castañer, Manuel</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1155563980</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>editors Lars Foged, Manuel Sierra Castañer</responsible>
+            <publicationInfo>
+                <issued>2023</issued>
+                <publicationPlaces>
+                    <publicationPlace>Boston$aLondon</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Artech</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-37-IAHO</identifier>
+                </isPartOf>
+            </additionalDocumentInfo>
+            <description>Campusweiter Zugriff (Universität Hannover) - Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Keine Weitergabe an Dritte. Kein systematisches Downloaden durch Robots</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Modern automotive antenna measurements</title>
+                <identifier type="isbn">1630818496</identifier>
+                <identifier type="isbn13">9781630818494</identifier>
+                <identifier type="ppn">1847379052</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-37-IAHO</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>TK6570.A8</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.2/77</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106417665" classificationName="bk">
+                    <code>53.74</code>
+                    <entries>
+                        <entry>Hochfrequenztechnik, Funktechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Automobiles</subject>
+                </subject>
+                <subject id="4002210-9" type="gnd">
+                    <subject xml:lang="de">Antenne</subject>
+                </subject>
+                <subject id="4165423-7" type="gnd">
+                    <subject xml:lang="de">Kraftfahrzeugbau</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://ieeexplore.ieee.org/servlet/opac?bknumber=10000423</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

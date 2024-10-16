@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:131502956</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:131502956">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1993-12-02</databaseDate>
+            <changeDate>2024-03-28</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>131502956</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">131502956</identifier>
+                <identifier type="firstid">GBV:131502956</identifier>
+                <identifier type="isbn">3478940060</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://external.dandelon.com/download/attachments/dandelon/ids/DE004B4BABDAE202FDDDFC12579090052061D.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">125700458</identifier>
+                    <creationDate>1994-05-09</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RO 5477(9)</location>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">70 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Internationale Kurier- und Expressdienste : Strategien für innovative Transportlösungen</title>
+            <abstracts>
+                <abstract xml:lang="de">Bislang in der Fachliteratur noch kaum behandeltes Thema, das hier - wenn auch in beschränktem Umfang - erstmals in einer Monographie behandelt wird. Insbesondere die 4 großen, international arbeitenden Expreßdienste werden dargestellt: Geschichte, Verkauf und Marketing, Organisation des Frachtsystems, Gefahrguttransport, Ausbildung der MitarbeiterInnen. Fotos und anschauliche graphische Darstellungen ergänzen den Text. - Füllt eine Lücke auf dem Buchmarkt. (3) (LK/SB: Prawitt)</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Blochmann, Frank O.</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Frank O. Blochmann.  [TNT-Express]</responsible>
+            <publicationInfo>
+                <issued>1994</issued>
+                <publicationPlaces>
+                    <publicationPlace>Landsberg/Lech</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Verl. Moderne Industrie</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Die Bibliothek der Wirtschaft</title>
+                    <volumeNumber>9</volumeNumber>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>19 cm</description>
+            <description>Ill</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Die Bibliothek der Wirtschaft</title>
+                <volumeNumber>9</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="181571811" classificationName="bk">
+                    <code>55.82</code>
+                    <entries>
+                        <entry>Güterverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>QR 800</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>41</code>
+                </classification>
+                <classification classificationName="ssg">
+                    <code>19,2</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4342007-2" type="gnd">
+                    <subject xml:lang="de">Transportdienst</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

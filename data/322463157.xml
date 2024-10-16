@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:322463157</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:322463157">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2001-12-04</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>322463157</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">322463157</identifier>
+                <identifier type="contract">13N71037</identifier>
+                <identifier type="contract">13N7103</identifier>
+                <identifier type="firstid">GBV:322463157</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">498728714</identifier>
+                    <creationDate>2001-05-29</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">F 00 B 1571</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">414629256</identifier>
+                    <creationDate>2001-05-29</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">F 00 B 1571 a</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">102, 55 Bl.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>SANDY - Straßenverkehrsanwendungen der nichtlinearen Dynamik, Teilvorhaben: Verkehrsdynamik in Sammelstraßennetzen von Ballungszentren : Forschungsbericht/Abschlussbericht</title>
+            <alternativeTitles>
+                <alternative>Straßenverkehrsanwendungen der nichtlinearen Dynamik</alternative>
+                <alternative>Verkehrsdynamik in Sammelstraßennetzen von Ballungszentren</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Nonlinear dynamics, simulation, urban road network, traffic dynamics</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>SSP Consult, Beratende Ingenieure GmbH</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">6030938-6</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor>
+                    <contributor>Kühne, Reinhart D.</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Langbein-Euchner, Karin</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Welsch, Michael</contributor>
+                </contributor>
+            </contributors>
+            <responsible>SSP Consult Beratende Ingenieure GmbH vormals Steierwald Schönharting und Partner. [Projektleitung: Reinhart D. Kühne].  [Bearb.: Karin Langbein-Euchner; Michael Welsch]</responsible>
+            <publicationInfo>
+                <issued>2000</issued>
+                <publicationPlaces>
+                    <publicationPlace>Stuttgart</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Förderkennzeichen BMBF 13N7103/7</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>graph. Darst.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="10642064X" classificationName="bk">
+                    <code>55.84</code>
+                    <entries>
+                        <entry>Straßenverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="sigle">
+                    <code>13F</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4058282-6" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Stuttgart</subject>
+                </subject>
+                <subject id="4272352-8" type="gnd">
+                    <subject xml:lang="de">Verkehrsstau</subject>
+                </subject>
+                <subject id="4127793-4" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">München</subject>
+                </subject>
+                <subject id="4062902-8" type="gnd">
+                    <subject xml:lang="de">Verkehrsablauf</subject>
+                </subject>
+                <subject id="4187825-5" type="gnd">
+                    <subject xml:lang="de">Verkehrsprognose</subject>
+                </subject>
+                <subject id="4114528-8" type="gnd">
+                    <subject xml:lang="de">Mathematisches Modell</subject>
+                </subject>
+                <subject id="4159220-7" type="gnd">
+                    <subject xml:lang="de">Hauptverkehrsstraße</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

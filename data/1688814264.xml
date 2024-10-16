@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1688814264</identifier><datestamp>2024-06-28</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1688814264">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2020-01-29</databaseDate>
+            <changeDate>2024-05-10</changeDate>
+            <ftxCreationDate>2024-06-18</ftxCreationDate>
+            <documentID>1688814264</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1688814264</identifier>
+                <identifier type="contract">FRUB-opus-154618</identifier>
+                <identifier type="doi">10.6094/UNIFR/154618</identifier>
+                <identifier type="firstid">KXP:1688814264</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://nbn-resolving.org/urn:nbn:de:bsz:25-freidok-1546180</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4539115375</identifier>
+                    <creationDate>2024-06-15</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-25</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (xii, 122 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Simultaneous estimation of rewards and dynamics in inverse reinforcement learning problems</title>
+            <abstracts>
+                <abstract xml:lang="de">Abstract: Da sich die Fähigkeiten autonomer Systemen stetig verbessern, können sie in zunehmend komplexeren Umgebungen immer vielseitigere Aufgaben lösen. Häufig ist es dabei nötig das autonome System an die spezifische Aufgabe oder die jeweilige Umwelt anzupassen, was typischerweise eine umfangreiche Forschung und Entwicklung voraussetzt. Um die Akzeptanz solcher Systeme zu erhöhen, ist es erforderlich deren Einsatz für verschiedene Aufgaben schnell und einfach anhand von Anpassungen der Verhaltensweisen und Ziele durch Nicht-Experten zu ermöglichen. Eine intuitive Art und Weise Aufgaben zu beschreiben ist das Bereitstellen von Demonstrationen erwünschten Verhaltens. Diese Demonstrationen können verwendet werden, um eine Repräsentation der Motivation und des Ziels des Experten zu lernen.&lt;br&gt;&lt;br&gt;Das Lernen aus Demonstrationen beschreibt eine Klasse von Ansätzen, anhand derer neue Verhaltensweisen trainiert werden können, indem Funktionen und Aufgaben vorgeführt werden, anstatt diese zu programmieren. Zwei Teilbereiche des Lernens aus Demonstrationen sind das Klonen von Verhalten und inverses bestärkendes Lernen. Ansätze aus dem Bereich des Klonens von Verhalten schätzen die Strategie des Experten aus dessen Demonstrationen und lernen somit diesen zu imitieren. Allerdings sind die erlernten Strategien nur geeignet, wenn sich die Umwelt, ihre Dynamik sowie die Aufgabe nicht ändern. Ein populärer Ansatz, der generalisierbarere Repräsentationen lernt, ist das inverse bestärkende Lernen beziehungsweise Inverse Reinforcement Learning (IRL). Dabei wird die Belohnungsfunktion eines Markow-Entscheidungsprozesses aus Demonstrationen eines Experten geschätzt, wobei die Belohnungsfunktion als Motivation oder Ziel interpretiert werden kann. Es existiert eine Vielzahl an Ansätzen des inversen bestärkenden Lernens, die das Problem unter unterschiedlichen Annahmen lösen. Die meisten dieser Ansätze nehmen an, dass ein akkurates Dynamikmodell vorhanden ist, dass das Modell aus Expertendemonstrationen geschätzt werden kann, dass zusätzliche Demonstrationen suboptimalen Verhaltens abgefragt werden können oder dass Heuristiken verwendet werden, um ein nicht vorhandenes Transitionsmodel zu kompensieren. Allerdings werden viele dieser Annahmen häufig verletzt, weil das Dynamikmodel einer Umwelt sehr komplex sein kann, weil akkurate Modelle häufig nicht vorhanden sind, weil zusätzliche Demonstrationen zu teuer sein k ...</abstract>
+                <abstract xml:lang="de">Abstract: As the capabilities of autonomous systems improve, they can solve more and more tasks in increasingly complex environments. Often, the autonomous system needs adjustments to the specific task or environment, which typically requires extensive research and engineering. By allowing non-experts to adjust the systems to new behaviors and goals, they are faster and easier to deploy for various tasks and environments, which increases their acceptability. An intuitive way to describe a task is to provide demonstrations of desired behavior. These demonstrations can be used to learn a representation of the expert's motivation and goal.&lt;br&gt;&lt;br&gt;Learning from Demonstration is a class of approaches offering the possibility to teach new behaviors by demonstrating the task instead of programming it directly. Two subfields of Learning from Demonstration are Behavioral Cloning and Inverse Reinforcement Learning (IRL). Approaches from Behavioral Cloning estimate the expert's policy directly from demonstrations and therefore learn to mimic the expert. However, the learned policies are typically only appropriate if the environment, the dynamics, and the task remain unchanged. A popular approach that learns more generalizable representations is Inverse Reinforcement Learning, which estimates the unknown reward function of a Markov Decision Process (MDP) from demonstrations of an expert. Many Inverse Reinforcement Learning approaches exist that solve the problem under various assumptions. Most of them assume the environment's dynamics to be known, that they can be learned from expert demonstrations, that additional samples from suboptimal behavior can be queried, or that appropriate heuristics account for unknown transition models. However, these assumptions are often not satisfied, since transition models of environments can be complex, accurate models may be unknown, querying samples may be too expensive, and heuristics may tamper with the reward estimate.&lt;br&gt;&lt;br&gt;To solve IRL problems under unknown dynamics, we propose a framework that simultaneously estimates both the reward function and the dynamics from expert demonstrations. This is possible, as both influence the expert's policy and thus the long-term behavior. Therefore, not only the observed transitions of the expert's demonstrations but also the observed actions contain information about the dynamics of the environment. The contribution of this thesis is the formulation of a new problem class, called Simulta ...</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Herman, Michael</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1203634315</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Michael Herman</responsible>
+            <publicationInfo>
+                <issued>2020</issued>
+                <publicationPlaces>
+                    <publicationPlace>Freiburg</publicationPlace>
+                </publicationPlaces>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2020</dateAccepted>
+                        <description>Dissertation, Albert-Ludwigs-Universität Freiburg</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Simultaneous estimation of rewards and dynamics in inverse reinforcement learning problems</title>
+                <identifier type="ppn">1690246006</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc-dbn">
+                    <code>621.3</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.892</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4193754-5" type="gnd">
+                    <subject xml:lang="de">Maschinelles Lernen</subject>
+                </subject>
+                <subject id="4261462-4" type="gnd">
+                    <subject xml:lang="de">Robotik</subject>
+                </subject>
+                <subject id="4041457-7" type="gnd">
+                    <subject xml:lang="de">Navigation</subject>
+                </subject>
+                <subject id="4304075-5" type="gnd">
+                    <subject xml:lang="de">Autonomer Roboter</subject>
+                </subject>
+                <subject id="4825546-4" type="gnd">
+                    <subject xml:lang="de">Bestärkendes Lernen (Künstliche Intelligenz)</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://nbn-resolving.org/urn:nbn:de:bsz:25-freidok-1546180</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

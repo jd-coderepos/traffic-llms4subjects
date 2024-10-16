@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1727339177</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1727339177">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2020-08-18</databaseDate>
+            <changeDate>2022-02-27</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1727339177</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1727339177</identifier>
+                <identifier type="firstid">KXP:1727339177</identifier>
+                <identifier type="isbn13">9789811548628</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="cover" type="url">https://swbplus.bsz-bw.de/bsz1726040925cov.jpg</location>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1727339177.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3740724935</identifier>
+                    <creationDate>2021-10-05</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 20 B 3552</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xiv, 399 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Satellite navigation systems and technologies</title>
+            <abstracts>
+                <abstract xml:lang="de">Based on the design theory and development experience of Beidou navigation satellite system (BDS), this book highlights the space segment and the related satellite technologies as well as satellite-ground integration design from the perspective of engineering. The satellite navigation technology in this book is divided into uplink and reception technology, broadcasting link technology, inter-satellite link technology, time-frequency system technology, navigation signal generation and assessment technology, navigation information management technology, autonomous operation technology of navigation satellite. In closing, the book introduces readers to the technological development status and trend of BDS and other GNSS, and propose the technologies of future development. Unlike most current books on this topic, which largely concentrate on principles, receiver design or applications, the book also features substantial information on the role of satellite system in the GNSS and the process of signal information flow, and each chapter not only studies on the theoretical function and main technologies, but also focuses on engineering development. Accordingly, readers will gain not only a better understanding of navigation satellite systems as a whole, but also of their main components and key technologies.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Xie, Jun</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Wang, Haihong</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Li, Peng</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Meng, Yansong</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Jun Xie, Haihong Wang, Peng Li, Yansong Meng</responsible>
+            <publicationInfo>
+                <issued>2021</issued>
+                <publicationPlaces>
+                    <publicationPlace>Singapore</publicationPlace>
+                    <publicationPlace>Beijing</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="SG" />
+                    <publicationCountry code="CN" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Space science and technologies</title>
+                </journalInfo>
+                <publicationIDInfo>Literaturverzeichnis: Seite 397-399</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Space science and technologies</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106415182" classificationName="bk">
+                    <code>53.84</code>
+                    <entries>
+                        <entry>Ortungstechnik, Radartechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106410334" classificationName="bk">
+                    <code>55.60</code>
+                    <entries>
+                        <entry>Raumfahrttechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.1</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Control engineering.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Signal processing.</subject>
+                </subject>
+                <subject id="4202846-2" type="gnd">
+                    <subject xml:lang="de">Satellitennavigation</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Aerospace engineering.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Speech processing systems.</subject>
+                </subject>
+                <subject id="1025024370" type="gnd">
+                    <subject xml:lang="de">Compass (Satellitennavigation)</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Astronautics.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Image processing.</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:561072167</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:561072167">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2008-04-04</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>561072167</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">561072167</identifier>
+                <identifier type="firstid">GBV:561072167</identifier>
+                <identifier type="isbn13">9788189640453</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://swbplus.bsz-bw.de/bsz281092346inh.htm</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">909933901</identifier>
+                    <creationDate>2008-11-13</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 09 B 147</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-16-77</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">XXV, 353 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Studies in urban transport</title>
+            <abstracts>
+                <abstract xml:lang="de">Study on the transport system in Kolkata, India</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Halder, Dilip</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">138125066</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor>
+                    <contributor>Halder, Dilip Kumar</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Dilip Kumar Halder</responsible>
+            <publicationInfo>
+                <issued>2008</issued>
+                <edition>1. publ.</edition>
+                <publicationPlaces>
+                    <publicationPlace>New Delhi</publicationPlace>
+                    <publicationPlace>Kolkata</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="IN" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Bookwell</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Revised version of papers; previously published. - Includes index. - Includes bibliographical references (p. [321]-338)</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>25 cm</description>
+            <description>graph. Darst., Kt.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ssg">
+                    <code>6,24</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>388.409 541 4</code>
+                </classification>
+                <classification classificationID="106420658" classificationName="bk">
+                    <code>55.83</code>
+                    <entries>
+                        <entry>Stadtverkehr, Nahverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>388.4095414</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>HE311.I42</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="stw">
+                    <subject xml:lang="de">Straßenverkehr</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Kalkutta</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Local transit</subject>
+                </subject>
+                <subject id="4029344-0" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Kalkutta</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Stadtverkehr</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Verkehrspolitik</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Urban transportation</subject>
+                </subject>
+                <subject id="4172386-7" type="gnd">
+                    <subject xml:lang="de">Öffentlicher Verkehr</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Indien</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Schienenpersonennahverkehr</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

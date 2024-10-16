@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:813381525</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:813381525">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2015-01-05</databaseDate>
+            <changeDate>2022-07-18</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>813381525</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">813381525</identifier>
+                <identifier type="ean">9781472439215</identifier>
+                <identifier type="firstid">GBV:813381525</identifier>
+                <identifier type="isbn13">9781472439215</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/813381525.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1529737680</identifier>
+                    <creationDate>2015-06-15</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 15 B 2475</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XXVI, 288 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Systems engineering for commercial aircraft : a domain-specific adaptation</title>
+            <abstracts>
+                <abstract xml:lang="de">"Explains the principles of systems engineering in simple, understandable terms and describes to engineers and managers how these principles would be applied to the development of commercial aircraft"--Provided by publisher</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Jackson, Scott</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1023664747</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Scott Jackson</responsible>
+            <publicationInfo>
+                <issued>2015</issued>
+                <edition>2. ed.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Farnham [u.a.]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="GB" />
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Ashgate Publ.</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>2., rev. ed. of: 1997</publicationIDInfo>
+                <publicationIDInfo>Includes bibliographical references ([261]-268) and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>graph. Darst</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="181571455" classificationName="bk">
+                    <code>50.03</code>
+                    <entries>
+                        <entry>Methoden und Techniken der Ingenieurwissenschaften</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 7205</code>
+                </classification>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL671.2</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.135</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mat</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Systems engineering</subject>
+                </subject>
+                <subject id="4140901-2" type="gnd">
+                    <subject xml:lang="de">Systemtechnik</subject>
+                </subject>
+                <subject id="4154782-2" type="gnd">
+                    <subject xml:lang="de">Flugzeugbau</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Aeronautics</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Design and construction</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Transport planes</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

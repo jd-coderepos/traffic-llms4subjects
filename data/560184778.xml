@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:560184778</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:560184778">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2008-03-19</databaseDate>
+            <changeDate>2022-07-02</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>560184778</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">560184778</identifier>
+                <identifier type="ean">9783602147984</identifier>
+                <identifier type="firstid">DNB:98783391X</identifier>
+                <identifier type="isbn13">9783602147984</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/zbw/560184778.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">942660218</identifier>
+                    <creationDate>2010-02-04</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RS 6166(37)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">88 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Stadtverkehr im Fokus : ist eine City-Maut die Lösung der Stauprobleme?</title>
+            <abstracts>
+                <abstract xml:lang="de">Literaturverz. S. 82 - 87. - Zsfassung in dt. und engl. Sprache</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Puls, Thomas</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">12868481X</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Thomas Puls</responsible>
+            <publicationInfo>
+                <issued>2008</issued>
+                <publicationPlaces>
+                    <publicationPlace>Köln</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Dt. Inst.-Verl.</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>IW-Analysen</title>
+                    <volumeNumber>37</volumeNumber>
+                </journalInfo>
+                <publicationIDInfo>Zsfassung in dt. und engl.</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>graph. Darst., Kt.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>Stadtverkehr im Fokus</title>
+                <identifier type="ppn">1031748563</identifier>
+            </related>
+            <related type="parent">
+                <title>IW-Analysen</title>
+                <volumeNumber>37</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="10642064X" classificationName="bk">
+                    <code>55.84</code>
+                    <entries>
+                        <entry>Straßenverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>AR 27900</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>380</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>388.4</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>QR 850</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>QR 860</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>330</code>
+                </classification>
+                <classification classificationID="106414682" classificationName="bk">
+                    <code>83.72</code>
+                    <entries>
+                        <entry>Verkehrswirtschaft</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>oek</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4056783-7" type="gnd">
+                    <subject xml:lang="de">Stadtverkehr</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Stockholm</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Traffic policy</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Maut</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Traffic safety</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Stadtverkehr</subject>
+                </subject>
+                <subject id="4206779-0" type="gnd">
+                    <subject xml:lang="de">Straßenbenutzungsgebühr</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>City traffic</subject>
+                </subject>
+                <subject id="4061655-1" type="gnd">
+                    <subject xml:lang="de">Umweltverträglichkeit</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Deutschland</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">City traffic</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">London</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Traffic safety</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

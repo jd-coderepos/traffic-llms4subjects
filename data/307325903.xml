@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:307325903</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:307325903">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1999-12-13</databaseDate>
+            <changeDate>2024-04-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>307325903</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">307325903</identifier>
+                <identifier type="contract">20S9603B</identifier>
+                <identifier type="contract">01003417</identifier>
+                <identifier type="firstid">GBV:307325903</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="miscellaneous" type="url">https://edocs.tib.eu/files/e001/307325903l.pdf</location>
+                <location mimetype="application/pdf" subtype="fulltext" type="url">https://edocs.tib.eu/files/e001/307325903.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">370719522</identifier>
+                    <creationDate>1999-12-13</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-89</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">18 p. = 100 Kb., text and images</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>IDAKOM, Navigationssystem mit integrierter Datenkommunikation für den bodennahen Flug : Abschlußbericht</title>
+            <alternativeTitles>
+                <alternative>IDAKOM, navigation system with integrated data communication for low altitude flight missions</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">DGPS, controller working position, ADS-B, CPDLC</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Navigations- und Flugführungs-Systeme GmbH, Ulm</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">6008929-5</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor>
+                    <contributor>Thierer, Michael</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Antragsteller: NFS Navigations- und Flugführungssysteme GmbH. [Autoren des Berichts: Thierer, Michael]</responsible>
+            <publicationInfo>
+                <issued>1999</issued>
+                <edition>[Electronic ed.]</edition>
+                <publicationPlaces>
+                    <publicationPlace>Ulm</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Universitätsbibliothek u. Technische Informationsbibliothek</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-296-TTN</identifier>
+                </isPartOf>
+                <publicationIDInfo>Contract BMBF 20 S 9603 B. - Joint project no. 01003417. - Title of the Engl. summary: IDAKOM, navigation system with integrated data communication for low altitude flight missions</publicationIDInfo>
+                <publicationIDInfo>Differences between the printed and electronic version of the document are possible. - Bibliographic data partially researched</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-296-TTN</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106415182" classificationName="bk">
+                    <code>53.84</code>
+                    <entries>
+                        <entry>Ortungstechnik, Radartechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="181570769" classificationName="bk">
+                    <code>55.54</code>
+                    <entries>
+                        <entry>Flugführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4142408-6" type="gnd">
+                    <subject xml:lang="de">Anflugkontrolle</subject>
+                </subject>
+                <subject id="4154750-0" type="gnd">
+                    <subject xml:lang="de">Flugführung</subject>
+                </subject>
+                <subject id="4202846-2" type="gnd">
+                    <subject xml:lang="de">Satellitennavigation</subject>
+                </subject>
+                <subject id="4456203-2" type="gnd">
+                    <subject xml:lang="de">Rollfeld</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">default</property>
+            <property name="displaySubscriberAccess">https://edocs.tib.eu/files/e001/307325903.pdf</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

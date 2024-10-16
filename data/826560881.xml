@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:826560881</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:826560881">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2015-06-02</databaseDate>
+            <changeDate>2021-07-05</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>826560881</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">826560881</identifier>
+                <identifier type="ean">9781624102752</identifier>
+                <identifier type="firstid">GBV:826560881</identifier>
+                <identifier type="isbn">1624102751</identifier>
+                <identifier type="isbn13">9781624102752</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/bowker/toc/9781624102752.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1546306838</identifier>
+                    <creationDate>2016-03-15</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 15 B 5353</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xiv, 708 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Space vehicle guidance, control, and astrodynamics</title>
+            <abstracts>
+                <abstract xml:lang="de">"Space Vehicle Guidance, Control and Astrodynamics is written for those who are interested in guidance, navigation, control, and dynamics of advanced space systems, launch vehicles, robotic and human exploration of asteroids, and/or planetary defense missions. Chapters 2 through 5 are adopted from the authors̕ previous book Space Vehicle Dynamics and Control, Second Edition while chapters 1, and 6 to 11, contain all new material specifically developed for this volume. It is intended for use as a textbook or a sustaining reference source for senior undergraduate or graduate courses. With emphasis on practical applications it is also a valuable reference for practicing engineers and researchers."--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Wie, Bong</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">173247709</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Bong Wie (Iowa State University, Ames, Iowa)</responsible>
+            <publicationInfo>
+                <issued>2015</issued>
+                <publicationPlaces>
+                    <publicationPlace>Reston, Virginia</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>American Institute of Aeronautics and Astronautics, Inc, AIAA</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>AIAA education series</title>
+                </journalInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>24 cm</description>
+            <description>Illustrationen (teils farbig)</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>AIAA education series</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>ZO 8000</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.47/42</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL1050</code>
+                </classification>
+                <classification classificationID="106410334" classificationName="bk">
+                    <code>55.60</code>
+                    <entries>
+                        <entry>Raumfahrttechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="10640783X" classificationName="bk">
+                    <code>39.23</code>
+                    <entries>
+                        <entry>Himmelsmechanik, Astrodynamik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>US 9500</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4174799-9" type="gnd">
+                    <subject xml:lang="de">Planetoid</subject>
+                </subject>
+                <subject id="4185818-9" type="gnd">
+                    <subject xml:lang="de">Trägerrakete</subject>
+                </subject>
+                <subject id="4154760-3" type="gnd">
+                    <subject xml:lang="de">Flugmechanik</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Space vehicles</subject>
+                </subject>
+                <subject id="4048579-1" type="gnd">
+                    <subject xml:lang="de">Raumfahrzeug</subject>
+                </subject>
+                <subject id="4154750-0" type="gnd">
+                    <subject xml:lang="de">Flugführung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Astrodynamics</subject>
+                </subject>
+                <subject id="4154743-3" type="gnd">
+                    <subject xml:lang="de">Flugbahn</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Orbital mechanics</subject>
+                </subject>
+                <subject id="4143246-0" type="gnd">
+                    <subject xml:lang="de">Astrodynamik</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

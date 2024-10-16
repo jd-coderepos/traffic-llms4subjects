@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1799348032</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1799348032">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2022-04-12</databaseDate>
+            <changeDate>2023-08-17</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1799348032</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1799348032</identifier>
+                <identifier type="firstid">KXP:1799348032</identifier>
+                <identifier type="isbn13">9783030921170</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1799348032.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4116980137</identifier>
+                    <creationDate>2023-02-13</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 22 B 1889</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xviii, 258 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Perseverance and the Mars 2020 mission : follow the science to Jezero Crater</title>
+            <abstracts>
+                <abstract xml:lang="de">Chapter 1. Introduction -- Chapter 2. The Mars 2020 Mission -- Chapter 3. Perseverance’s Design -- Chapter 4. Landing Site -- Chapter 5. Surface Operations and Science -- Chapter 6. Ingenuity -- Chapter 7. Mars 2020 Science and Engineering Teams -- Chapter 8. Mars Sample Return -- Chapter 9. Conclusions.</abstract>
+                <abstract xml:lang="de">This is the comprehensive story of NASA’s pioneering Mars 2020 mission, which at this moment continues to break ground on the surface of the Red Planet. The book takes readers through every stage of the Mars mission, describing its major goals and objectives, the cutting-edge technology and instrumentation onboard the Perseverance rover and other spacecraft components, and the members of the scientific team who steered the mission along the way. Mars 2020 is the first to actually take samples of the Red Planet and prepare them for subsequent return to Earth. The chapters therefore delve into how and why Jezero Crater was selected as the optimal landing and sample collecting site to meet the mission objectives. Featuring dozens of high-resolution images of the mission, this book gives readers a deeper understanding of the technology underlying Mars 2020 and why its work is so important for planetary science and space exploration.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Ehrenfried, Manfred</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1047231883</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>by Manfred "Dutch" von Ehrenfried</responsible>
+            <publicationInfo>
+                <issued>2022</issued>
+                <publicationPlaces>
+                    <publicationPlace>Cham</publicationPlace>
+                    <publicationPlace>Chichester, UK</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="CH" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Springer-Praxis books in space exploration</title>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Springer-Praxis books in space exploration</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="181570483" classificationName="bk">
+                    <code>50.93</code>
+                    <entries>
+                        <entry>Weltraumforschung</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106410334" classificationName="bk">
+                    <code>55.60</code>
+                    <entries>
+                        <entry>Raumfahrttechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4117629-7" type="gnd">
+                    <subject xml:lang="de">Weltraumforschung</subject>
+                </subject>
+                <subject id="4135573-8" type="gnd">
+                    <subject xml:lang="de">Raumsonde</subject>
+                </subject>
+                <subject id="4037687-4" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Mars (Planet)</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

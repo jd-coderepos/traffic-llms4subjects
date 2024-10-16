@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1004831897</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1004831897">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2017-11-16</databaseDate>
+            <changeDate>2022-07-02</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1004831897</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1004831897</identifier>
+                <identifier type="firstid">GBV:1004831897</identifier>
+                <identifier type="isbn13">9789811048845</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1004831897.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1783775475</identifier>
+                    <creationDate>2019-10-24</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 18 B 3156</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xv, 377 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Computational ship design</title>
+            <abstracts>
+                <abstract xml:lang="de">This book offers an introduction to the fundamental principles and systematic methodologies employed in computational approaches to ship design. It takes a detailed approach to the description of the problem definition, related theories, mathematical formulation, algorithm selection, and other core design information. Over eight chapters and appendices the book covers the complete process of ship design, from a detailed description of design theories through to cutting-edge applications. Following an introduction to relevant terminology, the first chapters consider ship design equations and models, freeboard calculations, resistance prediction and power estimation. Subsequent chapters cover topics including propeller deign, engine selection, hull form design, structural design and outfitting. The book concludes with two chapters considering operating design and economic factors including construction costs and fuel consumption. The book reflects first-hand experiences in ship design and R&amp;D activities, and incorporates improvements based on feedback received from many industry experts. Examples provided are based on genuine case studies in the field. The comprehensive description of each design stage presented in this book offers guidelines for academics, researchers, students, and industrial manufactures from diverse fields, including ocean engineering and mechanical engineering. From a commercial point of view the book will be of great value to those involved in designing a new vessel or improving an existing ship</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Roh, Myung-Il</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Lee, Kyu-Yeul</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Myung-Il Roh, Kyu-Yeul Lee</responsible>
+            <publicationInfo>
+                <issued>2018</issued>
+                <publicationPlaces>
+                    <publicationPlace>Singapore</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="SG" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420577" classificationName="bk">
+                    <code>55.40</code>
+                    <entries>
+                        <entry>Schiffstechnik, Schiffbau</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>620.0042</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TA174</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 6230</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Engineering</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Transportation engineering</subject>
+                </subject>
+                <subject id="4121208-3" type="gnd">
+                    <subject xml:lang="de">Entwurf</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Engineering design</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Computer-aided engineering</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Computer mathematics</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Traffic engineering</subject>
+                </subject>
+                <subject id="4052385-8" type="gnd">
+                    <subject xml:lang="de">Schiff</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Physics</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:372984827</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:372984827">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2003-11-07</databaseDate>
+            <changeDate>2024-04-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>372984827</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">372984827</identifier>
+                <identifier type="contract">19P1039C</identifier>
+                <identifier type="contract">01019081</identifier>
+                <identifier type="firstid">GBV:372984827</identifier>
+            </identifiers>
+            <locations>
+                <location mimetype="application/pdf" subtype="fulltext" type="url">https://edocs.tib.eu/files/e01fb02/372984827.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">621537039</identifier>
+                    <creationDate>2003-11-07</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-89</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">Online-Ressource (56 p., 2,16 Mb.)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Forschungsvorhaben U-Bahn Berlin : Qualifizierung des automatischen Betriebes ; Abschlussbericht ; Teilprojekt Siemens</title>
+            <alternativeTitles>
+                <alternative>Research project U-Bahn Berlin, Qualification of current operation into automatic operation, Final Report, Part Siemens</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Automatic operation, underground</abstract>
+            </abstracts>
+            <contributors>
+                <contributor>
+                    <contributor>Ritter, Norbert</contributor>
+                </contributor>
+            </contributors>
+            <responsible>[Norbert Ritter]</responsible>
+            <publicationInfo>
+                <issued>2003</issued>
+                <edition>[Elektronische Ressource]</edition>
+                <publicationPlaces>
+                    <publicationPlace>Berlin</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Siemens Transportation Systems</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-296-TTN</identifier>
+                </isPartOf>
+                <publicationIDInfo>Differences between the printed and electronic version of the document are possible. - Contract BMBF 19 P 1039 C. - Joint project 01019081</publicationIDInfo>
+                <publicationIDInfo>Engl. abstract under title: Research project U-Bahn Berlin, Qualification of current operation into automatic operation, Final Report, Part Siemens</publicationIDInfo>
+                <publicationIDInfo>Also available as printed version</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>ill., graphs</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-296-TTN</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106419412" classificationName="bk">
+                    <code>50.20</code>
+                    <entries>
+                        <entry>Automatisierungstechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106405691" classificationName="bk">
+                    <code>55.30</code>
+                    <entries>
+                        <entry>Schienenfahrzeugtechnik, Eisenbahntechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4336564-4" type="gnd">
+                    <subject xml:lang="de">Automatische Zugsteuerung</subject>
+                </subject>
+                <subject id="4181167-7" type="gnd">
+                    <subject xml:lang="de">Sicherheitsmaßnahme</subject>
+                </subject>
+                <subject id="4078569-5" type="gnd">
+                    <subject xml:lang="de">Untergrundbahn</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">default</property>
+            <property name="displaySubscriberAccess">https://edocs.tib.eu/files/e01fb02/372984827.pdf</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

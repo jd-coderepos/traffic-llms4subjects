@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:772161313</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:772161313">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2013-11-25</databaseDate>
+            <changeDate>2022-07-16</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>772161313</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">772161313</identifier>
+                <identifier type="firstid">GBV:772161313</identifier>
+                <identifier type="isbn13">9783410241638</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://external.dandelon.com/download/attachments/dandelon/ids/DE0048B2050C7FAEA7E8EC1257CD8004AAFDD.pdf</location>
+                <location subtype="miscellaneous" type="url">https://www.beuth.de/de/publikation/din-taschenbuch-491-1/190681679</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1447030249</identifier>
+                    <creationDate>2013-11-26</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">ZS 1384 k(491,1)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1447030257</identifier>
+                    <creationDate>2013-11-26</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">P nor 290-DIN</location>
+                    <location type="tibShelfmark">ZS 1384 k(491,1) a</location>
+                    <loanIndicator>i</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XIII, 287 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Schienenfahrzeuge / Hrsg.: DIN Deutsches Institut für Normung e.V. ; 1: Radsätze</title>
+            <abstracts>
+                <abstract xml:lang="de">Enthält: DIN EN 13103:2012 ; DIN EN 13104:2013 ; DIN EN 13260:2011 ; DIN EN 13261:2011 ; DIN EN 13262:2011 ; DIN EN 13262:2013 [Berichtigung 1]</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Deutsches Institut für Normung</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">1030066-1</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <publicationInfo>
+                <issued>2014</issued>
+                <edition>1. Aufl., Stand der abgedr. Normen: März 2013</edition>
+                <publicationPlaces>
+                    <publicationPlace>Berlin [u.a.]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="AT" />
+                    <publicationCountry code="CH" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Beuth</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>DIN-Taschenbuch</title>
+                    <volumeNumber>491,1</volumeNumber>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>DIN-Taschenbuch</title>
+                <volumeNumber>491,1</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106419374" classificationName="bk">
+                    <code>50.07</code>
+                    <entries>
+                        <entry>Normung, technische Regeln</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106405691" classificationName="bk">
+                    <code>55.30</code>
+                    <entries>
+                        <entry>Schienenfahrzeugtechnik, Eisenbahntechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4052368-8" type="gnd">
+                    <subject xml:lang="de">Schienenfahrzeug</subject>
+                </subject>
+                <subject id="4176849-8" type="gnd">
+                    <subject xml:lang="de">Radsatz</subject>
+                </subject>
+                <subject id="4042626-9" type="gnd">
+                    <subject xml:lang="de">Normung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

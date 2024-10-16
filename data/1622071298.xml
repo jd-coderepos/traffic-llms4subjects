@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1622071298</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1622071298">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2016-12-01</databaseDate>
+            <changeDate>2024-05-12</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1622071298</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1622071298</identifier>
+                <identifier type="firstid">BSZ:480478163</identifier>
+                <identifier type="isbn13">9781624103728</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1622071298.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1811395937</identifier>
+                    <creationDate>2019-11-20</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 18 B 3833</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xiv, 437 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>The art of flight</title>
+            <abstracts>
+                <abstract xml:lang="de">Introduction to flight -- Technical background -- Aerodynamics -- Propulsion -- Flight information -- Control -- Performance -- The propeller driven aircraft -- The helicopter -- Surface effect</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Watkinson, John</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1028577796</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Allen, Ned</contributor>
+                </contributor>
+            </contributors>
+            <responsible>John Watkinson ; Ned Allen, editor-in-chief</responsible>
+            <publicationInfo>
+                <issued>2016</issued>
+                <publicationPlaces>
+                    <publicationPlace>Reston</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>American Institute of Aeronautics and Astronautics, Inc.</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Library of flight</title>
+                </journalInfo>
+                <publicationIDInfo>Includes index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Library of flight</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.132</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 7000</code>
+                </classification>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL570</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Aerodynamics</subject>
+                </subject>
+                <subject id="4025993-6" type="gnd">
+                    <subject xml:lang="de">Hubschrauber</subject>
+                </subject>
+                <subject id="1139933213" type="gnd">
+                    <subject xml:lang="de">Fluginstrument</subject>
+                </subject>
+                <subject id="4000589-6" type="gnd">
+                    <subject xml:lang="de">Aerodynamik</subject>
+                </subject>
+                <subject id="4057472-6" type="gnd">
+                    <subject xml:lang="de">Steuerung</subject>
+                </subject>
+                <subject id="4168244-0" type="gnd">
+                    <subject xml:lang="de">Luftfahrttechnik</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Flight</subject>
+                </subject>
+                <subject id="4017672-1" type="gnd">
+                    <subject xml:lang="de">Flugzeug</subject>
+                </subject>
+                <subject id="4002360-6" type="gnd">
+                    <subject xml:lang="de">Antrieb (Technik)</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

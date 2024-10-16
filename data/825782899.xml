@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:825782899</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:825782899">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2015-05-20</databaseDate>
+            <changeDate>2023-06-13</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>825782899</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">825782899</identifier>
+                <identifier type="contract">13009</identifier>
+                <identifier type="ean">9783956130090</identifier>
+                <identifier type="firstid">DNB:1070940542</identifier>
+                <identifier type="isbn">395613009X</identifier>
+                <identifier type="isbn13">9783956130090</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://d-nb.info/1070940542/04</location>
+                <location subtype="description" type="url">http://deposit.d-nb.de/cgi-bin/dokserv?id=5251747&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1636357784</identifier>
+                    <creationDate>2017-02-23</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 16 B 3368</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">284 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>333 Flugzeuge, die man kennen muss!</title>
+            <alternativeTitles>
+                <alternative>Dreihundertdreiunddreißig Flugzeuge, die man kennen muss!</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Ein weiterer interessanter und gut recherchierter Querschnitt, diesmal zur Luftfahrtgeschichte von den Anfängen bis zur Gegenwart, im handlichen Taschenbuchformat. Der Autor stellt luftfahrttechnisch bedeutende deutsche und internationale Verkehrs- und Frachtflugzeuge sowie Passagier- und Militärmaschinen, chronologisch, mit einer Fülle von Informationen, Fakten, technischen Daten, prägnanten Bildern und "anekdotenhaftem" Hintergrundwissen vor. (2)</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Dörflinger, Michael</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">132251426</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Michael Dörflinger</responsible>
+            <publicationInfo>
+                <issued>2015</issued>
+                <publicationPlaces>
+                    <publicationPlace>München</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>GeraMond</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>19 cm</description>
+            <description>Illustrationen</description>
+            <hiddenSearchTerm>Dreihundertdreiunddreißig</hiddenSearchTerm>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.13334</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 7050</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ssg">
+                    <code>19,2</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Flugzeug</subject>
+                </subject>
+                <subject id="4017672-1" type="gnd">
+                    <subject xml:lang="de">Flugzeug</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

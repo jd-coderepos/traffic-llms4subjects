@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:793913985</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:793913985">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2014-08-21</databaseDate>
+            <changeDate>2023-03-25</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>793913985</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">793913985</identifier>
+                <identifier type="firstid">GBV:793913985</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">http://nbn-resolving.de/urn:nbn:de:gbv:715-oops-19916</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1505247365</identifier>
+                    <creationDate>2014-10-15</creationDate>
+                    <selectionKey>zdt</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online-Ressource (PDF-Datei: 153 S., 13 MB)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Untersuchung zur Steigerbarkeit von Flexibilität, Performanz und Erweiterbarkeit von Fahrerlosen Transportsystemen durch den Einsatz dezentraler Steuerungstechniken</title>
+            <abstracts>
+                <abstract xml:lang="de">In der vorliegenden Arbeit wird untersucht, in wieweit Flexibilität, Performanz und Erweiterbarkeit von Fahrerlosen Transportsystemen durch den Einsatz dezentraler Steuerungstechniken gesteigert werden können. Die Modellierung der Steuerung erfolgt durch ein Multi-Agenten-System in welchem sowohl die Fahrzeuge als auch die Auftragsvergabestationen durch Agenten modelliert werden. Die Auftragsvergabe erfolgt durch verschiedene Auktionsverfahren die an die gewünschten Systemeigenschaften angepasst werden können. Für das konfliktfreie Berechnen der Routen wurde ein entsprechender Algorithmus dezentral umgesetzt. Eine weitere Verbesserung der Systemperformanz wird durch Verhandlungen zwischen den Agenten erreicht. Neben der Beschreibung der Modellierung wird in der vorliegenden Arbeit ebenfalls die Implementation sowie die Validierung der Implementation beschrieben. Letztere geschieht mit Hilfe von mehreren Simulationsexperimenten. &lt;dt.&gt;</abstract>
+                <abstract xml:lang="en">In the present work it is investigated to what extend the flexibility, performance, and extensibility of automated guided vehicle systems can be increased by the use of decentralized control techniques. The control system is modeled as a multi agent system in which each vehicle and each station is represented by an agent. The order disposition is modeled as an auction process which can be adapted to the desired system behavior.  In order to achieve a conflict free routing of all the vehicles a decentralized algorithm was implemented. The system behavior is enhanced further by the use of negotiations. The present work describes the modeling of the system as well as the implementation and the evaluation. The evaluation is achieved through multiple simulation experiments. &lt;engl.&gt;</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Schwarz, Christoph</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Sauer, Jürgen</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">129368970</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Ossowski, Sascha</contributor>
+                </contributor>
+            </contributors>
+            <responsible>vorgelegt von Christoph Schwarz</responsible>
+            <publicationInfo>
+                <issued>2014</issued>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Oldenburg, Univ., Diss., 2014</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+                <publicationIDInfo>Zsfassung in engl. Sprache</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druckausg.</label>
+                <title>Untersuchung zur Steigerbarkeit von Flexibilität, Performanz und Erweiterbarkeit von Fahrerlosen Transportsystemen durch den Einsatz dezentraler Steuerungstechniken</title>
+                <identifier type="ppn">792072618</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc-dbn">
+                    <code>650</code>
+                </classification>
+                <classification classificationID="106421344" classificationName="bk">
+                    <code>50.23</code>
+                    <entries>
+                        <entry>Regelungstechnik, Steuerungstechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="10641240X" classificationName="bk">
+                    <code>54.72</code>
+                    <entries>
+                        <entry>Künstliche Intelligenz</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>DDC004</code>
+                </classification>
+                <classification classificationID="181570424" classificationName="bk">
+                    <code>55.24</code>
+                    <entries>
+                        <entry>Fahrzeugführung, Fahrtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>inf</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4269073-0" type="gnd">
+                    <subject xml:lang="de">Routing</subject>
+                </subject>
+                <subject id="4016284-9" type="gnd">
+                    <subject xml:lang="de">Fahrerloses Transportsystem</subject>
+                </subject>
+                <subject id="4389058-1" type="gnd">
+                    <subject xml:lang="de">Mehragentensystem</subject>
+                </subject>
+                <subject id="4210741-6" type="gnd">
+                    <subject xml:lang="de">Dezentrale Steuerung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://nbn-resolving.de/urn:nbn:de:gbv:715-oops-19916</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

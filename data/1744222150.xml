@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1744222150</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1744222150">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2021-01-08</databaseDate>
+            <changeDate>2024-05-10</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1744222150</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1744222150</identifier>
+                <identifier type="firstid">KXP:1744222150</identifier>
+                <identifier type="isbn13">9783892207221</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1744222150.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3911180438</identifier>
+                    <creationDate>2021-04-16</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">RA 489(722)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3911180446</identifier>
+                    <creationDate>2021-04-16</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">RA 489(722) a</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-18</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">XIX, 185 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Eine direkte Berechnungsmethode für Dockvorgänge</title>
+            <abstracts>
+                <abstract xml:lang="de">Abstract: Der Wandel von Standardschiffen hin zu technologisch hoch komplexen Spezialschiffen stellt viele europäischen Werften vor große Herausforderungen. Diese Arbeit befasst sich mit der fundamentalen Herausforderung des Dockens, welche darüber entscheidet, ob in den Wettbewerb für ein neues Projekt eingestiegen werden kann. Es wird eine numerische Berechnungsmethode vorgestellt, die Dockvorgänge schnell und effizient berechnet. Innerhalb der Berechnungen werden Schiff und Dock als Biegebalken modelliert, die über nichtlineare Interaktionskräfte gekoppelt sind. Die resultierenden Biegelinien und die aufrichtenden Hebel aufgrund der Lastumverteilung innerhalb der nichtlinearen Pallenhölzer werden in den hydrostatischen Berechnungen berücksichtigt. Im Anschluss werden Anwendungen aus der Praxis vorgestellt. Es wurden umfangreiche Messungen im Marinearsenal in Wilhelmshaven aufgenommen und mit den Ergebnissen der Berechnungsmethode verglichen. Zudem wurden bei der Pella Sietas-Werft Dockvorgänge durchgeführt, die zuvor mit der vorgestellten Methode berechnet worden sind. Weiterhin wurde ein Kenterunfall während des Dockens nachgerechnet. Die Anwendungen belegen, dass die entwickelte Methode ein durchaus zuverlässiges und wirkungsvolles Werkzeug für ein gelungenes Docken darstellt.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="degree-granting-institution">
+                    <type>degree-granting-institution</type>
+                    <name>Technische Universität Hamburg</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">1112763473</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+                <corporateCreator>
+                    <name>Technische Universität Hamburg, Institut für Entwerfen von Schiffen und Schiffssicherheit</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">1119812917</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>König, Charlott</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1227525907</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Krüger, Stefan</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">140779663</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Ehlers, Sören</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1159997799</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>von Charlott König ; Gutachter: 1. Gutachter: Prof. Dr.-Ing. Stefan Krüger, 2. Gutachter: Prof. DSc. (Tech.) Sören Ehlers</responsible>
+            <publicationInfo>
+                <issued>2020</issued>
+                <publicationPlaces>
+                    <publicationPlace>Hamburg</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Technische Universität Hamburg</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Schriftenreihe Schiffbau</title>
+                    <volumeNumber>722 (Dezember 2020)</volumeNumber>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2020</dateAccepted>
+                        <description>Dissertation, Technische Universität Hamburg</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+                <publicationIDInfo>Sonstige Körperschaft: Technische Universität Hamburg, Institut für Entwerfen von Schiffen und Schiffssicherheit</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Schriftenreihe Schiffbau</title>
+                <volumeNumber>722 (Dezember 2020)</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420577" classificationName="bk">
+                    <code>55.40</code>
+                    <entries>
+                        <entry>Schiffstechnik, Schiffbau</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="181571455" classificationName="bk">
+                    <code>50.03</code>
+                    <entries>
+                        <entry>Methoden und Techniken der Ingenieurwissenschaften</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>380</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>624</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mat</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4749761-0" type="gnd">
+                    <subject xml:lang="de">Schwimmdock</subject>
+                </subject>
+                <subject id="4128130-5" type="gnd">
+                    <subject xml:lang="de">Numerisches Verfahren</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:863836623</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:863836623">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2016-07-26</databaseDate>
+            <changeDate>2021-07-05</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>863836623</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">863836623</identifier>
+                <identifier type="firstid">GBV:863836623</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/863836623.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1626934916</identifier>
+                    <creationDate>2016-07-26</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">H 16 B 145</location>
+                    <loanIndicator>i</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1626934924</identifier>
+                    <creationDate>2016-07-26</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">H 16 B 145 a</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1626934932</identifier>
+                    <creationDate>2016-07-26</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">H 16 B 145 b</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">iii, 137 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Flugroutenmodellierung bei Gewitter</title>
+            <abstracts>
+                <abstract xml:lang="de">Flugverkehr, Gewitter, Ausweichtrajektorie, Sicherheit und Effizienz, Risikogebiete, konvexe Hülle, Sicherheitsabstand, Sichtfeld, Kopplung an NAVSIM. - Air traffic, thunderstorm, deviation route, safety and efficiency, risk areas, convex hull, safety distance, field of view, coupling to NAVSIM</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="degree-granting-institution">
+                    <type>degree-granting-institution</type>
+                    <name>Gottfried Wilhelm Leibniz Universität Hannover</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">64681-7</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Sakiew, Ludmila</contributor>
+                </contributor>
+            </contributors>
+            <responsible>von Dipl.-Met. Ludmila Sakiew</responsible>
+            <publicationInfo>
+                <issued>2016</issued>
+                <publicationPlaces>
+                    <publicationPlace>Hannover</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2016</dateAccepted>
+                        <description>Dissertation, Gottfried Wilhelm Leibniz Universität Hannover</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Illustrationen</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>Flugroutenmodellierung bei Gewitter</title>
+                <identifier type="ppn">861664906</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="181570769" classificationName="bk">
+                    <code>55.54</code>
+                    <entries>
+                        <entry>Flugführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106406965" classificationName="bk">
+                    <code>38.84</code>
+                    <entries>
+                        <entry>Meteorologie: Sonstiges</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>geo</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4036597-9" type="gnd">
+                    <subject xml:lang="de">Luftverkehr</subject>
+                </subject>
+                <subject id="4267628-9" type="gnd">
+                    <subject xml:lang="de">Bahnplanung</subject>
+                </subject>
+                <subject id="4124948-3" type="gnd">
+                    <subject xml:lang="de">Gewitter</subject>
+                </subject>
+                <subject id="4740654-9" type="gnd">
+                    <subject xml:lang="de">Flugroute</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:796489475</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:796489475">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2014-09-09</databaseDate>
+            <changeDate>2021-07-05</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>796489475</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">796489475</identifier>
+                <identifier type="firstid">GBV:796489475</identifier>
+                <identifier type="isbn">0486787907</identifier>
+                <identifier type="isbn13">9780486787909</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/bowker/toc/9780486787909.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1580154344</identifier>
+                    <creationDate>2016-09-20</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 16 B 285</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xii, 223 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>The traffic assignment problem : models and methods</title>
+            <abstracts>
+                <abstract xml:lang="de">"This unique monograph, a classic in its field, provides an account of the development of models and methods for the problem of estimating equilibrium traffic flows in urban areas. The text further demonstrates the scope and limits of current models. Some familiarity with nonlinear programming theory and techniques is assumed. 1994 edition"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Patriksson, Michael</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Michael Patriksson (Department of Mathematical Sciences, Chalmers University of Technology and Gothenburg University)</responsible>
+            <publicationInfo>
+                <issued>2015</issued>
+                <edition>Dover edition</edition>
+                <publicationPlaces>
+                    <publicationPlace>Mineola, New York</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Dover Publications, Inc.</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Dover books on mathematics</title>
+                </journalInfo>
+                <publicationIDInfo>"An unabridged republication of the work originally published in the Topics in Transportation Series by VSP Publishers, Utrecht, The Netherlands, in 1994</publicationIDInfo>
+                <publicationIDInfo>Includes bibliographical references (pages 183-218) and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>24 cm</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Dover books on mathematics</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="10642064X" classificationName="bk">
+                    <code>55.84</code>
+                    <entries>
+                        <entry>Straßenverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="181571455" classificationName="bk">
+                    <code>50.03</code>
+                    <entries>
+                        <entry>Methoden und Techniken der Ingenieurwissenschaften</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>SK 820</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>HE336.T68</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>SK 950</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>388.3/140151</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mat</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4057912-8" type="gnd">
+                    <subject xml:lang="de">Straßennetz</subject>
+                </subject>
+                <subject id="4055072-2" type="gnd">
+                    <subject xml:lang="de">Simulation</subject>
+                </subject>
+                <subject id="4138275-4" type="gnd">
+                    <subject xml:lang="de">Verkehrsregelung</subject>
+                </subject>
+                <subject id="4189150-8" type="gnd">
+                    <subject xml:lang="de">Warteschlange</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Traffic assignment</subject>
+                </subject>
+                <subject id="4062902-8" type="gnd">
+                    <subject xml:lang="de">Verkehrsablauf</subject>
+                </subject>
+                <subject id="4593441-1" type="gnd">
+                    <subject xml:lang="de">Verkehrsmodell</subject>
+                </subject>
+                <subject id="7651795-0" type="gnd">
+                    <subject xml:lang="de">Mathematische Modellierung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1016538871</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1016538871">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2018-03-27</databaseDate>
+            <changeDate>2024-05-10</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1016538871</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1016538871</identifier>
+                <identifier type="doi">10.15480/882.1605</identifier>
+                <identifier type="firstid">GBV:1016538871</identifier>
+                <identifier type="isbn13">9783892207054</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">http://nbn-resolving.de/urn:nbn:de:gbv:830-88219480</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1764959949</identifier>
+                    <creationDate>2018-04-12</creationDate>
+                    <selectionKey>zdt</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-101</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (xx, 159 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Numerical analysis of propeller-induced higher-order pressure fluctuations on the ship hull</title>
+            <abstracts>
+                <abstract xml:lang="de">Gegenstand der vorliegenden Arbeit ist die Entwicklung und Validierung einer hybriden Simulationsmethode zur Untersuchung propellerinduzierter Druckschwankungen höherer Ordnung in kavitierender Strömung. Es werden zwei Arten von Propellerkavitation berücksichtigt: Schichtkavitation auf den Flügeln des Propellers und Spitzenwirbelkavitation. Dabei stellt sich heraus, dass insbesondere die Interaktion zwischen Schicht- und Spitzenwirbelkavitation zu stärkeren Druckschwankungen höherer Ordnung führen kann. Herzstück der neu entwickelten Methode ist das Paneelverfahren panMARE, welches zur Bestimmung der Propellerumströmung und von Schichtkavitation eingesetzt wird. Darüber hinaus sind auch Teile des Rumpfes oberhalb des Propellers im Paneelmodell enthalten, wodurch es möglich wird, dort die propellerinduzierten Druckschwankungen auszuwerten. Der Propeller arbeitet im effektiven Nachstromfeld des Schiffes, welches aus der mit viskosen Effekten behafteten Wechselwirkung zwischen Propeller und Rumpf resultiert. Um dieses zu bestimmen, wird ein RANSE-Löser in Kombination mit panMARE eingesetzt. Beide Verfahren werden mithilfe eines sog. body force-Ansatzes gekoppelt. Die Rumpfumströmung wird dabei durch den RANSE-Löser bestimmt und die Wirkung des Propellers durch eine äquivalente und durch panMARE bestimmte Verteilung von Kräften angenähert, die in die viskose Rumpfumströmung eingebracht wird. Um Spitzenwirbelkavitation zu simulieren, wird der kavitierende Wirbelkern in zahlreiche Segmente unterteilt, die jeweils separat betrachtet werden. Auf diese Weise wird aus dem dreidimensionalen Problem ein zweidimensionales, wodurch sich der Aufwand drastisch reduziert. Für jedes Segment werden die Impulsgleichungen in zylindrischen Koordinaten gelöst, was zu einer Gleichung ähnlich der Rayleigh-Plesset-Gleichung führt. Um die Interaktion mit Schichtkavitation zu berücksichtigen, erfolgt die Initialisierung des Kavitationsradius entsprechend der Dicke der Kavitation an der Austrittskante des Propellers im Bereich der Blattspitze. Dieser Parameter wird zusammen mit weiteren Parametern mithilfe fein aufgelöster RANS-Simulationen der Blattspitzenumströmung ermittelt. Drei Schiffe dienen der Validierung und Erprobung der Methode. Die Simulationsergebnisse werden mit experimentellen Ergebnissen und - sofern vorhanden - mit Großausführungsmessdaten verglichen. Darüber hinaus werden zwei Arten von Maßstabseffekten bezüglich der Reynoldszahl behandelt: der Einfluss des Nachstromfelds auf das Verhalten von Schichtkavitation sowie der Einfluss des viskosen Kernradius auf moderate bzw. sich entwickelnde Spitzenwirbelkavitation.</abstract>
+                <abstract xml:lang="de">This thesis documents and explains the development and validation of a hybrid simulation method for investigating higher-order hull pressure fluctuations induced by cavitating propellers. Two forms of propeller cavitation are considered in this work: coherent structures of sheet cavitation on the propeller blades and tip vortex cavitation. The interaction between sheet cavitation and developed tip vortex cavitation can be responsible for notable higher-order pressure fluctuations. The essential element of this novel simulation method is panMARE, the in-house panel code used to calculate the propeller flow including effects of sheet cavitation. Furthermore, relevant parts of the hull surface above the propeller are incorporated in the panel model in order to evaluate fluctuations of pressure in the aft ship region. The propeller operates in the effective wake field of the ship which results from the viscous interaction between hull and propeller flow. It is calculated by a RANSE solver in combination with panMARE. A body force coupling approach is used to couple both methods. Herein, the viscous hull flow is determined by the RANSE solver and the impact of the propeller is approximated by a corresponding distribution of body forces applied to the viscous flow which in return is calculated by means of panMARE. In order to model tip vortex cavitation, the vortex cavity is divided into a large number of cylindrical segments, where each of them are treated separately. This breaks down the formerly three-dimensional problem into a two-dimensional one, which is much easier to handle. For each segment, the momentum equations in cylindrical coordinates, leading to a Rayleigh-Plesset-like equation for the dynamical behaviour of the cavitating core, are solved. Interaction with sheet cavitation is taken into account by correlating the initial cavitation radius with the cavity thickness at the trailing edge of the blade in the tip region. This and other tip vortex parameters are extracted from detailed RANS simulations of the blade tip flow made in advance for a number of representative loading conditions. For validation purposes, three vessels are investigated. The numerical results are compared to those obtained from experiments and - if available - from full-scale measurements. Furthermore, two types of scale effects due to the Reynolds number are investigated by the method: the wake scale effect on sheet cavitation and the influence of the viscous core radius on moderate and tip vortex cavitation in the stage of formation in an idealised manner.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="degree-granting-institution">
+                    <type>degree-granting-institution</type>
+                    <name>Technische Universität Hamburg-Harburg</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2067664-5</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+                <corporateCreator>
+                    <name>Technische Universität Hamburg-Harburg, Institut für Fluiddynamik und Schiffstheorie</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">10194305-2</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Berger, Stephan</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1155183541</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Abdel-Maksoud, Moustafa</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">140779922</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Krüger, Stefan</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">140779663</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Stephan Berger ; 1. Gutachter: Prof. Dr.-Ing. Moustafa Abdel-Maksoud, 2. Gutachter: Prof. Dr.-Ing. Stefan Krüger</responsible>
+            <publicationInfo>
+                <issued>2018</issued>
+                <publicationPlaces>
+                    <publicationPlace>Hamburg</publicationPlace>
+                </publicationPlaces>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>Schriftenreihe Schiffbau</title>
+                    <volumeNumber>705</volumeNumber>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2017</dateAccepted>
+                        <description>Dissertation, Technische Universität Hamburg-Harburg</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+            <related type="parent">
+                <title>Schriftenreihe Schiffbau</title>
+                <volumeNumber>705</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420577" classificationName="bk">
+                    <code>55.40</code>
+                    <entries>
+                        <entry>Schiffstechnik, Schiffbau</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>620: Ingenieurwissenschaften</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="106413783" classificationName="bk">
+                    <code>50.33</code>
+                    <entries>
+                        <entry>Technische Strömungsmechanik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Tip vortex cavitation</subject>
+                </subject>
+                <subject id="4121807-3" type="gnd">
+                    <subject xml:lang="de">Umströmung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Cavitation</subject>
+                </subject>
+                <subject id="4163525-5" type="gnd">
+                    <subject xml:lang="de">Kavitation</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Propeller-hull interaction</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Propeller-induced pressure fluctuations</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Propeller flows</subject>
+                </subject>
+                <subject id="4138452-0" type="gnd">
+                    <subject xml:lang="de">Schiffspropeller</subject>
+                </subject>
+                <subject id="4198196-0" type="gnd">
+                    <subject xml:lang="de">Schiffsrumpf</subject>
+                </subject>
+                <subject id="4265706-4" type="gnd">
+                    <subject xml:lang="de">Druckströmung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://nbn-resolving.de/urn:nbn:de:gbv:830-88219480</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

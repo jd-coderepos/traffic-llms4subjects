@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:609614452</identifier><datestamp>2024-06-28</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:609614452">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2009-09-29</databaseDate>
+            <changeDate>2022-07-06</changeDate>
+            <ftxCreationDate>2024-06-14</ftxCreationDate>
+            <documentID>609614452</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">609614452</identifier>
+                <identifier type="doi">10.1007/978-3-8348-9573-8</identifier>
+                <identifier type="firstid">GBV:609614452</identifier>
+                <identifier type="isbn13">9783834895738</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://external.dandelon.com/download/attachments/dandelon/ids/DE004DBBE16F81A1EE1D6C12575C30043C8E8.pdf</location>
+                <location subtype="fulltext" type="url">http://dx.doi.org/10.1007/978-3-8348-9573-8</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">205067670</identifier>
+                    <recallSign>OLR-SEB</recallSign>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2009-09-30</creationDate>
+                    <selectionKey>zesp</selectionKey>
+                    <loanIndicator>s</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online-Ressource</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Grundlagen der Fahrzeugmechatronik : eine praxisorientierte Einführung für Ingenieure, Physiker und Informatiker</title>
+            <abstracts>
+                <abstract xml:lang="de">In diesem Lehrbuch werden die notwendigen Grundlagen für ein Verständnis der in modernen Fahrzeugen eingesetzten Steuerungen und Regelungen vermittelt. Ausgehend vom Systemaufbau werden die Einzelkomponenten wie Sensoren und Aktoren vorgestellt und nachfolgend ihr Zusammenwirken in einfachen Steuerungen und Regelungen besprochen. Dabei stehen die für den Fahrzeugtechniker relevanten Schnittstellen im Vordergrund, weniger das physikalische Wirkprinzip der Sensoren oder die Details der elektronischen Signalverarbeitung. Wichtige Systeme wie ESP und künftige elektronische Bremssysteme werden ausführlich vorgestellt und diskutiert, dabei wird besonders auf die Rolle von Patentschriften als aktuellem Stand der Technik eingegangen.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Trautmann, Toralf</contributor>
+                </contributor>
+            </contributors>
+            <responsible>von Toralf Trautmann</responsible>
+            <publicationInfo>
+                <issued>2009</issued>
+                <edition>1. Aufl.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Wiesbaden</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Vieweg+Teubner Verlag / GWV Fachverlage GmbH, Wiesbaden</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-2-STI</identifier>
+                </isPartOf>
+            </additionalDocumentInfo>
+            <description>v.: digital</description>
+            <description>Campusweiter Zugriff (Universität Hannover) - Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Keine Weitergabe an Dritte. Kein systematisches Downloaden durch Robots.</description>
+            <description>Erworben aus Studienbeiträgen</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-2-STI</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.2</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZQ 9930</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZQ 9940</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4250</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL1-483</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mas</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Engineering</subject>
+                </subject>
+                <subject id="4191569-0" type="gnd">
+                    <subject xml:lang="de">Kraftfahrzeugelektronik</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Computer engineering</subject>
+                </subject>
+                <subject id="4238812-0" type="gnd">
+                    <subject xml:lang="de">Mechatronik</subject>
+                </subject>
+                <subject id="4165441-9" type="gnd">
+                    <subject xml:lang="de">Kraftfahrzeugtechnik</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Electronics</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://dx.doi.org/10.1007/978-3-8348-9573-8</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

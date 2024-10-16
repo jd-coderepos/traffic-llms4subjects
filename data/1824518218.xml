@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1824518218</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1824518218">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2022-12-06</databaseDate>
+            <changeDate>2023-10-13</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>1824518218</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1824518218</identifier>
+                <identifier type="doi">10.1007/978-3-662-65633-4</identifier>
+                <identifier type="firstid">KEP:083105093</identifier>
+                <identifier type="isbn13">9783662656334</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://doi.org/10.1007/978-3-662-65633-4</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4228339433</identifier>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2022-12-08</creationDate>
+                    <selectionKey>zesp</selectionKey>
+                    <loanIndicator>s</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (XVI, 746 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Nonlinear systems and controls</title>
+            <abstracts>
+                <abstract xml:lang="de">This textbook gives a clear introduction to the theory and application of nonlinear systems and controls. The author introduces and explains the methods of nonlinear control, which are becoming increasingly important in research and industrial applications. The main features of the book are the comprehensive presentation of the theory, excellent comprehensibility, the many example applications, and more than a hundred exercises with solutions. They are illustrated by many color diagrams. This book is aimed at advanced engineering students and engineers in industry.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Adamy, Jürgen</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Jürgen Adamy</responsible>
+            <publicationInfo>
+                <issued>2022</issued>
+                <publicationPlaces>
+                    <publicationPlace>Berlin</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer Vieweg</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-2-SEB</identifier>
+                    <identifier type="collectioncode">ZDB-2-SMA</identifier>
+                    <identifier type="collectioncode">ZDB-2-SXMS</identifier>
+                    <identifier type="collectioncode">ZDB-2-ENG</identifier>
+                </isPartOf>
+            </additionalDocumentInfo>
+            <description>Campusweiter Zugriff (Universität Hannover) - Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Keine Weitergabe an Dritte. Kein systematisches Downloaden durch Robots.</description>
+            <description>Erworben aus Studienqualitätsmitteln</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Nonlinear systems and controls</title>
+                <identifier type="isbn13">9783662656327</identifier>
+                <identifier type="isbn">3662656329</identifier>
+                <identifier type="ppn">1805255576</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-2-SEB</identifier>
+                <identifier type="collectioncode">ZDB-2-SMA</identifier>
+                <identifier type="collectioncode">ZDB-2-SXMS</identifier>
+                <identifier type="collectioncode">ZDB-2-ENG</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>003</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.8312</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4132964-8" type="gnd">
+                    <subject xml:lang="de">Nichtlineare Regelung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Robotics.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Control engineering.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Computational intelligence.</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://doi.org/10.1007/978-3-662-65633-4</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

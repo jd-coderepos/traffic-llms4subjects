@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:486189848</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:486189848">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2005-05-11</databaseDate>
+            <changeDate>2024-04-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>486189848</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">486189848</identifier>
+                <identifier type="contract">71267</identifier>
+                <identifier type="ean">9783613712676</identifier>
+                <identifier type="firstid">GBV:486189848</identifier>
+                <identifier type="isbn13">9783613712676</identifier>
+                <identifier type="isbn">3613712679</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/hebis-darmstadt/toc/13558955X.pdf</location>
+                <location subtype="description" type="url">http://deposit.dnb.de/cgi-bin/dokserv?id=2624583&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</location>
+                <location subtype="miscellaneous" type="url">http://deposit.dnb.de/cgi-bin/dokserv?id=2624583&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">725383534</identifier>
+                    <creationDate>2006-03-09</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">T 05 B 7465</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-24</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">152 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>So funktionieren Eisenbahn-Signalsysteme</title>
+            <abstracts>
+                <abstract xml:lang="de">Schon 1998 schrieb Preuß in der gleichen Reihe ein Buch zum Thema ("Signale deutscher Eisenbahnen", BA 11/98). Damals wurden Übersichtlichkeit und fehlende Farbe kritisiert. Das neue Buch ist im Layout deutlich besser, fast durchgehend farbig bebildert, aber auch rund 5.00 EUR teurer. Preuß erklärt nicht nur. Es ist ihm ein Anliegen, dass Züge sicher verkehren, deshalb kommentiert er z.B. Probleme und Praktiken beim Zusammenführen der Signalbücher von ehemaliger DB und DR oder belegt an der Schilderung von Unfällen, wo Fehler im System liegen können. Im Vorwort bekennt der Autor das Problem, eine schwierige Materie dem Laien verständlich machen zu müssen. Dieser wird sicher über manche Signalbildbezeichnung stolpern, ohne sie erklärt zu bekommen oder als Abbildung zu sehen. Preuß empfiehlt schlicht den Kauf des Signalbuchs oder einen Blick ins Internet. Diesen Tipp beherzigend, muss das alte Buch auch nicht unbedingt ersetzt werden, manche Neuerungen wurden dort bereits angekündigt und einige Passagen sind sowieso wörtlich oder sinngemäß übernommen. (2)</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Preuß, Erich</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Erich Preuß</responsible>
+            <publicationInfo>
+                <issued>2005</issued>
+                <edition>1. Aufl.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Stuttgart</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Transpress-Verl.</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>25 cm</description>
+            <description>zahlr. Ill., graph. Darst</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>380</code>
+                </classification>
+                <classification classificationID="181570750" classificationName="bk">
+                    <code>55.34</code>
+                    <entries>
+                        <entry>Bahnbetriebstechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 5100</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4130884-0" type="gnd">
+                    <subject xml:lang="de">Eisenbahnsignal</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Eisenbahnsignal</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

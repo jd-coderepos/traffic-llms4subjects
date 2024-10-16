@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:59770533X</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:59770533X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2009-04-08</databaseDate>
+            <changeDate>2022-08-06</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>59770533X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">fr</code>
+                        <code iso="639-2">fre</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">59770533X</identifier>
+                <identifier type="doi">10.1787/9789264289123-fr</identifier>
+                <identifier type="firstid">HBZ:HF000001665</identifier>
+                <identifier type="isbn13">9789264289123</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://doi.org/10.1787/9789264289123-fr</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1445259915</identifier>
+                    <recallSign>OLR-OECD</recallSign>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2013-11-13</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online-Ressource (80 p.)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Transport intermodal de marchandises : Aspects institutionnels</title>
+            <abstracts>
+                <abstract xml:lang="de">Qu’est-ce que le transport intermodal ? Quels sont ses « aspects institutionnels » ? Comment définir une politique de transport intermodal efficace ? En quoi une politique de transport intermodal diffère-t-elle d’une politique de transport routier ou d’une politique de transport ferroviaire ? Dans un marché mondial hautement concurrentiel, il s'agit aujourd'hui de se doter d'un cadre institutionnel susceptible de répondre aux attentes des usagers. Cette nouvelle étude permet de mieux appréhender ces questions ainsi que beaucoup d'autres.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>OECD</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">5157-3</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <responsible>Organisation de coopération et de développement économiques</responsible>
+            <publicationInfo>
+                <issued>2001</issued>
+                <publicationPlaces>
+                    <publicationPlace>Paris</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="FR" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>OECD Publishing</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-13-SOC</identifier>
+                    <identifier type="collectioncode">ZDB-13-SOC-ebook</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>Recherche en matière de transport routier et intermodal</title>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>ill.</description>
+            <description>Campusweiter Zugriff (Universität Hannover) - Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Keine Weitergabe an Dritte. Kein systematisches Downloaden durch Robots.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-13-SOC</identifier>
+                <identifier type="collectioncode">ZDB-13-SOC-ebook</identifier>
+            </related>
+            <related type="parent">
+                <title>Recherche en matière de transport routier et intermodal</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationModel="tib-linsearch-fasttext:2024-04-16" classificationName="linsearch" classificationProcedure="automatic">
+                    <code confidence="0.4389946758747101">ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Transport</subject>
+                </subject>
+                <subject id="4031830-8" type="gnd">
+                    <subject xml:lang="de">Kombinierter Verkehr</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://doi.org/10.1787/9789264289123-fr</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

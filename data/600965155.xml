@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:600965155</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:600965155">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2009-06-03</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>600965155</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">600965155</identifier>
+                <identifier type="ean">9783868152326</identifier>
+                <identifier type="firstid">DNB:994475691</identifier>
+                <identifier type="isbn13">9783868152326</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://d-nb.info/994475691/04</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">941411281</identifier>
+                    <creationDate>2009-08-12</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 09 B 5159</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XII, 130 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>MIG-Schweißen von Aluminiumwerkstoffen im Fahrzeugbau : eine technologische Untersuchung</title>
+            <abstracts>
+                <abstract xml:lang="de">Klappentext: Heutige Schweißverfahren zum Fügen von Aluminiumwerkstoffen erreichen höchste Nahtqualitäten. Doch die steigende Nachfrage und der immer größer werdende Konkurrenzkampf auf dem heutigen Weltmarkt, fordern ständige Optimierungen und Anpassungsstrategien zur Verbesserung der Qualität und Wirtschaftlichkeit auf diesem Gebiet. Christian Brückner richtet sein Augenmerk speziell auf den Einfluss der Stromversorgung auf die Schweißnahtqualität in Abhängigkeit ändernder Massekabelkonfigurationen. Aus Planung, Durchführung und Auswertung von Schweißversuchen werden vergleichende Betrachtungen verschiedener Einstellungen vorgenommen, um spätere Anwendungs- und Einsatzmöglichkeiten für die Fertigung zu diskutieren.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Brückner, Christian</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Christian Brückner</responsible>
+            <publicationInfo>
+                <issued>2009</issued>
+                <edition>1. Aufl.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Hamburg</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Igel-Verl.</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Recht - Wirtschaft - Steuern</title>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>210 mm x 148 mm</description>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>MIG-Schweißen von Aluminiumwerkstoffen im Fahrzeugbau</title>
+                <identifier type="ppn">1665094745</identifier>
+                <identifier type="isbn13">9783868153965</identifier>
+            </related>
+            <related type="parent">
+                <title>Recht - Wirtschaft - Steuern</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>ZM 4610</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>670</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>670</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106420070" classificationName="bk">
+                    <code>52.82</code>
+                    <entries>
+                        <entry>Fügetechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mas</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4114588-4" type="gnd">
+                    <subject xml:lang="de">MIG-Schweißen</subject>
+                </subject>
+                <subject id="4016321-0" type="gnd">
+                    <subject xml:lang="de">Fahrzeugbau</subject>
+                </subject>
+                <subject id="4001573-7" type="gnd">
+                    <subject xml:lang="de">Aluminium</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

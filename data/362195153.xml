@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:362195153</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:362195153">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2003-04-08</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>362195153</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">362195153</identifier>
+                <identifier type="firstid">GBV:362195153</identifier>
+                <identifier type="isbn">3824907178</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">820485462</identifier>
+                    <creationDate>2007-05-23</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 07 B 3807</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">112 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Das TÜV-Buch Pkw-Anhänger : Kauf, Bau, Prüfung und Betrieb</title>
+            <abstracts>
+                <abstract xml:lang="de">Kauf, Bau und Betrieb von Wohnwagen- und Transportanhängern. Bringt Hinweise auf Zulassung und Sicherheitstechnik und wendet sich an Fachleute und an handwerklich versierte Laien. Wurde gegenüber der 5. Auflage (BA 11/97) in den Vorschriften (auch in EG-Richtlinien) aktualisiert, dagegen nicht in den Literaturangaben, die nach wie vor angestaubt sind. Die Vorauflage kann noch verbraucht, ältere Ausgaben sollten ersetzt werden. (2)</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Miedel, Hans</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Spitzer, Gerhard</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Lauffs, Dieter</contributor>
+                </contributor>
+            </contributors>
+            <responsible>H. Miedel/G. Spitzer/D. Lauffs</responsible>
+            <publicationInfo>
+                <issued>2003</issued>
+                <edition>6., überarb. Aufl</edition>
+                <publicationPlaces>
+                    <publicationPlace>Köln</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>TÜV-Verl.</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>TÜV-Tips</title>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>21 cm</description>
+            <description>zahlr. Ill., graph. Darst</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>TÜV-Tips</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>36</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>36</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Personenkraftwagen</subject>
+                </subject>
+                <subject id="4124547-7" type="gnd">
+                    <subject xml:lang="de">Anhänger</subject>
+                </subject>
+                <subject id="4066810-1" type="gnd">
+                    <subject xml:lang="de">Wohnwagen</subject>
+                </subject>
+                <subject id="4076001-7" type="gnd">
+                    <subject xml:lang="de">Personenkraftwagen</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Anhänger</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

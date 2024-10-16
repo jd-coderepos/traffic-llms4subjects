@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:883418940</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:883418940">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2017-03-23</databaseDate>
+            <changeDate>2024-02-02</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>883418940</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">883418940</identifier>
+                <identifier type="doi">10.1017/CBO9780511659072</identifier>
+                <identifier type="firstid">GBV:883418940</identifier>
+                <identifier type="isbn13">9780511659072</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/bowker/toc/9780511659072.pdf</location>
+                <location subtype="fulltext" type="url">https://doi.org/10.1017/CBO9780511659072</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1811543642</identifier>
+                    <recallSign>OLR-CBO-STM-EBA</recallSign>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2018-10-14</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <loanIndicator>s</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (xvi, 321 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Digital satellite navigation and geophysics : a practical guide with GNSS signal simulator and receiver laboratory</title>
+            <alternativeTitles>
+                <alternative>Digital Satellite Navigation &amp; Geophysics</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Bridge the gap between theoretical education and practical work experience with this hands-on guide to GNSS, which features: • A clear, practical presentation of GNSS theory, with emphasis on GPS and GLONASS • All the essential theory behind software receivers and signal simulators  • Key applications in navigation and geophysics, including INS aiding, scintillation monitoring, earthquake studies and more • Physical explanations of various important phenomena, including the similarity of code delay and phase advance of GNSS signals, and negative cross-correlation between scintillation intensity and phase variations. Whether you are a practising engineer, a researcher or a student, you will gain a wealth of insights from the authors' 25 years of experience. You can explore numerous practical examples and case studies and get hands-on user experience with a bundled real-time software receiver, signal simulator and a set of signal data, enabling you to create your own GNSS lab for research or study</abstract>
+                <abstract xml:lang="de">Machine generated contents note: 1. Methods of positioning with navigation satellites; 2. Presentations and applications of GNSS orbits; 3. GNSS signal generation in transmitters and simulators; 4. Signal propagation through the atmosphere; 5. Receiver RF front end; 6. Real-time baseband processor on a PC; 7. Multipath; 8. Optimization of GNSS observables; 9. Using observables in navigation related tasks; 10. Electromagnetic scintillation of GNSS signal; 11. Geophysical measurements using GNSS signals; 12. INS aiding in baseband and navigation processors</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Petrovski, Ivan G.</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1052549586</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Tsujii, Toshiaki</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1052549918</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Ivan G. Petrovski (iP-Solutions, Japan), Toshiaki Tsujii (Japan Aerospace Exploration Agency (JAXA))</responsible>
+            <publicationInfo>
+                <issued>2012</issued>
+                <publicationPlaces>
+                    <publicationPlace>Cambridge</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Cambridge University Press</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-20-CTM</identifier>
+                    <identifier type="collectioncode">ZDB-20-CBO</identifier>
+                </isPartOf>
+                <publicationIDInfo>Title from publisher's bibliographic system (viewed on 05 Oct 2015)</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Diagramme</description>
+            <description>Campusweiter Zugriff (Universität Hannover) - Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Keine Weitergabe an Dritte. Kein systematisches Downloaden durch Robots.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Digital satellite navigation and geophysics</title>
+                <identifier type="ppn">682690821</identifier>
+                <identifier type="isbn13">9780521760546</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-20-CTM</identifier>
+                <identifier type="collectioncode">ZDB-20-CBO</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>623.89/33</code>
+                </classification>
+                <classification classificationID="106415182" classificationName="bk">
+                    <code>53.84</code>
+                    <entries>
+                        <entry>Ortungstechnik, Radartechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TK6560</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 8700</code>
+                </classification>
+                <classification classificationID="181570416" classificationName="bk">
+                    <code>55.64</code>
+                    <entries>
+                        <entry>Raumfahrzeugführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 8200</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZN 6520</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Radio</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Global Positioning System</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Electronics in geophysics</subject>
+                </subject>
+                <subject id="4041457-7" type="gnd">
+                    <subject xml:lang="de">Navigation</subject>
+                </subject>
+                <subject id="4136498-3" type="gnd">
+                    <subject xml:lang="de">Satellit</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Radio ; Transmitters and transmission</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Radio wave propagation</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Electronics in geophysics</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Radio wave propagation</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>GPS receivers</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">GPS receivers</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Global Positioning System</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://doi.org/10.1017/CBO9780511659072</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

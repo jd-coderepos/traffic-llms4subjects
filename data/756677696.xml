@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:756677696</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:756677696">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2013-08-09</databaseDate>
+            <changeDate>2022-12-26</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>756677696</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">756677696</identifier>
+                <identifier type="firstid">GBV:756677696</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">http://nbn-resolving.de/urn:nbn:de:gbv:830-tubdok-12229</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1475631006</identifier>
+                    <creationDate>2014-05-29</creationDate>
+                    <selectionKey>zdt</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online-Ressource (PDF-Datei: XI, 107 S., 9.521 KB)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>A fast and explicit method for simulating flooding and sinkage scenarios of ships</title>
+            <alternativeTitles>
+                <alternative>Ein schnelles und explizites Verfahren zur Simulation von Flutungs- und Sinkvorgängen von Schiffen</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Many severe ship accidents in the past were caused by a large water ingress followed by the progressive flooding of the watertight integrity of the ships and finally resulted in the sinking and total loss of the vessels. These accidents show a high demand for a better understanding of the flooding of ships with the help of numerical methods. This would allow to avoid such accidents in the future and to find new designs with an increased capability to withstand flooding. The circumstances of the accidents, which involve flooding are difficult to understand due to the complexity of the inner subdivision and the large number of resulting flooding paths. Hence, a fast numerical simulation method is developed in this thesis to analyse and predict such flooding events. The validation of the method comprises the comparison with experimental results from three test cases of a model test and the re-investigation of three severe ship accidents, which have been carefully investigated before: The accident of the European Gateway, the Heraklion and the Estonia. The results obtained with the new method in these applications are very promising. A quasi-static approach in the time domain is chosen to compute the flooding of the inner subdivision and the resulting equilibrium floating position at each intermediate time step. The flooding paths are modelled with the help of directed graphs. The water fluxes through the openings are computed by a hydraulic model based on the Bernoulli equation. Large and partly flooded holes are taken into account, as well as conditional openings like breaking windows or the flooding through completely filled compartments. The effect of air compression can be taken into account as well if this is required for a certain case. After the determination of the new flood water distribution and the corresponding filling levels in each compartment, the resulting equilibrium floating position is computed. The simulation ends, either if the intermediate floating position does not change any more or if all buoyancy reserve is lost and the ship starts to submerge below the sea surface. The method is developed within the ship design system E4, which ensures a consistent data model and allows the direct coupling with existing and new methods. All essential effects are taken into account without unnecessarily increasing the complexity of the model as this would lower the performance of the simulation method. The method enables the user to study many flooding scenarios within a short period, for example to investigate the influence of watertight doors that were left open.</abstract>
+                <abstract xml:lang="de">Zahlreiche schwere Seeunfälle von Schiffen wurden in der Vergangenheit ausgelöst durch Wassereinbruch und anschließender weitergehender Flutung der wasserdichten Unterteilung, welche zum Sinken und dem Totalverlust der Schiffe führte. Daher besteht ein hoher Bedarf an numerischen Simulationsmethoden, mit denen diese Flutungsvorgänge genauer untersucht werden könnten. Dadurch könnten solche Unfälle in Zukunft vermieden werden und sicherere Schiffsentwürfe entwickelt werden. Die Rekonstruktion der Unfallvorgänge wird erschwert durch die hohe Komplexität der inneren Unterteilung von Schiffen und der daraus resultierenden großen Anzahl an Flutungswegen. Aus diesem Grund wird ein numerisches Berechnungsprogramm entwickelt, welches in der Lage ist, diese Vorgänge schnell und direkt zu analysieren und vorhersagen zu können, um so auch Kenntnisse über die einzelnen Zwischenflutungszustände zu erlangen. Die Validierung der Methode erfolgt anhand von drei Testfällen eines Modellversuches und drei realen Unfällen, die bereits umfangreich untersuchten wurden: Die Unfällen der European Gateway, der Heraklion und der Estonia. Die Ergebnisse der neuen Methode in diesen Anwendungen sind sehr vielversprechend. Die quasi-statische Methode ermittelt den zeitlichen Verlauf der Flutung des Schiffes und die daraus resultierenden Schwimmlagen. Die Beschreibung des Flutungssystems, welches aus den Öffnungen und Räumen gebildet wird, erfolgt mit Hilfe gerichteter Graphen. Die Strömungen durch die Öffnungen der komplexen Unterteilung eines Schiffes werden idealisiert mit Hilfe der inkompressiblen Bernoulli-Gleichung berechnet. Teilgetauchte, große Öffnungen werden ebenso berücksichtigt wie zeitlich veränderliche Öffnungen, deren Eigenschaften im Laufe der Simulation unter bestimmten Bedingungen verändert werden. Somit können zum Beispiel berstende Fenster modelliert werden, die erst ab einem bestimmten Druckniveau durchlässig werden. Optional kann der Einfluss der Kompression von eingeschlossener Luft berücksichtigt werden. Nach Bestimmung der neuen Verteilung des Wassers und der Ermittlung der Füllstände in den einzelnen Räumen wird die korrespondierende hydrostatische Gleichgewichts-Schwimmlage bestimmt. Die Simulation wird fortgeführt, bis sich entweder diese Schwimmlage nicht mehr ändert oder das Schiff keine Auftriebsreserve mehr hat und von der Wasseroberfläche verschwindet. Durch die direkte Integration der Simulationsmethode in das schiffbauliche Entwurfssystem E4 ist eine konsistente Datenmodellierung gewährleistet und eine Kopplung mit bestehenden und neuen Methoden möglich. Es wird Wert darauf gelegt, die entscheidenden Effekte hinreichend genau abzubilden, ohne die Komplexität unnötig zu erhöhen und damit die Geschwindigkeit der Simulation zu verringern. Dies erlaubt dem Anwender, verschiedene mögliche Varianten des Unfallhergangs innerhalb kürzester Zeit zu berechnen, um zum Beispiel den Einfluss einer eventuell geöffneten wasserdichten Tür auf einen Unfallhergang untersuchen zu können.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Technische Universität Hamburg-Harburg, Institut für Entwerfen von Schiffen und Schiffssicherheit</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">16039850-2</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Dankowski, Hendrik</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Krüger, Stefan</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">140779663</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Papanikolaou, Apostolos D.</contributor>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Abdel-Maksoud, Moustafa</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">140779922</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Düster, Alexander</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1160258074</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Hendrik Dankowski</responsible>
+            <publicationInfo>
+                <issued>2013</issued>
+                <edition>[Elektronische Ressource]</edition>
+                <publisher>
+                    <publisher>Techn. Univ. Hamburg-Harburg, Univ.-Bibl.</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>Schriftenreihe Schiffbau</title>
+                    <volumeNumber>668</volumeNumber>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Hamburg-Harburg, Techn. Univ., Institut für Entwerfen von Schiffen und Schiffssicherheit, Diss., 2013</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+                <publicationIDInfo>Differences between the printed and electronic version of the document are possible</publicationIDInfo>
+                <publicationIDInfo>Unterschiede zwischen dem gedruckten Dokument und der elektronischen Ressource können nicht ausgeschlossen werden</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druckausg.</label>
+                <title>A fast and explicit method for simulating flooding and sinkage scenarios of ships</title>
+                <identifier type="isbn13">9783892206682</identifier>
+                <identifier type="ppn">756815827</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+            <related type="parent">
+                <title>Schriftenreihe Schiffbau</title>
+                <volumeNumber>668</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420577" classificationName="bk">
+                    <code>55.40</code>
+                    <entries>
+                        <entry>Schiffstechnik, Schiffbau</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>623.8176</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Schiffssicherheit</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Safety</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>ship safety</subject>
+                </subject>
+                <subject id="4052385-8" type="gnd">
+                    <subject xml:lang="de">Schiff</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Flutung</subject>
+                </subject>
+                <subject id="4056693-6" type="gnd">
+                    <subject xml:lang="de">Stabilität</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>flooding</subject>
+                </subject>
+                <subject id="4052449-8" type="gnd">
+                    <subject xml:lang="de">Schiffsunfall</subject>
+                </subject>
+                <subject id="4690080-9" type="gnd">
+                    <subject xml:lang="de">Numerische Strömungssimulation</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Hydrostatik</subject>
+                </subject>
+                <subject id="4154922-3" type="gnd">
+                    <subject xml:lang="de">Fluten</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>hydrostatic</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Unfalluntersuchungen</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://nbn-resolving.de/urn:nbn:de:gbv:830-tubdok-12229</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

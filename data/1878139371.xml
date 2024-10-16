@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1878139371</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1878139371">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2024-01-16</databaseDate>
+            <changeDate>2024-04-10</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1878139371</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1878139371</identifier>
+                <identifier type="doi">10.22032/dbt.59225</identifier>
+                <identifier type="firstid">KXP:1878139371</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://nbn-resolving.de/urn:nbn:de:gbv:ilm1-2023000372</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4479877118</identifier>
+                    <creationDate>2024-02-08</creationDate>
+                    <selectionKey>zdt</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (IV, 215 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Modellbasierte Optimierung von mechatronischen Systemen für sicherheitsrelevante Fahrzeuganwendungen</title>
+            <abstracts>
+                <abstract xml:lang="de">Die Automobilindustrie steht aufgrund sich wandelnder Anforderungen, strengerer Vorschriften und technologischem Fortschritt vor großen Herausforderungen. Hieraus resultierende Trends wie die Elektrifizierung, die Automatisierung und der Entfall mechanischer Verbindungen zwischen Fahrer oder Fahrerin und den Brems- und Lenksystemen (By-Wire-Systeme) erlauben verbesserte Konzepte für die zur Fahrzeugbewegung benötigten Systeme. Der Entfall mechanischer Verbindungen in automatisierten Systemen reduziert allerdings die Möglichkeiten eines menschlichen Eingriffs in Gefahrensituationen. Dies impliziert sicherheitsrelevante Verfügbarkeitsanforderungen an die beteiligten Systeme. Durch diese ergeben sich neue Freiheitsgrade, die bei der Bewertung potenzieller Systemvarianten berücksichtigt werden müssen. Um unter Einhaltung aller Anforderungen die optimalen Varianten zu identifizieren, wird in dieser Arbeit ein Konzept zur modellbasierten Analyse und ganzheitlichen Optimierung sicherheitsrelevanter Systeme vorgeschlagen. Dieses ermöglicht eine recheneffiziente Bewertung einzelner Systemvarianten und erlaubt somit auch die Variation und den Vergleich möglicher Systemtopologien und jeweils zugehöriger Sicherheitsmaßnahmen. Hierzu wird ein zweistufiger Modellierungsansatz eingeführt, der verhaltensbasierte und logische Systemelemente kombiniert. So wird eine Reduktion der Anzahl der Bewertungsdurchläufe zur Bestimmung der Auswirkungen aller Komponentenausfälle ermöglicht. Des Weiteren wird ein algebraischer Berechnungsansatz zur Analyse des stochastischen Verhaltens vorgeschlagen, um die relevanten Sicherheitskennzahlen unter Berücksichtigung beliebiger Wahrscheinlichkeitsverteilungen und des dynamischen Systemverhaltens zu ermitteln. Dieser Ansatz liefert im Gegensatz zu simulationsbasierten Verfahren genaue und reproduzierbare Ergebnisse bei vergleichsweise geringer Rechenzeit. Für die Variation möglicher Systemtopologien und Sicherheitsmaßnahmen wird ein Ansatz zur ganzheitlichen Optimierung vorgeschlagen, um anhand relevanter Leistungs- und Sicherheitskennwerte die vielversprechendsten Systemvarianten zu ermitteln. Die Anwendung des Konzepts sowie dessen Effektivität wird anhand der Optimierung eines elektrischen Antriebssystems unter Berücksichtigung funktionaler Anforderungen sowie unterschiedlicher sicherheitsrelevanter Verfügbarkeitsanforderungen demonstriert.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="degree-granting-institution">
+                    <type>degree-granting-institution</type>
+                    <name>Technische Universität Ilmenau</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2125187-3</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Ebner, Christian</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1316034941</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Zimmermann, Armin</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">134295390</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Ziener, Daniel</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">142977179</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Zeiler, Peter</contributor>
+                </contributor>
+            </contributors>
+            <responsible>vorgelegt von Christian Ebner, M.Sc.</responsible>
+            <publicationInfo>
+                <issued>2023</issued>
+                <publicationPlaces>
+                    <publicationPlace>Ilmenau</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Universitätsbibliothek</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2023</dateAccepted>
+                        <description>Dissertation, Technische Universität Ilmenau</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Diagramme, Illustrationen</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Modellbasierte Optimierung von mechatronischen Systemen für sicherheitsrelevante Fahrzeuganwendungen</title>
+                <identifier type="ppn">1876283408</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>ZO 4260</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>629.2</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Kraftfahrzeugtechnik</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Systemtechnik</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Verkehrssicherheit</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Systementwicklung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Kraftfahrzeugelektronik</subject>
+                </subject>
+                <subject id="4140901-2" type="gnd">
+                    <subject xml:lang="de">Systemtechnik</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Systementwurf</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Dynamische Optimierung</subject>
+                </subject>
+                <subject subtype="work" type="suppl">
+                    <subject>ISO/DIS 26262</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Sicherheitskritisches System</subject>
+                </subject>
+                <subject id="4760707-5" type="gnd">
+                    <subject xml:lang="de">Funktionssicherheit</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Mechatronik</subject>
+                </subject>
+                <subject id="4014238-3" type="gnd">
+                    <subject xml:lang="de">Elektroantrieb</subject>
+                </subject>
+                <subject id="4073757-3" type="gnd">
+                    <subject xml:lang="de">Kraftfahrzeug</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Straßenfahrzeug</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Elektroantrieb</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Elektrofahrzeug</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Funktionssicherheit</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://nbn-resolving.de/urn:nbn:de:gbv:ilm1-2023000372</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

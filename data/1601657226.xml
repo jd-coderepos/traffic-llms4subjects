@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1601657226</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1601657226">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1998-01-27</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>1601657226</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1601657226</identifier>
+                <identifier type="firstid">DNB:952663341</identifier>
+                <identifier type="isbn">3870942339</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="review" type="url">http://www.gbv.de/dms/faz-rez/F19980407INFOK15119.pdf</location>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/bs/toc/239248422.pdf</location>
+                <location subtype="toc" type="url">https://swbplus.bsz-bw.de/bsz074309773inh.htm</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">276541464</identifier>
+                    <creationDate>1998-04-23</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">U 98 B 607</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">168 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Eisenbahnen in Preußen</title>
+            <abstracts>
+                <abstract xml:lang="de">Vor rund 100 Jahren konnte mit Recht behauptet werden, daß die preußische Eisenbahn das größte und erfolgreichste Staatsbahnunternehmen der Welt ist. Wie es dazu kam, wird von Lehmann so dargestellt, daß das Buch gerne zur Anschaffung empfohlen wird. Es handelt sich nicht um eine detailverliebte Schilderung aller relevanten Gesichtspunkte, sondern um einen "gestrafften Überblick" (so der Anspruch), der das Buch informativ und lesenswert macht. Kurze, übersichtlich gestaltete Kapitel, eine angemessene Illustrierung mit Zeichnungen, Faksimiles und Fotos sowie eingebundene Tabellen unterstreichen die Aussagen des Textes. Bewußt relativ kurz gehalten hat der Autor die Beschreibung der Lokomotiven, da es dazu genügend anderes Material gibt, z.B. 8 derzeit lieferbare Bände des Werkes "Preussen Report" (Merker-Verlag, hier nicht besprochen) oder das empfohlene Nachschlagewerk "Lokomotiven preußischer Eisenbahnen" (BA 4/91, 3/92 und 5/92). Der Eisenbahngeschichte Preußens allgemein sind 2 Bände (1.1 und 1.2) des "Preussen-Report" gewidmet. (2) (Günter Buhl)</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Lehmann, Helmut</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1157634478</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Helmut Lehmann</responsible>
+            <publicationInfo>
+                <issued>1998</issued>
+                <publicationPlaces>
+                    <publicationPlace>Düsseldorf</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Alba</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>21 cm</description>
+            <description>Illustrationen</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="dbn">
+                    <code>41</code>
+                </classification>
+                <classification classificationID="106420569" classificationName="bk">
+                    <code>55.31</code>
+                    <entries>
+                        <entry>Schienenfahrzeuge</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4014015-5" type="gnd">
+                    <subject xml:lang="de">Eisenbahn</subject>
+                </subject>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte</subject>
+                </subject>
+                <subject id="4047194-9" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Preußen</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

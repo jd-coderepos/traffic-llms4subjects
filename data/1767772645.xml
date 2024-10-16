@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1767772645</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1767772645">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2021-08-24</databaseDate>
+            <changeDate>2023-05-04</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1767772645</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1767772645</identifier>
+                <identifier type="firstid">KXP:1767772645</identifier>
+                <identifier type="isbn13">9780367464738</identifier>
+                <identifier type="isbn13">9781032148601</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1767772645.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4015253868</identifier>
+                    <creationDate>2022-11-29</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 22 B 238</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xx, 405 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Rail vehicle mechatronics</title>
+            <abstracts>
+                <abstract xml:lang="de">"This unique and up-to-date work surveys the use of mechatronics in rail vehicles, notably traction, braking, communications, data sharing, and control. The results include improved safety, comfort, and fuel efficiency. Mechatronic systems are a key element in modern rail vehicle design and operation. Starting with an overview of mechatronic theory, the book goes on to cover topics including modeling of mechanical and electrical systems for rail vehicles, open and closed loop control systems, sensors, actuators and microprocessors. Modern simulation techniques and examples are included throughout, and numerical experiments and developed models for railway application are presented and explained. Case studies are used, alongside practical examples, to ensure that the reader can apply mechatronic theory to real world conditions. These case studies include modeling of a hybrid locomotive and simplified models of railway vehicle lateral dynamics for suspension control studies. Rail Vehicle Mechatronics provides current and in-depth content for design engineers, operations managers, systems engineers and technical consultants world-wide, working with freight, passenger, and urban transit railway systems"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Spiryagin, Maksym</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1054048940</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Bruni, Stefano</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Bosomworth, Christopher</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Wolfs, Peter</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Cole, Colin</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Maksym Spiryagin, Stefano Bruni, Christopher Bosomworth, Peter Wolfs, and Colin Cole</responsible>
+            <publicationInfo>
+                <issued>2022</issued>
+                <edition>First edition</edition>
+                <publicationPlaces>
+                    <publicationPlace>Boca Raton</publicationPlace>
+                    <publicationPlace>London</publicationPlace>
+                    <publicationPlace>New York</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>CRC Press</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Ground vehicle engineering</title>
+                </journalInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Ground vehicle engineering</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>625.2</code>
+                </classification>
+                <classification classificationID="10642131X" classificationName="bk">
+                    <code>52.88</code>
+                    <entries>
+                        <entry>Feinwerktechnik, Mechatronik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TF375</code>
+                </classification>
+                <classification classificationID="106405691" classificationName="bk">
+                    <code>55.30</code>
+                    <entries>
+                        <entry>Schienenfahrzeugtechnik, Eisenbahntechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mas</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Railroad cars</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Mechatronics</subject>
+                </subject>
+                <subject id="4052368-8" type="gnd">
+                    <subject xml:lang="de">Schienenfahrzeug</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Railroads</subject>
+                </subject>
+                <subject id="4238812-0" type="gnd">
+                    <subject xml:lang="de">Mechatronik</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

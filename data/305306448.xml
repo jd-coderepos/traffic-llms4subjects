@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:305306448</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:305306448">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1999-11-18</databaseDate>
+            <changeDate>2024-06-01</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>305306448</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">305306448</identifier>
+                <identifier type="firstid">GBV:305306448</identifier>
+            </identifiers>
+            <locations>
+                <location type="library">89</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">557848954</identifier>
+                    <creationDate>2002-05-19</creationDate>
+                    <selectionKey>ksg</selectionKey>
+                    <location type="libraryDepartment">19</location>
+                    <location type="tibLocationCode">FBSBB Dienstraum</location>
+                    <location type="tibShelfmark">Hist 5919/1354</location>
+                    <loanIndicator>i</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-35</isil>
+            </preservation>
+            <preservation procedure="digital-preservation">
+                <isil>DE-45</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">407 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Albert Ballin</title>
+            <abstracts>
+                <abstract xml:lang="de">Der Hamburger Albert Ballin (1857–1918) machte als Generaldirektor die Hapag zur größten Schiffslinie der Welt.Bernhard Huldermann (1872–1922), Mitarbeiter und Freund Ballins, hat in dessen Auftrag seinen Nachlass geordnet und 1918 die Reederei übernommen. Rückblickend betrachtet er Ballins Leben und Schaffen von den Anfängen bis nach dem Ersten Weltkrieg.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Huldermann, Bernhard</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Ballin, Albert</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">118652133</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>von Bernhard Huldermann</responsible>
+            <publicationInfo>
+                <issued>1922</issued>
+                <publicationPlaces>
+                    <publicationPlace>Oldenburg i.O. [u.a.]</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Stalling</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>Faks.-Beil.</description>
+            <description>8°</description>
+            <description>Ill.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>20710</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>DD231.B3</code>
+                </classification>
+                <classification classificationID="18157151X" classificationName="bk">
+                    <code>15.50</code>
+                    <entries>
+                        <entry>Schleswig-Holstein, Lübeck, Hamburg</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106413805" classificationName="bk">
+                    <code>55.41</code>
+                    <entries>
+                        <entry>Schiffe</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="181569663" classificationName="bk">
+                    <code>15.09</code>
+                    <entries>
+                        <entry>Wirtschaftsgeschichte</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loksys-fbs">
+                    <code>Hist 5919</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>his</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Ballin, Albert</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Hamburg-Amerikanische Packetfahrt-Actien-Gesellschaft</subject>
+                </subject>
+                <subject id="118652133" subtype="person" type="gnd">
+                    <subject xml:lang="de">Ballin, Albert 1857-1918</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+            <property name="displayKLD">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

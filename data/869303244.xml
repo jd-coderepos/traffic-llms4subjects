@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:869303244</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:869303244">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2016-09-28</databaseDate>
+            <changeDate>2022-02-27</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>869303244</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">869303244</identifier>
+                <identifier type="firstid">GBV:869303244</identifier>
+                <identifier type="isbn13">9781138221574</identifier>
+                <identifier type="isbn13">9781315409658</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://swbplus.bsz-bw.de/bsz478820232inh.htm</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1654098280</identifier>
+                    <creationDate>2017-03-03</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 17 B 302</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">ix, 160 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Drones in society : exploring the strange new world of unmanned aircraft</title>
+            <abstracts>
+                <abstract xml:lang="de">The rise of the drones - introduction -- From battlefield to backyard - development of unmanned aircraft -- Harnessing the beast - UAS regulation -- Global harmonization - ICAO -- The good, the bad and the ugly : UAS applications -- Eyes in the sky - invasion of privacy -- Big brother is watching - drone terrorism and security issues -- To err is human - human factors -- A case for the drones - case studies + technological developments -- Where no-on has gone before - the future with drones -- Keeping up with the drones' - how to get 'into' (be part of) the drone movement</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Bartsch, Ronald I. C.</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1031597875</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Coyne, James</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1123976686</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Gray, Katherine</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1123976988</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Ron Bartsch, James Coyne and Katherine Gray</responsible>
+            <publicationInfo>
+                <issued>2017</issued>
+                <edition>First published</edition>
+                <publicationPlaces>
+                    <publicationPlace>London</publicationPlace>
+                    <publicationPlace>New York</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="GB" />
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Routledge, Taylor &amp; Francis Group</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>Drones in society</title>
+                <identifier type="ppn">1656321955</identifier>
+                <identifier type="isbn13">9781315409658</identifier>
+                <identifier type="isbn13">9781315409641</identifier>
+            </related>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>Drones in society</title>
+                <identifier type="isbn13">9781315409634</identifier>
+                <identifier type="ppn">1653448334</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.13339</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL718</code>
+                </classification>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.133/39</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 7440</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4154756-1" type="gnd">
+                    <subject xml:lang="de">Flugkörper</subject>
+                </subject>
+                <subject id="4243514-6" type="gnd">
+                    <subject xml:lang="de">Drohne</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Drone aircraft</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

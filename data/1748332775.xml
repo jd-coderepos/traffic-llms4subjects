@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1748332775</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1748332775">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2021-02-15</databaseDate>
+            <changeDate>2022-03-23</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>1748332775</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1748332775</identifier>
+                <identifier type="firstid">KEP:061569860</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://ieeexplore.ieee.org/xpl/bkabstractplus.jsp?bkn=9101028</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3880657386</identifier>
+                    <recallSign>OLR-IAHO</recallSign>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2021-03-03</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (xviii, 344 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Intelligent vehicle technology and trends</title>
+            <abstracts>
+                <abstract xml:lang="de">"This resource offers professionals a comprehensive overview of cutting-edge intelligent vehicle (IV) systems aimed at providing enhanced safety, greater productivity, and less stress for drivers. Rather than bogging readers down with difficult technical discourse, this easy-to-understand book presents a conceptual and realistic view of how IV systems work and the issues involved with their introduction into road vehicles."--Jacket</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Bishop, Richard</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Richard Bishop</responsible>
+            <publicationInfo>
+                <issued>2005</issued>
+                <publicationPlaces>
+                    <publicationPlace>Boston</publicationPlace>
+                    <publicationPlace>London</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Artech House</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-37-IAHO</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>Artech House ITS library</title>
+                </journalInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+            <description>Campusweiter Zugriff (Universität Hannover) - Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Keine Weitergabe an Dritte. Kein systematisches Downloaden durch Robots</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Intelligent vehicle technology and trends</title>
+                <identifier type="ppn">1623082528</identifier>
+                <identifier type="isbn">1580539114</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-37-IAHO</identifier>
+            </related>
+            <related type="parent">
+                <title>Artech House ITS library</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.23</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4260</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4250</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>CW 7000</code>
+                </classification>
+                <classification classificationID="181570424" classificationName="bk">
+                    <code>55.24</code>
+                    <entries>
+                        <entry>Fahrzeugführung, Fahrtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL152.8</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Automobiles</subject>
+                </subject>
+                <subject id="4132163-7" type="gnd">
+                    <subject xml:lang="de">Fahrzeugverhalten</subject>
+                </subject>
+                <subject id="4781185-7" type="gnd">
+                    <subject xml:lang="de">Navigationssystem</subject>
+                </subject>
+                <subject id="4132165-0" type="gnd">
+                    <subject xml:lang="de">Fahrerverhalten</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Intelligent transportation systems</subject>
+                </subject>
+                <subject id="4073757-3" type="gnd">
+                    <subject xml:lang="de">Kraftfahrzeug</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Electronic books</subject>
+                </subject>
+                <subject id="4622983-8" type="gnd">
+                    <subject xml:lang="de">Fahrerassistenzsystem</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://ieeexplore.ieee.org/xpl/bkabstractplus.jsp?bkn=9101028</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

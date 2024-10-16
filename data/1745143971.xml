@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1745143971</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1745143971">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2021-01-21</databaseDate>
+            <changeDate>2024-02-15</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1745143971</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1745143971</identifier>
+                <identifier type="firstid">KXP:1745143971</identifier>
+                <identifier type="isbn13">9780750320368</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1745143971.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3840498384</identifier>
+                    <creationDate>2022-06-24</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 21 B 2803</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Band (verschiedene Seitenzählungen)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Life with Hubble : an insider's view of the world's most famous telescope</title>
+            <abstracts>
+                <abstract xml:lang="de">The Hubble Space Telescope is one of the most important scientific and engineering endeavors of our time. It has given humankind the first truly clear view of the heavens and has revolutionized almost every area of modern astronomy. The author this text, David Leckrone, worked as a project scientist on Hubble for 33 years. From 1992-2009 he was the Senior Project Scientist for Hubble at NASA's Goddard Space Flight Center. In that role he had an insider's view of the trials and triumphs of the Hubble mission, including its extraordinary scientific discoveries and the personal journeys of the astronomers who made them, the adventure of five successful shuttle-based servicing missions, and the quiet heroism of the many scientists, engineers and managers who rose to the occasion when Hubble was in trouble. This book is loosely a personal memoir but can more accurately be called a "Hubble family memoir" for which Leckrone serves as narrator.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Leckrone, David S.</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1218613572</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>David S Leckrone</responsible>
+            <publicationInfo>
+                <issued>2020</issued>
+                <publicationPlaces>
+                    <publicationPlace>Bristol, UK</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>IOP Publishing</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>AAS-IOP astronomy</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>IOP ebooks</title>
+                </journalInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>AAS-IOP astronomy</title>
+            </related>
+            <related type="parent">
+                <title>IOP ebooks</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420607" classificationName="bk">
+                    <code>55.61</code>
+                    <entries>
+                        <entry>Raumfahrzeuge</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>522/.2919</code>
+                </classification>
+                <classification classificationID="181570483" classificationName="bk">
+                    <code>50.93</code>
+                    <entries>
+                        <entry>Weltraumforschung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>History of science ; bicssc</subject>
+                </subject>
+                <subject id="4260288-9" type="gnd">
+                    <subject xml:lang="de">Hubble-Weltraumteleskop</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Space astronomy</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Hubble Space Telescope (Spacecraft) ; History</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Space telescopes</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>SCIENCE / Astronomy ; bisacsh</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

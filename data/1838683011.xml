@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1838683011</identifier><datestamp>2024-06-28</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1838683011">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2023-03-08</databaseDate>
+            <changeDate>2024-06-04</changeDate>
+            <ftxCreationDate>2024-06-19</ftxCreationDate>
+            <documentID>1838683011</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1838683011</identifier>
+                <identifier type="doi">10.22032/dbt.55670</identifier>
+                <identifier type="firstid">DNB:1281949663</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://nbn-resolving.org/urn:nbn:de:gbv:ilm1-2022000540</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4539157507</identifier>
+                    <creationDate>2024-06-15</creationDate>
+                    <selectionKey>2</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-101</isil>
+            </preservation>
+            <preservation procedure="digital-preservation">
+                <isil>DE-27</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (X, 191 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Optimierte Ladung von Elektrofahrzeugen als Markow Entscheidungsprozess mittels maschineller Lernalgorithmen</title>
+            <abstracts>
+                <abstract xml:lang="de">Die Elektromobilität mit teils hohen Ladeleistungen ist für den sicheren Betrieb der elektrischen Verteilnetze zukünftig eine Herausforderung. Zur Reduzierung von Überlastungen in der Niederspannung werden daher Steueralgorithmen benötigt, um die Ladeleistung der Fahrzeuge zu steuern. Hierbei ergibt sich allerdings das Problem, dass die Niederspannungsnetze in der Regel messtechnisch nicht überwacht werden und so Eingangsdaten für Steueralgorithmen fehlen. In der Arbeit wird die Kombination von zwei maschinellen Lernalgorithmen untersucht. Die Steuerung der Ladeleistung von Elektrofahrzeugen ist als Markow-Entscheidungsprozess definiert, der mittels dem bestärkten Lernen gelöst wird. Für die Bereitstellung der Eingangsdaten wird ein künstliches neuronales Netz verwendet, das den Zustand eines Niederspannungsnetzes abschätzt. Durch das Zusammenspiel beider Algorithmen können die durch die Ladung von Elektrofahrzeugen ausgelösten Netzüberlastungen reduziert werden.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Kelker, Michael</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1280008237</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Westermann, Dirk</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">134094646</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Haubrock, Jens</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">134133676</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Hübert, Michael</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Michael Kelker</responsible>
+            <publicationInfo>
+                <issued>2023</issued>
+                <publicationPlaces>
+                    <publicationPlace>Ilmenau</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Universitätsverlag Ilmenau</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>Ilmenauer Beiträge zur elektrischen Energiesystem-, Geräte- und Anlagentechnik (IBEGA)</title>
+                    <volumeNumber>Band 35</volumeNumber>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2022</dateAccepted>
+                        <description>Dissertation, Technische Universität Ilmenau</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Diagramme, Illustrationen</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Optimierte Ladung von Elektrofahrzeugen als Markow Entscheidungsprozess mittels maschineller Lernalgorithmen</title>
+                <identifier type="ppn">1839067454</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+            <related type="parent">
+                <title>Ilmenauer Beiträge zur elektrischen Energiesystem-, Geräte- und Anlagentechnik (IBEGA)</title>
+                <volumeNumber>Band 35</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc-dbn">
+                    <code>621.3</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4480</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>621.3192</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4193754-5" type="gnd">
+                    <subject xml:lang="de">Maschinelles Lernen</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Niederspannungsnetz</subject>
+                </subject>
+                <subject id="4138980-3" type="gnd">
+                    <subject xml:lang="de">Elektrisches Netz</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Energieeffizienz</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Maschinelles Lernen</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Elektrisches Netz</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Neuronales Netz</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Verteilungsnetz</subject>
+                </subject>
+                <subject id="4151795-7" type="gnd">
+                    <subject xml:lang="de">Elektrofahrzeug</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Elektrofahrzeug</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Intelligentes Stromnetz</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://nbn-resolving.org/urn:nbn:de:gbv:ilm1-2022000540</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:47258992X</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:47258992X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2004-11-24</databaseDate>
+            <changeDate>2024-04-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>47258992X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">47258992X</identifier>
+                <identifier type="contract">19P1035B</identifier>
+                <identifier type="doi">10.2314/GBV:47258992X</identifier>
+                <identifier type="firstid">GBV:47258992X</identifier>
+            </identifiers>
+            <locations>
+                <location mimetype="application/pdf" subtype="fulltext" type="url">https://edocs.tib.eu/files/e01fb04/47258992X.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">685392406</identifier>
+                    <creationDate>2004-11-24</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-89</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">Online-Ressource (70 S., 2,19 MB)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>TeleTravel Services : Schlussbericht</title>
+            <alternativeTitles>
+                <alternative>TTS TeleTravel Services</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Mobile services, mobile phone technologies, Java 2 Micro Edition (J2ME), Location Based Services (LBS)</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Beratungsgesellschaft für Leit-, Informations- und Computertechnik, Berlin</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">5136536-4</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor>
+                    <contributor>Konitz, Sascha</contributor>
+                </contributor>
+            </contributors>
+            <responsible>[Autor des Berichts: Konitz, Sascha]. Erarb. von: BLIC - Beratungsgesellschaft für Leit-, Informations- und Computertechnik mbH</responsible>
+            <publicationInfo>
+                <issued>2003</issued>
+                <publicationPlaces>
+                    <publicationPlace>Berlin</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Technische Informationsbibliothek u. Universitätsbibliothek</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-296-TTN</identifier>
+                </isPartOf>
+                <publicationIDInfo>Förderkennzeichen BMBF 19P1035 B. - Mit engl. Zsfassung</publicationIDInfo>
+                <publicationIDInfo>Unterschiede zwischen dem gedruckten Dokument und der elektronischen Ressource können nicht ausgeschlossen werden</publicationIDInfo>
+                <publicationIDInfo>Auch als gedr. Ausg. vorhanden</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst</description>
+            <hiddenSearchTerm>Tele-Travel-System</hiddenSearchTerm>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-296-TTN</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="10642064X" classificationName="bk">
+                    <code>55.84</code>
+                    <entries>
+                        <entry>Straßenverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106417665" classificationName="bk">
+                    <code>53.74</code>
+                    <entries>
+                        <entry>Hochfrequenztechnik, Funktechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4271536-2" type="gnd">
+                    <subject xml:lang="de">Mehrwertdienst</subject>
+                </subject>
+                <subject id="4356791-5" subtype="work" type="gnd">
+                    <subject xml:lang="de">GSM-Standard</subject>
+                </subject>
+                <subject id="4153550-9" type="gnd">
+                    <subject xml:lang="de">Fahrgastinformation</subject>
+                </subject>
+                <subject id="4172896-8" type="gnd">
+                    <subject xml:lang="de">Ortung</subject>
+                </subject>
+                <subject id="4170280-3" type="gnd">
+                    <subject xml:lang="de">Mobilfunk</subject>
+                </subject>
+                <subject id="4467581-1" type="gnd">
+                    <subject xml:lang="de">Verkehrsinformation</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">default</property>
+            <property name="displaySubscriberAccess">https://edocs.tib.eu/files/e01fb04/47258992X.pdf</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

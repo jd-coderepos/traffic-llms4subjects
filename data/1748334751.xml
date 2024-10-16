@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1748334751</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1748334751">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2021-02-15</databaseDate>
+            <changeDate>2022-03-23</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>1748334751</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1748334751</identifier>
+                <identifier type="firstid">KEP:061565970</identifier>
+                <identifier type="isbn13">9781596931220</identifier>
+                <identifier type="isbn">1596931221</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://ieeexplore.ieee.org/xpl/bkabstractplus.jsp?bkn=9100248</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">388065932X</identifier>
+                    <recallSign>OLR-IAHO</recallSign>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2021-03-03</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (xix, 316 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Tomorrow's transportation : changing cities, economies, and lives</title>
+            <abstracts>
+                <abstract xml:lang="de">A broad look at current and emergent developments in Intelligent Transportation Systems (ITS), and at how improved transportation systems can have a significant impact on lifestyle. It draws together and reviews the social, economic and environmental issues, and utilizes real-life case studies</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Garrison, William L.</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">171160568</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Ward, Jerry D.</contributor>
+                </contributor>
+            </contributors>
+            <responsible>William L. Garrison, Jerry D. Ward</responsible>
+            <publicationInfo>
+                <issued>2000</issued>
+                <publicationPlaces>
+                    <publicationPlace>Boston</publicationPlace>
+                    <publicationPlace>London</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Artech House</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-37-IAHO</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>Artech House ITS library</title>
+                </journalInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+            <description>Campusweiter Zugriff (Universität Hannover) - Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Keine Weitergabe an Dritte. Kein systematisches Downloaden durch Robots</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Tomorrow's transportation</title>
+                <identifier type="isbn">1580530966</identifier>
+                <identifier type="ppn">308862244</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-37-IAHO</identifier>
+            </related>
+            <related type="parent">
+                <title>Artech House ITS library</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>HE147.5</code>
+                </classification>
+                <classification classificationID="106421824" classificationName="bk">
+                    <code>55.00</code>
+                    <entries>
+                        <entry>Technik der Verkehrsmittel, Verkehrswesen: Allgemeines</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 3000</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>388.4</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4062901-6" type="gnd">
+                    <subject xml:lang="de">Verkehr</subject>
+                </subject>
+                <subject id="4431027-4" type="gnd">
+                    <subject xml:lang="de">Technische Innovation</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Technological innovations</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Electronic books</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Transportation</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://ieeexplore.ieee.org/xpl/bkabstractplus.jsp?bkn=9100248</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

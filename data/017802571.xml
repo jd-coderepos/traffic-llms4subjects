@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:017802571</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:017802571">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1991-07-03</databaseDate>
+            <changeDate>2024-04-15</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>017802571</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">017802571</identifier>
+                <identifier type="firstid">GBV:017802571</identifier>
+                <identifier type="isbn">3075089923</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://d-nb.info/850667925/04</location>
+                <location subtype="review" type="url">http://www.gbv.de/dms/faz-rez/860102_FAZ_0010_10_0003.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">019740875</identifier>
+                    <creationDate>1986-04-25</creationDate>
+                    <selectionKey>n</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">FJ 554</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-35</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">176 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Ackergiganten : Technik, Geschichte u. Geschichten</title>
+            <abstracts>
+                <abstract xml:lang="de">Klaus Herrmann: "Ackergiganten". Technik, Geschichte, Geschichten. Georg Westermann Verlag, Braunschweig 1985. 178 S., zahlr. Abb., geb., 59,- DM</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Herrmann, Klaus</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">122573935</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Klaus Herrmann</responsible>
+            <publicationInfo>
+                <issued>1985</issued>
+                <publicationPlaces>
+                    <publicationPlace>Braunschweig</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Westermann</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>zahlr. Ill.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="dbn">
+                    <code>39</code>
+                </classification>
+                <classification classificationID="106410431" classificationName="bk">
+                    <code>52.01</code>
+                    <entries>
+                        <entry>Geschichte des Maschinenbaus, der Energie- und Fertigungstechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loksys">
+                    <code>ver 168.4</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4460</code>
+                </classification>
+                <classification classificationID="106414992" classificationName="bk">
+                    <code>55.21</code>
+                    <entries>
+                        <entry>Kraftfahrzeuge</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>36</code>
+                </classification>
+                <classification classificationName="loksys">
+                    <code>tec 25</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mas</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4052673-2" type="gnd">
+                    <subject xml:lang="de">Schlepper</subject>
+                </subject>
+                <subject id="4272343-7" type="gnd">
+                    <subject xml:lang="de">Landmaschinenbau</subject>
+                </subject>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte</subject>
+                </subject>
+                <subject id="4034316-9" type="gnd">
+                    <subject xml:lang="de">Landmaschine</subject>
+                </subject>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte 1784-1985</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

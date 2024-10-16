@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1612612040</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1612612040">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2008-04-23</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1612612040</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1612612040</identifier>
+                <identifier type="ean">9780470059968</identifier>
+                <identifier type="firstid">BSZ:279418558</identifier>
+                <identifier type="isbn13">9780470059968</identifier>
+                <identifier type="isbn">0470059966</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="cover" type="url">https://swbplus.bsz-bw.de/bsz279418558cov.jpg</location>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/bowker/toc/9780470059968.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">865847959</identifier>
+                    <creationDate>2008-07-30</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 08 B 4974</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XII, 504 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Aircraft systems : mechanical, electrical, and avionics subsystems integration</title>
+            <abstracts>
+                <abstract xml:lang="de">Flight control systems -- Engine control systems -- Fuel systems -- Hydraulic systems -- Electrical systems -- Pneumatic systems -- Environmental control systems -- Emergency systems -- Rotary wing systems -- Advanced systems -- System design &amp; development -- Avionics technology -- Environmental conditions</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Moir, Ian</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Seabridge, Allan G.</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Ian Moir, Allan Seabridge</responsible>
+            <publicationInfo>
+                <issued>2008</issued>
+                <edition>3. ed.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Chichester, West Sussex, England</publicationPlace>
+                    <publicationPlace>Hoboken, N.J</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="GB" />
+                    <publicationCountry code="US" />
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Wiley</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Aerospace series</title>
+                </journalInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>graf. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Aerospace series</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>ZO 7270</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 7200</code>
+                </classification>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.135</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL671</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Airplanes</subject>
+                </subject>
+                <subject id="4121208-3" type="gnd">
+                    <subject xml:lang="de">Entwurf</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Systems engineering</subject>
+                </subject>
+                <subject id="4036563-3" type="gnd">
+                    <subject xml:lang="de">Luftfahrzeugtechnik</subject>
+                </subject>
+                <subject id="4168244-0" type="gnd">
+                    <subject xml:lang="de">Luftfahrttechnik</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Airplanes, Military</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Equipment and supplies</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Aeronautics</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Design and construction</subject>
+                </subject>
+                <subject id="4329743-2" type="gnd">
+                    <subject xml:lang="de">Teilsystem</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

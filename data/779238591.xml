@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:779238591</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:779238591">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2015-02-13</databaseDate>
+            <changeDate>2023-03-24</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>779238591</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">779238591</identifier>
+                <identifier type="firstid">HBZ:HT018167477</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">http://nbn-resolving.de/urn:nbn:de:hbz:82-opus-49000</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1475631995</identifier>
+                    <creationDate>2014-05-29</creationDate>
+                    <selectionKey>zdt</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online-Ressource</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Mikrostrukturelle Beschreibung von Verformung und Schädigung hochmanganhaltiger Stähle mit TRIP- und TWIP-Effekt</title>
+            <alternativeTitles>
+                <alternative>Microstructure based modeling of deformation and fracture of high manganese steels with TRIP- and TWIP-effect</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Zusammenfassung in deutscher und englischer Sprache</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Twardowski, Raphael</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1047432498</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Raphael Twardowski</responsible>
+            <publicationInfo>
+                <issued>2014</issued>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Aachen, Techn. Hochsch., Diss., 2013</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>620.1792</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.232</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>fer</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4338132-7" type="gnd">
+                    <subject xml:lang="de">Numerisches Modell</subject>
+                </subject>
+                <subject id="7609935-0" type="gnd">
+                    <subject xml:lang="de">TWIP-Stahl</subject>
+                </subject>
+                <subject id="4273138-0" type="gnd">
+                    <subject xml:lang="de">Schädigung</subject>
+                </subject>
+                <subject id="4747487-7" type="gnd">
+                    <subject xml:lang="de">TRIP-Stahl</subject>
+                </subject>
+                <subject id="4182907-4" type="gnd">
+                    <subject xml:lang="de">Stapelfehler</subject>
+                </subject>
+                <subject id="4258790-6" type="gnd">
+                    <subject xml:lang="de">Versagen</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://nbn-resolving.de/urn:nbn:de:hbz:82-opus-49000</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

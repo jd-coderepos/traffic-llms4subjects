@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:662306147</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:662306147">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2011-06-16</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>662306147</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">662306147</identifier>
+                <identifier type="firstid">GBV:662306147</identifier>
+                <identifier type="isbn13">9789241546690</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/bowker/toc/9789241546690.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1286301017</identifier>
+                    <creationDate>2012-10-05</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 12 B 1563</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XIII, 155 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Guide to ship sanitation</title>
+            <alternativeTitles>
+                <alternative>WHO guide to ship sanitation</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">"The third edition of the Guide to Ship Sanitation presents the public health significance of ships in terms of disease and highlights the importance of applying appropriate control measures"--Back cover</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Weltgesundheitsorganisation</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">1007857-5</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <responsible>[World Health Organization]</responsible>
+            <publicationInfo>
+                <issued>2011</issued>
+                <edition>3. ed.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Geneva</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="CH" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>World Health Organization</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>21 cm</description>
+            <description>Ill.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106421832" classificationName="bk">
+                    <code>55.86</code>
+                    <entries>
+                        <entry>Schiffsverkehr, Schifffahrt</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>VM481</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>623.8546</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4026331-9" type="gnd">
+                    <subject xml:lang="de">Hygiene</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Ships</subject>
+                </subject>
+                <subject id="4116383-7" type="gnd">
+                    <subject xml:lang="de">Schifffahrt</subject>
+                </subject>
+                <subject type="mesh">
+                    <subject xml:lang="de">Ships</subject>
+                </subject>
+                <subject type="mesh">
+                    <subject xml:lang="de">Sanitation</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

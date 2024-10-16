@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:515029033</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:515029033">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2006-07-26</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>515029033</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">515029033</identifier>
+                <identifier type="firstid">GBV:515029033</identifier>
+                <identifier type="isbn">0486451550</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/bowker/toc/9780486451558.pdf</location>
+                <location subtype="miscellaneous" type="url">http://www.loc.gov/catdir/enhancements/fy0665/2006050211-d.html</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">776824414</identifier>
+                    <creationDate>2007-10-18</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 07 B 819</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">[VI], 152 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Architectura navalis mercatoria : the classic of eighteenth-century naval architecture</title>
+            <abstracts>
+                <abstract xml:lang="de">First published in 1768, this remarkable collection of sophisticated line drawings offers a fascinating treatise for model builders, naval historians, and maritime enthusiasts. Documenting merchant and naval ships from various countries, it features 70 illustrations that chart vessel dimensions, crew size, storage capabilities, and manner of rigging.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Chapman, Fredrik Henrik</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">118940031</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Fredrik Henrik af Chapman</responsible>
+            <publicationInfo>
+                <issued>1768</issued>
+                <edition>Dover ed.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Mineola, NY</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Dover Publ.</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Dover books on architecture</title>
+                </journalInfo>
+                <publicationIDInfo>This Dover edition, first published in 2006, contains sixty-two plates reprinted from Architectura Navalis Mercatoria, originally published by Holmiæ, Stockholm, in 1768.</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>überw. graph. Darst</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Dover books on architecture</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>VM142</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>623.81</code>
+                </classification>
+                <classification classificationID="106413805" classificationName="bk">
+                    <code>55.41</code>
+                    <entries>
+                        <entry>Schiffe</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4052397-4" type="gnd">
+                    <subject xml:lang="de">Schiffbau</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Naval architecture</subject>
+                </subject>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

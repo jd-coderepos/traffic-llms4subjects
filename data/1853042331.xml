@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1853042331</identifier><datestamp>2024-06-28</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1853042331">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2023-07-19</databaseDate>
+            <changeDate>2023-08-18</changeDate>
+            <ftxCreationDate>2024-06-19</ftxCreationDate>
+            <documentID>1853042331</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1853042331</identifier>
+                <identifier type="doi">10.22032/dbt.57493</identifier>
+                <identifier type="firstid">KXP:1853042331</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://nbn-resolving.org/urn:nbn:de:gbv:ilm1-2023000110</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4539161423</identifier>
+                    <creationDate>2024-06-15</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (xi, 191 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Entwicklung von Maßnahmen zur Reduktion des aerodynamischen Kühlluftwiderstandes eines Personenkraftwagens mittels numerischer Strömungssimulation und Windkanaluntersuchungen</title>
+            <abstracts>
+                <abstract xml:lang="de">In der vorliegenden Arbeit werden die Auswirkungen der Motorkühlluft auf den aerodynamischen Widerstand von Kraftfahrzeugen am Beispiel eines Golf 7 analysiert. Hierzu werden Untersuchungen im Windkanal der Volkswagen AG sowie numerische Strömungssimulationen basierend auf der Lattice-Boltzmann-Methode (LBM) durchgeführt. Im Vorfeld ist es erforderlich, das eingesetzte Simulationsprogramm (PowerFlow) sowie das Simulations-Set-up dahingehend zu überprüfen und zu ertüchtigen, dass es die im Windkanal gemessenen Werte mit der geforderten Genauigkeit wiedergibt. Zum Abgleich der Simulationsergebnisse werden neben Druck- und Kühlluftmassenstrommessungen auch umfangreiche Untersuchungen mittels Particle Image Velocimetry (PIV) durchgeführt. Neben den Windkanalversuchen mit dem Versuchsfahrzeug wird auch das Strömungsfeld der leeren Messstrecke mittels PIV untersucht. Des Weiteren wird der Vorderwagen inklusive Motorraum eingescannt und mit dem Simulationsmodell verglichen, um die Übereinstimmung der Simulationsergebnisse mit den Messwerten aus den Windkanalversuchen zu verbessern. Auf Grundlage von Mess- und Scandaten des Fahrzeugs wird das Simulations-Set-up so angepasst, dass die geforderte Übereinstimmung der experimentellen und numerischen Ergebnisse gegeben ist. Durch die Analyse der Fahrzeugströmung kann bei verschlossenen Kühlluftöffnungen ein Rückströmungseffekt ermittelt werden, der die Bestimmung des Kühlluftwiderstandes basierend auf der Differenz der Luftwiderstände mit und ohne Kühlluft infrage stellt. Im Weiteren werden die Hauptströmungspfade der Kühlluft lokalisiert und eine theoretische Betrachtung der Kühlluftauswirkungen durchgeführt, um zu bestimmen, an welchen Stellen der Kühlluftwiderstand beeinflusst werden kann. Resultierend daraus werden die drei Bereiche Kühllufteinlass, Kühlluftauslass in die Radhäuser und in den Unterboden identifiziert, in denen eine positive Beeinflussung des Kühlluftwiderstandes möglich ist. Als Ergebnis dieser Analysen wird eine leckagefreie Kühlluftführung mit reduzierten Kühllufteinlassflächen umgesetzt. Des Weiteren wird die Kühlluft über neu entwickelte Luftauslässe im Radhaus und Unterboden der Umströmung zugeführt. Mit diesen Maßnahmen kann im Windkanalversuch der cW-Wert des Golf 7 in Summe um ΔcW = 0,025 und der Kühlluftwiderstand um 60 % gesenkt werden.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Lange, Sven</contributor>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Wagner, Claus</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1079390154</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Breitsamer, Christian</contributor>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Barth, Tarik</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">142444650</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>vorgelegt von Dipl.-Ing. Sven Lange</responsible>
+            <publicationInfo>
+                <issued>2023</issued>
+                <publicationPlaces>
+                    <publicationPlace>Ilmenau</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Universitätsbibliothek</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2023</dateAccepted>
+                        <description>Dissertation, Technische Universität Ilmenau</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Diagramme, Illustrationen</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Entwicklung von Maßnahmen zur Reduktion des aerodynamischen Kühlluftwiderstandes eines Personenkraftwagens mittels numerischer Strömungssimulation und Windkanaluntersuchungen</title>
+                <identifier type="ppn">1846250439</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc-dbn">
+                    <code>621.3</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4265</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4189940-4" type="gnd">
+                    <subject xml:lang="de">Windkanal</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Particle-Image-Velocimetry</subject>
+                </subject>
+                <subject id="4313254-6" type="gnd">
+                    <subject xml:lang="de">Luftwiderstand</subject>
+                </subject>
+                <subject id="4333165-8" type="gnd">
+                    <subject xml:lang="de">Particle-Image-Velocimetry</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Kühler</subject>
+                </subject>
+                <subject id="4144409-7" type="gnd">
+                    <subject xml:lang="de">Kühler</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Windkanal</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Luftwiderstand</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://nbn-resolving.org/urn:nbn:de:gbv:ilm1-2023000110</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

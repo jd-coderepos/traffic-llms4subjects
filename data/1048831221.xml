@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1048831221</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1048831221">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2019-02-09</databaseDate>
+            <changeDate>2022-07-23</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1048831221</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1048831221</identifier>
+                <identifier type="firstid">BVB:BV045428046</identifier>
+                <identifier type="isbn13">9783038974352</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1848993315</identifier>
+                    <creationDate>2020-02-28</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 19 B 826</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">IX, 267 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Sustainable freight transport</title>
+            <abstracts>
+                <abstract xml:lang="de">Freight Transport Modelling is a unique new reference book that provides insight into the state-of-the-art of freight modelling. Focusing on models used to support public transport policy analysis, Freight Transport Modelling systematically introduces the latest freight transport modelling approaches and describes the main methods and techniques used to arrive at operational models. As freight transport has grown exponentially in recent decades, policymakers now need to include freight flows in quantitative evaluations of transport systems</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Tavasszy, Lorant A.</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">171619781</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Piecyk, Maja</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1151079642</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Lóránt Tavasszy, Maja Piecyk, special issue editors</responsible>
+            <publicationInfo>
+                <issued>2018</issued>
+                <publicationPlaces>
+                    <publicationPlace>Basel</publicationPlace>
+                    <publicationPlace>Beijing</publicationPlace>
+                    <publicationPlace>Wuhan</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="CH" />
+                    <publicationCountry code="CN" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>MDPI</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>sustainability</title>
+                </journalInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+                <publicationIDInfo>This edition is a reprint of the Special Issue published online in the open access journal "Sustainability" (ISSN 2071-1050) in 2018</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>sustainability</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="181571811" classificationName="bk">
+                    <code>55.82</code>
+                    <entries>
+                        <entry>Güterverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>388/.044015</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4326464-5" type="gnd">
+                    <subject xml:lang="de">Nachhaltigkeit</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Mathematical models</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Freight and freightage</subject>
+                </subject>
+                <subject id="4022492-2" type="gnd">
+                    <subject xml:lang="de">Güterverkehr</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:169099455X</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:169099455X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2020-02-25</databaseDate>
+            <changeDate>2022-04-01</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>169099455X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">169099455X</identifier>
+                <identifier type="contract">NAS 1.120:EN 8</identifier>
+                <identifier type="contract">NASA-SP-2020-646</identifier>
+                <identifier type="firstid">KXP:169099455X</identifier>
+                <identifier type="isbn13">9781626830554</identifier>
+                <identifier type="isbn13">9781626830561</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/169099455x.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3671228318</identifier>
+                    <creationDate>2022-02-03</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">Z 2557(646)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">iv, 303 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Green light for green flight : NASA's contributions to environmentally responsible aviation</title>
+            <alternativeTitles>
+                <alternative>NASA's contributions to environmentally responsible aviation</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">"NASA's Environmentally Responsible Aviation (ERA) project began in 2009 to explore and document the feasibility, benefits and technical risks of advanced vehicle concepts and enabling technologies for reducing aviation's overall impact on the environment. Its goals included reducing community noise footprints, fuel burn, and nitrogen oxide emissions. This book reviews the advanced aircraft design concepts, construction technologies, and propulsion advancements that were researched by the ERA project"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Merlin, Peter W.</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1035799189</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Peter W. Merlin</responsible>
+            <publicationInfo>
+                <issued>2020</issued>
+                <publicationPlaces>
+                    <publicationPlace>Washington, DC</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>NASA</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>NASA SP</title>
+                    <volumeNumber>646 (2020)</volumeNumber>
+                </journalInfo>
+                <journalInfo>
+                    <title>NASA aeronautics book series</title>
+                </journalInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>Green light for green flight</title>
+                <identifier type="isbn13">9781626830578</identifier>
+                <identifier type="ppn">1736616943</identifier>
+            </related>
+            <related type="parent">
+                <title>NASA SP</title>
+                <volumeNumber>646 (2020)</volumeNumber>
+            </related>
+            <related type="parent">
+                <title>NASA aeronautics book series</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>TD195.A27</code>
+                </classification>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106416928" classificationName="bk">
+                    <code>43.62</code>
+                    <entries>
+                        <entry>Umweltbelastung durch Transport und Verkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.1300286</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>cet</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4036597-9" type="gnd">
+                    <subject xml:lang="de">Luftverkehr</subject>
+                </subject>
+                <subject id="4128276-0" type="gnd">
+                    <subject xml:lang="de">Triebwerk</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Airplanes</subject>
+                </subject>
+                <subject id="4312250-4" type="gnd">
+                    <subject xml:lang="de">Hochleistungswerkstoff</subject>
+                </subject>
+                <subject id="4113432-1" type="gnd">
+                    <subject xml:lang="de">Emissionsverringerung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">NASA Environmentally Responsible Aviation Project (U.S.)</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Green technology</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Aeronautics</subject>
+                </subject>
+                <subject id="4017672-1" type="gnd">
+                    <subject xml:lang="de">Flugzeug</subject>
+                </subject>
+                <subject id="4154757-3" type="gnd">
+                    <subject xml:lang="de">Fluglärm</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

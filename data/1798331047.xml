@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1798331047</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1798331047">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2022-04-11</databaseDate>
+            <changeDate>2023-08-12</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1798331047</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1798331047</identifier>
+                <identifier type="firstid">KXP:1798331047</identifier>
+                <identifier type="isbn13">9783030608972</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1798331047.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4114913807</identifier>
+                    <creationDate>2023-02-13</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 22 B 1899</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XX, 330 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Shepherding UxVs for human-swarm teaming : an artificial intelligence approach to unmanned X vehicles</title>
+            <abstracts>
+                <abstract xml:lang="de">This book draws inspiration from natural shepherding, whereby a farmer utilizes sheepdogs to herd sheep, to inspire a scalable and inherently human friendly approach to swarm control. The book discusses advanced artificial intelligence (AI) approaches needed to design smart robotic shepherding agents capable of controlling biological swarms or robotic swarms of unmanned vehicles. These smart shepherding agents are described with the techniques applicable to the control of Unmanned X Vehicles (UxVs) including air (unmanned aerial vehicles or UAVs), ground (unmanned ground vehicles or UGVs), underwater (unmanned underwater vehicles or UUVs), and on the surface of water (unmanned surface vehicles or USVs). This book proposes how smart ‘shepherds’ could be designed and used to guide a swarm of UxVs to achieve a goal while ameliorating typical communication bandwidth issues that arise in the control of multi agent systems. The book covers a wide range of topics ranging from the design of deep reinforcement learning models for shepherding a swarm, transparency in swarm guidance, and ontology-guided learning, to the design of smart swarm guidance methods for shepherding with UGVs and UAVs. The book extends the discussion to human-swarm teaming by looking into the real-time analysis of human data during human-swarm interaction, the concept of trust for human-swarm teaming, and the design of activity recognition systems for shepherding. Presents a comprehensive look at human-swarm teaming; Tackles artificial intelligence techniques for swarm guidance; Provides artificial intelligence techniques for real-time human performance analysis.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Abbass Amein, Hussein Aly</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1050693736</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Hunjet, Robert A.</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Hussein A. Abbass, Robert A. Hunjet, editors</responsible>
+            <publicationInfo>
+                <issued>2021</issued>
+                <publicationPlaces>
+                    <publicationPlace>Cham</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="CH" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Unmanned system technologies</title>
+                </journalInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Unmanned system technologies</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="181570769" classificationName="bk">
+                    <code>55.54</code>
+                    <entries>
+                        <entry>Flugführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="10641240X" classificationName="bk">
+                    <code>54.72</code>
+                    <entries>
+                        <entry>Künstliche Intelligenz</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>inf</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4143713-5" type="gnd">
+                    <subject xml:lang="de">Autonomes System</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Internet of things.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Robotics.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Artificial intelligence.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Electrical engineering.</subject>
+                </subject>
+                <subject id="4033447-8" type="gnd">
+                    <subject xml:lang="de">Künstliche Intelligenz</subject>
+                </subject>
+                <subject id="4154756-1" type="gnd">
+                    <subject xml:lang="de">Flugkörper</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Automation.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Transportation.</subject>
+                </subject>
+                <subject id="4793676-9" type="gnd">
+                    <subject xml:lang="de">Schwarmintelligenz</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Computer engineering.</subject>
+                </subject>
+                <subject id="4332556-7" type="gnd">
+                    <subject xml:lang="de">Drohne (Flugkörper)</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Embedded computer systems.</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

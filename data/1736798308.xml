@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1736798308</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1736798308">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2020-10-27</databaseDate>
+            <changeDate>2021-09-02</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1736798308</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1736798308</identifier>
+                <identifier type="firstid">KXP:1736798308</identifier>
+                <identifier type="isbn13">9781624105999</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1736798308.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3936892547</identifier>
+                    <creationDate>2021-07-05</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 21 B 2293</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xvii, 184 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Active spanwise lift control : a distributed parameter approach</title>
+            <abstracts>
+                <abstract xml:lang="de">"This book presents a novel approach to tackle the gust alleviation problem. Traditional approaches typically attempt to suppress the structural response at discrete points of the wing using only the conventional control surfaces (aileron, elevator, rudder), resulting in limited control authority, high-bandwidth actuator requirements, and necessity of gust field measurements ahead of the aircraft. In this book, the authors directly address the spanwise behavior of aerodynamic loads, as this is what should be primarily controlled"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Dias, Joaquim Neto</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Hubbard, James Edward</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Joaquim Neto Dias (Experimental Flight Test Engineer, Captain, Brazilian Air Force, Flight Test and Research Institute (IPEV), São José dos Campos, São Paulo, Brazil), James E. Hubbard, Jr. (TEES Eminent Professor, Hagler Institute Fellow, Department of Mechanical Engineering, Texas A&amp;M University, College Station, Texas, USA, Glenn L. Martin Professor Emeritus, University of Maryland, College Park)</responsible>
+            <publicationInfo>
+                <issued>2020</issued>
+                <publicationPlaces>
+                    <publicationPlace>Reston, Virginia</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>American Institute of Aeronautics and Astronautics, Inc</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>AIAA education series</title>
+                </journalInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>AIAA education series</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106419498" classificationName="bk">
+                    <code>50.34</code>
+                    <entries>
+                        <entry>Gasdynamik, Aerodynamik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL574.L5</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.132/33</code>
+                </classification>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Airplanes</subject>
+                </subject>
+                <subject id="4060582-6" type="gnd">
+                    <subject xml:lang="de">Tragflügel</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Gust loads</subject>
+                </subject>
+                <subject id="4000589-6" type="gnd">
+                    <subject xml:lang="de">Aerodynamik</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Lift (Aerodynamics)</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Trailing edge flaps</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

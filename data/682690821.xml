@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:682690821</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:682690821">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2012-01-10</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>682690821</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">682690821</identifier>
+                <identifier type="firstid">GBV:682690821</identifier>
+                <identifier type="isbn13">9780521760546</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="cover" type="url">http://assets.cambridge.org/97805217/60546/cover/9780521760546.jpg</location>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/bowker/toc/9780521760546.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1301632899</identifier>
+                    <creationDate>2013-01-15</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 12 B 3955</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XVI, 321 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Digital satellite navigation and geophysics : a practical guide with GNSS signal simulator and receiver laboratory</title>
+            <abstracts>
+                <abstract xml:lang="de">"Bridge the gap between theoretical education and practical work experience with this hands-on guide to GNSS, which features: [bullet] A clear, practical presentation of GNSS theory, with emphasis on GPS and GLONASS [bullet] All the essential theory behind software receivers and signal simulators  [bullet] Key applications in navigation and geophysics, including INS aiding, scintillation monitoring, earthquake studies and more [bullet] Physical explanations of various important phenomena, including the similarity of code delay and phase advance of GNSS signals, and negative cross-correlation between scintillation intensity and phase variations. Whether you are a practising engineer, a researcher or a student, you will gain a wealth of insights from the authors' 25 years of experience. You can explore numerous practical examples and case studies and get hands-on user experience with a bundled real-time software receiver, signal simulator and a set of signal data, enabling you to create your own GNSS lab for research or study"--</abstract>
+                <abstract xml:lang="de">"This book is about global navigation satellite systems (GNSS), their two main instruments, which are a receiver and a simulator, and their applications. The book is based on operational off-the-shelf real-time software GNSS receiver and off-the-shelf GNSS signal simulator. The academic versions of these tools are bundled with this book and free for a reader to use for study and research"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Petrovski, Ivan G.</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Tsujii, Toshiaki</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Ivan G. Petrovski, Toshiaki Tsujii</responsible>
+            <publicationInfo>
+                <issued>2012</issued>
+                <publicationPlaces>
+                    <publicationPlace>Cambridge [u.a.]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="GB" />
+                    <publicationCountry code="US" />
+                    <publicationCountry code="AU" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Cambridge Univ. Press</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>26 cm</description>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>Digital satellite navigation and geophysics</title>
+                <identifier type="ppn">883418940</identifier>
+                <identifier type="isbn13">9780511659072</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>623.89/33</code>
+                </classification>
+                <classification classificationID="106415182" classificationName="bk">
+                    <code>53.84</code>
+                    <entries>
+                        <entry>Ortungstechnik, Radartechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TK6560</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 8700</code>
+                </classification>
+                <classification classificationID="181570416" classificationName="bk">
+                    <code>55.64</code>
+                    <entries>
+                        <entry>Raumfahrzeugführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>TEC061000</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 8200</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZN 6520</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Radio</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Global Positioning System</subject>
+                </subject>
+                <subject id="4041457-7" type="gnd">
+                    <subject xml:lang="de">Navigation</subject>
+                </subject>
+                <subject id="4136498-3" type="gnd">
+                    <subject xml:lang="de">Satellit</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Radio wave propagation</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Electronics in geophysics</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">GPS receivers</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

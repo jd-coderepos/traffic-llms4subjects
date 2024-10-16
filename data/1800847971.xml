@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1800847971</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1800847971">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2022-05-04</databaseDate>
+            <changeDate>2023-09-15</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1800847971</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1800847971</identifier>
+                <identifier type="firstid">KXP:1800847971</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/ilmenau/toc/1800847971.PDF</location>
+                <location subtype="abstract" type="url">https://www.gbv.de/dms/ilmenau/abs/1800847971schnoe.txt</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4322645364</identifier>
+                    <creationDate>2023-05-16</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">H 23 B 218</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">v, 190 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>User-oriented cockpits for automated driving : a framework for the technical specification of test environments</title>
+            <abstracts>
+                <abstract xml:lang="de">Verglichen mit konventionellen Fahrerassistenzsystemen erfordert die Technologie des hochautomatisierten Fahrens neuartige Interaktionskonzepte zwischen Fahrer und Fahrzeug. Insbesondere die Tatsache, dass der Fahrer während der Fahrt in fahrfremde Tätigkeiten eingebunden sein kann, verdeutlicht die Sicherheits- und Zeitkritikalität von Interaktionen mit hochautomatisierten Fahrzeugsystemen. Der Anstieg der technischen Komplexität ergibt sich, da hochautomatisierte Fahrzeugsysteme im Gegensatz zu konventionellen Fahrerassistenzsystemen übergreifende Funktionen benötigen, die eine Vielzahl von einzelnen Funktionen vereinen. Um diese neuartigen Gestaltungskonzepte zu erproben und deren Eignung im Hinblick auf Regulationen der Länder zur Qualität der Mensch-Technik Interaktion für die Zulassung auf den jeweiligen Märkten entsprechend zu bewerten, werden sowohl im Forschungs- als auch im Industrieumfeld verschiedenste Testkonzepte und Testumgebungen genutzt. Diese unterscheiden sich teils deutlich voneinander, beispielsweise durch die Art der Stimulusmaterialien, die den Probanden innerhalb der Testumgebung zur Verfügung gestellt werden, und deren technische Umsetzung. Der Kern dieser Arbeit besteht aus der Entwicklung eines ganzheitlichen und technologisch unabhängigen Referenzmodells zur Definition von technischen Spezifikationen einer Testumgebung für die Mensch-Technik Interaktion im Rahmen des hochautomatisierten Fahrens. Die Basis für diese Definition sind Testkonzepte und -umgebungen, die sich in Wissenschaft und Praxis bewährt haben. Diese vielgestaltigen Testkonzepte und -umgebungen, die in Forschungsprojekten und in industriellen Testzentren zur Anwendung kommen, werden im Rahmen der Arbeit umfassend analysiert, bewertet, verdichtet und derart systematisiert, dass bewährte Muster der Testkonzepte und -umgebungen erkennbar werden. Dabei werden die technologisch unabhängigen Muster derart aufbereitet, dass sie auf relevante Fragestellungen im Forschungsfeld des hochautomatisierten Fahrens angewendet und in eine funktionale Spezifikation überführt werden können. Hierzu wird ein Referenzmodell zur Verfügung gestellt, das die Definition einer geeigneten Testumgebung für ein gegebenes Testkonzept unterstützt. Auf diese Art fließen die umfangreichen Erfahrungen von Experten ein und resultieren in einem anwendungsorientierten Konzept, mit dem das gesamte Potential von Testkonzepten und -umgebungen genutzt wird. Das Referenzmodell ermöglicht eine effiziente und lösungsorientierte Kommunikation zwischen den Beteiligten eines Testvorhabens mit verschiedenen Aufgabenschwerpunkten, wie beispielsweise der Elektrotechnik, dem Maschinenbau, der Informatik oder der Psychologie und unterstützt deren abgestimmtes Formulieren von Anforderungen. Die Ergebnisse dieser Arbeit tragen somit zur Entwicklung neuartiger Mensch-Technik Interaktionen im Kontext des hochautomatisierten Fahrens bei.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="degree-granting-institution">
+                    <type>degree-granting-institution</type>
+                    <name>Technische Universität Ilmenau</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2125187-3</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Schnöll, Patrick</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1278445129</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Krömker, Heidi</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">133013545</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Steinbach, Eckehard</contributor>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Vogt, Sebastian</contributor>
+                </contributor>
+            </contributors>
+            <responsible>von M.Sc. Patrick Schnöll</responsible>
+            <publicationInfo>
+                <issued>2022</issued>
+                <publicationPlaces>
+                    <publicationPlace>Ilmenau</publicationPlace>
+                </publicationPlaces>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2022</dateAccepted>
+                        <description>Dissertation, Technische Universität Ilmenau</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Diagramme, Illustrationen</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>ZO 4660</code>
+                </classification>
+                <classification classificationID="181570424" classificationName="bk">
+                    <code>55.24</code>
+                    <entries>
+                        <entry>Fahrzeugführung, Fahrtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4720440-0" type="gnd">
+                    <subject xml:lang="de">Mensch-Maschine-Schnittstelle</subject>
+                </subject>
+                <subject id="4221751-9" type="gnd">
+                    <subject xml:lang="de">Bordinstrument</subject>
+                </subject>
+                <subject id="7714938-5" type="gnd">
+                    <subject xml:lang="de">Autonomes Fahrzeug</subject>
+                </subject>
+                <subject id="4130350-7" type="gnd">
+                    <subject xml:lang="de">Referenzmodell</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

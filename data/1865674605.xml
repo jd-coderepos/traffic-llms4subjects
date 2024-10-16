@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1865674605</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1865674605">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2023-10-15</databaseDate>
+            <changeDate>2023-12-11</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1865674605</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1865674605</identifier>
+                <identifier type="firstid">DNB:1302459392</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://nbn-resolving.de/urn:nbn:de:gbv:715-oops-59417</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4393181123</identifier>
+                    <creationDate>2023-10-19</creationDate>
+                    <selectionKey>zdt</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-101</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (XII, 213 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Identifikation von Beinahekollisionen in maritimen Verkehrsdaten als Ground-Truth für szenariobasiertes Testen</title>
+            <abstracts>
+                <abstract xml:lang="de">Diese Arbeit geht der Frage nach, wie sich validierungsrelevante Beinahekollisionssituationen aus historischen Verkehrsdaten detektieren und als Ground Truth nutzen lassen. Nach der Sichtung des Stands der Technik werden Anforderungen an die Datenerhebung, Datenspeicherung, sowie die Datenanalyse erhoben und ein entsprechendes Konzept erstellt. Zur Bestimmung von Beinahekollisionen werden zunächst die relevanten Einflussfaktoren hergeleitet und es folgt, gemäß der Definition, die Entwicklung mehrerer Methoden und Werkzeuge zur Identifikation von fahrerreaktionsbasierten, funktionsreaktionsbasierten, kontextbasierten und historienbasierten Auffälligkeiten. Als Vorbereitung auf die Evaluation schließt sich die Implementierung und Integration der Systemartefakte in das maritime Testfeld eMIR an. Es kann gezeigt werden, dass der Ansatz zur objektiven Erkennung von Beinahekollisionen geeignet ist und als Ground Truth für das szenariobasierte Testen eingesetzt werden kann.</abstract>
+                <abstract xml:lang="de">This thesis addresses the research question of how near-collision situations relevant for validation can be detected from historical traffic data and used as ground truth. After reviewing the state of the art, requirements for data collection, data storage, and data analysis are determined and a corresponding concept is developed. To determine near-collisions, the relevant influencing factors are first derived and, according to the definition, the development of several methods and tools for the identification of driver reaction-based, function reaction-based, context-based and history-based anomalies follows. In preparation for the evaluation, this is followed by the implementation and integration of the system artifacts into the maritime testbed eMIR. It can be shown that the approach is suitable for objective detection of near-collisions and can be used as ground truth for scenario-based testing.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Lamm, Arne</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1196139962</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Hahn, Axel</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">120512726</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Nicklas, Daniela</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1146162901</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Arne Lamm</responsible>
+            <publicationInfo>
+                <issued>2023</issued>
+                <publicationPlaces>
+                    <publicationPlace>Oldenburg</publicationPlace>
+                </publicationPlaces>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2023</dateAccepted>
+                        <description>Dissertation, Universität Oldenburg</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme, Karten</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Identifikation von Beinahekollisionen in maritimen Verkehrsdaten als Ground-Truth für szenariobasiertes Testen</title>
+                <identifier type="ppn">1859237517</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>629.276</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Unfallforschung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>szenariobasiertes Testen</subject>
+                </subject>
+                <subject id="4187357-9" type="gnd">
+                    <subject xml:lang="de">Validierung</subject>
+                </subject>
+                <subject id="4199255-6" type="gnd">
+                    <subject xml:lang="de">Kollisionsschutz</subject>
+                </subject>
+                <subject id="4116383-7" type="gnd">
+                    <subject xml:lang="de">Schifffahrt</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Fahrerassistenzsystem</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Testfalldatenbank</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://nbn-resolving.de/urn:nbn:de:gbv:715-oops-59417</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

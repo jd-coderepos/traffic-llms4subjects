@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:387730095</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:387730095">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2004-05-24</databaseDate>
+            <changeDate>2024-04-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>387730095</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">387730095</identifier>
+                <identifier type="contract">71242</identifier>
+                <identifier type="ean">9783613712423</identifier>
+                <identifier type="firstid">GBV:387730095</identifier>
+                <identifier type="isbn">3613712423</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://external.dandelon.com/download/attachments/dandelon/ids/DE00419B5F37885E0B2D2C125795F006CC391.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">655773010</identifier>
+                    <creationDate>2005-02-04</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">T 04 B 4395</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-24</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">174 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Die Berliner S-Bahn : 1924 bis heute ; Geschichte, Technik, Hintergründe</title>
+            <abstracts>
+                <abstract xml:lang="de">Mit einem kurzen geschichtlichen Abriss, einer Fotostrecke mit Abbildungen verschiedener Triebwagen und einer Presseschau über den Beginn der S-Bahnzeit startet der Autor sein Buch über das Verkehrsmittel, das untrennbar mit der Geschichte der Stadt verbunden ist. Dies belegt er in 8 Kapiteln, die jeweils den Zeitraum eines Jahrzehnts umfassen. So lassen sich die Anfänge der S-Bahnzeit ebenso nachvollziehen wie ihre Blütezeit in den 30er-Jahren. Kiebert schildert die Zerstörungen der Fahrzeuge und der Infrastruktur im 2. Weltkrieg, die Situation im so genannten "Kalten Krieg", die Einschnitte beim Mauerbau, die Entwicklung der getrennten Netze, den Boykott der West-Berliner, den Eisenbahnerstreik, die Eigentümerwechsel sowie Ausbau und Modernisierung nach der Wiedervereinigung. Jedes Kapitel erhält am Ende eine Zusammenfassung der wichtigsten Ereignisse. Streckenskizzen, Netzpläne, historische Dokumente, Tabellen, viele Fotos und Zeichnungen sowie eine Übersicht über die Fahrzeuge ergänzen das Buch, das nicht nur in Berlin und Brandenburg angeboten werden sollte. (2) (Günter Buhl)</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Kiebert, Wolfgang</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Wolfgang Kiebert</responsible>
+            <publicationInfo>
+                <issued>2004</issued>
+                <edition>1. Aufl.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Stuttgart</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Transpress</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>27 cm</description>
+            <description>zahlr. Ill., Kt</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>TF774.B5</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>380</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 5460</code>
+                </classification>
+                <classification classificationName="ssg">
+                    <code>19,2</code>
+                </classification>
+                <classification classificationID="106420569" classificationName="bk">
+                    <code>55.31</code>
+                    <entries>
+                        <entry>Schienenfahrzeuge</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>380</code>
+                </classification>
+                <classification classificationID="106420658" classificationName="bk">
+                    <code>55.83</code>
+                    <entries>
+                        <entry>Stadtverkehr, Nahverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Berliner S-Bahn (Germany)</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">History</subject>
+                </subject>
+                <subject id="4005728-8" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Berlin</subject>
+                </subject>
+                <subject id="4051865-6" type="gnd">
+                    <subject xml:lang="de">S-Bahn</subject>
+                </subject>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

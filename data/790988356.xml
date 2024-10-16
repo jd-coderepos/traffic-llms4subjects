@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:790988356</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:790988356">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2014-07-22</databaseDate>
+            <changeDate>2022-07-17</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>790988356</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">790988356</identifier>
+                <identifier type="ean">9781439820186</identifier>
+                <identifier type="firstid">GBV:790988356</identifier>
+                <identifier type="isbn13">9781439820186</identifier>
+                <identifier type="isbn13">9781138748668</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/790988356.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1517692601</identifier>
+                    <creationDate>2016-04-18</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 15 B 1422</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XIII, 203 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Design and control of automotive propulsion systems</title>
+            <abstracts>
+                <abstract xml:lang="de">"This book presents analytical and experimental methods and achievements in designing mechanical and mechatronic driveline systems. Examples include various power dividing units, including symmetric and non-symmetric varieties, as well as open and lockable differentials, various limited slip differentials, no spins, and viscous clutches. The text presents logic control algorithms used to control vehicle power dividing units and designs of torque/power managing devices. The authors' approach to designing driveline systems is that characteristics and parameters of a driveline system and a set of power dividing units are established through vehicle performance and energy-fuel efficiency analysis and optimization"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Sun, Zongxuan</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Zhu, Guoming G.r</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Zhu, Guoming G.</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Zongxuan Sun, Guoming G. Zhu</responsible>
+            <publicationInfo>
+                <issued>2015</issued>
+                <publicationPlaces>
+                    <publicationPlace>Boca Raton [u.a.]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>CRC Press, Taylor &amp; Francis Group</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Mechanical and aerospace engineering</title>
+                </journalInfo>
+                <publicationIDInfo>Version date: 20140718. - Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Mechanical and aerospace engineering</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc-dbn">
+                    <code>SCI024000</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.25</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>TEC009070</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL210</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4230</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Automobiles</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Propulsion systems</subject>
+                </subject>
+                <subject id="4123177-6" type="gnd">
+                    <subject xml:lang="de">Fahrzeugantrieb</subject>
+                </subject>
+                <subject id="4073757-3" type="gnd">
+                    <subject xml:lang="de">Kraftfahrzeug</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

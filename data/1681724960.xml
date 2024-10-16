@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1681724960</identifier><datestamp>2024-06-14</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1681724960">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2019-11-12</databaseDate>
+            <changeDate>2022-12-25</changeDate>
+            <ftxCreationDate>2024-06-14</ftxCreationDate>
+            <documentID>1681724960</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1681724960</identifier>
+                <identifier type="doi">10.1007/978-3-658-28135-9</identifier>
+                <identifier type="firstid">KEP:047962453</identifier>
+                <identifier type="isbn13">9783658281359</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="cover" type="url">https://swbplus.bsz-bw.de/bsz1681724960cov.jpg</location>
+                <location subtype="fulltext" type="url">https://doi.org/10.1007/978-3-658-28135-9</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3545767450</identifier>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2019-11-21</creationDate>
+                    <selectionKey>zesp</selectionKey>
+                    <loanIndicator>s</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (XVIII, 153 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Das Mentorensystem Race Trainer : Konzept für ein semi-automatisches Fahrertraining</title>
+            <abstracts>
+                <abstract xml:lang="de">Analyse von kooperativen FAS -- Konzept für Mentorensysteme -- Planungsadaption in der Längs- und Querplanung -- Eingriffsdominanz in der kooperativen Fahrdynamikregelung -- Umsetzung im Forschungsfahrzeug Race Trainer</abstract>
+                <abstract xml:lang="de">Samuel Schacher beschäftigt sich mit der Entwicklung eines Fahrerassistenzsystems (FAS), welches durch aktive Eingriffe in Lenkung und Antriebsstrang das Fahren auf Rennstrecken beibringen soll. Die enge Interaktion zwischen Fahrer und FAS stellt dessen Entwurf vor neue Herausforderungen. Zur Lösung wurde ein ganzheitliches Konzept für die Entwicklung von kooperativen FAS erarbeitet, welches das Fahrzeug als virtuellen Mentor für den Menschen betrachtet. Dafür werden Entwurfsmöglichkeiten für kooperative FAS ausgearbeitet, neue Herangehensweisen wie die Betrachtung verschiedener Kooperationstypen vorgestellt und eine konkrete Umsetzung gezeigt. Außerdem werden widersprüchliche Anforderungen an den regelungstechnischen Entwurf durch die Einführung eines sich situativ anpassenden Konzepts für „Mentorensysteme“ aufgelöst. Daraus leiten sich allgemeine Empfehlungen für den Entwurf von Maschinen ab, die als Lehrer für einen Menschen agieren. Der Inhalt Analyse von kooperativen FAS Konzept für Mentorensysteme Planungsadaption in der Längs- und Querplanung Eingriffsdominanz in der kooperativen Fahrdynamikregelung Umsetzung im Forschungsfahrzeug Race Trainer Die Zielgruppen Dozierende und Studierende der Fachgebiete Robotik, Regelungstechnik und Verkehrspsychologie Experten in der Automobilbranche in den Bereichen Fahrerassistenzsysteme und automatisierte Fahrzeuge Der Autor Samuel Schacher studierte Informationstechnik im Maschinenwesen an der TU Berlin und promovierte berufsbegleitend in der Konzernforschung eines Automobilherstellers</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Schacher, Samuel</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1204142173</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Samuel Schacher</responsible>
+            <publicationInfo>
+                <issued>2019</issued>
+                <publicationPlaces>
+                    <publicationPlace>Wiesbaden</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-2-SEB</identifier>
+                    <identifier type="collectioncode">ZDB-2-STI</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>AutoUni – Schriftenreihe</title>
+                    <volumeNumber>Band 141</volumeNumber>
+                </journalInfo>
+                <journalInfo>
+                    <title>Springer eBooks</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>Computer Science and Engineering</title>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2019</dateAccepted>
+                        <description>Dissertation, Technische Universität Berlin</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+            <description>Campusweiter Zugriff (Universität Hannover) - Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Keine Weitergabe an Dritte. Kein systematisches Downloaden durch Robots.</description>
+            <description>Erworben aus Studienqualitätsmitteln</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Das Mentorensystem Race Trainer</title>
+                <identifier type="ppn">1677885777</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-2-SEB</identifier>
+                <identifier type="collectioncode">ZDB-2-STI</identifier>
+            </related>
+            <related type="parent">
+                <title>AutoUni – Schriftenreihe</title>
+                <volumeNumber>Band 141</volumeNumber>
+            </related>
+            <related type="parent">
+                <title>Springer eBooks</title>
+            </related>
+            <related type="parent">
+                <title>Computer Science and Engineering</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>TJ210.2-211.495</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>T59.5</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.892</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Automation</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Robotics and Automation</subject>
+                </subject>
+                <subject id="4167367-0" type="gnd">
+                    <subject xml:lang="de">Lenkverhalten</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Robotics</subject>
+                </subject>
+                <subject id="4016278-3" type="gnd">
+                    <subject xml:lang="de">Fahrdynamik</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">User interfaces (Computer systems)</subject>
+                </subject>
+                <subject id="4267628-9" type="gnd">
+                    <subject xml:lang="de">Bahnplanung</subject>
+                </subject>
+                <subject id="4133165-5" type="gnd">
+                    <subject xml:lang="de">Regelkreis</subject>
+                </subject>
+                <subject id="4132165-0" type="gnd">
+                    <subject xml:lang="de">Fahrerverhalten</subject>
+                </subject>
+                <subject id="4125909-9" type="gnd">
+                    <subject xml:lang="de">Mensch-Maschine-Kommunikation</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Automotive engineering</subject>
+                </subject>
+                <subject id="4243688-6" type="gnd">
+                    <subject xml:lang="de">Fahrtest</subject>
+                </subject>
+                <subject id="4153569-8" type="gnd">
+                    <subject xml:lang="de">Fahrschüler</subject>
+                </subject>
+                <subject id="4622983-8" type="gnd">
+                    <subject xml:lang="de">Fahrerassistenzsystem</subject>
+                </subject>
+                <subject id="4213742-1" type="gnd">
+                    <subject xml:lang="de">Motorsportrennstrecke</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://doi.org/10.1007/978-3-658-28135-9</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

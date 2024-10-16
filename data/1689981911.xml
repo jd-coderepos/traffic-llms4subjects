@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1689981911</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1689981911">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2020-02-13</databaseDate>
+            <changeDate>2021-07-05</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1689981911</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1689981911</identifier>
+                <identifier type="firstid">KXP:1689981911</identifier>
+                <identifier type="isbn13">9781138602502</identifier>
+                <identifier type="isbn">1138602507</identifier>
+                <identifier type="isbn13">9780367369057</identifier>
+                <identifier type="isbn">0367369052</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1689981911.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3594822931</identifier>
+                    <creationDate>2021-04-15</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 20 B 911</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xx, 387 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Driverless cars, urban parking and land use</title>
+            <abstracts>
+                <abstract xml:lang="de">"This book includes new research and economic analysis, plus a thorough review of the current literature to pose and attempt to answer a number of important questions about the effect that driverless vehicles may have on land use in the United States, especially on parking"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Simons, Robert A.</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">17177664X</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Robert A. Simons</responsible>
+            <publicationInfo>
+                <issued>2020</issued>
+                <edition>First edition</edition>
+                <publicationPlaces>
+                    <publicationPlace>London</publicationPlace>
+                    <publicationPlace>New York</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="GB" />
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Routledge</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Enthält bibliographische Angaben und Index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>HE336.P37</code>
+                </classification>
+                <classification classificationID="181570637" classificationName="bk">
+                    <code>55.81</code>
+                    <entries>
+                        <entry>Personenverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>388.4/74</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZH 9348</code>
+                </classification>
+                <classification classificationID="106421050" classificationName="bk">
+                    <code>74.75</code>
+                    <entries>
+                        <entry>Verkehrsplanung, Verkehrspolitik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>arc</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4044677-3" type="gnd">
+                    <subject xml:lang="de">Parken</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Automobile parking</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Parking facilities</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Parking facilities</subject>
+                </subject>
+                <subject id="4016284-9" type="gnd">
+                    <subject xml:lang="de">Fahrerloses Transportsystem</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Automated vehicles</subject>
+                </subject>
+                <subject id="4017396-3" type="gnd">
+                    <subject xml:lang="de">Flächennutzung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Land use</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Land use</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Automobile parking</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

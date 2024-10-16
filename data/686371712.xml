@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:686371712</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:686371712">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2012-02-16</databaseDate>
+            <changeDate>2022-08-07</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>686371712</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">686371712</identifier>
+                <identifier type="doi">10.1002/9780470693827</identifier>
+                <identifier type="firstid">GBV:686371712</identifier>
+                <identifier type="isbn13">9780470693056</identifier>
+                <identifier type="isbn">0470693827</identifier>
+                <identifier type="isbn13">9780470693827</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/bowker/toc/9780470693827.pdf</location>
+                <location subtype="fulltext" type="url">http://dx.doi.org/10.1002/9780470693827</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1724245023</identifier>
+                    <recallSign>OLR-WILEY-UBCM</recallSign>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2017-11-18</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (xv, 368 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Aircraft performance theory for pilots</title>
+            <abstracts>
+                <abstract xml:lang="de">pt. 1. General theory -- pt. 2. Class 'A' aeroplanes : theory -- pt. 3. Class 'B' aeroplanes : theory -- pt. 4. Class 'C' aeroplanes : theory</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Swatton, Peter J.</contributor>
+                </contributor>
+            </contributors>
+            <responsible>P.J. Swatton</responsible>
+            <publicationInfo>
+                <issued>2000</issued>
+                <publicationPlaces>
+                    <publicationPlace>Oxford</publicationPlace>
+                    <publicationPlace>Malden</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="GB" />
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Blackwell Science</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">H-ZDB-35-UBC</identifier>
+                    <identifier type="collectioncode">H-ZDB-35-WIC</identifier>
+                    <identifier type="collectioncode">H-ZDB-38-EBR</identifier>
+                    <identifier type="collectioncode">H-ZDB-4-NLEBK</identifier>
+                </isPartOf>
+                <publicationIDInfo>Includes bibliographical references (p. 365) and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen</description>
+            <description>Campusweiter Zugriff (Universität Hannover) - Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Keine Weitergabe an Dritte. Kein systematisches Downloaden durch Robots.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">H-ZDB-35-UBC</identifier>
+                <identifier type="collectioncode">H-ZDB-35-WIC</identifier>
+                <identifier type="collectioncode">H-ZDB-38-EBR</identifier>
+                <identifier type="collectioncode">H-ZDB-4-NLEBK</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.132</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL671.4</code>
+                </classification>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Airplanes</subject>
+                </subject>
+                <subject id="4129359-9" type="gnd">
+                    <subject xml:lang="de">Flugleistung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://dx.doi.org/10.1002/9780470693827</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

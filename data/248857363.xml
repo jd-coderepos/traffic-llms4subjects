@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:248857363</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:248857363">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1998-09-16</databaseDate>
+            <changeDate>2023-12-16</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>248857363</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">248857363</identifier>
+                <identifier type="firstid">GBV:248857363</identifier>
+                <identifier type="isbn">3931785483</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">803521103</identifier>
+                    <creationDate>2007-01-31</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 07 B 898</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">400 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Abeking &amp; Rasmussen : eine Weserwerft im Spiegel des 20. Jahrhunderts</title>
+            <abstracts>
+                <abstract xml:lang="de">Das Buch gibt u. a. Auskunft über die Entstehung und Entwicklung des Yachtsegelns in Deutschland; die Konstruktion und den Bau hölzerner Segelyachten bei Abeking &amp; Rasmussen; die Person des Firmengründers Henry Rasmussen als Segler, Yachtkonstrukteur und Unternehmer; den Wandel zur Spezialschiffswerft; die Produktpalette, die Werftanlage und die Werftarbeit sowie deren Veränderungen.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Auf dem Garten, Klaus</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">12049647X</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor>
+                    <contributor>Garten, Klaus</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Klaus auf dem Garten</responsible>
+            <publicationInfo>
+                <issued>1998</issued>
+                <publicationPlaces>
+                    <publicationPlace>Bremen</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Hauschild</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>zahlr. Tab.</description>
+            <description>30 cm</description>
+            <description>überw. Ill., graph. Darst</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>NW 6035</code>
+                </classification>
+                <classification classificationID="106413805" classificationName="bk">
+                    <code>55.41</code>
+                    <entries>
+                        <entry>Schiffe</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>65</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4430244-7" subtype="corporate-body" type="gnd">
+                    <subject xml:lang="de">Abeking &amp; Rasmussen Schiffs- und Yachtwerft</subject>
+                </subject>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Schiffbau</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Werft</subject>
+                </subject>
+                <subject id="4137733-3" type="gnd">
+                    <subject xml:lang="de">Jachtbau</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

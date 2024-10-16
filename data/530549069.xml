@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:530549069</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:530549069">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2007-06-04</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>530549069</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">530549069</identifier>
+                <identifier type="firstid">GBV:530549069</identifier>
+                <identifier type="isbn13">9783939473114</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="description" type="url">http://www.gbv.de/dms/ilmenau/abs/530549069graf.txt</location>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/ilmenau/toc/530549069.PDF</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">835133648</identifier>
+                    <creationDate>2007-09-20</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">U 07 B 1512</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XIV, 133 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Validierung von Methoden zur Berechnung und Reduzierung der Schallabstrahlung von Getriebegehäusen</title>
+            <abstracts>
+                <abstract xml:lang="de">An drei unterschiedlich komplexen Getriebegehäusen, einem unverrippten Prinzip-Getriebegehäuse, einem Hinterachsgetriebegehäuse und einem hochgradig verrippten Synchrongetriebegehäuse, wird die quantitative Aussagekraft der Schwingungs- und Schallabstrahlungsberechnung mittels der Finite-Element- bzw. der Boundary-Element-Methode bei den ersten 40 Eigenfrequenzen untersucht und optimiert. Um die Genauig-keit der einzelnen Simulationsschritte und die Auswirkungen der Fertigungsungenauigkeiten auf die Strukturdynamik quantitativ bestimmen zu können, werden auch digitalisierte Modelle verwendet und deren Ergebnisse parallel zu jedem Schritt den Messungen gegenübergestellt. Eine Validierung der Berechnungsverfahren kann durch einen mittleren MAC-Wert von bis zu 98 % und die Reduzierung der Streuung der Schallabstrahlungsberechnung auf 0,7 dB auf hohem Niveau erreicht werden. Die experimentell ermittelten Größen fließen in zusätzliche Berechnungen ein, um die Effektivität von globalen Model-Updating-Methoden zu quantifizieren. Diese Vergleiche ermöglichen es dem Anwender, die Genauigkeit von Schallabstrahlungsberechnungen, in Abhängigkeit von der Komplexität des Gehäuses, der Modellgüte und der Updating-Methode, abzuschätzen. Ein effizienterer Einsatz von Messungen und eine Verringerung der Anzahl an Prototypen ist damit möglich. Die validierte Methodik der Schallabstrahlungsberechnung wird in einem folgenden Schritt angewendet, um mittels Parameterstudien Richtlinien für die Konstruktion von akustisch optimierten Getriebegehäuse-Verrippungen bis 4000 Hz aufzustellen. Die Einführung und Anwendung von gemittelten generalisierten Anregungskräften ermöglicht es hierbei, die Neigung jeder Eigenform zur Schallabstrahlung unabhängig vom Anregungsort zu ermitteln. Dadurch kann die Effektivität von Verrippungen bei allen Eigenfrequenzen eindeutig und frequenzbereichsabhängig analysiert werden.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Graf, Bernd</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">133028542</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor>
+                    <contributor>Augsburg, Klaus</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">13000913X</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Wender, Bernd</contributor>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Kelkel, Klaus</contributor>
+                </contributor>
+            </contributors>
+            <responsible>von Bernd Graf</responsible>
+            <publicationInfo>
+                <issued>2007</issued>
+                <publicationPlaces>
+                    <publicationPlace>Ilmenau</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Univ.-Verl. Ilmenau</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Zugl.: Ilmenau, Techn. Univ., Diss., 2007</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+                <publicationIDInfo>Parallel als Online-Ausg. erschienen unter der Adresse http://www.db-thueringen.de/servlets/DocumentServlet?id=7708</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>21 cm</description>
+            <description>graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausg.</label>
+                <title>Validierung von Methoden zur Berechnung und Reduzierung der Schallabstrahlung von Getriebegehäusen</title>
+                <identifier type="ppn">537850155</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>621.811</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106410628" classificationName="bk">
+                    <code>52.20</code>
+                    <entries>
+                        <entry>Antriebstechnik, Getriebelehre</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mas</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4179362-6" type="gnd">
+                    <subject xml:lang="de">Schallemissionsanalyse</subject>
+                </subject>
+                <subject id="4052019-5" type="gnd">
+                    <subject xml:lang="de">Schallabstrahlung</subject>
+                </subject>
+                <subject id="4034054-5" type="gnd">
+                    <subject xml:lang="de">Lärmschutz</subject>
+                </subject>
+                <subject id="4153580-7" type="gnd">
+                    <subject xml:lang="de">Fahrzeuggetriebe</subject>
+                </subject>
+                <subject id="4129296-0" type="gnd">
+                    <subject xml:lang="de">Geräusch</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

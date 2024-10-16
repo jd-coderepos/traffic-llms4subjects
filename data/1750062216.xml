@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1750062216</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1750062216">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2021-03-01</databaseDate>
+            <changeDate>2022-04-01</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1750062216</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1750062216</identifier>
+                <identifier type="firstid">KXP:1750062216</identifier>
+                <identifier type="isbn13">9783030668808</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="cover" type="url">https://swbplus.bsz-bw.de/bsz1746360240cov.jpg</location>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1750062216.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3879834148</identifier>
+                    <creationDate>2022-02-08</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 21 B 1230</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">X, 115 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Subsonic combustion ramjet design</title>
+            <abstracts>
+                <abstract xml:lang="de">This book presents a step-by-step methodology for the design of ramjet engines. It explores ramjet combustion, provides guidelines on how to size the engines, and discusses performance analysis. The book begins with an introduction to ramjet design, including fundamental definitions in the field. It then discusses ramjet engine performance, and fuels which can be used. Several types of ramjet engines are then explored, and guidelines for their design are presented, including flame holders, injectors, and combustors. Finally, the book concludes with a discussion of the types of materials which should be used for ramjet engines. This book is of interest to engine designers and engineers, researchers, and graduate students, as it collates research in a succinct, clear guide to the issue of designing ramjet engines. .</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Ingenito, Antonella</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Antonella Ingenito</responsible>
+            <publicationInfo>
+                <issued>2021</issued>
+                <publicationPlaces>
+                    <publicationPlace>Cham</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="CH" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>SpringerBriefs in applied sciences and technology</title>
+                </journalInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>SpringerBriefs in applied sciences and technology</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106410601" classificationName="bk">
+                    <code>52.30</code>
+                    <entries>
+                        <entry>Strömungskraftmaschinen, Turbomaschinen</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.1</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mas</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Engines.</subject>
+                </subject>
+                <subject id="4135418-7" type="gnd">
+                    <subject xml:lang="de">Unterschallströmung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Engineering design.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Chemical engineering.</subject>
+                </subject>
+                <subject id="4062656-8" type="gnd">
+                    <subject xml:lang="de">Verbrennung</subject>
+                </subject>
+                <subject id="4182988-8" type="gnd">
+                    <subject xml:lang="de">Staustrahltriebwerk</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Machinery.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Aerospace engineering.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Astronautics.</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

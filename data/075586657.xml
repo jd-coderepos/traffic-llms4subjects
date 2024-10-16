@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:075586657</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:075586657">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1992-01-01</databaseDate>
+            <changeDate>2024-03-28</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>075586657</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">075586657</identifier>
+                <identifier type="firstid">GBV:075586657</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/sub-hamburg/019823339.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">277700558</identifier>
+                    <creationDate>1998-01-02</creationDate>
+                    <selectionKey>r</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">RA 1261(4)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">328 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Fünf Nordseehäfen : Exkursionen I und II ; Exkursionsberichte</title>
+            <abstracts>
+                <abstract xml:lang="de">Aus dem Vorwort: Diese Exkursionen der Deutschen Verkehrswissenschaftlichen Gesellschaft im Juli und Oktober 1968 galten einer Untersuchung der fünf großen niederländischen und bundesdeutschen Nordseehäfen in ihrem Verhältnis und ihrem Wettbewerb zueinander. Besondere Aufmerksamkeit kam der Stellung dieser Häfen im Rahmen der EWG-Verkehrspolitik zu. Desweiteren wurden die Auswirkungen der zunehmenden Containerisierung des zu verladenden Gutes auf die bauliche Gestaltung der Häfen und den Güterumschlag behandelt.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Eichhoff, Erich</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Voigt, F.</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Havlicek, Dieter</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Erich Eichhoff; F. Voigt. Red.: Dieter Havlicek</responsible>
+            <publicationInfo>
+                <issued>1969</issued>
+                <publicationPlaces>
+                    <publicationPlace>Köln</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Dt. Verkehrswiss. Ges.</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Schriftenreihe der Deutschen Verkehrswissenschaftlichen Gesellschaft</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>B: Seminar</title>
+                    <volumeNumber>4</volumeNumber>
+                </journalInfo>
+                <publicationIDInfo>Die Vorlage enth. insgesamt 2 Werke</publicationIDInfo>
+            </additionalDocumentInfo>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Schriftenreihe der Deutschen Verkehrswissenschaftlichen Gesellschaft</title>
+            </related>
+            <related type="parent">
+                <title>B: Seminar</title>
+                <volumeNumber>4</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106421832" classificationName="bk">
+                    <code>55.86</code>
+                    <entries>
+                        <entry>Schiffsverkehr, Schifffahrt</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4011889-7" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Deutschland (Bundesrepublik)</subject>
+                </subject>
+                <subject id="4116455-6" type="gnd">
+                    <subject xml:lang="de">Seehafen</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Hafen</subject>
+                </subject>
+                <subject id="4042203-3" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Niederlande</subject>
+                </subject>
+                <subject id="4075482-0" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Nordseeküste</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Exkursion</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

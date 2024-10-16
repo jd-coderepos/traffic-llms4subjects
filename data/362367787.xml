@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:362367787</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:362367787">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2003-04-13</databaseDate>
+            <changeDate>2024-04-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>362367787</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">362367787</identifier>
+                <identifier type="contract">19B1062</identifier>
+                <identifier type="firstid">GBV:362367787</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="miscellaneous" type="url">https://edocs.tib.eu/files/e01fb02/362367787l.pdf</location>
+                <location mimetype="application/pdf" subtype="fulltext" type="url">https://edocs.tib.eu/files/e01fb02/362367787.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">598200479</identifier>
+                    <creationDate>2003-04-13</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-89</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">Online-Ressource (63 p. = 931 KB)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Abschlußbericht für das Forschungs- und Entwicklungsvorhaben "BDO - Buchen-Disponieren-Optimieren": Entwicklung und Installation einer Buchungs- und Verwaltungssoftware mit Dispositionsoptimierung für Autovermietung, Car-Sharing und Auto-Leasing, insbesondere in mittelständischen Unternehmen</title>
+            <alternativeTitles>
+                <alternative>Entwicklung und Installation einer Buchungs- und Verwaltungssoftware mit Dispositionsoptimierung für Autovermietung, Car-Sharing und Auto-Leasing, insbesondere in mittelständischen Unternehmen</alternative>
+                <alternative>"BDO - Buchen-Disponieren-Optimieren"</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Carsharing, carrental, optimisation, resource effeciency, mobility, Java, Italy, Switzerland</abstract>
+            </abstracts>
+            <contributors>
+                <contributor>
+                    <contributor>Röhtz, Nadine</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Mewes, Holger</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Bearbeiter: Nadine Röhtz; Holger Mewes</responsible>
+            <publicationInfo>
+                <issued>2003</issued>
+                <edition>[Elektronische Ressource]</edition>
+                <publicationPlaces>
+                    <publicationPlace>Berlin</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>IVU Traffic Technologies AG</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-296-TTN</identifier>
+                </isPartOf>
+                <publicationIDInfo>Contract BMBF 19B1062. - Differences between the printed and electronic version of the document are possible. - nBibliography p. 57</publicationIDInfo>
+                <publicationIDInfo>Also available as printed version</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>ill., graphs</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-296-TTN</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="181570637" classificationName="bk">
+                    <code>55.81</code>
+                    <entries>
+                        <entry>Personenverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4134274-4" type="gnd">
+                    <subject xml:lang="de">Mietwagenunternehmen</subject>
+                </subject>
+                <subject id="4314118-3" type="gnd">
+                    <subject xml:lang="de">Dispositionssystem</subject>
+                </subject>
+                <subject id="4326831-6" type="gnd">
+                    <subject xml:lang="de">Carsharing</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">default</property>
+            <property name="displaySubscriberAccess">https://edocs.tib.eu/files/e01fb02/362367787.pdf</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

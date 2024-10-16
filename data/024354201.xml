@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:024354201</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:024354201">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1971-01-01</databaseDate>
+            <changeDate>2024-04-16</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>024354201</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">024354201</identifier>
+                <identifier type="firstid">GBV:024354201</identifier>
+                <identifier type="isbn">3921334063</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://external.dandelon.com/download/attachments/dandelon/ids/DE020731076B1ED801149C12579DD005415D4.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">03069003x</identifier>
+                    <creationDate>1991-12-19</creationDate>
+                    <selectionKey>n</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">HA 8490</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-21</isil>
+            </preservation>
+            <preservation procedure="digital-preservation">
+                <isil>DE-16</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">318 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Fluggesellschaften und Luftverkehrssysteme der sozialistischen Staaten UdSSR, Polen, CSSR, Ungarn, Bulgarien, Rumänien, Kuba, Jugoslawien und der VR China</title>
+            <abstracts>
+                <abstract xml:lang="de">Literaturverzeichnis</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Kneifel, Johannes</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">108128830</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>J. L. Kneifel</responsible>
+            <publicationInfo>
+                <issued>1980</issued>
+                <publicationPlaces>
+                    <publicationPlace>Nördlingen</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Steinmeier</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Literaturverz. S. 279 - 318. - Mit engl. und franz. Zsfassungen</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>23 cm</description>
+            <description>graph. Darst.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106410660" classificationName="bk">
+                    <code>55.88</code>
+                    <entries>
+                        <entry>Luftverkehr, Raumfahrt</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loksys">
+                    <code>wir 282</code>
+                </classification>
+                <classification classificationName="ssg">
+                    <code>1</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 7600</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>341.7/567/091717</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>21a</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>JX5771</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4036597-9" type="gnd">
+                    <subject xml:lang="de">Luftverkehr</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Airlines</subject>
+                </subject>
+                <subject id="4055813-7" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Sozialistische Staaten</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Luftverkehr</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Aeronautics</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Aeronautics, Commercial</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:017652545</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:017652545">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1984-12-05</databaseDate>
+            <changeDate>2024-05-17</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>017652545</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">017652545</identifier>
+                <identifier type="firstid">GBV:017652545</identifier>
+                <identifier type="isbn">0070660875</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">019560699</identifier>
+                    <creationDate>1984-12-05</creationDate>
+                    <selectionKey>n</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">FA 5631,3</location>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XIII, 423 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Principles of underwater sound</title>
+            <abstracts>
+                <abstract xml:lang="de">Das "Standardwerk" zum Thema Wasserschall. Urick behandelt alle wichtigen Erscheinungen des Wasserschallś einschließlich Körperschall im Meer.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Urick, Robert J.</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1186653493</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Robert J. Urick</responsible>
+            <publicationInfo>
+                <issued>1983</issued>
+                <edition>3. ed.</edition>
+                <publicationPlaces>
+                    <publicationPlace>New York, NY [u.a.]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>McGraw-Hill</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>"First edition published in 1967 under the title: "Principles of underwater sound for Engineers"</publicationIDInfo>
+                <publicationIDInfo>Includes bibliographies and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>534/.23</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>QC242.2</code>
+                </classification>
+                <classification classificationName="loksys">
+                    <code>ver 460.7</code>
+                </classification>
+                <classification classificationName="loksys">
+                    <code>waf 468</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>534'.23</code>
+                </classification>
+                <classification classificationName="loksys">
+                    <code>tec 647</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Underwater acoustics</subject>
+                </subject>
+                <subject id="4259255-0" type="gnd">
+                    <subject xml:lang="de">Hydroakustik</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Sonar</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:836309847</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:836309847">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2015-10-08</databaseDate>
+            <changeDate>2024-04-22</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>836309847</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">836309847</identifier>
+                <identifier type="firstid">GBV:836309847</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">http://nbn-resolving.de/urn:nbn:de:gbv:089-8363098476</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1570937001</identifier>
+                    <creationDate>2015-10-08</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>oa</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-89</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">Online-Ressource (189 S., 72,2 MB)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Entwicklung eines adaptiven Schlechtwetterlichtsystems zur Reduzierung der indirekten Blendung bei nassen Fahrbahnen</title>
+            <abstracts>
+                <abstract xml:lang="de">Schlechtwetterlicht, nasse Fahrbahn, Vorwärtsreflexion, indirekte Blendung, lichtbasierte Fahrerassistenz, Kfz-Scheinwerfer, Sensorfusion, Umfelderkennung. - Adverse weather light, wet road, forward reflection, indirect glare, light-based driver assistance system, headlamp, sensor fusion, environment detection</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Fischer, Jorne</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1077452276</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>von Jorne Fischer</responsible>
+            <publicationInfo>
+                <issued>2015</issued>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Technische Informationsbibliothek u. Universitätsbibliothek</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Hannover, Univ., Diss., 2015</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+                <publicationIDInfo>Gedruckt ersch. als: Berichte aus dem IDS ; 2015,3</publicationIDInfo>
+            </additionalDocumentInfo>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106418653" classificationName="bk">
+                    <code>53.38</code>
+                    <entries>
+                        <entry>Lichttechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4035633-4" type="gnd">
+                    <subject xml:lang="de">Lichttechnik</subject>
+                </subject>
+                <subject id="4137755-2" type="gnd">
+                    <subject xml:lang="de">Straßenfahrzeug</subject>
+                </subject>
+                <subject id="4153537-6" type="gnd">
+                    <subject xml:lang="de">Fahrbahn</subject>
+                </subject>
+                <subject id="4275017-9" type="gnd">
+                    <subject xml:lang="de">Scheinwerfer</subject>
+                </subject>
+                <subject id="4177333-0" type="gnd">
+                    <subject xml:lang="de">Reflexion (Physik)</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://nbn-resolving.de/urn:nbn:de:gbv:089-8363098476</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

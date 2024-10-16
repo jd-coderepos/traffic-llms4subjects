@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:015794695</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:015794695">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1987-03-11</databaseDate>
+            <changeDate>2024-04-15</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>015794695</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">015794695</identifier>
+                <identifier type="firstid">GBV:015794695</identifier>
+                <identifier type="isbn">3980049393</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://d-nb.info/850136342/04</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">019855915</identifier>
+                    <creationDate>1986-11-12</creationDate>
+                    <selectionKey>n</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">FJ 3406</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-35</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">192 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Drehende Flügel : Hubschrauber, Tragschrauber, Geschichte, Technik</title>
+            <alternativeTitles>
+                <alternative>Hubschraubermuseum Bückeburg</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Literaturverz. S. 187 - 191</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Hubschraubermuseum, Bückeburg</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2080637-1</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+                <corporateCreator>
+                    <name>Hubschrauberzentrum e.V., Bückeburg</name>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor>
+                    <contributor>Noltemeyer, Werner</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Hubschraubermuseum Bückeburg; Hrsg.: Hubschrauberzentrum e.V., Bückeburg. Red.: W. Noltemeyer</responsible>
+            <publicationInfo>
+                <issued>1984</issued>
+                <publicationPlaces>
+                    <publicationPlace>Bückeburg</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Hubschrauberzentrum e.V.</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Literaturverz. S. 187 - 191</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>21 cm</description>
+            <description>zahlr. Ill</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loksys">
+                    <code>ver 654</code>
+                </classification>
+                <classification classificationID="106420593" classificationName="bk">
+                    <code>55.51</code>
+                    <entries>
+                        <entry>Flugzeuge</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>36</code>
+                </classification>
+                <classification classificationName="loksys">
+                    <code>ver 972</code>
+                </classification>
+                <classification classificationName="loksys">
+                    <code>tec 25</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Bückeburg / M.e. Archive, Museen</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Museum / Einz. Orte -&gt; Bückeburg</subject>
+                </subject>
+                <subject id="4025993-6" type="gnd">
+                    <subject xml:lang="de">Hubschrauber</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Verkehrsmuseum</subject>
+                </subject>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Hubschrauber</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

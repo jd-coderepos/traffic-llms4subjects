@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:113345291</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:113345291">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1992-11-23</databaseDate>
+            <changeDate>2024-05-06</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>113345291</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">113345291</identifier>
+                <identifier type="firstid">GBV:113345291</identifier>
+                <identifier type="isbn">1560980311</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/hbz/toc/ht004185088.PDF</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">103989587</identifier>
+                    <creationDate>1993-07-22</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">T 93 B 1399</location>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">273 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Airshipmen, businessmen, and politics, 1890 - 1940</title>
+            <abstracts>
+                <abstract xml:lang="de">Betr. auch Friedrichshafen sowie Ferdinand von Zeppelin und Hugo Eckener</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Meyer, Henry Cord</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">114211590</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Henry Cord Meyer</responsible>
+            <publicationInfo>
+                <issued>1991</issued>
+                <publicationPlaces>
+                    <publicationPlace>Washington [u.a.]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Smithsonian Institution Press</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Smithsonian history of aviation series</title>
+                </journalInfo>
+                <publicationIDInfo>Includes bibliographical references (p. 265-269) and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>26 cm</description>
+            <description>Ill</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Smithsonian history of aviation series</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>ZO 7320</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL657</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>387.7/325/09</code>
+                </classification>
+                <classification classificationID="106419072" classificationName="bk">
+                    <code>55.59</code>
+                    <entries>
+                        <entry>Ballons, Luftschiffe, Fallschirme</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Neuzeit 1871-1918</subject>
+                </subject>
+                <subject id="4036587-6" type="gnd">
+                    <subject xml:lang="de">Luftschiff</subject>
+                </subject>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte 1890-1940</subject>
+                </subject>
+                <subject id="116798033" subtype="person" type="gnd">
+                    <subject xml:lang="de">Schütte, Johann 1873-1940</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Luftschiff</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Luft- und Raumfahrtindustrie</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Airships</subject>
+                </subject>
+                <subject id="118636545" subtype="person" type="gnd">
+                    <subject xml:lang="de">Zeppelin, Ferdinand von 1838-1917</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>20. Jahrhundert 1918-1933</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>20. Jahrhundert 1933-1945</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Luftschifffahrt</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

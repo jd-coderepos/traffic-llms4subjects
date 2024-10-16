@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1691512060</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1691512060">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2020-03-04</databaseDate>
+            <changeDate>2024-05-10</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1691512060</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1691512060</identifier>
+                <identifier type="firstid">KXP:1691512060</identifier>
+                <identifier type="isbn13">9783947623273</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1691512060.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3660979058</identifier>
+                    <creationDate>2020-05-06</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RB 2242(2019,21)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-35</isil>
+            </preservation>
+            <preservation procedure="digital-preservation">
+                <isil>DE-84</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">242 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Praktische Erwägungen zu Multi-Sensor-Navigationssystemen</title>
+            <abstracts>
+                <abstract xml:lang="de">Navigation ist eine Schlüsseltechnologie für viele bestehende professionelle Anwendungen, wie die Führung von Flugzeugen und Schiffen, sowie vielfältige neue Anwendungen wie hochautomatisiertes Fahren, Stabilisierung und Führung von UAS oder erweiterte Realität. INS und GNSS, in Kombination mit weiteren Sensoren, sind heutzutage das Rückgrat für viele dieser Anwendungen. Dieses Buch versucht, unabhängig von spezialisierten Algorithmen für bestimmte Anwendungen, Fragen des zugrundeliegenden Messsystems, der Verarbeitung von Navigations-Sensordaten und architektonische Überlegungen zum Design des Navigationssystems gut verständlich zu beschreiben. Die behandelten Fragestellungen werden anhand geeigneter Algorithmen erläutert und ggf. auf weitere Literatur zu speziellen Fragestellungen und Lösungen verwiesen. Dabei wird Wert darauf gelegt alle wichtigen Schritte in der jeweiligen Verarbeitungskette, deren Abhängigkeiten und Funktion zu erläutern. Diese Darstellung fördert das Verständnis der Zusammenhänge und bietet die Möglichkeit eine in vielen Anwendungen erprobte Architektur kennenzulernen. Einzelnen Elemente können leicht variiert und durch andere Algorithmen ersetzt oder ergänzt werden.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="degree-granting-institution">
+                    <type>degree-granting-institution</type>
+                    <name>Technische Universität Braunschweig</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">36227-X</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Bestmann, Ulf</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">143225766</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Dr. Ulf Bestmann, TU Braunschweig, Institut für Flugführung</responsible>
+            <publicationInfo>
+                <issued>2019</issued>
+                <edition>Als Manuskript gedruckt</edition>
+                <publicationPlaces>
+                    <publicationPlace>Braunschweig</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>TU Braunschweig, Niedersächsisches Forschungszentrum für Luftfahrt</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Forschungsbericht / Niedersächsisches Forschungszentrum für Luftfahrt</title>
+                    <volumeNumber>2019-21</volumeNumber>
+                </journalInfo>
+                <journalInfo>
+                    <title>Berichte aus der Luft- und Raumfahrttechnik</title>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2019</dateAccepted>
+                        <description>Habilitationsschrift, Technische Universität Carolo-Wilhelmina zu Braunschweig</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+                <publicationIDInfo>Diese Arbeit erscheint gleichzeitig als von der Fakultät für Maschinenbau der Technischen Universität Carolo-Wilhelmina zu Braunschweig zur Erlangung der venia legendi und der Privatdozentur genehmigte Habilitationsschrift.</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>Praktische Erwägungen zu Multi-Sensor-Navigationssystemen</title>
+                <identifier type="isbn13">9783947623273</identifier>
+                <identifier type="ppn">1690824824</identifier>
+            </related>
+            <related type="parent">
+                <title>Forschungsbericht / Niedersächsisches Forschungszentrum für Luftfahrt</title>
+                <volumeNumber>2019-21</volumeNumber>
+            </related>
+            <related type="parent">
+                <title>Berichte aus der Luft- und Raumfahrttechnik</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106415182" classificationName="bk">
+                    <code>53.84</code>
+                    <entries>
+                        <entry>Ortungstechnik, Radartechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>621.3</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="106409786" classificationName="bk">
+                    <code>55.10</code>
+                    <entries>
+                        <entry>Technik der Verkehrsmittel, Transporttechnik: Allgemeines</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4257775-5" type="gnd">
+                    <subject xml:lang="de">Multisensor</subject>
+                </subject>
+                <subject id="4781185-7" type="gnd">
+                    <subject xml:lang="de">Navigationssystem</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:65926885X</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:65926885X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2011-05-18</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>65926885X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">65926885X</identifier>
+                <identifier type="firstid">GBV:65926885X</identifier>
+                <identifier type="isbn13">9780760339411</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1255601574</identifier>
+                    <creationDate>2012-10-30</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 11 B 7766</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">299 p</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>The space shuttle : celebrating thirty years of NASA's first space plane</title>
+            <abstracts>
+                <abstract xml:lang="de">"This superbly designed and lavishly illustrated book marks a special moment in history: the final mission of the space shuttle. Noted space and science author Piers Bizony has put together a retrospective that covers all 134 space shuttle missions, including the final flight of the shuttle, which is scheduled for September 2010. In addition to covering every space shuttle mission, the book also covers the development and design of the space shuttle, as well as the technical specifications of the vehicle and details of its major assemblies and subassemblies. A full double-gatefold provides a large-scale technical drawing of the space shuttle"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Bizony, Piers</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Piers Bizony</responsible>
+            <publicationInfo>
+                <issued>2011</issued>
+                <publicationPlaces>
+                    <publicationPlace>Minneapolis, Minn.</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>MBI Pub. Co. and Zenith Press</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>29 cm</description>
+            <description>col. ill</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420607" classificationName="bk">
+                    <code>55.61</code>
+                    <entries>
+                        <entry>Raumfahrzeuge</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>TEC002000</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.44/10973</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>SCI005000</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL795.5</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Space flights</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">National Aeronautics and Space Administration</subject>
+                </subject>
+                <subject id="4420719-0" type="gnd">
+                    <subject xml:lang="de">Space-shuttle</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Space shuttles</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">United States</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

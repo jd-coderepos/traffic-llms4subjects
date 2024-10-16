@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1744944091</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1744944091">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2021-01-19</databaseDate>
+            <changeDate>2022-01-28</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1744944091</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1744944091</identifier>
+                <identifier type="firstid">KXP:1744944091</identifier>
+                <identifier type="isbn13">9789811592508</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1744944091.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3839227283</identifier>
+                    <creationDate>2021-12-30</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 21 B 691</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XIV, 285 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Electric vehicles : modern technologies and trends</title>
+            <abstracts>
+                <abstract xml:lang="de">This book focuses on the latest emerging technologies in electric vehicles (EV), and their economic and environmental impact. The topics covered include different types of EV such as hybrid electrical vehicle (HEV), battery electrical vehicle (BEV), fuel cell electrical vehicle (FCEV), plug-in hybrid electrical vehicle (PHEV). Theoretical background and practical examples of conventional electrical machines, advanced electrical machines, battery energy sources, on-board charging and off-board charging techniques, and optimization methods are presented here. This book can be useful for students, researchers and practitioners interested in different problems and challenges associated with electric vehicles. .</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Patel, Nil</contributor>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Bhoi, Akash Kumar</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1217079874</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Padmanaban, Sanjeevikumar</contributor>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Holm-Nielsen, Jens Bo</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Nil Patel, Akash Kumar Bhoi, Sanjeevikumar Padmanaban, Jens Bo Holm-Nielsen, editors</responsible>
+            <publicationInfo>
+                <issued>2021</issued>
+                <publicationPlaces>
+                    <publicationPlace>Singapore</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="SG" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Green energy and technology</title>
+                </journalInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Green energy and technology</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>621.317</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Power electronics.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Transportation.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Transportation engineering.</subject>
+                </subject>
+                <subject id="7524499-8" type="gnd">
+                    <subject xml:lang="de">Hybridfahrzeug</subject>
+                </subject>
+                <subject id="4008195-3" type="gnd">
+                    <subject xml:lang="de">Brennstoffzelle</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Traffic engineering.</subject>
+                </subject>
+                <subject id="4151795-7" type="gnd">
+                    <subject xml:lang="de">Elektrofahrzeug</subject>
+                </subject>
+                <subject id="4144126-6" type="gnd">
+                    <subject xml:lang="de">Batteriefahrzeug</subject>
+                </subject>
+                <subject id="1021591971" type="gnd">
+                    <subject xml:lang="de">Plug-in-Hybrid</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Renewable energy resources.</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

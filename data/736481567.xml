@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:736481567</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:736481567">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2013-02-19</databaseDate>
+            <changeDate>2022-07-13</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>736481567</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">736481567</identifier>
+                <identifier type="firstid">GBV:736481567</identifier>
+                <identifier type="isbn13">9780415829526</identifier>
+                <identifier type="isbn13">9780415810050</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/736481567.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1442293926</identifier>
+                    <creationDate>2014-10-31</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 14 B 741</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XXXI, 784 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Seamanship techniques : shipboard and marine operations</title>
+            <abstracts>
+                <abstract xml:lang="de">"Now in full colour with over 600 images, Seamanship Techniques contains everything the modern seafarer needs to know about life at sea. Already recognised as one of the leading texts for cadets and serving seafarers of all ranks, this new edition covers all of the seamanship knowledge required by students to progress in their careers, and is also a useful resource for experienced seafarers."--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>House, David J.</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1060276216</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>D.J. House</responsible>
+            <publicationInfo>
+                <issued>2014</issued>
+                <edition>4. ed.</edition>
+                <publicationPlaces>
+                    <publicationPlace>London [u.a.]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="GB" />
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Routledge</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Includes index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>26 cm</description>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106421832" classificationName="bk">
+                    <code>55.86</code>
+                    <entries>
+                        <entry>Schiffsverkehr, Schifffahrt</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>VK541</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>623.88</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4054184-8" type="gnd">
+                    <subject xml:lang="de">Seeschifffahrt</subject>
+                </subject>
+                <subject id="4054164-2" type="gnd">
+                    <subject xml:lang="de">Seemannschaft</subject>
+                </subject>
+                <subject id="4120694-0" type="gnd">
+                    <subject xml:lang="de">Manöver (Schifffahrt)</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Seamanship</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

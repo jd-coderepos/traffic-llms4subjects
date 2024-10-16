@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:510963870</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:510963870">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2006-04-26</databaseDate>
+            <changeDate>2022-06-28</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>510963870</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">510963870</identifier>
+                <identifier type="firstid">GBV:510963870</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">http://edok01.tib.uni-hannover.de/edoks/e01dd01/510963870.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">802486436</identifier>
+                    <creationDate>2006-12-01</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online-Ressource (57 S.,1,50 MB)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Bifurcation analysis of microscopic follow-the-leader traffic models</title>
+            <abstracts>
+                <abstract xml:lang="de">Traffic flow is an interesting phenomenon of our modern world. Although we all experience it daily, tra±c ʿow is far from being well understood. It is a life science problem, since drivers do not usually act according to well defined rules. However, the increase of tra±c in many areas and the related problems underline the importance of a realistic description of traffic flow or of some of its features. The mathematical modeling of traffic flow has a long tradition. Various approaches can be found in literature. A very common class of tra±c models is the macroscopic one, where the traffic flow is described in terms of density and velocity distributions ...</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Sirito, Gabriele</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">131422812</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>von Gabriele Sirito</responsible>
+            <publicationInfo>
+                <issued>2006</issued>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Niedersächsische Staats- und Universitätsbibliothek</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Hamburg, Univ., FB Mathematik, Diss, 2005</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="10642064X" classificationName="bk">
+                    <code>55.84</code>
+                    <entries>
+                        <entry>Straßenverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ssg">
+                    <code>17,1</code>
+                </classification>
+                <classification classificationID="106408194" classificationName="bk">
+                    <code>31.76</code>
+                    <entries>
+                        <entry>Numerische Mathematik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>515.392</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>510</code>
+                </classification>
+                <classification classificationID="106407724" classificationName="bk">
+                    <code>31.44</code>
+                    <entries>
+                        <entry>Gewöhnliche Differentialgleichungen</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mat</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4160648-6" type="gnd">
+                    <subject xml:lang="de">Hopf-Verzweigung</subject>
+                </subject>
+                <subject id="7531433-2" type="gnd">
+                    <subject xml:lang="de">Velocity (Framework, Informatik)</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://edok01.tib.uni-hannover.de/edoks/e01dd01/510963870.pdf</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

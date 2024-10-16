@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1616878606</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1616878606">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2015-06-02</databaseDate>
+            <changeDate>2023-02-20</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1616878606</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1616878606</identifier>
+                <identifier type="firstid">BSZ:446552534</identifier>
+                <identifier type="isbn13">9781472431752</identifier>
+                <identifier type="isbn13">9781472431783</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/826556205.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1551117150</identifier>
+                    <creationDate>2016-06-23</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 15 B 4331</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xxv, 369 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Safety management systems in aviation</title>
+            <abstracts>
+                <abstract xml:lang="de">"While some countries have been engaged in Safety Management System (SMS) programs for a few years, it is still non-existent in many other countries. In this second edition of Safety Management Systems in Aviation, the authors have extensively updated relevant sections to reflect developments since the original book of 2008. New sections include: a brief history of FAA initiatives to establish SMS, data-driven safety studies, developing a system description, SMS in a flight school, and measuring SMS effectiveness"--Provided by publisher</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Stolzer, Alan J.</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">136525571</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Goglia, John Joseph</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">136525644</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Alan J. Stolzer (Embry-Riddle Aeronautical University, USA) and John J. Goglia</responsible>
+            <publicationInfo>
+                <issued>2015</issued>
+                <edition>Second edition</edition>
+                <publicationPlaces>
+                    <publicationPlace>Farnham, Surrey</publicationPlace>
+                    <publicationPlace>Burlington, VT</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="GB" />
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Ashgate</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>25 cm</description>
+            <description>Diagramme</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>363.12/47</code>
+                </classification>
+                <classification classificationID="106410660" classificationName="bk">
+                    <code>55.88</code>
+                    <entries>
+                        <entry>Luftverkehr, Raumfahrt</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL553.5</code>
+                </classification>
+                <classification classificationID="181570769" classificationName="bk">
+                    <code>55.54</code>
+                    <entries>
+                        <entry>Flugführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 7872</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Aeronautics</subject>
+                </subject>
+                <subject id="4181167-7" type="gnd">
+                    <subject xml:lang="de">Sicherheitsmaßnahme</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>System safety</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">System safety</subject>
+                </subject>
+                <subject id="4154771-8" type="gnd">
+                    <subject xml:lang="de">Flugsicherung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Safety regulations</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Aeronautics</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Safety measures</subject>
+                </subject>
+                <subject id="4036557-8" type="gnd">
+                    <subject xml:lang="de">Luftfahrt</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

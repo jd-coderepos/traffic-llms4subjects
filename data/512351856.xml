@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:512351856</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:512351856">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2006-05-24</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>512351856</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">512351856</identifier>
+                <identifier type="firstid">DNB:979696240</identifier>
+                <identifier type="isbn">376885230X</identifier>
+                <identifier type="isbn13">9783768852302</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/hebis-darmstadt/toc/183822102.pdf</location>
+                <location subtype="description" type="url">http://deposit.dnb.de/cgi-bin/dokserv?id=2807427&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</location>
+                <location subtype="miscellaneous" type="url">http://deposit.dnb.de/cgi-bin/dokserv?id=2807427&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">767701577</identifier>
+                    <creationDate>2007-01-19</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 07 B 672</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">567 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Das Schrauberhandbuch : Technik, Wartung, Instandsetzung</title>
+            <abstracts>
+                <abstract xml:lang="de">Ausführliches Handbuch über Reparatur und Instandhaltung von Motorrädern. Bietet zunächst grundlegende Informationen über das Fahrzeug und seine Komponenten, bevor detailliert einzelne Wartungs- und Reparaturarbeiten vorgestellt werden. Wurde gegenüber der 7. Auflage 1996 (BA 11/96) um ca. 30 Seiten erweitert (neue Techniken) und durchgehend aktualisiert. Ein Austausch der Ausgaben ist anzuraten. (2)</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Nepomuck, Bernd L.</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Janneck, Udo</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Bernd L. Nepomuck; Udo Janneck</responsible>
+            <publicationInfo>
+                <issued>2006</issued>
+                <edition>12., überarb. Aufl</edition>
+                <publicationPlaces>
+                    <publicationPlace>Bielefeld</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Delius Klasing</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Literaturverz. S. [566] - 567</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>25 cm</description>
+            <description>Ill., graph. Darst</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.28775</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4410</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="106419404" classificationName="bk">
+                    <code>50.16</code>
+                    <entries>
+                        <entry>Technische Zuverlässigkeit, Instandhaltung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4115746-1" type="gnd">
+                    <subject xml:lang="de">Reparatur</subject>
+                </subject>
+                <subject id="4027145-6" type="gnd">
+                    <subject xml:lang="de">Instandhaltung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Motorrad</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Instandhaltung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Reparatur</subject>
+                </subject>
+                <subject id="4040392-0" type="gnd">
+                    <subject xml:lang="de">Motorrad</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Anleitung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1680665537</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1680665537">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2019-10-29</databaseDate>
+            <changeDate>2020-09-30</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1680665537</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1680665537</identifier>
+                <identifier type="firstid">KXP:1680665537</identifier>
+                <identifier type="isbn13">9781619548893</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1680665537.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3605647596</identifier>
+                    <creationDate>2020-05-28</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 20 B 1331</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xvi, 448 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Global navigation for pilots : international flight techniques and procedures</title>
+            <alternativeTitles>
+                <alternative>ASA-GNP-3</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Introduction and International Regulations -- Earth Reference Systems -- Maps and Charts -- Basic Navigation Instruments -- Basic Navigation Techniques -- International Trip Planning and Preparation -- Trans-Oceanic and Trans-Wilderness Planning -- International Flight Operations -- Flying in Europe -- International Weather -- Inertial Navigation -- Global Positioning System -- Flight Management Systems -- Time -- Navigation System Errors and Limitations -- Celestial Concepts -- The Future of Air Navigation.</abstract>
+                <abstract xml:lang="de">"This Third Edition of 'Global Navigation for Pilots: International Flight Techniques and Procedures' is written and updated by Dale DeRemer, Ph.D. and Gary Ullrich, and serves as the continuation of what has been the definitive textbook on the subject since 1993. Covers long-range navigation techniques and procedures, and international flight planning, systems, and regulations; also trans-oceanic navigation and European flight planning. Topics include: GPS, RVSM airspace, featureless terrain navigation, celestial concepts important to pilots, ICAO aircraft registry information, and how to get your flight department ready to fly internationally. Fully illustrated, and includes glossary and index"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>DeRemer, Dale</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1063654270</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Ullrich, Gary M.</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Dale De Remer, Ph.D., Gary M. Ullrich</responsible>
+            <publicationInfo>
+                <issued>2019</issued>
+                <edition>Third edition</edition>
+                <publicationPlaces>
+                    <publicationPlace>Newcastle, Washington</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Aviation Supplies &amp; Academics, Inc</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.132/51</code>
+                </classification>
+                <classification classificationID="181570769" classificationName="bk">
+                    <code>55.54</code>
+                    <entries>
+                        <entry>Flugführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL586</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Global Positioning System</subject>
+                </subject>
+                <subject id="4017678-2" type="gnd">
+                    <subject xml:lang="de">Flugzeugführer</subject>
+                </subject>
+                <subject id="4017656-3" type="gnd">
+                    <subject xml:lang="de">Flugnavigation</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Navigation (Aeronautics)</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

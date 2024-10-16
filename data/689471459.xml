@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:689471459</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:689471459">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2012-03-29</databaseDate>
+            <changeDate>2024-01-30</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>689471459</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">689471459</identifier>
+                <identifier type="firstid">GBV:689471459</identifier>
+            </identifiers>
+            <locations>
+                <location mimetype="application/pdf" subtype="fulltext" type="url">http://edok01.tib.uni-hannover.de/edoks/e01dd13/689471459.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">140058308X</identifier>
+                    <creationDate>2013-06-14</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>oa</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online-Ressource (PDF-Datei: 119 S., 2984 KB)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>RFID-basierte Navigation für autonome Fahrzeuge</title>
+            <alternativeTitles>
+                <alternative>RFID based navigation for autonomous vehicles</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">In dieser Arbeit wurden die Möglichkeiten eines pheromonbasierten Navigationsverfahrens mittels wiederbeschreibbarer RFID-Tags untersucht. Im Gegensatz zu anderen Ansätzen wird hier auf eine eindeutige Fahrzeuglokalisierung verzichtet. Es wurden Algorithmen für die Navigation entwickelt und in einem Test-System evaluiert. Um eine höhere Fahrgeschwindigkeit zu erreichen, wurden Antikollisionsalgorithmen für das Inventory optimiert. Des Weiteren wurde ein neuer Inventory-Ansatz ausgearbeitet, der insbesondere für die untersuchten Navigationssysteme geeignet ist.</abstract>
+                <abstract xml:lang="de">In this thesis the possibilities of a pheromone-based navigation system using rewritable RFID tags have been examined. In contrast to other approaches, this system does not make use of an unambiguous localisation of vehicles. Navigation algorithms have been developed and evaluated in a test system. In order to achieve a higher driving speed, the optimisation of current anti-collision algorithms was necessary. Furthermore, a new inventory approach has been introduced, which has strengths in the examined navigation systems.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Technische Universität Hamburg-Harburg, Institut für Telematik</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">10179296-7</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Bosien, Arne</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Turau, Volker</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">122165527</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Meyer, Wolfgang</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Arne Bosien</responsible>
+            <publicationInfo>
+                <issued>2012</issued>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Techn. Univ. Hamburg-Harburg, Univ.-Bibl.</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Hamburg-Harburg, Techn. Univ., Institut für Telematik, Diss., 2012</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+                <publicationIDInfo>Unterschiede zwischen dem gedruckten Dokument und der elektronischen Ressource können nicht ausgeschlossen werden</publicationIDInfo>
+                <publicationIDInfo>Parallel als Druckausg. bei Books on Demand GmbH, Norderstedt erschienen</publicationIDInfo>
+            </additionalDocumentInfo>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106415182" classificationName="bk">
+                    <code>53.84</code>
+                    <entries>
+                        <entry>Ortungstechnik, Radartechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>004</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="181570424" classificationName="bk">
+                    <code>55.24</code>
+                    <entries>
+                        <entry>Fahrzeugführung, Fahrtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>FTS</subject>
+                </subject>
+                <subject id="4509863-3" type="gnd">
+                    <subject xml:lang="de">RFID</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Antikollision</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>RFID</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Navigation</subject>
+                </subject>
+                <subject id="4199255-6" type="gnd">
+                    <subject xml:lang="de">Kollisionsschutz</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Anti collision</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>AGV</subject>
+                </subject>
+                <subject id="4016284-9" type="gnd">
+                    <subject xml:lang="de">Fahrerloses Transportsystem</subject>
+                </subject>
+                <subject id="4129594-8" type="gnd">
+                    <subject xml:lang="de">Maschinelles Sehen</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Inventory</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">default</property>
+            <property name="displaySubscriberAccess">http://edok01.tib.uni-hannover.de/edoks/e01dd13/689471459.pdf</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

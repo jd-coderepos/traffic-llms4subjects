@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:826961622</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:826961622">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2015-06-09</databaseDate>
+            <changeDate>2021-02-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>826961622</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">826961622</identifier>
+                <identifier type="firstid">GBV:826961622</identifier>
+                <identifier type="isbn13">9781138859623</identifier>
+                <identifier type="isbn13">9781138846067</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/bowker/toc/9781138846067.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1556158491</identifier>
+                    <creationDate>2016-07-06</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 15 B 4935</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xxiii, 407 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Cargo work : for maritime operations</title>
+            <abstracts>
+                <abstract xml:lang="de">"An essential reference for merchant seamen around the world, Cargo Work provides a guide to the key characteristics of a wide range of cargoes. Fully revised and expanded to comprehensively reflect the unit load containerized systems that are now employed in all aspects of cargo handling and international shipping, while retaining the necessary detail on transporting key classes of cargoes safely, efficiently and profitably. This book covers general principles and the latest international regulations that affect all cargo work, including cargo types, coverage of roll-on/roll-off cargo handling, containerization, equipment and offshore supply.  A crucial reference for both students and serving crew. Covers the latest International Maritime Organization (IMO) codes, plus key elements of the International Port and Ship Security Code (ISPS). Includes two new chapters on Passenger Vessels and Offshore Trades"--Provided by publisher</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>House, David J.</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1060276216</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>D.J. House</responsible>
+            <publicationInfo>
+                <issued>2016</issued>
+                <edition>Eighth edition</edition>
+                <publicationPlaces>
+                    <publicationPlace>London</publicationPlace>
+                    <publicationPlace>New York</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Routledge, Taylor &amp; Francis Group</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Based on the original series by Kemp &amp; Young</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106421832" classificationName="bk">
+                    <code>55.86</code>
+                    <entries>
+                        <entry>Schiffsverkehr, Schifffahrt</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>623.88/81</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>VK235</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 6010</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Stowage</subject>
+                </subject>
+                <subject id="4213791-3" type="gnd">
+                    <subject xml:lang="de">Beladung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Cargo handling</subject>
+                </subject>
+                <subject id="4054184-8" type="gnd">
+                    <subject xml:lang="de">Seeschifffahrt</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Ships</subject>
+                </subject>
+                <subject id="4645849-9" type="gnd">
+                    <subject xml:lang="de">Beladen</subject>
+                </subject>
+                <subject id="4133846-7" type="gnd">
+                    <subject xml:lang="de">Ladegut</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

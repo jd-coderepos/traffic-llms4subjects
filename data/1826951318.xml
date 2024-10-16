@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1826951318</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1826951318">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2022-12-13</databaseDate>
+            <changeDate>2023-06-13</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1826951318</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1826951318</identifier>
+                <identifier type="firstid">KXP:1826951318</identifier>
+                <identifier type="isbn13">9781624106163</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1826951318.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4318249611</identifier>
+                    <creationDate>2023-05-26</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 23 B 1146</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xliii, 927 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Modern flight dynamics</title>
+            <abstracts>
+                <abstract xml:lang="de">"When introduced to the topic of flight dynamics students discover that it is the essence of aeronautical engineering because it involves the study of the motion-the flight-of the vehicle. This motion defines the vehicle's performance, a topic of enormous significance to the ultimate success of the machine. Flight dynamics is a study of the complete vehicle, rather than just a component of a vehicle. Hence, it is fundamentally the study of a multicomponent system and its dynamics. Modern Flight Dynamics is a result of the David Schmidt's 30-years of experience in teaching flight dynamics, plus his years of experience as a practitioner and researcher in the field. This book can serve as the text for a two-course sequence in modern flight dynamics: the first an undergraduate course, the second at the undergraduate or graduate level. Other course usage is also possible. The book was written with the assumption that the student has mastered basic dynamics and has some exposure to classical control theory prior to beginning this course sequence. A previous course in aerodynamics would be helpful but could be taken concurrently. In addition to its use as a textbook, Modern Flight Dynamics is a useful reference for the practicing engineer and researcher"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Schmidt, David K.</contributor>
+                </contributor>
+            </contributors>
+            <responsible>David K. Schmidt, Professor Emeritus, University of Colorado</responsible>
+            <publicationInfo>
+                <issued>2023</issued>
+                <edition>Updated edition</edition>
+                <publicationPlaces>
+                    <publicationPlace>Reston, Virginia</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>American Institute of Aeronautics and Astronautics, Inc</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>AIAA education series</title>
+                </journalInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>AIAA education series</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106419498" classificationName="bk">
+                    <code>50.34</code>
+                    <entries>
+                        <entry>Gasdynamik, Aerodynamik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.132/3</code>
+                </classification>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL570</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Aerodynamics</subject>
+                </subject>
+                <subject id="4154760-3" type="gnd">
+                    <subject xml:lang="de">Flugmechanik</subject>
+                </subject>
+                <subject id="4135410-2" type="gnd">
+                    <subject xml:lang="de">Flugzeugaerodynamik</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Flight control</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Flight engineering</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

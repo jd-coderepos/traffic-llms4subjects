@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:668283432</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:668283432">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2011-09-14</databaseDate>
+            <changeDate>2022-07-10</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>668283432</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">668283432</identifier>
+                <identifier type="firstid">GBV:668283432</identifier>
+                <identifier type="isbn13">9783877438268</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1298489296</identifier>
+                    <creationDate>2012-03-13</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">L ver 453</location>
+                    <location type="tibShelfmark">T 12 B 2147</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">776 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Handbuch Nautik ; Bd. 2: Technische und betriebliche Schiffsführung</title>
+            <abstracts>
+                <abstract xml:lang="de">Methoden und Anwendungsmöglichkeiten der Verfahren und Geräte im Rahmen der nautischen Schiffsführung werden beschrieben. Themenschwerpunkte sind: Schiffsdynamik, Manövrieren, Stabilität, Ladungstechnik und Schiffsmaschinen-betrieb/Systemüberwachung, sowie Seehandelsrecht, Personalführung, Notfallmanagement, Verwaltung und Umweltschutz</abstract>
+            </abstracts>
+            <contributors>
+                <contributor>
+                    <contributor>Benedict, Knud</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Wand, Christoph</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">129472379</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor>
+                    <contributor>Berking, Bernhard</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">106302205</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor>
+                    <contributor>Brauner, Ralf</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Hrsg.: Knud Benedict; Christoph Wand. Autoren: Knud Benedict ...</responsible>
+            <publicationInfo>
+                <issued>2011</issued>
+                <publicationPlaces>
+                    <publicationPlace>Hamburg</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Seehafen-Verl., DVV Media Group</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst., Kt.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>Handbuch Nautik ; [Band 2]: Technische und betriebliche Schiffsführung</title>
+                <identifier type="isbn13">9783877438268</identifier>
+                <identifier type="ppn">1017933448</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="181569973" classificationName="bk">
+                    <code>55.44</code>
+                    <entries>
+                        <entry>Schiffsführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4041447-4" type="gnd">
+                    <subject xml:lang="de">Nautik</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

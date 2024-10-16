@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:81691396X</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:81691396X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2015-01-27</databaseDate>
+            <changeDate>2023-01-05</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>81691396X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">81691396X</identifier>
+                <identifier type="doi">10.11588/heidok.00017725</identifier>
+                <identifier type="firstid">BSZ:425371581</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">http://nbn-resolving.de/urn:nbn:de:bsz:16-heidok-177259</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3592164988</identifier>
+                    <creationDate>2020-02-11</creationDate>
+                    <selectionKey>zdt</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online-Ressource (141 S.)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Stereo-based pedestrian detection and path prediction</title>
+            <abstracts>
+                <abstract xml:lang="de">In den letzten Jahren gab es eine rasante Entwicklung von Fahrerassistenzsystemen (Englisch: Advanced Driver Assistance Systems oder kurz ADAS). Diese Systeme unterstützen nicht nur den Fahrer, sondern erhöhen durch das automatische Einleiten von Sicherheitreaktionen des Fahrzeuges selber auch die Sicherheit aller anderen Verkehrsteilnehmer. Zukünftige aktive Fußgängerschutzsystem in Intelligentem Fahrzeugen müssen nun noch einen Schritt weiter gehen und lernen, ein genaues Bild ihrer Umgebung und der darin während der Fahrt zu erwartenden Änderungen zu entwickeln. - Diese Arbeit widmet sich der Verbesserung bildgestützter Fußgängerschutzsysteme. Es werden darin neue Methoden der Bildhypothesengenerierung (englisch: region of interest (ROI) generation), Fußgängerklassifikation, Pfadvorhersage und Absichstserkennung entwickelt. Die Leistung der Fußgängererkennung in realen, dynamischen Umgebungen mittels einer bewegten Kamera wird durch die Verwendung von dichtem Stereo in den unterschiedlichen Modulen verbessert. - In einer Experimentalstudie...</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Keller, Christoph Gustav</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1064905536</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Christoph Gustav Keller</responsible>
+            <publicationInfo>
+                <issued>2014</issued>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Heidelberg, Univ., Diss., 2014</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druckausg.</label>
+                <title>Stereo-based pedestrian detection and path prediction</title>
+                <identifier type="ppn">1493827014</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="10642064X" classificationName="bk">
+                    <code>55.84</code>
+                    <entries>
+                        <entry>Straßenverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>004</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="10641030X" classificationName="bk">
+                    <code>54.74</code>
+                    <entries>
+                        <entry>Maschinelles Sehen</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>inf</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4056783-7" type="gnd">
+                    <subject xml:lang="de">Stadtverkehr</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Mustererkennung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Objektverfolgung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Klassifikation</subject>
+                </subject>
+                <subject id="4140907-3" type="gnd">
+                    <subject xml:lang="de">Fußgänger</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Bildverarbeitung</subject>
+                </subject>
+                <subject id="4264283-8" type="gnd">
+                    <subject xml:lang="de">Bilderkennung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://nbn-resolving.de/urn:nbn:de:bsz:16-heidok-177259</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

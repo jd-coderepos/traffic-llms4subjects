@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:645030546</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:645030546">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2011-02-01</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>645030546</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">645030546</identifier>
+                <identifier type="firstid">GBV:645030546</identifier>
+                <identifier type="isbn13">9780521760522</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="cover" type="url">http://assets.cambridge.org/97805217/60522/cover/9780521760522.jpg</location>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/bowker/toc/9780521760522.pdf</location>
+                <location subtype="description" type="url">https://zbmath.org/?q=an:1236.76002</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1230446443</identifier>
+                    <creationDate>2011-12-27</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 11 B 8634</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XXVI, 537 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Ship resistance and propulsion : practical estimation of ship propulsive power</title>
+            <abstracts>
+                <abstract xml:lang="de">"Ship Resistance and Propulsion is dedicated to providing a comprehensive and modern scientific approach to evaluating ship resistance and propulsion. The study of the propulsive power enables the size and mass of the propulsion engines to be established and estimates made of the fuel consumption and likely operating costs. This book, written by experts in the field, includes the latest developments from applied research, including those in experimental and CFD techniques, and provides guidance for the practical estimation of ship propulsive power for a range of ship types. This text includes sufficient published standard series data for hull resistance and propeller performance to enable practitioners to make ship power predictions based on material and data contained within the book. A large number of fully worked examples are included to illustrate applications of the data and powering methodologies; these include cargo and container ships, tankers and bulk carriers, ferries, warships, patrol craft, work boats, planing craft and yachts. The book is aimed at a broad readership including practising naval architects and marine engineers, sea-going officers, small craft designers, undergraduate and postgraduate degree students. It should also appeal to others involved in transportation, transport efficiency and eco-logistics who need to carry out reliable estimates of ship power requirements"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Molland, Anthony F.</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Turnock, Stephen R.</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Hudson, Dominic A.</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Anthony F. Molland; Stephen R. Turnock; Dominic A. Hudson</responsible>
+            <publicationInfo>
+                <issued>2011</issued>
+                <publicationPlaces>
+                    <publicationPlace>Cambridge [u.a.]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="GB" />
+                    <publicationCountry code="US" />
+                    <publicationCountry code="AU" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Cambridge Univ. Press</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+                <publicationIDInfo>Hier auch später erschienene, unveränderte Nachdrucke</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>27 cm</description>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="earlier">
+                <title>Ship resistance and propulsion</title>
+                <identifier type="ppn">1008613843</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="msc">
+                    <code>76B20</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>TEC009070</code>
+                </classification>
+                <classification classificationName="msc">
+                    <code>76B10</code>
+                </classification>
+                <classification classificationID="106420577" classificationName="bk">
+                    <code>55.40</code>
+                    <entries>
+                        <entry>Schiffstechnik, Schiffbau</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 6220</code>
+                </classification>
+                <classification classificationName="msc">
+                    <code>*76-02</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>623.8/12</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>VM751</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Ship resistance</subject>
+                </subject>
+                <subject id="4179597-0" type="gnd">
+                    <subject xml:lang="de">Schiffswiderstand</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Ship propulsion</subject>
+                </subject>
+                <subject id="4052411-5" type="gnd">
+                    <subject xml:lang="de">Schiffsantrieb</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

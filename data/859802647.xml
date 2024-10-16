@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:859802647</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:859802647">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2016-05-25</databaseDate>
+            <changeDate>2022-05-14</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>859802647</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">859802647</identifier>
+                <identifier type="firstid">GBV:859802647</identifier>
+                <identifier type="isbn13">9783863601355</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/ilmenau/toc/859802647.PDF</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">161939832X</identifier>
+                    <creationDate>2016-06-08</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">U 16 B 815</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xiv, 194 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Virtualisierung eingebetteter Echtzeitsysteme im Mehrkernbetrieb zur Partitionierung sicherheitsrelevanter Fahrzeugsoftware</title>
+            <alternativeTitles>
+                <alternative>Virtualisierung eingebetteter Echtzeitsysteme zur Partitionierung sicherheitsrelevanter Software im Automobil</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Die Automobilindustrie verzeichnete innerhalb der letzten Jahre einen enormen Zuwachs an neuen elektrischen und elektronischen Fahrzeugfunktionen. Dies führt gleichzeitig zu einer Mehrung der Softwareumfänge in eingebetteten Systemen. Nicht-funktionale Anforderungen wie Sicherheit, Performanz, Verlässlichkeit und Wartbarkeit stellen zusätzliche Herausforderungen an die Entwicklung zukünftiger Fahrzeugsysteme dar. Um die Anzahl der Steuergeräte zu reduzieren, sollen Fahrzeugfunktionen auf gemeinsamen Integrationssteuergeräten konsolidiert werden. Systemvirtualisierung kann hierfür eine zielführende Herangehensweise darstellen, um die Softwaremigration auf Integrationssteuergeräte zu erleichtern und gleichzeitig den geforderten Isolationsansprüchen neuer Sicherheitsstandards gerecht zu werden. In dieser Arbeit wird die Partitionierung sicherheitsrelevanter Fahrzeugfunktionen auf einer gemeinsamen Hardwareplattform fokussiert. Unter Verwendung von Methoden zur Bewertung sozialer Netzwerke wird eine graphenbasierte Herangehensweise vorgestellt, um die Partitionierbarkeit von Softwarenetzen mit sicherheitsrelevanten Anteilen abschätzen zu können. Zur Realisierung der Systempartitionierung wird eine Methodik zur Auswahl der geeignetsten Kernelarchitektur eingeführt. Dabei werden aus gewählten nicht-funktionalen Eigenschaften potentielle technische Lösungskonzepte innerhalb einer Baumstruktur abgeleitet und ingenieurmäßig bewertet. Darauf aufbauend wird ein Hypervisor für eingebettete Echtzeitsysteme der Firma ETAS Ltd. evaluiert. Um die Kosten einer zusätzlichen Hypervisorschicht beurteilen zu können, werden in diesem Rahmen Laufzeitmessungen durchgeführt. Somit werden die Auswirkungen einer zusätzlichen Virtualisierungsschicht auf Fahrzeugsoftwaresysteme zur Erfüllung ausgewählter nicht-funktionaler Eigenschaften aufgezeigt. Die Anbindung virtualisierter Systeme an die Kommunikationsschnittstellen des Hypervisors stellt einen weiteren Schwerpunkt dar. Virtuelle Steuergeräte tauschen sich weiterhin über bereits implementierte Kommunikationskanäle aus und greifen auf gemeinsame Hardwareressourcen zu. Es wird somit ein Konzept eingeführt, um sicherheitsrelevante Anteile des AUTOSAR Microcontroller Abstraction Layers zu entkoppeln. Der Hypervisor selbst wird hierzu an relevanten Stellen erweitert und ein verlässliches Kommunikationskonzept implementiert. Ein Demonstratoraufbau, zur Konsolidierung von produktiver Fahrzeugsoftware auf einer gemeinsamen Hardwareplattform, finalisiert die Arbeit. Hierfür werden unabhängige Softwarestände paravirtualisiert. Als Resümee der Arbeit erhält der Leser sowohl einen technischen Überblick über den Mehrwert als auch der Kosten paravirtualisierter Fahrzeugplattformen, welche auf Kleinststeuergeräten integriert sind.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="degree-granting-institution">
+                    <type>degree-granting-institution</type>
+                    <name>Technische Universität Ilmenau</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2125187-3</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Reinhardt, Dominik</contributor>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Kühnhauser, Winfried</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">130159727</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Baumgarten, Uwe</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">132412187</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Kucera, Markus</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Dominik Reinhardt</responsible>
+            <publicationInfo>
+                <issued>2016</issued>
+                <publicationPlaces>
+                    <publicationPlace>Ilmenau</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Universitätsverlag Ilmenau</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2016</dateAccepted>
+                        <description>Dissertation, Technische Universität Ilmenau</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+                <publicationIDInfo>Dissertation erschienen unter dem Titel: Virtualisierung eingebetteter Echtzeitsysteme zur Partitionierung sicherheitsrelevanter Software im Automobil</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>Virtualisierung eingebetteter Echtzeitsysteme im Mehrkernbetrieb zur Partitionierung sicherheitsrelevanter Fahrzeugsoftware</title>
+                <identifier type="ppn">864384289</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.272</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>004</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4250</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4191569-0" type="gnd">
+                    <subject xml:lang="de">Kraftfahrzeugelektronik</subject>
+                </subject>
+                <subject id="4839180-3" type="gnd">
+                    <subject xml:lang="de">Virtualisierung</subject>
+                </subject>
+                <subject id="4137282-7" type="gnd">
+                    <subject xml:lang="de">Softwaresystem</subject>
+                </subject>
+                <subject id="4131397-5" type="gnd">
+                    <subject xml:lang="de">Echtzeitsystem</subject>
+                </subject>
+                <subject id="4542600-4" type="gnd">
+                    <subject xml:lang="de">Partition (Informatik)</subject>
+                </subject>
+                <subject id="4760707-5" type="gnd">
+                    <subject xml:lang="de">Funktionssicherheit</subject>
+                </subject>
+                <subject id="4077423-5" type="gnd">
+                    <subject xml:lang="de">Sicherheitstechnik</subject>
+                </subject>
+                <subject id="4396978-1" type="gnd">
+                    <subject xml:lang="de">Eingebettetes System</subject>
+                </subject>
+                <subject id="4674460-5" type="gnd">
+                    <subject xml:lang="de">Systemplattform</subject>
+                </subject>
+                <subject id="4767762-4" type="gnd">
+                    <subject xml:lang="de">Sicherheitskritisches System</subject>
+                </subject>
+                <subject id="103238512X" type="gnd">
+                    <subject xml:lang="de">Steuergerät</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

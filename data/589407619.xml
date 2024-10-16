@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:589407619</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:589407619">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2009-01-15</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>589407619</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">589407619</identifier>
+                <identifier type="ean">9788187966975</identifier>
+                <identifier type="firstid">GBV:589407619</identifier>
+                <identifier type="isbn">8187966971</identifier>
+                <identifier type="isbn13">9788187966975</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">917385853</identifier>
+                    <creationDate>2009-03-23</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 09 B 962</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-16-77</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">XXV, 305 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Transformation of air defence in Asia</title>
+            <abstracts>
+                <abstract xml:lang="de">With special reference to India</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Singh, Atul Kumar</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">14027345X</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor>
+                    <contributor>Singh, Jasjit</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Atul Kumar Singh. Introduction by Jasjit Singh</responsible>
+            <publicationInfo>
+                <issued>2008</issued>
+                <publicationPlaces>
+                    <publicationPlace>New Delhi</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="IN" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>KW Publishers [u.a.]</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Includes index. - Includes bibliographical references</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>24 cm</description>
+            <description>Ill., graph. Darst., Kt.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>623.737095</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>UG735.A78</code>
+                </classification>
+                <classification classificationName="ssg">
+                    <code>6,24</code>
+                </classification>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106410504" classificationName="bk">
+                    <code>50.91</code>
+                    <entries>
+                        <entry>Wehrtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106411969" classificationName="bk">
+                    <code>74.21</code>
+                    <entries>
+                        <entry>Asien</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>095</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>623.737</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>geo</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Air defenses</subject>
+                </subject>
+                <subject id="4114463-6" type="gnd">
+                    <subject xml:lang="de">Luftverteidigung</subject>
+                </subject>
+                <subject id="4026722-2" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Indien</subject>
+                </subject>
+                <subject id="4114598-7" type="gnd">
+                    <subject xml:lang="de">Militärische Bedrohung</subject>
+                </subject>
+                <subject id="4170996-2" type="gnd">
+                    <subject xml:lang="de">Nachbarstaat</subject>
+                </subject>
+                <subject id="4058406-9" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Südasien</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

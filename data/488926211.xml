@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:488926211</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:488926211">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2005-06-10</databaseDate>
+            <changeDate>2024-04-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>488926211</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">488926211</identifier>
+                <identifier type="contract">03I0707</identifier>
+                <identifier type="doi">10.2314/GBV:488926211</identifier>
+                <identifier type="firstid">GBV:488926211</identifier>
+            </identifiers>
+            <locations>
+                <location mimetype="application/pdf" subtype="fulltext" type="url">https://edocs.tib.eu/files/e01fb05/488926211.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">723775478</identifier>
+                    <creationDate>2005-06-10</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-89</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">Online-Ressource (48 S., 4,60 MB)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Teilprojekt TP 5.4 "Entwicklung eines sensorgestützten, nutzerbezogenen Assistenzsystems für Notfälle auf Passagier- und Spezialschiffen" : Abschlussbericht zum Verbundprojekt in der BMBF-Initiative Inno-Regio - Maritime Allianz Ostseeregion</title>
+            <alternativeTitles>
+                <alternative>Development of a sensor-supported assistance system for emergency cases on passenger- and special ships</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Maritime shipping, safety, security, averting a danger, evacuation</abstract>
+            </abstracts>
+            <contributors>
+                <contributor>
+                    <contributor>Dreißig, Dirk</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Autor des Berichts: Dirk Dreißig</responsible>
+            <publicationInfo>
+                <issued>2004</issued>
+                <publicationPlaces>
+                    <publicationPlace>Rostock</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>MARSIG, Ingenieurges. für Maritime Sicherheitstechn. und Management</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-296-TTN</identifier>
+                </isPartOf>
+                <publicationIDInfo>Förderkennzeichen BMBF 03I0707. - Engl. Titel: Development of a sensor-supported assistance system for emergency cases on passenger- and special ships</publicationIDInfo>
+                <publicationIDInfo>Unterschiede zwischen dem gedruckten Dokument und der elektronischen Ressource können nicht ausgeschlossen werden</publicationIDInfo>
+                <publicationIDInfo>Auch als gedr. Ausg. vorh.</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>zahlr. Ill</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-296-TTN</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420577" classificationName="bk">
+                    <code>55.40</code>
+                    <entries>
+                        <entry>Schiffstechnik, Schiffbau</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4116564-0" type="gnd">
+                    <subject xml:lang="de">Spezialschiff</subject>
+                </subject>
+                <subject id="4125289-5" type="gnd">
+                    <subject xml:lang="de">Brandbekämpfung</subject>
+                </subject>
+                <subject id="4007968-5" type="gnd">
+                    <subject xml:lang="de">Brandmeldeanlage</subject>
+                </subject>
+                <subject id="4044820-4" type="gnd">
+                    <subject xml:lang="de">Fahrgastschiff</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">default</property>
+            <property name="displaySubscriberAccess">https://edocs.tib.eu/files/e01fb05/488926211.pdf</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

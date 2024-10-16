@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:176195945X</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:176195945X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2021-07-06</databaseDate>
+            <changeDate>2023-05-12</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>176195945X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">176195945X</identifier>
+                <identifier type="firstid">KXP:176195945X</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">http://hdl.handle.net/10419/235603</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4268045147</identifier>
+                    <creationDate>2023-02-07</creationDate>
+                    <selectionKey>zf</selectionKey>
+                    <licenseModels>
+                        <licenseModel>oa</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (circa 33 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>A charging infrastructure network for battery electric trucks in Europe</title>
+            <abstracts>
+                <abstract xml:lang="de">Facing climate change, The European Union has set ambitious greenhouse gas (GHG) reduction targets. Within Europe, heavy-duty vehicles (HDV) account for a quarter of greenhouse gas emissions in the transport sector and therefore plays a central role in achieving the climate targets. A potential solution to reduce GHG emissions is the use of battery electric vehicles (BEV). However, the limited range of BEV requires a European public fast-charging network to ensure widespread deployment of BEV. Here, European road freight transport flows are modelled based on the publicly available European Transport policy Information System (ETISplus) dataset. The resulting truck flows serve as input for a charging infrastructure network model. Potential charging stations are located using a coverage-oriented approach and sized according to a queuing model such that an average waiting time of five minutes is guaranteed at each location. Our results show that for a share of 15% BEV in HDV stock and a dense network with charging locations every 50 km, a total of 4,067 charging points at 1,640 locations are required by 2030. In contrast, with a share of 5% BEV and charging locations every 100 km, 1,715 charging points are needed at 812 locations. Our findings provide insights for the design of a public fastcharging network in Europe and thus supports the planning of future infrastructure projects.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Sauter, Verena</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Speth, Daniel</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Plötz, Patrick</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">173348319</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Signer, Tim</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Verena Sauter, Daniel Speth, Patrick Plötz, Tim Signer</responsible>
+            <publicationInfo>
+                <issued>2021</issued>
+                <publicationPlaces>
+                    <publicationPlace>Karlsruhe</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Fraunhofer ISI</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Working paper sustainability and innovation</title>
+                    <volumeNumber>no. S 2021, 02</volumeNumber>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Working paper sustainability and innovation</title>
+                <volumeNumber>no. S 2021, 02</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106419986" classificationName="bk">
+                    <code>52.56</code>
+                    <entries>
+                        <entry>Regenerative Energieformen, alternative Energieformen</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mas</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="stw">
+                    <subject xml:lang="de">Europa</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Straßengüterverkehr</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Lastkraftwagen</subject>
+                </subject>
+                <subject id="4062953-3" type="gnd">
+                    <subject xml:lang="de">Verkehrsnetz</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Elektrofahrzeug</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Batterie</subject>
+                </subject>
+                <subject id="4022492-2" type="gnd">
+                    <subject xml:lang="de">Güterverkehr</subject>
+                </subject>
+                <subject id="4151795-7" type="gnd">
+                    <subject xml:lang="de">Elektrofahrzeug</subject>
+                </subject>
+                <subject id="1023745712" type="gnd">
+                    <subject xml:lang="de">Stromtankstelle</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Ladeinfrastruktur</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://hdl.handle.net/10419/235603</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

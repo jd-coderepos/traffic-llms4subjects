@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:044914997</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:044914997">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1995-11-11</databaseDate>
+            <changeDate>2024-03-28</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>044914997</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">044914997</identifier>
+                <identifier type="firstid">GBV:044914997</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">413020827</identifier>
+                    <creationDate>2001-01-03</creationDate>
+                    <selectionKey>r</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">DE 621</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">37 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Genauigkeitsfragen und Anforderungen bei Fahrzeit- und Verbrauchswertermittlungsverfahren und in der Praxis</title>
+            <abstracts>
+                <abstract xml:lang="de">Aus der Einleitung: Für die Fahrzeitermittlung von Zugfahrten sind sehr viele Verfahren entwickelt worden. Die Vielzahl ist damit zu erklären, daß es nicht möglich ist, den Verlauf der Zugkraft eines Triebfahrzeugs in Abhängigkeit von der Geschwindigkeit durch eine einfache Gleichung darzustellen, um damit eine schnelle und leichte Lösung der Bewegungsgleichung zu ermöglichen.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Hochbruck, Hubert</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">107061465</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>von Hubert Hochbruck</responsible>
+            <publicationInfo>
+                <issued>1965</issued>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Aachen, Techn. Hochsch., Diss., 1963</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+                <publicationIDInfo>Auch als: Archiv f. Eisenbahntechnik ; Folge 20, 1965</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>4</description>
+            <description>graph. Darst</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106405691" classificationName="bk">
+                    <code>55.30</code>
+                    <entries>
+                        <entry>Schienenfahrzeugtechnik, Eisenbahntechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4113407-2" type="gnd">
+                    <subject xml:lang="de">Eisenbahnreise</subject>
+                </subject>
+                <subject id="4324907-3" type="gnd">
+                    <subject xml:lang="de">Untersuchungsmethode</subject>
+                </subject>
+                <subject id="4381028-7" type="gnd">
+                    <subject xml:lang="de">Fahrzeit</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

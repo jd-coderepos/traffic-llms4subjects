@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:184552990</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:184552990">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1995-07-05</databaseDate>
+            <changeDate>2024-04-18</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>184552990</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">184552990</identifier>
+                <identifier type="firstid">GBV:184552990</identifier>
+                <identifier type="isbn">3613016478</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">153623551</identifier>
+                    <creationDate>1995-10-18</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">T 95 B 7745</location>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-24</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">201 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Ultraleicht-Flieger : die neue Navigation und Wetterkunde</title>
+            <abstracts>
+                <abstract xml:lang="de">Im Unterschied zur herkömmlichen "Navigation im Sichtflug" von E. A. Cichon (BA 11/94) entwickelt Richter ein neues Konzept der Sichtflugnavigation für Piloten niedrig- und langsamfliegender Sportflugzeuge. Als sinnvollste Methode empfiehlt er die Leitliniennavigation, hier systematisch, einfach und anwendbar auf der Grundlage eigener Erfahrungen aufbereitet. Ebenfalls ohne theoretischen Ballast werden im 2. Teil die verschiedenen Entwicklungsmöglichkeiten und Gefahren, die in einer Wettersituation stecken, erläutert. Weder die hier behandelte Navigationsmethode noch eine so umfassende Wetterkunde sind im "Handbuch für Ultraleichtflieger" von H. Penner (BA 11/93) zu finden. (2) (Gisela Jonas)</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Richter, Clemens</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Clemens Richter</responsible>
+            <publicationInfo>
+                <issued>1995</issued>
+                <edition>1. Aufl.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Stuttgart</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Motorbuch-Verl.</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>21 cm</description>
+            <description>Ill., graph. Darst., Kt.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="dbn">
+                    <code>50</code>
+                </classification>
+                <classification classificationID="181570769" classificationName="bk">
+                    <code>55.54</code>
+                    <entries>
+                        <entry>Flugführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 7600</code>
+                </classification>
+                <classification classificationID="106406965" classificationName="bk">
+                    <code>38.84</code>
+                    <entries>
+                        <entry>Meteorologie: Sonstiges</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>geo</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4038953-4" type="gnd">
+                    <subject xml:lang="de">Meteorologie</subject>
+                </subject>
+                <subject id="4186715-4" type="gnd">
+                    <subject xml:lang="de">Ultraleichtfliegen</subject>
+                </subject>
+                <subject id="4017656-3" type="gnd">
+                    <subject xml:lang="de">Flugnavigation</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

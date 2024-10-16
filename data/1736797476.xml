@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1736797476</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1736797476">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2020-10-27</databaseDate>
+            <changeDate>2022-07-02</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>1736797476</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1736797476</identifier>
+                <identifier type="firstid">KXP:1736797476</identifier>
+                <identifier type="isbn13">9781119765349</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1736797476.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3930632071</identifier>
+                    <creationDate>2022-05-12</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 21 B 2349</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xxii, 256 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Automated vehicles and MaaS : removing the barriers</title>
+            <abstracts>
+                <abstract xml:lang="de">"Today's technological innovations are creating the base for mobility solutions, which, accompanied to cultural and socio-economic changes taking place all over the world, open the door to new mobility scenarios. The challenge of innovation in the transport sector, including road, sea, rail, and air, is represented by automation of vehicles, particularly the automotive, from the viewpoint of demonstration and validation. Advances in the field of Artificial Intelligence (AI), on which vehicle automation relies, will further challenge this innovation. Vehicle connectivity and automation will boost a paradigm change in mobility use and the adoption on a large scale of Mobility-as-a-Service (MaaS) travel options. However, certain conditions need to be in place for sustainable mobility solutions and new business models for transport services. This reference work aims to identify the obstacles to the introduction of cooperative and automated vehicles (CAVs) and MaaS. It presents the results of real research and study undertaken, and, having identified the obstacles, proposes solutions to address and overcome them, and make more realistic estimates of the timescales involved"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Williams, Bob</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Bob Williams, Senior Consultant, CSi (UK),Oxfordshire, UK</responsible>
+            <publicationInfo>
+                <issued>2021</issued>
+                <edition>First edition</edition>
+                <publicationPlaces>
+                    <publicationPlace>Hoboken, NJ</publicationPlace>
+                    <publicationPlace>Chichester, West Sussex</publicationPlace>
+                    <publicationPlace>[Piscataway, New Jersey]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Wiley</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Literaturverzeichnis: Seite 243-249</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>Automated vehicles and MaaS</title>
+                <identifier type="isbn13">9781119765394</identifier>
+                <identifier type="isbn13">9781119765387</identifier>
+                <identifier type="isbn13">9781119765332</identifier>
+                <identifier type="ppn">176191104X</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="10641240X" classificationName="bk">
+                    <code>54.72</code>
+                    <entries>
+                        <entry>Künstliche Intelligenz</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="181570424" classificationName="bk">
+                    <code>55.24</code>
+                    <entries>
+                        <entry>Fahrzeugführung, Fahrtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.28/30285</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TE228.3</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>inf</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Transportation and state</subject>
+                </subject>
+                <subject id="1117164012" type="gnd">
+                    <subject xml:lang="de">Mobilität 4.0</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Intelligent transportation systems</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Automated vehicles</subject>
+                </subject>
+                <subject id="7714938-5" type="gnd">
+                    <subject xml:lang="de">Autonomes Fahrzeug</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

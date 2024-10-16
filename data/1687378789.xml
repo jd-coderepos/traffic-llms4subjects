@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1687378789</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1687378789">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2020-01-14</databaseDate>
+            <changeDate>2024-05-14</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1687378789</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1687378789</identifier>
+                <identifier type="firstid">KXP:1687378789</identifier>
+                <identifier type="isbn13">9781619549272</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1687378789.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3754026240</identifier>
+                    <creationDate>2021-10-07</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 20 B 3655</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xv, 466 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Human factors : enhancing pilot performance</title>
+            <abstracts>
+                <abstract xml:lang="de">"Drawing upon the latest scientific research, aviation safety studies, aircraft accident findings and more than 60 years of combined experience teaching human factors to aircraft pilots in civilian and military settings, 'Human Factors: Enhancing Pilot Performance' thoroughly explores the nature of the human factor limitations (physiological, psychological and social psychological) responsible for most 'pilot error' accidents, describes how they often manifest themselves on the flight deck, and most importantly, provides best practice countermeasures designed to help pilots minimize their influence in their own flight performance. Today's aviation industry enjoys a remarkable safety record, primarily because it has learned from the mistakes of its past. Most of the risks of flying have been identified - often through tragic loss of life - and the threats have been managed down to relatively low levels. However, aircraft accidents, such as controlled flight into terrain (CFIT), loss of control (LOC), runway excursions, runway incursions and midair collisions, still occur and the hazards of flight remain. Whether you are a fair-weather private pilot, a new-hire first officer at a regional airline or a seasoned pilot with thousands of hours under your belt, this book will help you understand why pilots make the mistakes they do and arm you with the knowledge you need to successfully avoid or mitigate them"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Wilson, Dale</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Dale Wilson</responsible>
+            <publicationInfo>
+                <issued>2020</issued>
+                <publicationPlaces>
+                    <publicationPlace>Newcastle, Washington</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Aviation Supplies &amp; Academics</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>TL710</code>
+                </classification>
+                <classification classificationID="106410660" classificationName="bk">
+                    <code>55.88</code>
+                    <entries>
+                        <entry>Luftverkehr, Raumfahrt</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.132/52</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4036597-9" type="gnd">
+                    <subject xml:lang="de">Luftverkehr</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Airplanes</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Aircraft accidents</subject>
+                </subject>
+                <subject id="4812463-1" type="gnd">
+                    <subject xml:lang="de">Faktor Mensch</subject>
+                </subject>
+                <subject id="4017678-2" type="gnd">
+                    <subject xml:lang="de">Flugzeugführer</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Flight</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Aeronautics</subject>
+                </subject>
+                <subject id="4196509-7" type="gnd">
+                    <subject xml:lang="de">Flugsicherheit</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

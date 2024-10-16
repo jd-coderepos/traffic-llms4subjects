@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:719315158</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:719315158">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2012-07-12</databaseDate>
+            <changeDate>2024-04-21</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>719315158</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">719315158</identifier>
+                <identifier type="firstid">GBV:719315158</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">http://nbn-resolving.de/urn:nbn:de:gbv:ilm1-2012000074</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1332544509</identifier>
+                    <creationDate>2012-10-12</creationDate>
+                    <selectionKey>zdt</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-27</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">Online-Ressource (PDF-Datei: XII,164 S., 8,77 MB)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Design of interactive service robots applying methods of systems engineering and decision making</title>
+            <abstracts>
+                <abstract xml:lang="de">Interaktive Service Roboter werden heute bereits in einigen Anwendungsszenarien eingesetzt, in denen sie beispielsweise Menschen durch Gebäude geleiten oder bei häuslichen Aufgaben unterstützen. Dennoch gibt es bislang kein System, das den erwarteten Marktdurchbruch geschafft hat. Die hohe Komplexität solcher Systeme und vielfältige Anforderungen durch Benutzer und Betreiber erschweren die Entwicklung von erfolgreichen Service Robotern. In dieser Arbeit wurden zwei interaktive Service Roboter entwickelt, die das Potential haben, die beschriebenen Hinderungsgründe für einen breiten Einsatz zu überwinden. Das erste Robotersystem wurde als Shopping Roboter für Baumärkte entwickelt, in denen es Kunden zu gesuchten Produkten führt. Das zweite System dient als interaktiver Pflegeroboter älteren Menschen in häuslicher Umgebung bei der Bewältigung täglicher Aufgaben. Diese Arbeit beschreibt die Realisierung der Embedded Systems  beider Robotersysteme und umfasst insbesondere die Entwicklung der Low-Level System Architekturen, Energie Management Systeme, Kommunikationssysteme, Sensorsysteme, sowie ausgewählte Aspekte der mechanischen Umsetzung. Die Entwicklung einer Vielzahl von Steuerungsmodulen, notwendig für die Realisierung interaktiver Service Roboter, wird beschrieben. Die vorliegende Arbeit verwendet und erweitert Methoden des Systems Engineerings, um die hohe Systemkomplexität von interaktiven Service Robotern sowie die vielfältigen Anforderungen an deren späteren Einsatz beherrschen zu können. Der Entwicklungsprozess der beiden Roboter basiert auf dem V-Model, welches einen strukturierten Entwurfsablauf unter Berücksichtigung aller Systemanforderungen erlaubt. Es zwingt ferner zur frühzeitigen Spezifikation von Prüfabläufen, was die Qualität und Zuverlässigkeit der Entwicklungsergebnisse verbessert. Für die Unterstützung von Entscheidungen im Entwicklungsprozess schlägt diese Arbeit eine Kombination aus dem V-Model und dem Analytic Hierarchy Process (AHP) vor. Der AHP hilft bei der Auswahl verfügbarer technischer Alternativen unter Berücksichtigung von Prioritäten im  Entwicklungsprozess. Diese Arbeit spezifiziert sieben Kriterien, die Service Roboter charakterisieren: Anpassbarkeit, Laufzeit, Benutzbarkeit, Robustheit, Sicherheit, Features und Kosten. Die Prioritäten dieser Kriterien im Entwicklungsprozess werden für jeden Roboter individuell bestimmt. Der AHP ermittelt die beste Lösung basierend auf diesen gewichteten Kriterien und den bewerteten technischen Alternativen. Die Einbindung des AHP in den V-Model Prozess wurde am Entwurf des Shopping Roboter entwickelt und geprüft. Die Allgemeingültigkeit dieser Methode wurde während der Entwicklung des Pflegeroboters verifiziert.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Merten, Matthias</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1024250423</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor>
+                    <contributor>Groß, Horst-Michael</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">129669806</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor>
+                    <contributor>Zimmermann, Armin</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">134295390</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Berns, Karsten</contributor>
+                </contributor>
+            </contributors>
+            <responsible>vorgelegt von Matthias Merten</responsible>
+            <publicationInfo>
+                <issued>2012</issued>
+                <publisher>
+                    <publisher>Univ.-Bibliothek</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Ilmenau, Techn. Univ., Diss., 2012</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+                <publicationIDInfo>Parallel als Druckausg. erschienen</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druckausg.</label>
+                <title>Design of interactive service robots applying methods of systems engineering and decision making</title>
+                <identifier type="ppn">718283368</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc-dbn">
+                    <code>621.3</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.893</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>004</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>inf</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4191911-7" type="gnd">
+                    <subject xml:lang="de">Mobiler Roboter</subject>
+                </subject>
+                <subject id="4125909-9" type="gnd">
+                    <subject xml:lang="de">Mensch-Maschine-Kommunikation</subject>
+                </subject>
+                <subject id="4396978-1" type="gnd">
+                    <subject xml:lang="de">Eingebettetes System</subject>
+                </subject>
+                <subject id="4396128-9" type="gnd">
+                    <subject xml:lang="de">Serviceroboter</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://nbn-resolving.de/urn:nbn:de:gbv:ilm1-2012000074</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

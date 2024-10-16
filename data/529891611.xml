@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:529891611</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:529891611">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2007-05-31</databaseDate>
+            <changeDate>2024-04-20</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>529891611</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">529891611</identifier>
+                <identifier type="ean">9783867272322</identifier>
+                <identifier type="firstid">GBV:529891611</identifier>
+                <identifier type="isbn13">9783867272322</identifier>
+                <identifier type="isbn">3867272328</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/ilmenau/toc/529891611.PDF</location>
+                <location subtype="description" type="url">http://www.gbv.de/dms/ilmenau/abs/529891611Engel.txt</location>
+                <location subtype="miscellaneous" type="url">http://www.gbv.de/dms/ilmenau/abs/52988982XEngel.txt</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">835137066</identifier>
+                    <creationDate>2007-09-20</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">U 07 B 1517</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-35</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">XIII, 141 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Zustandsbezogenes on-board Instandhaltungsmanagementsystem für mobile Systeme</title>
+            <abstracts>
+                <abstract xml:lang="de">In der vorliegenden Arbeit wird ein innovatives on-board Instandhaltungsmanagementsystem (IMS) zur zustandsbezogenen Instandhaltung mobiler Systeme entwickelt. Dieser ganzheitliche Systemansatz berücksichtigt die technischen, wirtschaftlichen und nutzerspezifischen Anforderungen der Instandhaltung mobiler Systeme.  Zur Umsetzung der technischen Anforderungen werden Verfahren der Diagnose, der Überwachung und Methoden zur Nutzungsvorhersage eingesetzt, die in der Betriebsmittelebene integriert sind. Die nachfolgende Planungsebene ermöglicht die rechnerbasierte Planung auf der Basis des tatsächlichen Instandhaltungsbedarfs sowie den wirtschaftlichen und nutzerspezifischen Anforderungen. Bei der Planungskomponente handelt es sich um ein rechnerbasiertes Planungs- und Entscheidungssystem, welches regel- und anweisungsorientiert die Instandhaltung des mobilen Systems organisiert. Über integrierte on-/off-board Schnittstellen erfolgt die Kommunikation mit dem Nutzer, der Werkstatt oder einer Servicezentrale.An konkreten Anwendungsbeispielen werden die einzelnen Komponenten des on-board Instandhaltungsmanagementsystems dargestellt. Anhand von Life-Cycle Simulationen werden der Einfluss der entwickelten Planungskomponente sowie die daraus resultierenden wirtschaftlichen und technischen Vorteile aufgezeigt.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Engelhardt, Thorsten</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">133059197</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor>
+                    <contributor>Wernstedt, Jürgen</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">130244864</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Lambeck, Steven</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">130224227</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Cuno, Bernd</contributor>
+                </contributor>
+            </contributors>
+            <responsible>vorgelegt von Thorsten Engelhardt</responsible>
+            <publicationInfo>
+                <issued>2007</issued>
+                <edition>1. Aufl.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Göttingen</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Cuvillier</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Zugl.: Ilmenau, Techn. Univ., Diss., 2007</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>21 cm</description>
+            <description>graph. Darst.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>ZO 4800</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.2870287</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4250</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="106403729" classificationName="bk">
+                    <code>85.35</code>
+                    <entries>
+                        <entry>Fertigung</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106420550" classificationName="bk">
+                    <code>55.23</code>
+                    <entries>
+                        <entry>Kraftfahrzeugwartung, Kraftfahrzeugreparatur</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106419404" classificationName="bk">
+                    <code>50.16</code>
+                    <entries>
+                        <entry>Technische Zuverlässigkeit, Instandhaltung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>oek</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4126276-1" type="gnd">
+                    <subject xml:lang="de">Technisches System</subject>
+                </subject>
+                <subject id="4200074-9" type="gnd">
+                    <subject xml:lang="de">Instandhaltungsplanung</subject>
+                </subject>
+                <subject id="4016320-9" type="gnd">
+                    <subject xml:lang="de">Fahrzeug</subject>
+                </subject>
+                <subject id="4221751-9" type="gnd">
+                    <subject xml:lang="de">Bordinstrument</subject>
+                </subject>
+                <subject id="4073757-3" type="gnd">
+                    <subject xml:lang="de">Kraftfahrzeug</subject>
+                </subject>
+                <subject id="4149458-1" type="gnd">
+                    <subject xml:lang="de">Diagnosesystem</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

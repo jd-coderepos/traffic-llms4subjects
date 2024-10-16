@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:183117765X</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:183117765X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2023-01-16</databaseDate>
+            <changeDate>2024-04-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>183117765X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">183117765X</identifier>
+                <identifier type="firstid">KXP:183117765X</identifier>
+                <identifier type="isbn13">9783030990176</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/183117765X.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4294568240</identifier>
+                    <creationDate>2023-10-18</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 23 B 1149</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">vii, 202 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Fuel cell and hydrogen technologies in aviation</title>
+            <abstracts>
+                <abstract xml:lang="de">Chapter 1. Hydrogen Storage Technology for Aerial Vehicles -- Chapter 2. Liquid Hydrogen Fuel Usage in Aviation -- Chapter 3. Fuel Cells for Unmanned Aerial Vehicles -- Chapter 4. Fuel Cell Powered Passenger Aircrafts -- Chapter 5. Energy Management Strategies in a Fuel Cell Powered Aircraft -- Chapter 6. Hydrogen Infrastructure and logistics in Airports -- Chapter 7. Fuel cells as APU in Aircrafts -- Chapter 8. Solid Oxide Fuel Cell Systems and its potential applications in the aviation industry &amp; beyond.</abstract>
+                <abstract xml:lang="de">This book explores cutting-edge topics on hydrogen and fuel cell technologies in aviation. Coverage includes comparisons with conventional technologies, hydrogen storage options, energy management strategies, life cycle assessment, and application of fuel cells in different aerial vehicle classes. It also offers insights into recent progress and new technological developments in the field, along with case studies and practical applications. Fuel Cell and Hydrogen Technologies in Aviation is an invaluable guide for students, researchers, and engineers working on sustainable air transportation and the performance and environmental analysis of fuel cell-powered aerial vehicles. Provides guidelines on the design and modeling of fuel cell-powered aerial vehicles; Discusses hydrogen storage options; Includes life cycle assessments for hydrogen-fueled aircraft.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Colpan, C. Ozgur</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1109900619</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Kovac̆, Ankica</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Can Ozgur Colpan, Anika Kovac̆ (editors)</responsible>
+            <publicationInfo>
+                <issued>2022</issued>
+                <publicationPlaces>
+                    <publicationPlace>Cham</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="CH" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Sustainable Aviation</title>
+                </journalInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme, Karte</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>Fuel Cell and Hydrogen Technologies in Aviation</title>
+                <identifier type="isbn13">9783030990183</identifier>
+                <identifier type="ppn">1817569600</identifier>
+            </related>
+            <related type="parent">
+                <title>Sustainable Aviation</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106418645" classificationName="bk">
+                    <code>53.36</code>
+                    <entries>
+                        <entry>Energiedirektumwandler, elektrische Energiespeicher</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Sustainability.</subject>
+                </subject>
+                <subject id="4121905-3" type="gnd">
+                    <subject xml:lang="de">Wasserstoffenergietechnik</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Fuel cells.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Aerospace engineering.</subject>
+                </subject>
+                <subject id="4008195-3" type="gnd">
+                    <subject xml:lang="de">Brennstoffzelle</subject>
+                </subject>
+                <subject id="4168246-4" type="gnd">
+                    <subject xml:lang="de">Luftfahrzeug</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Materials.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Astronautics.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Vehicles.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Hydrogen as fuel.</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1736757555</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1736757555">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2020-10-27</databaseDate>
+            <changeDate>2023-08-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1736757555</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1736757555</identifier>
+                <identifier type="ean">9780367637002</identifier>
+                <identifier type="firstid">KXP:1736757555</identifier>
+                <identifier type="isbn13">9780367350345</identifier>
+                <identifier type="isbn13">9780367637002</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1736757555.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3941570803</identifier>
+                    <creationDate>2022-06-09</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 21 B 2769</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xvi, 500 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Connected and autonomous vehicles in smart cities</title>
+            <abstracts>
+                <abstract xml:lang="de">"This book presents a comprehensive coverage of the five fundamental yet intertwined pillars paving the road towards the future of connected autonomous electric vehicles and smart cities. The connectivity pillar covers all the latest advancements and various technologies on vehicle-to-everything (V2X) communications/networking and vehicular cloud computing, with special emphasis on their role towards vehicle autonomy and smart cities applications"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Mouftah, Hussein T.</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1042075182</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Erol-Kantarci, Melike</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1099305314</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Sorour, Sameh</contributor>
+                </contributor>
+            </contributors>
+            <responsible>edited by Hussein T. Mouftah, Melike Erol-Kantarci, and Sameh Sorour</responsible>
+            <publicationInfo>
+                <issued>2021</issued>
+                <edition>First edition</edition>
+                <publicationPlaces>
+                    <publicationPlace>Boca Raton</publicationPlace>
+                    <publicationPlace>London</publicationPlace>
+                    <publicationPlace>New York</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>CRC Press, Taylor &amp; Francis Group</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>388.3/124</code>
+                </classification>
+                <classification classificationID="106420658" classificationName="bk">
+                    <code>55.83</code>
+                    <entries>
+                        <entry>Stadtverkehr, Nahverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="181570424" classificationName="bk">
+                    <code>55.24</code>
+                    <entries>
+                        <entry>Fahrzeugführung, Fahrtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TE228.3</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4193754-5" type="gnd">
+                    <subject xml:lang="de">Maschinelles Lernen</subject>
+                </subject>
+                <subject id="1024622754" type="gnd">
+                    <subject xml:lang="de">Car-to-Car-Kommunikation</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Automated vehicles</subject>
+                </subject>
+                <subject id="4176776-7" type="gnd">
+                    <subject xml:lang="de">Radarsignal</subject>
+                </subject>
+                <subject id="7714938-5" type="gnd">
+                    <subject xml:lang="de">Autonomes Fahrzeug</subject>
+                </subject>
+                <subject id="1023745712" type="gnd">
+                    <subject xml:lang="de">Stromtankstelle</subject>
+                </subject>
+                <subject id="4154756-1" type="gnd">
+                    <subject xml:lang="de">Flugkörper</subject>
+                </subject>
+                <subject id="4274324-2" type="gnd">
+                    <subject xml:lang="de">Computersicherheit</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Vehicle-infrastructure integration</subject>
+                </subject>
+                <subject id="1121110479" type="gnd">
+                    <subject xml:lang="de">Microgrid (Energietechnik)</subject>
+                </subject>
+                <subject id="1061057097" type="gnd">
+                    <subject xml:lang="de">Smart City</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Smart cities</subject>
+                </subject>
+                <subject id="7524983-2" type="gnd">
+                    <subject xml:lang="de">VANET</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

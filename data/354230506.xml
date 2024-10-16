@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:354230506</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:354230506">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2002-09-23</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>354230506</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">354230506</identifier>
+                <identifier type="contract">29845118</identifier>
+                <identifier type="contract">UBA-FB-000309</identifier>
+                <identifier type="firstid">GBV:354230506</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/354230506.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">572551983</identifier>
+                    <creationDate>2002-09-23</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RN 8908(2000,309)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">28 S., Anh. [ca. 300] S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Ermittlung gesetzlich limitierter Schadstoffe von Fahrzeugen im Verkehr während der Lebensdauer (Feldüberwachung III) : Abschlussbericht ; UFOPLAN-Nr. 298 45 118</title>
+            <alternativeTitles>
+                <alternative>Determination of limited pollutants from vehicles in traffic</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Field monitoring, exhaust emissions, full-load enrichment</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Schmidt, Helge</contributor>
+                </contributor>
+            </contributors>
+            <responsible>von Helge Schmidt</responsible>
+            <publicationInfo>
+                <issued>2002</issued>
+                <publicationPlaces>
+                    <publicationPlace>Essen</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>RWTÜV, Inst. für Fahrzeugtechnik, Abgasprüfstelle</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>UBA-FB</title>
+                    <volumeNumber>00,309</volumeNumber>
+                </journalInfo>
+                <journalInfo>
+                    <title>Umweltforschungsplan des Bundesministers für Umwelt, Naturschutz und Reaktorsicherheit</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>Luftreinhaltung</title>
+                </journalInfo>
+                <publicationIDInfo>1. Serie aufgestempelt, Zählung handschriftl. - Literaturverz. S. 27. - Engl. Zsfass. u.d.T.: Determination of limited pollutants from vehicles in traffic</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>graph. Darst</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>UBA-FB</title>
+                <volumeNumber>00,309</volumeNumber>
+            </related>
+            <related type="parent">
+                <title>Umweltforschungsplan des Bundesministers für Umwelt, Naturschutz und Reaktorsicherheit</title>
+            </related>
+            <related type="parent">
+                <title>Luftreinhaltung</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420798" classificationName="bk">
+                    <code>58.55</code>
+                    <entries>
+                        <entry>Luftreinhaltung</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>cet</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4141041-5" type="gnd">
+                    <subject xml:lang="de">Abgasemission</subject>
+                </subject>
+                <subject id="4038852-9" type="gnd">
+                    <subject xml:lang="de">Messung</subject>
+                </subject>
+                <subject id="4073757-3" type="gnd">
+                    <subject xml:lang="de">Kraftfahrzeug</subject>
+                </subject>
+                <subject id="4076001-7" type="gnd">
+                    <subject xml:lang="de">Personenkraftwagen</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

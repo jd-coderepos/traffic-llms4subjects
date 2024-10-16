@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:371245044</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:371245044">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2003-10-08</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>371245044</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">371245044</identifier>
+                <identifier type="contract">30441417</identifier>
+                <identifier type="contract">304414</identifier>
+                <identifier type="contract">UBA-FB-AP-20009</identifier>
+                <identifier type="firstid">GBV:371245044</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">617620571</identifier>
+                    <creationDate>2003-10-08</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RO 2148(20009)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">[26], 38 Bl</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>RPM - innovatives gleisgebundenes Planumsverbesserungsverfahren mit integriertem Gleisbettschotter-Recycling-Verfahren : gleisgebundene Baumaschine zur umweltfreundlichen Wiederaufbereitung von Gleisbettschotter ; Abschlußbericht 30441-4/17</title>
+            <abstracts>
+                <abstract xml:lang="de">Track formation improvement, ballast bed material cleaning, star screen, ballast recycling, recycling rate, time and energy savings</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Last, Dieter</contributor>
+                </contributor>
+            </contributors>
+            <responsible>von Dieter Last. Im Auftr. des Umweltbundesamtes</responsible>
+            <publicationInfo>
+                <issued>2001</issued>
+                <publicationPlaces>
+                    <publicationPlace>Achim</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>RPM Wiebe u. Swietelsky GmbH</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>UBA-FB</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>AP</title>
+                    <volumeNumber>20009</volumeNumber>
+                </journalInfo>
+                <journalInfo>
+                    <title>Abfallwirtschaft</title>
+                </journalInfo>
+                <publicationIDInfo>1. Serie aufgestempelt, Zählung handschriftlich</publicationIDInfo>
+                <publicationIDInfo>Die Vorlage enth. insgesamt 2 Werke</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>UBA-FB</title>
+            </related>
+            <related type="parent">
+                <title>AP</title>
+                <volumeNumber>20009</volumeNumber>
+            </related>
+            <related type="parent">
+                <title>Abfallwirtschaft</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="181570750" classificationName="bk">
+                    <code>55.34</code>
+                    <entries>
+                        <entry>Bahnbetriebstechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4274180-4" type="gnd">
+                    <subject xml:lang="de">Schotterbett</subject>
+                </subject>
+                <subject id="4076573-8" type="gnd">
+                    <subject xml:lang="de">Recycling</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

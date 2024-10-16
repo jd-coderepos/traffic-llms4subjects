@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:791417220</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:791417220">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2014-07-29</databaseDate>
+            <changeDate>2024-03-08</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>791417220</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">791417220</identifier>
+                <identifier type="ean">9788129132680</identifier>
+                <identifier type="firstid">GBV:791417220</identifier>
+                <identifier type="isbn">8129132680</identifier>
+                <identifier type="isbn13">9788129132680</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://swbplus.bsz-bw.de/bsz414332660inh.htm</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1505338255</identifier>
+                    <creationDate>2014-10-15</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 14 B 7969</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-16-77</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">296 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>India junction : a window to the nation</title>
+            <abstracts>
+                <abstract xml:lang="de">Contributed articles</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Sharma, Seema</contributor>
+                </contributor>
+            </contributors>
+            <responsible>ed. by Seema Sharma</responsible>
+            <publicationInfo>
+                <issued>2014</issued>
+                <publicationPlaces>
+                    <publicationPlace>New Delhi</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="IN" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Rainlight by Rupa</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Includes bibliographical references</publicationIDInfo>
+                <publicationIDInfo>Contributed articles. - Includes bibliographical references</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>24 cm</description>
+            <description>illustrations (some color)</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>385.0954</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>HE3298</code>
+                </classification>
+                <classification classificationName="ssg">
+                    <code>6,24</code>
+                </classification>
+                <classification classificationID="181570661" classificationName="bk">
+                    <code>15.77</code>
+                    <entries>
+                        <entry>Indischer Subkontinent</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106405691" classificationName="bk">
+                    <code>55.30</code>
+                    <entries>
+                        <entry>Schienenfahrzeugtechnik, Eisenbahntechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>his</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4113407-2" type="gnd">
+                    <subject xml:lang="de">Eisenbahnreise</subject>
+                </subject>
+                <subject id="4014015-5" type="gnd">
+                    <subject xml:lang="de">Eisenbahn</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Railroad travel</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">India</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Railroads</subject>
+                </subject>
+                <subject id="4026722-2" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Indien</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

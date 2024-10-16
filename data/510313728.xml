@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:510313728</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:510313728">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2006-04-11</databaseDate>
+            <changeDate>2024-04-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>510313728</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">510313728</identifier>
+                <identifier type="contract">19G1014A</identifier>
+                <identifier type="contract">01019787</identifier>
+                <identifier type="doi">10.2314/GBV:510313728</identifier>
+                <identifier type="firstid">GBV:510313728</identifier>
+            </identifiers>
+            <locations>
+                <location mimetype="application/pdf" subtype="fulltext" type="url">https://edocs.tib.eu/files/e01fb06/510313728.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">76150396X</identifier>
+                    <creationDate>2006-04-11</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-89</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">Online-Ressource (23 S., 338,1 KB)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Optimierte Transport Technologie, Entwicklung &amp; Realisierung, OTTER : Abschlussbericht ; Verbundvorhaben</title>
+            <alternativeTitles>
+                <alternative>OTTER</alternative>
+                <alternative>Verbundvorhaben "Optimierte Transport Technologie, Entwicklung &amp; Realisierung, OTTER"</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Logistics conception, technology evolution, waste logistics</abstract>
+            </abstracts>
+            <contributors>
+                <contributor>
+                    <contributor>Köhler, Frank</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Wendland, Axel</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Autoren des Berichts: Köhler, Frank; Wendland, Axel</responsible>
+            <publicationInfo>
+                <issued>2005</issued>
+                <publicationPlaces>
+                    <publicationPlace>Hannover</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>ALSA, Aluminium-Salzschlacke Aufbereitungs-GmbH</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-296-TTN</identifier>
+                </isPartOf>
+                <publicationIDInfo>Förderkennzeichen BMBF 19G1014A. - Verbund-Nr. 01019787</publicationIDInfo>
+                <publicationIDInfo>Unterschiede zwischen dem gedruckten Dokument und der elektronische Ressource können nicht ausgeschlossen werden</publicationIDInfo>
+                <publicationIDInfo>Auch als gedr. Ausg. vorh.</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-296-TTN</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="181571811" classificationName="bk">
+                    <code>55.82</code>
+                    <entries>
+                        <entry>Güterverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106418831" classificationName="bk">
+                    <code>58.53</code>
+                    <entries>
+                        <entry>Abfallwirtschaft</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>cet</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4185935-2" type="gnd">
+                    <subject xml:lang="de">Transporttechnik</subject>
+                </subject>
+                <subject id="4001573-7" type="gnd">
+                    <subject xml:lang="de">Aluminium</subject>
+                </subject>
+                <subject id="4006761-0" type="gnd">
+                    <subject xml:lang="de">Binnenschifffahrt</subject>
+                </subject>
+                <subject id="4052572-7" type="gnd">
+                    <subject xml:lang="de">Schlacke</subject>
+                </subject>
+                <subject id="4278776-2" type="gnd">
+                    <subject xml:lang="de">Transportbehälter</subject>
+                </subject>
+                <subject id="4051413-4" type="gnd">
+                    <subject xml:lang="de">Salz</subject>
+                </subject>
+                <subject id="4169030-8" type="gnd">
+                    <subject xml:lang="de">Massengut</subject>
+                </subject>
+                <subject id="4183848-8" type="gnd">
+                    <subject xml:lang="de">Stückgut</subject>
+                </subject>
+                <subject id="4052371-8" type="gnd">
+                    <subject xml:lang="de">Schienenverkehr</subject>
+                </subject>
+                <subject id="4031830-8" type="gnd">
+                    <subject xml:lang="de">Kombinierter Verkehr</subject>
+                </subject>
+                <subject id="4361327-5" type="gnd">
+                    <subject xml:lang="de">Kreislaufwirtschaft</subject>
+                </subject>
+                <subject id="4076573-8" type="gnd">
+                    <subject xml:lang="de">Recycling</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">default</property>
+            <property name="displaySubscriberAccess">https://edocs.tib.eu/files/e01fb06/510313728.pdf</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

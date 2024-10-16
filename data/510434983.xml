@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:510434983</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:510434983">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2006-04-13</databaseDate>
+            <changeDate>2024-04-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>510434983</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">510434983</identifier>
+                <identifier type="firstid">GBV:510434983</identifier>
+            </identifiers>
+            <locations>
+                <location mimetype="application/pdf" subtype="fulltext" type="url">https://edocs.tib.eu/files/e01dh06/510434983.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">761728627</identifier>
+                    <creationDate>2006-04-13</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>oa</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-89</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">Online-Ressource (XIII, 112 S., 3239 KB)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Experimentelle und theoretische Untersuchungen zur Gummireibung an Profilklötzen und Dichtungen</title>
+            <abstracts>
+                <abstract xml:lang="de">Gummireibung, Stick-Slip-Schwingung, Elastomerdichtung</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Lindner, Markus</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">131548506</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>von Markus Lindner</responsible>
+            <publicationInfo>
+                <issued>2006</issued>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Technische Informationsbibliothek u. Universitätsbibliothek</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Hannover, Univ., Diss., 2005</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+                <publicationIDInfo>Gedruckt erschienen als: Fortschritt-Berichte VDI : Reihe 11, Schwingungstechnik ; 331</publicationIDInfo>
+            </additionalDocumentInfo>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106410628" classificationName="bk">
+                    <code>52.20</code>
+                    <entries>
+                        <entry>Antriebstechnik, Getriebelehre</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mas</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4140216-9" type="gnd">
+                    <subject xml:lang="de">Bremsung</subject>
+                </subject>
+                <subject id="4137152-5" type="gnd">
+                    <subject xml:lang="de">Reifen</subject>
+                </subject>
+                <subject id="4293741-3" type="gnd">
+                    <subject xml:lang="de">Kontakt (Reibung)</subject>
+                </subject>
+                <subject id="4243993-0" type="gnd">
+                    <subject xml:lang="de">Reibungsschwingung</subject>
+                </subject>
+                <subject id="4022538-0" type="gnd">
+                    <subject xml:lang="de">Gummi</subject>
+                </subject>
+                <subject id="4153537-6" type="gnd">
+                    <subject xml:lang="de">Fahrbahn</subject>
+                </subject>
+                <subject id="4213923-5" type="gnd">
+                    <subject xml:lang="de">Gummidichtung</subject>
+                </subject>
+                <subject id="4049098-1" type="gnd">
+                    <subject xml:lang="de">Reibung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">default</property>
+            <property name="displaySubscriberAccess">https://edocs.tib.eu/files/e01dh06/510434983.pdf</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

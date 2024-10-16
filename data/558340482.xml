@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:558340482</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:558340482">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2008-02-14</databaseDate>
+            <changeDate>2024-04-21</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>558340482</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">558340482</identifier>
+                <identifier type="firstid">GBV:558340482</identifier>
+            </identifiers>
+            <locations>
+                <location mimetype="application/pdf" subtype="fulltext" type="url">https://edocs.tib.eu/files/e01dh08/558340482.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">859958906</identifier>
+                    <creationDate>2008-02-14</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-89</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">Online-Ressource (143 S. = 2210 Kb)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Optimierung der Quelle-Ziel-Matrixschätzung hinsichtlich Redundanzstörung sich verändernder Verkehrszustände</title>
+            <abstracts>
+                <abstract xml:lang="de">Matrixschätzung, redundante Information, Verkehrsumlegung</abstract>
+            </abstracts>
+            <contributors>
+                <contributor>
+                    <contributor>Wang, Yun-Pang</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">134119797</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>von Yun-Pang Wang</responsible>
+            <publicationInfo>
+                <issued>2008</issued>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Technische Informationsbibliothek u. Universitätsbibliothek</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Hannover, Univ., Diss., 2007</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+                <publicationIDInfo>Parallel als Buch-Ausg. erschienen</publicationIDInfo>
+            </additionalDocumentInfo>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="10642064X" classificationName="bk">
+                    <code>55.84</code>
+                    <entries>
+                        <entry>Straßenverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>380</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>388.3101519544</code>
+                </classification>
+                <classification classificationID="106421050" classificationName="bk">
+                    <code>74.75</code>
+                    <entries>
+                        <entry>Verkehrsplanung, Verkehrspolitik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>arc</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4062954-5" type="gnd">
+                    <subject xml:lang="de">Verkehrsplanung</subject>
+                </subject>
+                <subject id="4134157-0" type="gnd">
+                    <subject xml:lang="de">Verkehrsnachfrage</subject>
+                </subject>
+                <subject id="4062902-8" type="gnd">
+                    <subject xml:lang="de">Verkehrsablauf</subject>
+                </subject>
+                <subject id="4026748-9" type="gnd">
+                    <subject xml:lang="de">Individualverkehr</subject>
+                </subject>
+                <subject id="4467581-1" type="gnd">
+                    <subject xml:lang="de">Verkehrsinformation</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">default</property>
+            <property name="displaySubscriberAccess">https://edocs.tib.eu/files/e01dh08/558340482.pdf</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:221374515</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:221374515">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1997-01-11</databaseDate>
+            <changeDate>2023-03-25</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>221374515</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">221374515</identifier>
+                <identifier type="firstid">DNB:949026859</identifier>
+                <identifier type="isbn">3486234870</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/hbz/toc/ht007416097.pdf</location>
+                <location subtype="toc" type="url">http://d-nb.info/949026859/04</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">226804577</identifier>
+                    <creationDate>1997-02-25</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">U 97 B 203</location>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XX, 348 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Kompendium der Verkehrspolitik</title>
+            <abstracts>
+                <abstract xml:lang="de">Die wissenschaftliche Verkehrspolitik ist eines der komplexesten Teilgebiete der Volkswirtschaftslehre. Gegenstand ist die Beschreibung, Erklärung und Prognose der Vorgänge im Verkehrssektor. Dieses Lehrbuch richtet sich primär an die Studierenden der Wirtschaftswissenschaften an Universitäten und Fachhochschulen, aber auch an den verkehrspolitisch interessierten Praktiker.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Köberlein, Christian</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">171147960</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>von Christian Köberlein</responsible>
+            <publicationInfo>
+                <issued>1997</issued>
+                <publicationPlaces>
+                    <publicationPlace>München [u.a.]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Oldenbourg</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Literaturverz. S. 311 - 342</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>zahlr. Tab.</description>
+            <description>graph. Darst., Kt</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>QR 800</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>RC 20768</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>41</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>MG 15990</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 3100</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>AR 27700</code>
+                </classification>
+                <classification classificationID="106414682" classificationName="bk">
+                    <code>83.72</code>
+                    <entries>
+                        <entry>Verkehrswirtschaft</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>QQ 800</code>
+                </classification>
+                <classification classificationID="106421050" classificationName="bk">
+                    <code>74.75</code>
+                    <entries>
+                        <entry>Verkehrsplanung, Verkehrspolitik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>MF 9900</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>arc</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>oek</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4062955-7" type="gnd">
+                    <subject xml:lang="de">Verkehrspolitik</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Europa</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Deutschland</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Verkehrsökonomik</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Verkehrspolitik</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Theorie</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

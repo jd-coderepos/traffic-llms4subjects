@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1795098562</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1795098562">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2022-03-09</databaseDate>
+            <changeDate>2023-07-25</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1795098562</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1795098562</identifier>
+                <identifier type="firstid">KXP:1795098562</identifier>
+                <identifier type="isbn13">9789811689451</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1795098562.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4084461490</identifier>
+                    <creationDate>2023-02-03</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 22 B 1625</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">ix, 149 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Design and control of hybrid brake-by-wire system for autonomous Vehicle</title>
+            <abstracts>
+                <abstract xml:lang="de">Development of Hybrid Brake-by-Wire System for Autonomous Vehicle -- Current Study on Hybrid Brake-by-Wire System for Autonomous Vehicle -- Modeling of Hybrid Brake-by-Wire System for Autonomous Vehicle -- Design of Brake-by-Wire System for Autonomous Vehicle -- Braking Force Distribution Control of Brake-by-Wire System -- Mode Switching of Hybrid Brake-by-Wire System.</abstract>
+                <abstract xml:lang="de">This book establishes the models of the electric motor, the hydraulic compound brake system, and the electromagnetic and friction integrated brake system. Considering the two principles on safety and energy saving, it proposes a hybrid brake-by-wire system optimization design method and proposes the optimization method of braking force distribution in different braking modes. The methodology of the book is by using the common Lyapunov function to analyze the stability of the braking mode switching process and designs the braking mode switching controller of the hybrid braking system. The selection of materials provides readers with some guidance in the future design and control of hybrid drive-by-wire systems for autonomous vehicles.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Hu, Donghai</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Donghai Hu</responsible>
+            <publicationInfo>
+                <issued>2022</issued>
+                <publicationPlaces>
+                    <publicationPlace>Singapore</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="SG" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Key technologies on new energy vehicles</title>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Key technologies on new energy vehicles</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4008148-5" type="gnd">
+                    <subject xml:lang="de">Bremse</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Automation.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Control engineering.</subject>
+                </subject>
+                <subject id="7714938-5" type="gnd">
+                    <subject xml:lang="de">Autonomes Fahrzeug</subject>
+                </subject>
+                <subject id="4522227-7" type="gnd">
+                    <subject xml:lang="de">Brake-by-wire</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Vehicles.</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:609098802</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:609098802">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2009-09-18</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>609098802</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">609098802</identifier>
+                <identifier type="firstid">GBV:609098802</identifier>
+                <identifier type="isbn13">9781563479656</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1285200942</identifier>
+                    <creationDate>2011-12-30</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">Z 1279(228)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XXI, 233 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Hypervelocity gouging impacts</title>
+            <abstracts>
+                <abstract xml:lang="de">When materials interact at hypervelocity (on the order of Mach 8.5 and above) unexpected results can occur. This book addresses the effects of hypervelocity impact, summarizing past and present research efforts as well as setting out the theoretical foundation for understanding material interactions at such velocity. It focuses on research conducted at the Holloman Air Force Base High Speed Test Track (HHSTT), which is working toward a test vehicle speed above Mach 10. Researchers have found that as the sled's speed has increased to Mach 8.5, a material interaction has developed that causes "gouging" in the rails and the sled's "shoes", which can lead to catastrophic failure. The author evaluates the HHSTT gouging phenomenon and offers recommendations to mitigate the occurrence of hypervelocity gouging. His insights and recommendations will also find wide applicability in other areas, such as railguns, orbital debris, and weapon design--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Cinnamon, John D.</contributor>
+                </contributor>
+            </contributors>
+            <responsible>John D. Cinnamon</responsible>
+            <publicationInfo>
+                <issued>2009</issued>
+                <publicationPlaces>
+                    <publicationPlace>Reston, Va.</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>American Inst. of Aeronautics and Astronautics</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Progress in astronautics and aeronautics</title>
+                    <volumeNumber>228</volumeNumber>
+                </journalInfo>
+            </additionalDocumentInfo>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Progress in astronautics and aeronautics</title>
+                <volumeNumber>228</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>TA354</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL507</code>
+                </classification>
+                <classification classificationName="ssg">
+                    <code>16,12</code>
+                </classification>
+                <classification classificationID="106410334" classificationName="bk">
+                    <code>55.60</code>
+                    <entries>
+                        <entry>Raumfahrttechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>620.1/12</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Strength of materials</subject>
+                </subject>
+                <subject id="4037934-6" type="gnd">
+                    <subject xml:lang="de">Werkstoffprüfung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Materials</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Impact</subject>
+                </subject>
+                <subject id="4187094-3" type="gnd">
+                    <subject xml:lang="de">Unterschallgeschwindigkeit</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Metals</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:176809585X</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:176809585X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2021-08-31</databaseDate>
+            <changeDate>2023-05-12</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>176809585X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">176809585X</identifier>
+                <identifier type="firstid">KXP:176809585X</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">http://hdl.handle.net/10419/238276</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4268045074</identifier>
+                    <creationDate>2023-02-07</creationDate>
+                    <selectionKey>zf</selectionKey>
+                    <licenseModels>
+                        <licenseModel>oa</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (circa 32 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Addressing the gaps in market diffusion modeling of electrical vehicles : a case study from Germany for the integration of environmental policy measures</title>
+            <abstracts>
+                <abstract xml:lang="de">Electric vehicles (EVs) can help to reduce greenhouse gas emissions of the transportation sector. Therefore, the German government has defined various measures and targets to promote the diffusion of EVs. However, factors influencing the market diffusion of EVs as well as interdependencies between policy measures and vehicle diffusion are often unclear and hence, diffusion simulations are probably inaccurate. At the same time, a precise simulation of EV diffusion is a relevant parameter in travel demand models building the base for transportation planning. This paper addresses the gaps in current market diffusion models for EVs with a particular focus on environmental effects as additional influencing factors of the market diffusion. Results will be drawn for the German car market with a market diffusion simulation until 2050. The market diffusion model ALADIN is applied and energy prices are extended by a CO2 price to improve the consideration of environmental factors in the market diffusion modelling. The effectiveness of environmental policy measures is assessed in scenarios with three different CO2 prices and their impact on the diffusion of EVs. The results show that the market diffusion is highly dependent on the evolution of external factors. A CO2 price of at least 150 €/t of CO2 by 2030 can have a significant impact on the market diffusion of EVs and may as well lead to changes in the drive mix for both, electric and conventional drives within the German passenger car fleet. The German government’s target of seven to ten million EVs registered by 2030 seems in general achievable, if currently adopted purchase bonuses and expected cost degression for EVs also take effect. Until 2050, we find large effects with CO2 prices up to 500 €/t, yet limited growth in market share above that threshold.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Van, Tien Linh Cao</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1240863950</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Barthelmes, Lukas</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Gnann, Till</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1078643768</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Speth, Daniel</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Kagerbauer, Martin</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">142739138</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Tien Linh Cao Van,Lukas Barthelmes, Till Gnann, Daniel Speth, Martin Kagerbauer</responsible>
+            <publicationInfo>
+                <issued>2021</issued>
+                <publicationPlaces>
+                    <publicationPlace>Karlsruhe</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Fraunhofer ISI</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Working paper sustainability and innovation</title>
+                    <volumeNumber>no. S 2021, 05</volumeNumber>
+                </journalInfo>
+            </additionalDocumentInfo>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Working paper sustainability and innovation</title>
+                <volumeNumber>no. S 2021, 05</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4055072-2" type="gnd">
+                    <subject xml:lang="de">Simulation</subject>
+                </subject>
+                <subject id="4059277-7" type="gnd">
+                    <subject xml:lang="de">Technologietransfer</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Elektrofahrzeug</subject>
+                </subject>
+                <subject id="4151795-7" type="gnd">
+                    <subject xml:lang="de">Elektrofahrzeug</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Innovationsdiffusion</subject>
+                </subject>
+                <subject id="4062954-5" type="gnd">
+                    <subject xml:lang="de">Verkehrsplanung</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Verkehrsplanung</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Deutschland</subject>
+                </subject>
+                <subject id="4161820-8" type="gnd">
+                    <subject xml:lang="de">Innovationsprozess</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Umweltpolitik</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Simulation</subject>
+                </subject>
+                <subject id="4078523-3" type="gnd">
+                    <subject xml:lang="de">Umweltpolitik</subject>
+                </subject>
+                <subject id="4011882-4" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Deutschland</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://hdl.handle.net/10419/238276</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

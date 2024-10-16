@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:270292233</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:270292233">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1999-06-14</databaseDate>
+            <changeDate>2024-04-18</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>270292233</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">270292233</identifier>
+                <identifier type="contract">20S9501</identifier>
+                <identifier type="contract">20S9501A</identifier>
+                <identifier type="contract">20S5901A</identifier>
+                <identifier type="firstid">GBV:270292233</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="miscellaneous" type="url">https://edocs.tib.eu/files/e001/270292233l.pdf</location>
+                <location mimetype="application/pdf" subtype="fulltext" type="url">https://edocs.tib.eu/files/e001/270292233.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">343126958</identifier>
+                    <creationDate>1999-06-14</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-89</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">232 p. = 12,6 Mb., text and images</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Abschlußbericht zum Vorhaben "Ground Proximity Warning System (GPWS)" : Laufzeit: 01.05.1995 - 30.06.1998</title>
+            <abstracts>
+                <abstract xml:lang="de">GPWS, GCAS, Kollisionswarnung, ATTAS, Luftfahrt, CFIT, GPS</abstract>
+            </abstracts>
+            <contributors>
+                <contributor>
+                    <contributor>Wischmann, Erik</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Dudek, Heinz-Leo</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Wiechert, Alexander</contributor>
+                </contributor>
+            </contributors>
+            <responsible>[Autoren des Berichts: Wischmann, Erik; Dudek, Heinz-Leo; Wiechert, Alexander]</responsible>
+            <publicationInfo>
+                <issued>1999</issued>
+                <edition>[Electronic ed.]</edition>
+                <publicationPlaces>
+                    <publicationPlace>Ulm</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Daimler-Benz Aerospace AG, NFS Navigations- und Flugführungssysteme GmbH</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-296-TTN</identifier>
+                </isPartOf>
+                <publicationIDInfo>nIndex. - Contract 20S9501 A; 20S5901A (falsch!)</publicationIDInfo>
+                <publicationIDInfo>Differences between the printed and electronic version of the document are possible</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>ill</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-296-TTN</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="181570769" classificationName="bk">
+                    <code>55.54</code>
+                    <entries>
+                        <entry>Flugführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4154750-0" type="gnd">
+                    <subject xml:lang="de">Flugführung</subject>
+                </subject>
+                <subject id="4154780-9" type="gnd">
+                    <subject xml:lang="de">Flugzeugabsturz</subject>
+                </subject>
+                <subject id="4226136-3" type="gnd">
+                    <subject xml:lang="de">Warnung</subject>
+                </subject>
+                <subject id="4025352-1" type="gnd">
+                    <subject xml:lang="de">Höhenmessung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">default</property>
+            <property name="displaySubscriberAccess">https://edocs.tib.eu/files/e001/270292233.pdf</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

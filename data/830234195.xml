@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:830234195</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:830234195">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2015-06-30</databaseDate>
+            <changeDate>2022-12-28</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>830234195</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">830234195</identifier>
+                <identifier type="firstid">BSZ:434713562</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">http://nbn-resolving.de/urn:nbn:de:bsz:289-vts-95639</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1561462209</identifier>
+                    <creationDate>2015-08-06</creationDate>
+                    <selectionKey>zdt</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online-Ressource</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Surround View pedestrian detection</title>
+            <abstracts>
+                <abstract xml:lang="de">In this thesis, novel methods that enable and support Surround View pedestrian detection are developed. As a part of the so called Surround View System, the introduced detection and localization approaches can be used to prevent and mitigate accidents involving pedestrians. We begin by giving a complete description of the processing chain required to find pedestrians in the input images obtained from four wide-angle cameras. Then, a novel heterogeneous cascaded classifier approach is introduced, which combines the computational efficiency of early simple stages with the classification performance of powerful final stages. In order to further increase the performance of our heterogeneous cascade, a feature-based inter-stage information transfer algorithm is introduced. To deal with occlusions caused by the mounting positions of the cameras, a classification scheme is introduced to also handle only partially visible pedestrians. To complement the intensity-image based classification approach, we propose to use a multi-stage rejection chain employing dense optical flow. It is shown that by analyzing dense flow images and egomotion information of the current scene, the likelihood that an image window contains a pedestrian can be inferred. The approach incorporates the uncertainties of all inputs which is important when dealing with the noisy data received from the flow- and egomotion-estimation. Due to the way that detected pedestrians are displayed in the Surround View System, the detection location in the image must be very precise. It is shown how localization can be treated as a subsequent step to pedestrian detection that aims at finding the exact position of pedestrians in an input image. Then, two different novel approaches for pedestrian localization using neural networks with local receptive fields are introduced and evaluated.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Gressmann, Markus</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1074303539</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Markus Gressmann</responsible>
+            <publicationInfo>
+                <issued>2015</issued>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Ulm, Univ., Diss., 2015</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druckausg.</label>
+                <title>Surround View pedestrian detection</title>
+                <identifier type="ppn">1512575852</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>004</code>
+                </classification>
+                <classification classificationID="10642064X" classificationName="bk">
+                    <code>55.84</code>
+                    <entries>
+                        <entry>Straßenverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="10641030X" classificationName="bk">
+                    <code>54.74</code>
+                    <entries>
+                        <entry>Maschinelles Sehen</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>inf</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4056783-7" type="gnd">
+                    <subject xml:lang="de">Stadtverkehr</subject>
+                </subject>
+                <subject id="4140907-3" type="gnd">
+                    <subject xml:lang="de">Fußgänger</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Neural networks (Computer science)</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Neural networks (Computer science)</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Pedestrians</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Machine learning</subject>
+                </subject>
+                <subject id="4264283-8" type="gnd">
+                    <subject xml:lang="de">Bilderkennung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Erkennung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Classification</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Klassifikation</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Classification</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Fußgänger</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Machine learning</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Pedestrians</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://nbn-resolving.de/urn:nbn:de:bsz:289-vts-95639</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:604459629</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:604459629">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2009-07-09</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>604459629</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">604459629</identifier>
+                <identifier type="firstid">GBV:604459629</identifier>
+                <identifier type="isbn13">9783183703128</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/ilmenau/toc/604459629.PDF</location>
+                <location subtype="description" type="url">http://www.gbv.de/dms/ilmenau/abs/604459629goldb.txt</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">940455013</identifier>
+                    <creationDate>2009-07-09</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">ZN 746(703)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">944156800</identifier>
+                    <creationDate>2009-08-12</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">ZN 746(703) a</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XII, 171 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Zur Verbesserung des Fahrverhaltens von Zugfahrzeug-Anhänger-Gespannen</title>
+            <abstracts>
+                <abstract xml:lang="de">Die Bildung von Zugfahrzeug-Anhänger-Gespannen erhöht die Flexibilität von Fahrzeugen und ermöglicht es so, größere Lasten und sperrige Güter zu transportieren. Allerdings verändert sich das Fahrverhalten von Zugfahrzeug-Anhänger-Gespannen verglichen mit dem Fahrverhalten von Solofahrzeugen. Da ungeübten Fahrern das Führen von Gespannen schwer fällt, geht von Gespannen ein erhöhtes Gefährdungspotential für sich und andere Verkehrsteilnehmer aus. Bei schneller Vorwärtsfahrt können sich im Gespannbetrieb aufklingende Pendelschwingungen aufbauen, die bei herkömmlichen Gespannen schon im Ansatz durch Bremsen gedämpft werden sollten, um das Gespann kontrollierbar zu halten. Beim Durchfahren enger Kurven sollten diese weiter angefahren werden, da der Anhänger die Kurve schneidet. Besonders das Rückwärtsfahren fällt ungeübten Fahrern schwer, da der Anhänger durch permanente, nicht intuitive Lenkmanöver stabilisiert und auf dem gewünschten Kurs gehalten werden muss. Heute übliche Ansätze wie zum Beispiel Schlingerdämpfer, ESC-Systeme oder Systeme zur Gewichtsverteilung verbessern das Fahrverhalten nicht in allen Fahrsituationen. Aus diesem Grund wird in dieser Arbeit ein Ansatz - genannt Aktive Anhängerkupplung - untersucht, der mit Hilfe einer gezielten Verschiebung des Anhängerkupplungspunktes quer zur Fahrtrichtung das Gespannfahrverhalten in sämtlichen Fahrsituationen verbessert. Es werden verschiedene Regler und Beobachter zur Gespannfahrverhaltensverbesserung parametriert. Die Sensitivitätsanalyse zeigt, dass Parameterschwankungen im Gespannbetrieb groß sind. Daher werden alle Regler und Beobachter für den Parameterraum robust ausgelegt. Auf Basis parametrierter Einspurmodelle werden mit einem evolutionären Optimierungsalgorithmus Zustandsregler zur Stabilisierung von Gespannen mit Aktiver Anhängerkupplung parametriert. Die Nulldämpfungsgeschwindigkeit wird im Fahrversuch um über 30% gesteigert. Das Durchfahren enger Kurven wird verbessert, indem bei Kurvenradien bis 25m das Kurvenschneiden vollständig unterbunden und bei kleineren Radien deutlich verringert wird. Bei Rückwärtsfahrt wird der Anhänger mit der Aktiven Anhängerkupplung stabilisiert und abhängig vom Lenkwinkel wird ein Sollgespannknickwinkel eingeregelt. Es wird bei Rückwärtsfahrt im Vergleich zu einem Gespann mit konventioneller Anhängerkupplung sowohl eine höhere Geschwindigkeit bei Geradeausfahrt erreicht wie auch das Gespann auf Kreisbahnen stabilisiert. Die Beobachter werden im Parameterraum robust stabil eingestellt. Abstriche mussten nur in der Güte des Einschwingverhaltens gemacht werden. Bei guter Übereinstimmung der Beobachter und der Gespannparameter im Geltungsbereich des Einspurmodells liefert der Beobachter gute Werte im gesamten Geschwindigkeitsbereich. Mit der gezielten Querverschiebung des Anhängerkupplungspunktes wird das Gespannfahrverhalten in allen Situationen deutlich verbessert. Die Regler können in einem Gesamtkonzept je nach Fahrsituation ausgewählt werden. Reserven des neu entwickelten Konzepts sind im Beobachterkonzept bezüglich der Störeinflüsse, der online-Adaption der Beobachterparameter und im Regelungskonzept bezüglich der Ermittlung des Gespannknickwinkels bei langsamer Rückwärtsfahrt für die zukünftige Forschung vorhanden.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Goldbach, Daniel</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">138647445</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor>
+                    <contributor>Wernstedt, Jürgen</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">130244864</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Cuno, Bernd</contributor>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Ament, Christoph</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1058278150</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Daniel Goldbach</responsible>
+            <publicationInfo>
+                <issued>2009</issued>
+                <edition>Als Ms. gedr.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Düsseldorf</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>VDI-Verl.</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Fortschritt-Berichte VDI</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>Reihe 12, Verkehrstechnik, Fahrzeugtechnik</title>
+                    <volumeNumber>703</volumeNumber>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Zugl.: Ilmenau, Techn. Univ., Diss., 2008</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Fortschritt-Berichte VDI</title>
+            </related>
+            <related type="parent">
+                <title>Reihe 12, Verkehrstechnik, Fahrzeugtechnik</title>
+                <volumeNumber>703</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.27</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4016278-3" type="gnd">
+                    <subject xml:lang="de">Fahrdynamik</subject>
+                </subject>
+                <subject id="4140205-4" type="gnd">
+                    <subject xml:lang="de">Anhängerkupplung</subject>
+                </subject>
+                <subject id="4048971-1" type="gnd">
+                    <subject xml:lang="de">Regelung</subject>
+                </subject>
+                <subject id="4203620-3" type="gnd">
+                    <subject xml:lang="de">Zugmaschine</subject>
+                </subject>
+                <subject id="4132163-7" type="gnd">
+                    <subject xml:lang="de">Fahrzeugverhalten</subject>
+                </subject>
+                <subject id="4124547-7" type="gnd">
+                    <subject xml:lang="de">Anhänger</subject>
+                </subject>
+                <subject id="4177447-4" type="gnd">
+                    <subject xml:lang="de">Reglerentwurf</subject>
+                </subject>
+                <subject id="4309013-8" type="gnd">
+                    <subject xml:lang="de">Verbesserung</subject>
+                </subject>
+                <subject id="4073757-3" type="gnd">
+                    <subject xml:lang="de">Kraftfahrzeug</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

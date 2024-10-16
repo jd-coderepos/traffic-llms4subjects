@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1614023352</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1614023352">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1993-05-24</databaseDate>
+            <changeDate>2024-05-09</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>1614023352</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1614023352</identifier>
+                <identifier type="firstid">BSZ:033442770</identifier>
+                <identifier type="isbn">3775701206</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">012831573</identifier>
+                    <creationDate>1971-01-01</creationDate>
+                    <selectionKey>n</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">AF 8693</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">103271864</identifier>
+                    <creationDate>1993-06-17</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">AF 8693 a</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-24</isil>
+            </preservation>
+            <preservation procedure="digital-preservation">
+                <isil>DE-16</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">152 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Die fußgängerfreundliche Stadt : von der Fußgängerzone bis zum gesamtstädtischen Fußwegenetz</title>
+            <abstracts>
+                <abstract xml:lang="de">Betr. Stuttgart S. 132 - 141</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Uhlig, Klaus R.</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">142296708</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Klaus Uhlig</responsible>
+            <publicationInfo>
+                <issued>1979</issued>
+                <publicationPlaces>
+                    <publicationPlace>Stuttgart</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Verlag Gerd Hatje</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Text dt., engl</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen; Diagramme</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106411039" classificationName="bk">
+                    <code>74.72</code>
+                    <entries>
+                        <entry>Stadtplanung, kommunale Planung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loksys">
+                    <code>rau 595</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>HT170</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>20a</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>21a</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>12a</code>
+                </classification>
+                <classification classificationID="106421050" classificationName="bk">
+                    <code>74.75</code>
+                    <entries>
+                        <entry>Verkehrsplanung, Verkehrspolitik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ssg">
+                    <code>9,10</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>arc</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Pedestrian areas</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Gehweg</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Fussgängerzone</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Verkehr</subject>
+                </subject>
+                <subject id="4140911-5" type="gnd">
+                    <subject xml:lang="de">Fußgängerzone</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Urban renewal</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Fußgängerzone</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:086780093</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:086780093">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2005-04-04</databaseDate>
+            <changeDate>2023-11-24</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>086780093</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>nl</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">086780093</identifier>
+                <identifier type="firstid">GBV:086780093</identifier>
+                <identifier type="isbn">1417593881</identifier>
+                <identifier type="isbn13">9781597343930</identifier>
+                <identifier type="isbn">1597343935</identifier>
+                <identifier type="isbn13">9781417593880</identifier>
+                <identifier type="isbn13">9780749435714</identifier>
+                <identifier type="isbn">0749435712</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">http://www.netLibrary.com/urlapi.asp?action=summary&amp;v=1&amp;bookid=131872</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">779509757</identifier>
+                    <recallSign>OLR-NL</recallSign>
+                    <creationDate>2006-10-03</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xiv, 281 pages</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>The dictionary of transport and logistics</title>
+            <abstracts>
+                <abstract xml:lang="de">"The terms, abbreviations, and acronyms included herein cover: Heavy vehicle technology -- Road haulage and own-account transport operations -- Passenger vehicle and public service operations -- Legal aspects of transport -- Logistics -- Supply-chain management -- Freighting by rail, sea and inland waterway -- Passenger transport by rail, sea and air -- Transport policy and planning -- Related business, accounting and information technology"--P. v</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Chartered Institute of Transport</name>
+                </corporateCreator>
+                <corporateCreator>
+                    <name>NetLibrary, Inc</name>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Lowe, David</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">124039952</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>David Lowe</responsible>
+            <publicationInfo>
+                <issued>2002</issued>
+                <publicationPlaces>
+                    <publicationPlace>London</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Kogan Page</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-1-NEL</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>EBSCOhost eBook Collection</title>
+                </journalInfo>
+                <publicationIDInfo>"The Institute of Logistics and Transport."</publicationIDInfo>
+                <publicationIDInfo>Electronic reproduction, Boulder, Colo : NetLibrary, 2005</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>25 cm</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-1-NEL</identifier>
+            </related>
+            <related type="parent">
+                <title>EBSCOhost eBook Collection</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="181571811" classificationName="bk">
+                    <code>55.82</code>
+                    <entries>
+                        <entry>Güterverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>HE141</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>388.04403</code>
+                </classification>
+                <classification classificationID="181571323" classificationName="bk">
+                    <code>85.32</code>
+                    <entries>
+                        <entry>Beschaffung, Materialwirtschaft</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>oek</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Transportation</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Dictionaries</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Business logistics</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Freight and freightage</subject>
+                </subject>
+                <subject id="4036210-3" type="gnd">
+                    <subject xml:lang="de">Logistik</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Freight and freightage</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Business logistics</subject>
+                </subject>
+                <subject id="4060680-6" type="gnd">
+                    <subject xml:lang="de">Transport</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Electronic books</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Electronic books</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Transportation</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Dictionaries</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://www.netLibrary.com/urlapi.asp?action=summary&amp;v=1&amp;bookid=131872</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

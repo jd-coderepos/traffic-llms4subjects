@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1744446385</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1744446385">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2021-01-12</databaseDate>
+            <changeDate>2022-01-28</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1744446385</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1744446385</identifier>
+                <identifier type="firstid">KXP:1744446385</identifier>
+                <identifier type="isbn13">9783030596903</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1744446385.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3834579807</identifier>
+                    <creationDate>2022-01-13</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 21 B 877</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">IX, 103 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Transportation air pollutants : black carbon and other emissions</title>
+            <abstracts>
+                <abstract xml:lang="de">This book begins by discussing the problems caused by transportation emissions, the various types of emissions, and the impacts they have on public health, agricultural production, and climate change. The next several chapters then present technologies and policies from around the world, which can be used to solve some of these problems. Finally, the book discusses implications for the future, from both an industrial and governmental point of view.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Brewer, Thomas L.</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">128348542</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Thomas Brewer, editor</responsible>
+            <publicationInfo>
+                <issued>2021</issued>
+                <publicationPlaces>
+                    <publicationPlace>Cham</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="CH" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>SpringerBriefs in applied sciences and technology</title>
+                </journalInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>SpringerBriefs in applied sciences and technology</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.2</code>
+                </classification>
+                <classification classificationID="106420631" classificationName="bk">
+                    <code>55.80</code>
+                    <entries>
+                        <entry>Verkehrswesen, Transportwesen: Allgemeines</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106416928" classificationName="bk">
+                    <code>43.62</code>
+                    <entries>
+                        <entry>Umweltbelastung durch Transport und Verkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>cet</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4061619-8" type="gnd">
+                    <subject xml:lang="de">Umweltbelastung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Industries.</subject>
+                </subject>
+                <subject id="4062901-6" type="gnd">
+                    <subject xml:lang="de">Verkehr</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Energy and state.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Transportation engineering.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Automotive engineering.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Pollution.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Traffic engineering.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Energy policy.</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

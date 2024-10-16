@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:49732444X</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:49732444X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2005-08-25</databaseDate>
+            <changeDate>2024-04-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>49732444X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">49732444X</identifier>
+                <identifier type="ean">9783938863039</identifier>
+                <identifier type="firstid">GBV:49732444X</identifier>
+                <identifier type="isbn">393886303X</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="description" type="url">http://deposit.dnb.de/cgi-bin/dokserv?id=2670568&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</location>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/49732444x.pdf</location>
+                <location subtype="miscellaneous" type="url">http://deposit.dnb.de/cgi-bin/dokserv?id=2670568&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">736841644</identifier>
+                    <creationDate>2005-09-26</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">U 05 B 1670</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-14</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">82 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Verifizierung der numerischen Schallfeldberechnung mittels der Randelementemethode am Beispiel des Reifenrollgeräuschs</title>
+            <abstracts>
+                <abstract xml:lang="de">*Weitere Angaben Verfasser: Roland Rennert, 1969 in Dresden geboren, studierte an der dortigen Technischen Universität Maschinenbau in der Vertiefungsrichtung "Angewandte Mechanik". Seit Abschluss seines Studiums im Jahr 1995 arbeitet er an der IMA Materialforschung und Anwendungstechnik GmbH. Dort beschäftigt er sich mit vielfältigen Problemen der Schwingungstechnik, Betriebsfestigkeit und Technischen Diagnostik</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Rennert, Roland</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">131258605</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Roland Rennert</responsible>
+            <publicationInfo>
+                <issued>2005</issued>
+                <publicationPlaces>
+                    <publicationPlace>Dresden</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>TUDpress, Verl. der Wiss.</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Zugl.: Dresden, Techn. Univ., Diss., 2005</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>21 cm</description>
+            <description>Ill., graph. Darst</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>UF 6900</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4120997-7" type="gnd">
+                    <subject xml:lang="de">Berechnung</subject>
+                </subject>
+                <subject id="4121611-8" type="gnd">
+                    <subject xml:lang="de">Schallfeld</subject>
+                </subject>
+                <subject id="4490847-7" type="gnd">
+                    <subject xml:lang="de">Umweltverträglichkeitsuntersuchung</subject>
+                </subject>
+                <subject id="4076508-8" type="gnd">
+                    <subject xml:lang="de">Randelemente-Methode</subject>
+                </subject>
+                <subject id="4189299-9" type="gnd">
+                    <subject xml:lang="de">Wasserverschmutzung</subject>
+                </subject>
+                <subject id="4000302-4" type="gnd">
+                    <subject xml:lang="de">Abwasser</subject>
+                </subject>
+                <subject id="4170403-4" type="gnd">
+                    <subject xml:lang="de">Molkereitechnologie</subject>
+                </subject>
+                <subject id="4179367-5" type="gnd">
+                    <subject xml:lang="de">Schallmessung</subject>
+                </subject>
+                <subject id="4177550-8" type="gnd">
+                    <subject xml:lang="de">Reifengeräusch</subject>
+                </subject>
+                <subject id="4352889-2" type="gnd">
+                    <subject xml:lang="de">Online-Messung</subject>
+                </subject>
+                <subject id="4135577-5" type="gnd">
+                    <subject xml:lang="de">Verifikation</subject>
+                </subject>
+                <subject id="4169927-0" type="gnd">
+                    <subject xml:lang="de">Milchverarbeitung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:367782375</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:367782375">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2003-08-14</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>367782375</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">367782375</identifier>
+                <identifier type="contract">19B1062</identifier>
+                <identifier type="firstid">GBV:367782375</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">611920107</identifier>
+                    <creationDate>2004-01-19</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">F 03 B 855</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">63 Bl</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Abschlußbericht für das Forschungs- und Entwicklungsvorhaben "BDO - Buchen-Disponieren-Optimieren": Entwicklung und Installation einer Buchungs- und Verwaltungssoftware mit Dispositionsoptimierung für Autovermietung, Car-Sharing und Auto-Leasing, insbesondere in mittelständischen Unternehmen</title>
+            <alternativeTitles>
+                <alternative>Entwicklung und Installation einer Buchungs- und Verwaltungssoftware mit Dispositionsoptimierung für Autovermietung, Car-Sharing und Auto-Leasing, insbesondere in mittelständischen Unternehmen</alternative>
+                <alternative>BDO - Buchen-Disponieren-Optimieren</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Carsharing, carrental, optimisation, resource effeciency, mobility, Java, Italy, Switzerland</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Technischer Überwachungs-Verein Rheinland, Akademie</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2024630-4</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor>
+                    <contributor>Röhtz, Nadine</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Mewes, Holger</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Bearbeiter: Nadine Röhtz; Holger Mewes</responsible>
+            <publicationInfo>
+                <issued>2003</issued>
+                <publicationPlaces>
+                    <publicationPlace>Berlin</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>IVU Traffic Technologies AG</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Förderkennzeichen BMBF 19B1062. - Engl. Zsfassung</publicationIDInfo>
+                <publicationIDInfo>Unterschiede zwischen dem gedruckten Dokument und der elektronischen Ressource können nicht ausgeschlossen werden</publicationIDInfo>
+                <publicationIDInfo>Auch als elektronische Ressource vorh.</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="181570637" classificationName="bk">
+                    <code>55.81</code>
+                    <entries>
+                        <entry>Personenverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4134274-4" type="gnd">
+                    <subject xml:lang="de">Mietwagenunternehmen</subject>
+                </subject>
+                <subject id="4314118-3" type="gnd">
+                    <subject xml:lang="de">Dispositionssystem</subject>
+                </subject>
+                <subject id="4326831-6" type="gnd">
+                    <subject xml:lang="de">Carsharing</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1860644317</identifier><datestamp>2024-06-28</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1860644317">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2023-10-03</databaseDate>
+            <changeDate>2024-05-16</changeDate>
+            <ftxCreationDate>2024-06-14</ftxCreationDate>
+            <documentID>1860644317</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1860644317</identifier>
+                <identifier type="doi">10.1007/978-3-658-43075-7</identifier>
+                <identifier type="firstid">KEP:096587385</identifier>
+                <identifier type="isbn13">9783658430757</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://doi.org/10.1007/978-3-658-43075-7</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4387016612</identifier>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2023-10-13</creationDate>
+                    <selectionKey>zesp</selectionKey>
+                    <loanIndicator>s</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource(XL, 186 p. 72 illus. Textbook for German language market.)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>A Complete Methodology for the Predictive Simulation of Novel, Single- and Multi-Component Fuel Combustion</title>
+            <abstracts>
+                <abstract xml:lang="de">Fundamentals -- Reaction Kinetic Calculations -- Automation of A New Fuel Implementation -- Methodology Validation.</abstract>
+                <abstract xml:lang="de">Sebastian K. Crönert presents a new, automated process that makes it possible to obtain all the fuel properties required for combustion simulation. If necessary, these are then transferred - also automatically - into specially created correlation equations through which they are then made available again at simulation runtime. This method makes it possible to represent even more complex correlations and cross-influences on calculation variables in a resource-optimised way (memory requirements and access time) while maintaining the same accuracy. The procedure is validated using test bench measurement data for the pure fuels anisole and cyclopentanone and their blends with regular petrol (RON95E10). Additional validations include more established synthetic fuels and hydrogen. It is shown that an extraordinarily high prediction quality can be achieved for the model class. Contents Fundamentals Reaction Kinetic Calculations Automation of A New Fuel Implementation Methodology Validation Target Groups Lecturers and students of vehicle powertrain systems and technical combustion Practitioners in the field of 0D/1D simulation, technical combustion, synthetic fuels, hydrogen, reaction kinetics About the Author Sebastian K. Crönert completed his doctorate at the Institute of Automotive Engineering Stuttgart (IFS) at the University of Stuttgart and continues to work there as a research assistant. His work focuses on reaction kinetic investigations of synthetic fuels, hydrogen and ammonia as well as software engineering and model development.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Crönert, Sebastian K.</contributor>
+                </contributor>
+            </contributors>
+            <responsible>by Sebastian K. Crönert</responsible>
+            <publicationInfo>
+                <issued>2023</issued>
+                <edition>1st ed. 2023.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Wiesbaden</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer Fachmedien Wiesbaden</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-2-SEB</identifier>
+                    <identifier type="collectioncode">ZDB-2-STI</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>Wissenschaftliche Reihe Fahrzeugtechnik Universität Stuttgart</title>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>Campusweiter Zugriff (Universität Hannover) - Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Keine Weitergabe an Dritte. Kein systematisches Downloaden durch Robots.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>A complete methodology for the predictive simulation of novel, single- and multi-component fuel combustion</title>
+                <identifier type="ppn">1859477275</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-2-SEB</identifier>
+                <identifier type="collectioncode">ZDB-2-STI</identifier>
+            </related>
+            <related type="parent">
+                <title>Wissenschaftliche Reihe Fahrzeugtechnik Universität Stuttgart</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.2</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4154546-1" type="gnd">
+                    <subject xml:lang="de">Flammengeschwindigkeit</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Engines.</subject>
+                </subject>
+                <subject id="4338132-7" type="gnd">
+                    <subject xml:lang="de">Numerisches Modell</subject>
+                </subject>
+                <subject id="4125215-9" type="gnd">
+                    <subject xml:lang="de">Prognosemodell</subject>
+                </subject>
+                <subject id="4062656-8" type="gnd">
+                    <subject xml:lang="de">Verbrennung</subject>
+                </subject>
+                <subject id="4369521-8" type="gnd">
+                    <subject xml:lang="de">Physikalisch-chemische Eigenschaft</subject>
+                </subject>
+                <subject id="4062661-1" type="gnd">
+                    <subject xml:lang="de">Verbrennungsmotor</subject>
+                </subject>
+                <subject id="4132151-0" type="gnd">
+                    <subject xml:lang="de">Gemisch</subject>
+                </subject>
+                <subject id="4125095-3" type="gnd">
+                    <subject xml:lang="de">Reaktionsgeschwindigkeit</subject>
+                </subject>
+                <subject id="4202617-9" type="gnd">
+                    <subject xml:lang="de">Reinstoff</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Automotive engineering.</subject>
+                </subject>
+                <subject id="4191085-0" type="gnd">
+                    <subject xml:lang="de">Zündverzug</subject>
+                </subject>
+                <subject id="4073754-8" type="gnd">
+                    <subject xml:lang="de">Kraftstoff</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Hydrogen as fuel.</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://doi.org/10.1007/978-3-658-43075-7</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

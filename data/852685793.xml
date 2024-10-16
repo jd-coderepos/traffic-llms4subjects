@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:852685793</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:852685793">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2016-03-18</databaseDate>
+            <changeDate>2024-04-22</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>852685793</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">852685793</identifier>
+                <identifier type="firstid">GBV:852685793</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">http://nbn-resolving.de/urn:nbn:de:gbv:089-8526857934</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1606625500</identifier>
+                    <creationDate>2016-03-18</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>oa</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-89</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (xxii, 144 Seiten, 22,3 MB)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Characterization of blade tip vortices on large-scale rotors</title>
+            <abstracts>
+                <abstract xml:lang="de">Blade tip vortex, active twist actuation, vortex reconstruction, particle image velocimetry, background-oriented schlieren, flight test. - Blattspitzenwirbel, aktive Blattverwindung, Wirbelrekonstruktion, Hintergrund-orientiertes Schlierenverfahren</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="degree-granting-institution">
+                    <type>degree-granting-institution</type>
+                    <name>Gottfried Wilhelm Leibniz Universität Hannover</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">64681-7</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Bauknecht, André</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1092199055</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Raffel, Markus</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">118024620</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Dinkelacker, Friedrich</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">110331230</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>von Dipl.-Ing. André Bauknecht</responsible>
+            <publicationInfo>
+                <issued>2016</issued>
+                <publicationPlaces>
+                    <publicationPlace>Hannover</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2016</dateAccepted>
+                        <description>Dissertation, Gottfried Wilhelm Leibniz Universität Hannover</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420518" classificationName="bk">
+                    <code>50.36</code>
+                    <entries>
+                        <entry>Technische Akustik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4314754-9" type="gnd">
+                    <subject xml:lang="de">Fluid-Struktur-Wechselwirkung</subject>
+                </subject>
+                <subject id="4270020-6" type="gnd">
+                    <subject xml:lang="de">Schlierenmethode</subject>
+                </subject>
+                <subject id="4025993-6" type="gnd">
+                    <subject xml:lang="de">Hubschrauber</subject>
+                </subject>
+                <subject id="4286652-2" type="gnd">
+                    <subject xml:lang="de">Rotorblatt</subject>
+                </subject>
+                <subject id="4333165-8" type="gnd">
+                    <subject xml:lang="de">Particle-Image-Velocimetry</subject>
+                </subject>
+                <subject id="4190007-8" type="gnd">
+                    <subject xml:lang="de">Wirbelströmung</subject>
+                </subject>
+                <subject id="4154757-3" type="gnd">
+                    <subject xml:lang="de">Fluglärm</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://nbn-resolving.de/urn:nbn:de:gbv:089-8526857934</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

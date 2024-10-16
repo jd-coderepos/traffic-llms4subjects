@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:770172725</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:770172725">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2013-10-21</databaseDate>
+            <changeDate>2024-01-30</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>770172725</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">770172725</identifier>
+                <identifier type="firstid">GBV:770172725</identifier>
+                <identifier type="isbn13">9783892206675</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">http://nbn-resolving.de/urn:nbn:de:gbv:830-tubdok-12378</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1475631243</identifier>
+                    <creationDate>2014-05-29</creationDate>
+                    <selectionKey>zdt</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online-Ressource (PDF-Datei: XX, 123 S., 13352 KB)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Evaluation of the unsteady propeller performance behind ships in waves</title>
+            <abstracts>
+                <abstract xml:lang="de">In the present work a close and unsteady coupling procedure between a RANS-method and a potential-flow method is developed. The work is motivated by the large computational effort for unsteady viscous-flow simulations using geometrically resolved propellers. By combining the two methods for the simulation of the operating propeller in the ship's wake, the analysis of the dynamics of ships and operating propellers in seaways becomes possible. Inside the coupling the RANS-method is used to compute the inflow conditions, while the inviscid-flow method is used to determine the propeller forces.</abstract>
+                <abstract xml:lang="de">Inhalt der vorliegenden Arbeit ist die Entwicklung einer engen und instationären Kopplung einer RANS-Methode und einer potentialtheoretischen Methode. Ziel des Verfahrens ist eine Verringerung des Berechnungsaufwandes im Vergleich zu einem geometrisch modelliertem Propeller. Durch die Verbindung der beiden Methoden kann der Einfluss des arbeitenden Propellers im Nachstrom simuliert und die Wechselwirkungen zwischen Propeller und Schiff bestimmt werden. Innerhalb des Verfahrens wird die RANS-Methode dazu verwendet die Arbeitsbedingungen des Propellers zu bestimmen, während die Propellerkräfte innerhalb der potentialtheoretische Methode berechnet werden.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Technische Universität Hamburg-Harburg, Institut für Fluiddynamik und Schiffstheorie</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">10194305-2</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+                <corporateCreator>
+                    <name>Technische Universität Hamburg-Harburg</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2067664-5</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Wöckner-Kluwe, Katja</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1138041777</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor>
+                    <contributor>Abdel-Maksoud, Moustafa</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">140779922</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Krüger, Stefan</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">140779663</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Katja Wöckner-Kluwe</responsible>
+            <publicationInfo>
+                <issued>2013</issued>
+                <edition>[Elektronische Ressource]</edition>
+                <publicationPlaces>
+                    <publicationPlace>Hamburg</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Inst. für Fluiddynamik und Schiffstheorie</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>Schriftenreihe Schiffbau</title>
+                    <volumeNumber>667</volumeNumber>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Zugl.: Hamburg-Harburg, Techn. Univ., Institut für Fluiddynamik und Schiffstheorie, Diss., 2013</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+                <publicationIDInfo>Differences between the printed and electronic version of the document are possible.</publicationIDInfo>
+                <publicationIDInfo>Unterschiede zwischen dem gedruckten Dokument und der elektronischen Ressource können nicht ausgeschlossen werden</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druckausg.</label>
+                <title>Evaluation of the unsteady propeller performance behind ships in waves</title>
+                <identifier type="isbn13">9783892206675</identifier>
+                <identifier type="ppn">770806279</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+            <related type="parent">
+                <title>Schriftenreihe Schiffbau</title>
+                <volumeNumber>667</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420577" classificationName="bk">
+                    <code>55.40</code>
+                    <entries>
+                        <entry>Schiffstechnik, Schiffbau</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>623.873</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="106413783" classificationName="bk">
+                    <code>50.33</code>
+                    <entries>
+                        <entry>Technische Strömungsmechanik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>propeller</subject>
+                </subject>
+                <subject id="4132734-2" type="gnd">
+                    <subject xml:lang="de">Instationäre Strömung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Schiffsantrieb</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Ventilation</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>wake field</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Schiffbau</subject>
+                </subject>
+                <subject id="4138452-0" type="gnd">
+                    <subject xml:lang="de">Schiffspropeller</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>ventilation</subject>
+                </subject>
+                <subject id="4261715-7" type="gnd">
+                    <subject xml:lang="de">Reynoldssche Gleichung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Propeller</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Nachstrom</subject>
+                </subject>
+                <subject id="4121807-3" type="gnd">
+                    <subject xml:lang="de">Umströmung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Schiffstechnik</subject>
+                </subject>
+                <subject id="4511937-5" type="gnd">
+                    <subject xml:lang="de">Online-Ressource</subject>
+                </subject>
+                <subject id="4690080-9" type="gnd">
+                    <subject xml:lang="de">Numerische Strömungssimulation</subject>
+                </subject>
+                <subject id="4046939-6" type="gnd">
+                    <subject xml:lang="de">Potenzialtheorie</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>RANS-method</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Schiffspropeller</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>unsteady viscous-flow simulations</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>RANS-Verfahren</subject>
+                </subject>
+                <subject id="4054117-4" type="gnd">
+                    <subject xml:lang="de">Seegang</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>numersiche Strömungssimulation</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://nbn-resolving.de/urn:nbn:de:gbv:830-tubdok-12378</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

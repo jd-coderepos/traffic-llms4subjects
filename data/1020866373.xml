@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1020866373</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1020866373">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2018-05-09</databaseDate>
+            <changeDate>2021-07-05</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1020866373</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1020866373</identifier>
+                <identifier type="firstid">GBV:1020866373</identifier>
+                <identifier type="isbn13">9780815384861</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1020866373.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1802486836</identifier>
+                    <creationDate>2019-11-19</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 18 B 3764</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xv, 325 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Modern missile guidance</title>
+            <abstracts>
+                <abstract xml:lang="de">"Missile Guidance, Second Edition provides a timely survey of missile control and guidance theory, based on extensive work the author has done using the Lyapunov approach. This new edition also presents the Lyapunov-Bellman approach for choosing optimal parameters of the guidance laws, and direct and inverse optimal problems are considered. This material is important for readers working in the area of optimization and optimal theory. This edition also contains updated coverage of guidance and control system components, since the efficiency of guidance laws depends on their realization. The text concludes with information on the new generation of intercept systems now in development."--Provided by publisher</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Yanushevsky, Rafael</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1049618076</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Rafael Yanushevsky</responsible>
+            <publicationInfo>
+                <issued>2019</issued>
+                <edition>Second edition</edition>
+                <publicationPlaces>
+                    <publicationPlace>Boca Raton</publicationPlace>
+                    <publicationPlace>London</publicationPlace>
+                    <publicationPlace>New York</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>CRC Press, Taylor &amp; Francis Group</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Diagramme</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>UG630</code>
+                </classification>
+                <classification classificationID="181570416" classificationName="bk">
+                    <code>55.64</code>
+                    <entries>
+                        <entry>Raumfahrzeugführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>623.4/519</code>
+                </classification>
+                <classification classificationID="106410504" classificationName="bk">
+                    <code>50.91</code>
+                    <entries>
+                        <entry>Wehrtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4035334-5" type="gnd">
+                    <subject xml:lang="de">Lenkflugkörper</subject>
+                </subject>
+                <subject id="4176902-8" type="gnd">
+                    <subject xml:lang="de">Raketensteuerung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Guidance systems (Flight)</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Flight control</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Guided missiles</subject>
+                </subject>
+                <subject id="4328094-8" type="gnd">
+                    <subject xml:lang="de">Flugregelung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

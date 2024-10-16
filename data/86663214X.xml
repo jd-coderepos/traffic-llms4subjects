@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:86663214X</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:86663214X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2016-08-30</databaseDate>
+            <changeDate>2021-07-05</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>86663214X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">86663214X</identifier>
+                <identifier type="firstid">GBV:86663214X</identifier>
+                <identifier type="isbn13">9780813062464</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/86663214x.pdf</location>
+                <location subtype="miscellaneous" type="url">http://upf.com/book.asp?id=9780813062464</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1674137338</identifier>
+                    <creationDate>2017-11-08</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 17 B 1417</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xxiv, 227 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>The final mission : preserving NASA's Apollo sites</title>
+            <abstracts>
+                <abstract xml:lang="de">This book considers the archaeology of the facilities and sites on Earth that helped facilitate the Mercury, Gemini, and Apollo programs</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Westwood, Lisa</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1132172845</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>O'Leary, Beth Laura</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1132173019</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Donaldson, Milford Wayne</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1132173183</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Lisa Westwood, Beth Laura O'Leary, and Milford Wayne Donaldson</responsible>
+            <publicationInfo>
+                <issued>2017</issued>
+                <publicationPlaces>
+                    <publicationPlace>Gainesville</publicationPlace>
+                    <publicationPlace>Tallahasee</publicationPlace>
+                    <publicationPlace>Tampa</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>University Press of Florida</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>TL4027</code>
+                </classification>
+                <classification classificationID="106420607" classificationName="bk">
+                    <code>55.61</code>
+                    <entries>
+                        <entry>Raumfahrzeuge</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.47/80973</code>
+                </classification>
+                <classification classificationID="106415735" classificationName="bk">
+                    <code>21.75</code>
+                    <entries>
+                        <entry>Denkmalpflege, Stadtbildpflege</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>arc</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4120448-7" type="gnd">
+                    <subject xml:lang="de">Historische Stätte</subject>
+                </subject>
+                <subject id="4059261-3" type="gnd">
+                    <subject xml:lang="de">Technisches Denkmal</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Project Apollo (U.S.)</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Astronautics</subject>
+                </subject>
+                <subject id="4232143-8" type="gnd">
+                    <subject xml:lang="de">Apollo-Programm</subject>
+                </subject>
+                <subject id="4011455-7" type="gnd">
+                    <subject xml:lang="de">Denkmalpflege</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Project Gemini (U.S.)</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Project Mercury (U.S.)</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Launch complexes (Astronautics)</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

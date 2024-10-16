@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:226260178</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:226260178">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1997-04-12</databaseDate>
+            <changeDate>2022-05-12</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>226260178</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">226260178</identifier>
+                <identifier type="firstid">DNB:950089125</identifier>
+                <identifier type="isbn">3825832562</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://d-nb.info/950089125/04</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">247441988</identifier>
+                    <creationDate>1997-09-23</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">RA 8787(4)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XVI, 155 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Der Transrapid zwischen Hamburg und Berlin : die Referenzstrecke in ihrer wirtschaftlichen Bedeutung für die Region Schwerin</title>
+            <abstracts>
+                <abstract xml:lang="de">enth.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Konopka, Hans-Jürgen</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Hans-Jürgen Konopka</responsible>
+            <publicationInfo>
+                <issued>1997</issued>
+                <publicationPlaces>
+                    <publicationPlace>Münster</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Lit</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Geographie</title>
+                    <volumeNumber>Bd. 4</volumeNumber>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Teilw. zugl.: Münster (Westfalen), Univ., Dipl.-Arb., 1996</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+                <publicationIDInfo>Literaturverz. S. 141 - 145</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>24 cm</description>
+            <description>Ill., graph. Darst., Kt.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Geographie</title>
+                <volumeNumber>Bd. 4</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="dbn">
+                    <code>41</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>HE3079.S787</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>RG 30771</code>
+                </classification>
+                <classification classificationName="ssg">
+                    <code>14</code>
+                </classification>
+                <classification classificationID="106414682" classificationName="bk">
+                    <code>83.72</code>
+                    <entries>
+                        <entry>Verkehrswirtschaft</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106410350" classificationName="bk">
+                    <code>55.39</code>
+                    <entries>
+                        <entry>Sonderbahnen</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106421050" classificationName="bk">
+                    <code>74.75</code>
+                    <entries>
+                        <entry>Verkehrsplanung, Verkehrspolitik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>arc</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>oek</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Economic aspects</subject>
+                </subject>
+                <subject id="4213292-7" type="gnd">
+                    <subject xml:lang="de">Transrapid</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Schwerin (Mecklenburg-Vorpommern, Germany)</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Railroads</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Magnetschwebebahn</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">High speed trains</subject>
+                </subject>
+                <subject id="4106814-2" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Schwerin</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Technikfolgenabschätzung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Schwerin (Mecklenburg-Vorpommern)</subject>
+                </subject>
+                <subject id="4066424-7" type="gnd">
+                    <subject xml:lang="de">Wirtschaftlichkeit</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Wirkungsanalyse</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Economic conditions</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Schwerin (Region)</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Germany</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

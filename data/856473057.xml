@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:856473057</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:856473057">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2016-04-08</databaseDate>
+            <changeDate>2021-02-22</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>856473057</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">856473057</identifier>
+                <identifier type="firstid">GBV:856473057</identifier>
+                <identifier type="isbn">0309371783</identifier>
+                <identifier type="isbn13">9780309371780</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/bowker/toc/9780309371780.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1608966070</identifier>
+                    <creationDate>2017-03-09</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 16 B 2110</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xii, 97 pages</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>A review of the next generation air transportation system : implications and importance of system architecture</title>
+            <abstracts>
+                <abstract xml:lang="de">The Next Generation Air Transportation System's (NextGen) goal is the transformation of the U.S. national airspace system through programs and initiatives that could make it possible to shorten routes, navigate better around weather, save time and fuel, reduce delays, and improve capabilities for monitoring and managing of aircraft. A Review of the Next Generation Air Transportation provides an overview of NextGen and examines the technical activities, including human-system design and testing, organizational design, and other safety and human factor aspects of the system, that will be necessary to successfully transition current and planned modernization programs to the future system. This report assesses technical, cost, and schedule risk for the software development that will be necessary to achieve the expected benefits from a highly automated air traffic management system and the implications for ongoing modernization projects. The recommendations of this report will help the Federal Aviation Administration anticipate and respond to the challenges of implementing NextGen</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="issuing-body">
+                    <type>issuing-body</type>
+                    <name>National Research Council, Computer Science and Telecommunications Board, USA</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">3010879-2</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+                <corporateCreator type="issuing-body">
+                    <type>issuing-body</type>
+                    <name>National Research Council, Division on Engineering and Physical Sciences, USA</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">5550562-4</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Liddle, David E.</contributor>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Millett, Lynette I.</contributor>
+                </contributor>
+            </contributors>
+            <responsible>David E. Liddle and Lynette I. Millett, editors ; Committee to Review the Enterprise Architecture, Software Development Approach, and Safety and Human Factor Design of the Next Generation Air Transportation System; Computer Science and Telecommunications Board; Division on Engineering and Physical Sciences</responsible>
+            <publicationInfo>
+                <issued>2015</issued>
+                <publicationPlaces>
+                    <publicationPlace>Washington, DC</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>National Academies Press</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Includes bibliographic references</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>23 cm</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106410660" classificationName="bk">
+                    <code>55.88</code>
+                    <entries>
+                        <entry>Luftverkehr, Raumfahrt</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>387.7</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>HE9803.A4</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4036597-9" type="gnd">
+                    <subject xml:lang="de">Luftverkehr</subject>
+                </subject>
+                <subject id="4143713-5" type="gnd">
+                    <subject xml:lang="de">Autonomes System</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Air traffic control</subject>
+                </subject>
+                <subject id="4154771-8" type="gnd">
+                    <subject xml:lang="de">Flugsicherung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Aeronautics, Commercial</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1673210015</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1673210015">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2019-08-30</databaseDate>
+            <changeDate>2022-07-28</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>1673210015</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1673210015</identifier>
+                <identifier type="firstid">KEP:037263323</identifier>
+                <identifier type="isbn13">9783319790848</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://ebookcentral.proquest.com/lib/tib-hannover/detail.action?docID=5356059</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3830316658</identifier>
+                    <recallSign>OLR-EBC</recallSign>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2021-01-05</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (XII, 244 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>GNSS for Rail Transportation : Challenges and Opportunities</title>
+            <abstracts>
+                <abstract xml:lang="de">Intro -- Preface -- Contents -- Acronyms -- 1 Introduction and Book Objectives -- 1.1 GNSS for Safety of Life Applications -- 1.2 The Concept of Integrity in Satellite Navigation -- 1.3 From Aviation to the Railway Transportation Domain -- 1.4 Objectives -- References -- Part I GNSS Integrity -- 2 Review of Common Navigation Algorithms and Measurements Errors -- 2.1 Methods for Position Velocity and Time (PVT) Computation -- 2.1.1 Least Square Solution -- 2.1.2 Geometric Interpretation of Least Square Solution Using Orthogonal Subspaces -- 2.1.3 Weighted Least Square Solution and Subspace Projection -- 2.1.4 Covariance Matrix -- 2.1.5 Errors Due to the Receiving Hardware and Local Environment -- References -- 3 Fundamentals of Integrity Monitoring -- 3.1 Evaluation of the Confidence Interval in an AWGN Model -- 3.1.1 PL of a Single Coordinate, in Case of Zero-Mean Gaussian Position Error -- 3.1.2 Verification of the AWGN Model -- 3.1.3 Introduction to RAIM -- 3.2 Fault Detection in the Range Domain -- 3.2.1 Range Residual Method -- 3.2.2 Parity Method -- 3.2.3 Computation of the Decision Threshold for the AWGN Model -- 3.3 Fault Detection and Exclusion in the Position Domain -- 3.3.1 Solution Separation with a Single Fault -- 3.3.2 Bias Estimator -- 3.3.3 Solution Separation Test with a Generic Number of Faults -- 3.4 Comparison Between Methods in the Range and in the Position Domains -- 3.5 Residual and Solution Separation Tests: Geometric Interpretation and Efficient Implementation -- 3.5.1 Efficient Implementation in Single Fault Case -- 3.5.2 Efficient Implementation in Double Fault Case -- 3.6 Conclusions -- References -- 4 Evaluation of the Confidence Intervals -- 4.1 Confidence Interval in the Case of a Single Fault -- 4.1.1 Alert Limit, Integrity Risk, and Protection Level -- 4.1.2 The Effect of Bias in a Single Satellite.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Lo Presti, Letizia</contributor>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Sabina, Salvatore</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Letizia Lo Presti, Salvatore Sabina, editors</responsible>
+            <publicationInfo>
+                <issued>2018</issued>
+                <publicationPlaces>
+                    <publicationPlace>Cham</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="CH" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-30-PQE</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>PoliTO Springer Series</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>PoliTO Springer Ser.</title>
+                </journalInfo>
+                <publicationIDInfo>Description based on publisher supplied metadata and other sources.</publicationIDInfo>
+            </additionalDocumentInfo>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>GNSS for rail transportation</title>
+                <identifier type="isbn13">9783319790831</identifier>
+                <identifier type="ppn">1027700632</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-30-PQE</identifier>
+            </related>
+            <related type="parent">
+                <title>PoliTO Springer Series</title>
+            </related>
+            <related type="parent">
+                <title>PoliTO Springer Ser.</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="181570149" classificationName="bk">
+                    <code>74.48</code>
+                    <entries>
+                        <entry>Geoinformationssysteme</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="181570750" classificationName="bk">
+                    <code>55.34</code>
+                    <entries>
+                        <entry>Bahnbetriebstechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>621.382</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>geo</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4139977-8" type="gnd">
+                    <subject xml:lang="de">Signaltechnik</subject>
+                </subject>
+                <subject id="1023785544" type="gnd">
+                    <subject xml:lang="de">GNSS</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Railroads</subject>
+                </subject>
+                <subject id="4052371-8" type="gnd">
+                    <subject xml:lang="de">Schienenverkehr</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Electronic books</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Global Positioning System</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://ebookcentral.proquest.com/lib/tib-hannover/detail.action?docID=5356059</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

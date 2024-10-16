@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:77461126X</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:77461126X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2013-12-16</databaseDate>
+            <changeDate>2023-03-24</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>77461126X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">77461126X</identifier>
+                <identifier type="firstid">HBZ:CT004000949</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">http://nbn-resolving.de/urn:nbn:de:hbz:466:2-12560</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1462352103</identifier>
+                    <creationDate>2014-03-08</creationDate>
+                    <selectionKey>zdt</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online-Ressource</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Ein Fahrerassistenzsystem zur prädiktiven Planung energie- und zeitoptimaler Geschwindigkeitsprofile mittels Mehrzieloptimierung</title>
+            <abstracts>
+                <abstract xml:lang="de">Diese Arbeit beschreibt die Entwicklung eines Fahrerassistenzsystems für vorausschauendes Fahren. Ziel ist eine autonom ausgeführte energie- und zeitoptimale Fahrzeuglängsführung auf einer vorgegebenen Fahrstrecke. Dazu wurde eine neuartige Methodik zur vorausschauenden Planung pareto-optimaler Geschwindigkeitsprofile entwickelt. Basierend auf der dynamischen Programmierung wird dabei unter Berücksichtigung unterschiedlicher Informationen über das Fahrzeug und sein Umfeld eine der Zielgrößenpräferenz des Fahrers entsprechende Geschwindigkeitsvorgabe berechnet. Besonders hervorzuheben ist, dass es sich um eine echtzeitfähige Mehrzieloptimierung handelt. Außerdem bietet die Methodik durch die Gestaltung der internen Struktur die Möglichkeit, sie unabhängig von der Fahrzeug- oder Antriebsart einzusetzen. Die Gestaltung der externen Schnittstellen erlaubt die Einbindung in bestehende informationstechnische Infrastrukturen, bei der kaum Anpassungsaufwand entsteht. Die Einbindung dynamischer Informationen erfolgt durch eine Lösungsraumbeschränkung, so dass schnelle Neuplanungen möglich sind. Das steigert die Robustheit gegen unvorhersehbare Ereignisse.Die Funktionsfähigkeit der algorithmischen Umsetzung der Geschwindigkeitsprofil-Optimierung wird anhand praxisnaher Simulationen nachgewiesen. Der Neuigkeitswert ist vor allem in der Echtzeitfähigkeit und der sicheren globalen Konvergenz der Mehrzieloptimierung, dem breiten potentiellen Einsatzgebiet und schließlich den Möglichkeiten, die sich auf den Gebieten der Kollektiv-Optimierung und der kooperativen Planung bei hohem technischem Diversifikationsgrad der beteiligten Individualsysteme eröffnen, zu sehen.. - The work presented in this thesis describes the development of a driver assistance system for anticipatory driving. The objective is an autonomous as well as an energy- and fuel-optimal longitudinal vehicle control on a preallocated track. This is realized and algorithmically implemented by a novel method for predictive planning of vehicle-velocity-profiles.Based on Dynamic Programming and under consideration of information about the vehicle and its environment, a velocity setting is calculated according to the drivers objective value preferences. Distinguishing features are the realtime-capability of the multi-criteria-optimization and the possibility to adapt it independently of the vehicle type and power unit. The design of the external interfaces allows easy embedment into existing information technology infrastructures of vehicles with little adjustment effort. No constructional modifications or additional components are required. The inclusion of dynamic information is carried out by a reduction of solution space. Replanning can be executed quickly at any time. Besides positive effects on the quality of optimization results, this enhances robustness against unpredictable occurrences. The efficiency and benefit of the implemented algorithm is shown by simulation results of several practical scenarios. The innovative values of the presented thesis are the realtime-capability and reliability in global convergence of the multi-criteria-optimization, the independency of the vehicles characteristics and the potentials for collective-optimization and cooperative behavior of the developed method.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Gausemeier, Sandra Fabia</contributor>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Trächtler, Ansgar</contributor>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Schnieder, Eckehard</contributor>
+                </contributor>
+            </contributors>
+            <publicationInfo>
+                <issued>2013</issued>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Paderborn, Univ., Diss., 2013</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+                <publicationIDInfo>Tag der Verteidigung: 01.10.2013</publicationIDInfo>
+            </additionalDocumentInfo>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druckausg.</label>
+                <title>Ein Fahrerassistenzsystem zur prädiktiven Planung energie- und zeitoptimaler Geschwindigkeitsprofile mittels Mehrzieloptimierung</title>
+                <identifier type="ppn">1618235338</identifier>
+                <identifier type="isbn13">9783942647380</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.276</code>
+                </classification>
+                <classification classificationID="181571455" classificationName="bk">
+                    <code>50.03</code>
+                    <entries>
+                        <entry>Methoden und Techniken der Ingenieurwissenschaften</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4650</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="181570424" classificationName="bk">
+                    <code>55.24</code>
+                    <entries>
+                        <entry>Fahrzeugführung, Fahrtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mat</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4016278-3" type="gnd">
+                    <subject xml:lang="de">Fahrdynamik</subject>
+                </subject>
+                <subject id="4076594-5" type="gnd">
+                    <subject xml:lang="de">Regelungstechnik</subject>
+                </subject>
+                <subject id="4132165-0" type="gnd">
+                    <subject xml:lang="de">Fahrerverhalten</subject>
+                </subject>
+                <subject id="4622983-8" type="gnd">
+                    <subject xml:lang="de">Fahrerassistenzsystem</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://nbn-resolving.de/urn:nbn:de:hbz:466:2-12560</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

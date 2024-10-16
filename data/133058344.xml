@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:133058344</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:133058344">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1994-02-18</databaseDate>
+            <changeDate>2024-03-28</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>133058344</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">133058344</identifier>
+                <identifier type="firstid">GBV:133058344</identifier>
+                <identifier type="isbn">3925505253</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">134172159</identifier>
+                    <creationDate>1994-10-20</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">T 94 B 9185</location>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">260 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Die großen Dessauer : Junkers Ju 89, Ju 90, Ju 290, Ju 390 ; die Geschichte einer Flugzeugfamilie</title>
+            <abstracts>
+                <abstract xml:lang="de">Betr. auch Junkers Flugzeug- u. Motorenwerke</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Koessler, Karl</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Ott, Günther</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Kössler, Karl</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Karl Kössler; Günther Ott</responsible>
+            <publicationInfo>
+                <issued>1993</issued>
+                <edition>1. Aufl</edition>
+                <publicationPlaces>
+                    <publicationPlace>Planegg</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Aviatic Verl</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Verkehrsflugzeuge, 1936-1943.</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>graph. Darst., Ill</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>ZO 7300</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>21</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>623.7/465/0943</code>
+                </classification>
+                <classification classificationID="106420593" classificationName="bk">
+                    <code>55.51</code>
+                    <entries>
+                        <entry>Flugzeuge</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>36</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>UG1242.T7</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Luftfahrzeug</subject>
+                </subject>
+                <subject id="4162787-8" type="gnd">
+                    <subject xml:lang="de">Ju 290</subject>
+                </subject>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Airplanes, Military</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Verkehrsflugzeug</subject>
+                </subject>
+                <subject id="4162789-1" type="gnd">
+                    <subject xml:lang="de">Ju 390</subject>
+                </subject>
+                <subject id="4162785-4" type="gnd">
+                    <subject xml:lang="de">Ju 89</subject>
+                </subject>
+                <subject id="4162786-6" type="gnd">
+                    <subject xml:lang="de">Ju 90</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Junkers airplanes</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Transport planes</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

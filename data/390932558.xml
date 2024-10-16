@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:390932558</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:390932558">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2004-07-21</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>390932558</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">390932558</identifier>
+                <identifier type="contract">29854109</identifier>
+                <identifier type="contract">UBA-FB-00410</identifier>
+                <identifier type="firstid">GBV:390932558</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/390932558.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">656852216</identifier>
+                    <creationDate>2004-07-21</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RN 8908(2000,410)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">227, 30, [17] S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Mobilitätsstile in der Freizeit : Minderung der Umweltbelastungen des Freizeit- und Tourismusverkehrs</title>
+            <alternativeTitles>
+                <alternative>Mobility styles in leisure time</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Mobility styles, leisure and tourism traffic, measures, lifestyle, journey purposes, reduction in emissions</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Institut für Sozial-Ökologische Forschung</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2116378-9</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor>
+                    <contributor>Götz, Konrad</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Institut für sozial-ökologische Forschung (ISOE) GmbH. Von Konrad Götz ...</responsible>
+            <publicationInfo>
+                <issued>2003</issued>
+                <publicationPlaces>
+                    <publicationPlace>Frankfurt am Main</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>UBA-FB</title>
+                    <volumeNumber>00,410</volumeNumber>
+                </journalInfo>
+                <publicationIDInfo>1. Serie aufgestempelt, Zählung handschriftl. - Engl. Zsfassung u.d.T.: Mobility styles in leisure time. - Förderkennzeichen (UFOPLAN). - Literaturverz. S. 217 - 225</publicationIDInfo>
+                <publicationIDInfo>Auch als: Berichte // Umweltbundesamt ; 2003,2</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>graph. Darst</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>UBA-FB</title>
+                <volumeNumber>00,410</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="dbn">
+                    <code>41</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>40</code>
+                </classification>
+                <classification classificationID="106420895" classificationName="bk">
+                    <code>76.40</code>
+                    <entries>
+                        <entry>Freizeitgestaltung, Hobby: Allgemeines</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>44</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>14</code>
+                </classification>
+                <classification classificationID="106421050" classificationName="bk">
+                    <code>74.75</code>
+                    <entries>
+                        <entry>Verkehrsplanung, Verkehrspolitik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>spo</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>arc</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4061619-8" type="gnd">
+                    <subject xml:lang="de">Umweltbelastung</subject>
+                </subject>
+                <subject id="4125082-5" type="gnd">
+                    <subject xml:lang="de">Freizeitverhalten</subject>
+                </subject>
+                <subject id="4062901-6" type="gnd">
+                    <subject xml:lang="de">Verkehr</subject>
+                </subject>
+                <subject id="4018382-8" type="gnd">
+                    <subject xml:lang="de">Freizeit</subject>
+                </subject>
+                <subject id="4039785-3" type="gnd">
+                    <subject xml:lang="de">Mobilität</subject>
+                </subject>
+                <subject id="4187820-6" type="gnd">
+                    <subject xml:lang="de">Verkehrsmittelwahl</subject>
+                </subject>
+                <subject id="4113432-1" type="gnd">
+                    <subject xml:lang="de">Emissionsverringerung</subject>
+                </subject>
+                <subject id="4018398-1" type="gnd">
+                    <subject xml:lang="de">Freizeitverkehr</subject>
+                </subject>
+                <subject id="4018406-7" type="gnd">
+                    <subject xml:lang="de">Tourismus</subject>
+                </subject>
+                <subject id="4062987-9" type="gnd">
+                    <subject xml:lang="de">Verkehrsverhalten</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

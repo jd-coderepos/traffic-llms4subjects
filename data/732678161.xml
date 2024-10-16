@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:732678161</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:732678161">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2012-12-20</databaseDate>
+            <changeDate>2023-05-11</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>732678161</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">732678161</identifier>
+                <identifier type="ean">9783868527001</identifier>
+                <identifier type="firstid">DNB:1028831234</identifier>
+                <identifier type="isbn13">9783868527001</identifier>
+                <identifier type="isbn">3868527001</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/732678161.pdf</location>
+                <location subtype="description" type="url">http://deposit.d-nb.de/cgi-bin/dokserv?id=4207772&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1383984387</identifier>
+                    <creationDate>2014-12-18</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 14 B 2451</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">157 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Praxishandbuch Korrosionsschutz : vorsorgen - behandeln - konservieren</title>
+            <abstracts>
+                <abstract xml:lang="de">Es ist ein Dauerthema bei allen Old- und Youngtimer-Besitzern: Rost! Nicht minder eifrig diskutiert werden die geeigneten Strategien, um die "braune Pest" möglichst lange vom geliebten Blech fern zu halten. Aber welches Mittel ist das geeignete? Konservierungswachs, Öle oder doch lieber Fette?</abstract>
+            </abstracts>
+            <contributors>
+                <contributor>
+                    <contributor>Steinfurth, Peter</contributor>
+                </contributor>
+            </contributors>
+            <responsible>[Red.: Peter Steinfurth ...]</responsible>
+            <publicationInfo>
+                <issued>2014</issued>
+                <publicationPlaces>
+                    <publicationPlace>Königswinter</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Heel-Verl.</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Edition Oldtimer Markt</title>
+                </journalInfo>
+                <publicationIDInfo>Hier auch später erschienene, unveränderte Nachdrucke</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>302 mm x 215 mm</description>
+            <description>zahlr. Ill.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Edition Oldtimer Markt</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106418513" classificationName="bk">
+                    <code>51.24</code>
+                    <entries>
+                        <entry>Korrosion</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4800</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.2872</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="106419404" classificationName="bk">
+                    <code>50.16</code>
+                    <entries>
+                        <entry>Technische Zuverlässigkeit, Instandhaltung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>fer</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4138307-2" type="gnd">
+                    <subject xml:lang="de">Oldtimer</subject>
+                </subject>
+                <subject id="4032522-2" type="gnd">
+                    <subject xml:lang="de">Korrosionsschutz</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Korrosionsschutz</subject>
+                </subject>
+                <subject id="4027145-6" type="gnd">
+                    <subject xml:lang="de">Instandhaltung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Instandhaltung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Oldtimer</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Anleitung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

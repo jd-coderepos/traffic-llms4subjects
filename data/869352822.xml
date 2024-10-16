@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:869352822</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:869352822">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2016-09-28</databaseDate>
+            <changeDate>2022-12-30</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>869352822</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">869352822</identifier>
+                <identifier type="ean">9783906887005</identifier>
+                <identifier type="firstid">DNB:1114294675</identifier>
+                <identifier type="isbn">3906887006</identifier>
+                <identifier type="isbn13">9783906887005</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="description" type="url">http://www.maxime-verlag.de/produkte/978-3-906887-00-5/index.php</location>
+                <location subtype="toc" type="url">http://d-nb.info/1114294675/04</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">171978647X</identifier>
+                    <creationDate>2018-09-03</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 17 B 4754</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">716 Seiten, [16] Farbtafeln in der Mitte</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Handbuch deutscher Fahrradmarken : 1817 bis 1965</title>
+            <abstracts>
+                <abstract xml:lang="de">"In diesem Nachschlagewerk finden sich über 8000 Graphiken von Steuerkopfschildern deutscher Fahrradmarken. Ca. 8000 Marken deutscher Fahrradhersteller, Händler und Großhändler von 1817 bis ca. 1980 werden genannt."--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Papperitz, Frank</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">124978835</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Frank Papperitz</responsible>
+            <publicationInfo>
+                <issued>2016</issued>
+                <publicationPlaces>
+                    <publicationPlace>[Bern-Liebefeld]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="CH" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>MAXIME - Verlag Maxi Kutschera</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>24 cm, 1500 g</description>
+            <description>Illustrationen (überwiegend schwarz/weiß)</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc-dbn">
+                    <code>380</code>
+                </classification>
+                <classification classificationID="106414992" classificationName="bk">
+                    <code>55.21</code>
+                    <entries>
+                        <entry>Kraftfahrzeuge</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.227202943</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>381.4562922720688</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4074577-6" type="gnd">
+                    <subject xml:lang="de">Marke</subject>
+                </subject>
+                <subject id="4331061-8" type="gnd">
+                    <subject xml:lang="de">Fahrradindustrie</subject>
+                </subject>
+                <subject id="4382864-4" type="gnd">
+                    <subject xml:lang="de">Fahrradfachhandel</subject>
+                </subject>
+                <subject id="4011882-4" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Deutschland</subject>
+                </subject>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte 1917-1965</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

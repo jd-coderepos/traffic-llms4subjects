@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:277617014</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:277617014">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1994-09-07</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>277617014</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">277617014</identifier>
+                <identifier type="firstid">GBV:277617014</identifier>
+                <identifier type="isbn">3894880716</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/hbz/toc/ht006464438.pdf</location>
+                <location subtype="toc" type="url">http://d-nb.info/940748207/04</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">132508842</identifier>
+                    <creationDate>1994-09-09</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">T 94 B 8346</location>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">171 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Weg und Absturz der Interflug : der Luftverkehr der DDR</title>
+            <abstracts>
+                <abstract xml:lang="de">Die wechselvolle Geschichte der zivilen Luftfahrt der DDR begann im Mai 1955 als "Deutsche Lufthansa" unter Hoheit der sowjetischen Besatzungsmacht. Anhand von erstmalig öffentlich zugänglichen Dokumenten belegt der Autor die enge Verknüpfung des Staatsunternehmens, seit 1963 "Interflug", mit dem politischen Machtapparat und zeigt, wie mit einem hochmotivierten Personal unter den gegebenen politischen und wirtschaftlichen Bedingungen bemerkenswerte Leistungen erbracht wurden. Fakten erhellen die Hintergründe für die Liquidation der Interflug durch die Treuhand 1991. Die sachliche, nicht unkritische Darstellung ist besonders Bibliotheken in den östlichen Bundesländern zu empfehlen. Zeittafel, Anlagen zum Luftverkehr und Flugzeugbestand, Personenregister. (2) (Gisela Jonas)</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Seifert, Karl-Dieter</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">120795698</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Karl-Dieter Seifert</responsible>
+            <publicationInfo>
+                <issued>1994</issued>
+                <edition>1. Aufl.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Berlin</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Brandenburgisches Verlagshaus</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>Ill., graph. Darst., Kt.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>ZO 7050</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>41</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 7918</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>NW 3450</code>
+                </classification>
+                <classification classificationID="106420593" classificationName="bk">
+                    <code>55.51</code>
+                    <entries>
+                        <entry>Flugzeuge</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4036597-9" type="gnd">
+                    <subject xml:lang="de">Luftverkehr</subject>
+                </subject>
+                <subject id="4011890-3" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Deutschland (DDR)</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">DDR</subject>
+                </subject>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Luftfahrt</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Fluggesellschaft</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

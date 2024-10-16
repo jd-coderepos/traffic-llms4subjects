@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1810598028</identifier><datestamp>2024-06-28</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1810598028">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2022-07-15</databaseDate>
+            <changeDate>2024-06-14</changeDate>
+            <ftxCreationDate>2024-06-17</ftxCreationDate>
+            <documentID>1810598028</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>CA</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1810598028</identifier>
+                <identifier type="doi">10.1007/978-3-662-64550-5_31</identifier>
+                <identifier type="firstid">KXP:1810598028</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="subscriber" type="url">https://doi.org/10.1007/978-3-662-64550-5_31</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4184026370</identifier>
+                    <recallSign>ConTIB</recallSign>
+                    <creationDate>2022-11-07</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RS 9690(12)</location>
+                    <loanIndicator>f</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Comparison of the particle emission behaviour of automotive drum and disc brakes</title>
+            <abstracts>
+                <abstract xml:lang="de">Friction brakes are one of the main sources of PM emissions from cars today. However, due to the electrification of the powertrain, the share of friction brakes in vehicle deceleration is continuously decreasing. Due to the reduced number of braking applications and the lower brake pressure level, the amount of emitted particles also decreases. This is associated with the disadvantage of an increased potential for the formation of rust on the surfaces of the friction materials, which is expected to influence friction and wear. Due to the increasing challenge posed by corroded friction partners, drum brakes are increasingly used to decelerate bat-tery electric (EV) and hybrid electric vehicles (HEV). In this study, basic investigations on the particle emission behaviour of drum brakes are carried out using an inertia dynamometer (LINK 3900-NVH). To en-sure representative sampling, a constant-volume sampling system is used, which is optimised in terms of transport efficiency and particle distribution. Condensa-tion particle counters (CPC) and filter holders (TX40) are used to determine PN/PM emission factors. CPCs with differently calibrated cut-off are used to evaluate the formation of nanoscale particle formations. In this context, special at-tention is paid to the influence of temperature on the particle formation process. From the comparison between rear-axle disc brake and rear-axle drum brake it could be proven that the predominant part of the wear mass remains within the drum, which affects the size distribution of the emitted particles. The ratio be-tween PM10 and PM2.5 mass-related emissions factors decreases from about 2 (disc brake) to about 1.3 (drum brake). In addition, the emission behaviour is dif-ferentiated via the bedding procedure of the drum brake. To achieve a reproduci-ble emission level, a doubling of the number of cycles (WLTP-brake cycle) is necessary. Due to a higher temperature level, nanoparticles could be detected dur-ing testing of the drum brake, whereby the number-related emission factor (PM2.5) was partly higher than for the disc brake.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Hamatschek, Christopher</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Hesse, David</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1223940195</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Augsburg, Klaus</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">13000913X</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Gramstat, Sebastian</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1065387466</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Stich, Anton</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Christopher Hamatschek, David Hesse, Klaus Augsburg, Sebastian Gramstat and Anton Stich</responsible>
+            <publicationInfo>
+                <issued>2022</issued>
+                <publicationPlaces>
+                    <publicationPlace>Berlin, Germany</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Springer Vieweg</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="ppn">1776070607</identifier>
+                </isPartOf>
+                <articleInfo>
+                    <firstPage>541</firstPage>
+                    <lastPage>563</lastPage>
+                    <pages>541-563</pages>
+                </articleInfo>
+                <journalInfo>
+                    <relationVGE type="ppn">1776070607</relationVGE>
+                    <title>12th International Munich Chassis Symposium 2021</title>
+                    <coverDate>2022-01-01</coverDate>
+                </journalInfo>
+            </additionalDocumentInfo>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="ppn">1776070607</identifier>
+            </related>
+            <related type="parent">
+                <firstPage>541</firstPage>
+                <lastPage>563</lastPage>
+                <pages>541-563</pages>
+                <related type="parent">
+                    <title>12th International Munich Chassis Symposium 2021</title>
+                    <identifier type="ppn">1776070607</identifier>
+                    <coverDate>2022-01-01</coverDate>
+                </related>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106410628" classificationName="bk">
+                    <code>52.20</code>
+                    <entries>
+                        <entry>Antriebstechnik, Getriebelehre</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mas</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4153583-2" type="gnd">
+                    <subject xml:lang="de">Fahrzeugrahmen</subject>
+                </subject>
+                <subject id="4165423-7" type="gnd">
+                    <subject xml:lang="de">Kraftfahrzeugbau</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayKLD">true</property>
+            <property name="displaySubscriberAccess">https://doi.org/10.1007/978-3-662-64550-5_31</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

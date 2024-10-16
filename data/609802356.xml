@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:609802356</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:609802356">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2009-09-30</databaseDate>
+            <changeDate>2024-04-21</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>609802356</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">609802356</identifier>
+                <identifier type="firstid">GBV:609802356</identifier>
+                <identifier type="isbn">0470080248</identifier>
+                <identifier type="isbn13">9780470080245</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="cover" type="url">https://swbplus.bsz-bw.de/bsz31900547xcov.jpg</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1112133119</identifier>
+                    <creationDate>2010-03-23</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 10 B 1754</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-Rav1</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">XVI, 768 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Rocket propulsion elements</title>
+            <abstracts>
+                <abstract xml:lang="de">Classification -- Definitions and fundamentals -- Nozzle theory and thermodynamic relations -- Flight performance -- Chemical rocket propellant performance analysis -- Liquid propellant rocket engine fundamentals -- Liquid propellants -- Thrust chambers -- Liquid propellant combustion and its stability -- Turboprops and their gas supplies -- Engine systems, controls, and integration -- Solid propellant rocket fundamentals -- Solid propellants -- Solid propellant combustion and its stability -- Solid rocket components and motor design -- Hybrid propellant rockets -- Electric propulsion -- Thrust vector control -- Selection of rocket propulsion systems -- Rocket exhaust plumes -- Rocket testing</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Sutton, George Paul</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">132211920</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Biblarz, Oscar</contributor>
+                </contributor>
+            </contributors>
+            <responsible>George P. Sutton; Oscar Biblarz</responsible>
+            <publicationInfo>
+                <issued>2010</issued>
+                <edition>8. ed</edition>
+                <publicationPlaces>
+                    <publicationPlace>New York</publicationPlace>
+                    <publicationPlace>Weinheim [u.a.]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Wiley</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>A Wiley Interscience publication</title>
+                </journalInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausg.</label>
+                <title>Rocket propulsion elements</title>
+                <identifier type="isbn13">9781283274074</identifier>
+                <identifier type="isbn">1283274078</identifier>
+                <identifier type="ppn">809424738</identifier>
+                <identifier type="isbn13">9781118174616</identifier>
+            </related>
+            <related type="parent">
+                <title>A Wiley Interscience publication</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>ZO 8150</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL782.S8 2000</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.47/5</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL782</code>
+                </classification>
+                <classification classificationID="106410601" classificationName="bk">
+                    <code>52.30</code>
+                    <entries>
+                        <entry>Strömungskraftmaschinen, Turbomaschinen</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106410334" classificationName="bk">
+                    <code>55.60</code>
+                    <entries>
+                        <entry>Raumfahrttechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.475</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mas</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4176905-3" type="gnd">
+                    <subject xml:lang="de">Raketentriebwerk</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Rocket engines</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1086469542</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1086469542">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1988-09-30</databaseDate>
+            <changeDate>2024-05-06</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>1086469542</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1086469542</identifier>
+                <identifier type="firstid">DNB:870557653</identifier>
+                <identifier type="isbn">3415012840</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://external.dandelon.com/download/attachments/dandelon/ids/AT001C01AC2049_2422A.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">032053177</identifier>
+                    <creationDate>1992-04-27</creationDate>
+                    <selectionKey>n</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">RA 6167(9)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-24</isil>
+            </preservation>
+            <preservation procedure="digital-preservation">
+                <isil>DE-35</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">88 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Verkehrsberuhigung in der Praxis : Stadtgestaltung, Verkehrssicherheit, Wohnumfeld</title>
+            <abstracts>
+                <abstract xml:lang="de">Betr. B-W</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Forum für Stadtentwicklungs- und Kommunalpraxis</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">1080829-2</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <publicationInfo>
+                <issued>1987</issued>
+                <publicationPlaces>
+                    <publicationPlace>Stuttgart</publicationPlace>
+                    <publicationPlace>München</publicationPlace>
+                    <publicationPlace>Hannover</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Boorberg</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Forum für Stadtentwicklungs- und Kommunalpraxis e. V.</title>
+                    <volumeNumber>9</volumeNumber>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>Ill.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Forum für Stadtentwicklungs- und Kommunalpraxis e. V.</title>
+                <volumeNumber>9</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loksys">
+                    <code>wir 231</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>19</code>
+                </classification>
+                <classification classificationID="106411039" classificationName="bk">
+                    <code>74.72</code>
+                    <entries>
+                        <entry>Stadtplanung, kommunale Planung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>41</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 3100</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>44</code>
+                </classification>
+                <classification classificationID="106421050" classificationName="bk">
+                    <code>74.75</code>
+                    <entries>
+                        <entry>Verkehrsplanung, Verkehrspolitik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>PN 542</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>RC 25768</code>
+                </classification>
+                <classification classificationName="loksys">
+                    <code>bau 627</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>arc</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Verkehrsberuhigung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Städtebau</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Straßenverkehr</subject>
+                </subject>
+                <subject id="4117347-8" type="gnd">
+                    <subject xml:lang="de">Verkehrsberuhigung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Verkehr</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

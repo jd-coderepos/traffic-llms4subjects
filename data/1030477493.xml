@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1030477493</identifier><datestamp>2024-06-14</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1030477493">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2018-09-03</databaseDate>
+            <changeDate>2023-04-23</changeDate>
+            <ftxCreationDate>2024-06-14</ftxCreationDate>
+            <documentID>1030477493</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1030477493</identifier>
+                <identifier type="doi">10.1007/978-3-658-23337-2</identifier>
+                <identifier type="firstid">BSZ:510620884</identifier>
+                <identifier type="isbn13">9783658233372</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://doi.org/10.1007/978-3-658-23337-2</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1809809525</identifier>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2018-10-02</creationDate>
+                    <selectionKey>zesp</selectionKey>
+                    <loanIndicator>s</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">180241388X</identifier>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2018-09-05</creationDate>
+                    <selectionKey>zesp</selectionKey>
+                    <loanIndicator>s</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (XXIV, 126 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Ein Assistenzsystem für die sicherheitsoptimierte Längsführung von E-Fahrzeugen im urbanen Umfeld</title>
+            <abstracts>
+                <abstract xml:lang="de">Entwurf einer Assistenzfunktion für die sicherheitsoptimierte Längsführung von E-Fahrzeugen -- Implementierung eines echtzeitfähigen modellprädiktiven Reglers für die Fahrzeuglängsdynamik -- Potentialanalyse der Assistenzfunktion im Stuttgarter Fahrsimulator.</abstract>
+                <abstract xml:lang="de">Thomas Rothermel stellt ein Assistenzsystem vor, das eine Längsführung von Elektrofahrzeugen unter Berücksichtigung von sicherheitsrelevanten Informationen aus dem Fahrzeugumfeld ermöglicht. Dabei optimiert das System eine vom Fahrer vorgegebene Geschwindigkeitstrajektorie hinsichtlich der Minimierung des Kollisionsrisikos mit Fußgängern. Durch eine variable Eingriffsintensität kann ein ideales Verhältnis zwischen Fahrerakzeptanz und Nutzen gefunden werden. Der Autor untersucht in einer repräsentativen Probandenstudie im Stuttgarter Fahrsimulator das Assistenzsystem in Bezug auf Fahrerakzeptanz und Nutzen. Der Inhalt Entwurf einer Assistenzfunktion für die sicherheitsoptimierte Längsführung von E-Fahrzeugen Implementierung eines echtzeitfähigen modellprädiktiven Reglers für die Fahrzeuglängsdynamik Potentialanalyse der Assistenzfunktion im Stuttgarter Fahrsimulator Die Zielgruppen Wissenschaftler und Praktiker in den Fachgebieten Fahrerassistenz, Fahrdynamikregelung und Simulation im Automobilbereich Der Autor Thomas Rothermel war bis 2017 am Lehrstuhl für Kraftfahrzeugmechatronik am IVK in Stuttgart tätig und promovierte dort. Seine wissenschaftlichen Schwerpunkte liegen in den Bereichen Fahrerassistenz, Trajektorienoptimierung, Fahrdynamikregelung und der virtuellen Systemvalidierung. Momentan ist er als Entwicklungsingenieur für Fahrerassistenzsysteme und automatisiertes Fahren in der Industrie tätig.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Rothermel, Thomas</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1167867793</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Thomas Rothermel</responsible>
+            <publicationInfo>
+                <issued>2018</issued>
+                <publicationPlaces>
+                    <publicationPlace>Wiesbaden</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer Vieweg</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-2-SEB</identifier>
+                    <identifier type="collectioncode">ZDB-2-STI</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>Wissenschaftliche Reihe Fahrzeugtechnik Universität Stuttgart</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>SpringerLink</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>Bücher</title>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen</description>
+            <description>Campusweiter Zugriff (Universität Hannover) - Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Keine Weitergabe an Dritte. Kein systematisches Downloaden durch Robots.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Ein Assistenzsystem für die sicherheitsoptimierte Längsführung von E-Fahrzeugen im urbanen Umfeld</title>
+                <identifier type="ppn">1028594607</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-2-SEB</identifier>
+                <identifier type="collectioncode">ZDB-2-STI</identifier>
+            </related>
+            <related type="parent">
+                <title>Wissenschaftliche Reihe Fahrzeugtechnik Universität Stuttgart</title>
+            </related>
+            <related type="parent">
+                <title>SpringerLink</title>
+            </related>
+            <related type="parent">
+                <title>Bücher</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.2</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL1-483</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Engineering</subject>
+                </subject>
+                <subject id="4720440-0" type="gnd">
+                    <subject xml:lang="de">Mensch-Maschine-Schnittstelle</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Automotive Engineering</subject>
+                </subject>
+                <subject id="1135937567" type="gnd">
+                    <subject xml:lang="de">Modellprädiktive Regelung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Automotive Engineering</subject>
+                </subject>
+                <subject id="4250471-5" type="gnd">
+                    <subject xml:lang="de">Umweltmodell (Informatik)</subject>
+                </subject>
+                <subject id="4206228-7" type="gnd">
+                    <subject xml:lang="de">Fahrgeschwindigkeit</subject>
+                </subject>
+                <subject id="4144126-6" type="gnd">
+                    <subject xml:lang="de">Batteriefahrzeug</subject>
+                </subject>
+                <subject id="4767762-4" type="gnd">
+                    <subject xml:lang="de">Sicherheitskritisches System</subject>
+                </subject>
+                <subject id="4062962-4" type="gnd">
+                    <subject xml:lang="de">Verkehrssicherheit</subject>
+                </subject>
+                <subject id="4430981-8" type="gnd">
+                    <subject xml:lang="de">Längsdynamik</subject>
+                </subject>
+                <subject id="4153572-8" type="gnd">
+                    <subject xml:lang="de">Fahrsimulator</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Engineering</subject>
+                </subject>
+                <subject id="4622983-8" type="gnd">
+                    <subject xml:lang="de">Fahrerassistenzsystem</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://doi.org/10.1007/978-3-658-23337-2</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

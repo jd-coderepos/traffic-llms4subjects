@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1777588480</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1777588480">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2021-11-17</databaseDate>
+            <changeDate>2024-02-08</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1777588480</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1777588480</identifier>
+                <identifier type="firstid">KXP:1777588480</identifier>
+                <identifier type="isbn13">9783030838256</identifier>
+                <identifier type="isbn13">9783030838287</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1777588480.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4002592812</identifier>
+                    <creationDate>2022-12-19</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 22 B 687</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">x, 366 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>The digital transformation of the automotive industry : catalysts, roadmap, practice</title>
+            <alternativeTitles>
+                <alternative>Die digitale Transformation der Automobilindustrie</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Building on his decades of experience as a consultant and project manager in the automotive industry, the author develops comprehensive and pragmatic recommendations for action regarding the digital transformation of the automotive and supplier industries. At the heart is the transition from a vehicle-focused to a mobility-oriented business model. Based on the catalysts of the digital change, four digitizsation fields are structured, and a roadmap for their transformation is presented. The topics of comprehensive change in corporate culture and an agile and efficient information technology are covered in detail as vital success factors. Selected practical examples of innovative digitizsation projects provide additional ideas and impulses. An outlook on the automotive industry in the year 2040 completes the discourse.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Winkelhake, Uwe</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1150676760</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Uwe Winkelhake</responsible>
+            <publicationInfo>
+                <issued>2022</issued>
+                <edition>Second edition</edition>
+                <publicationPlaces>
+                    <publicationPlace>Cham</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="CH" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="10642002X" classificationName="bk">
+                    <code>52.72</code>
+                    <entries>
+                        <entry>Fertigungsautomatisierung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mas</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Computers.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Business—Data processing.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Automobile industry and trade.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Automotive engineering.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Engineering economy.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Information technology.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Engineering economics.</subject>
+                </subject>
+                <subject id="4032690-1" type="gnd">
+                    <subject xml:lang="de">Kraftfahrzeugindustrie</subject>
+                </subject>
+                <subject id="1072179776" type="gnd">
+                    <subject xml:lang="de">Industrie 4.0</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

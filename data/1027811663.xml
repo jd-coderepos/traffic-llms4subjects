@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1027811663</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1027811663">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2018-07-27</databaseDate>
+            <changeDate>2022-05-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1027811663</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1027811663</identifier>
+                <identifier type="firstid">GBV:1027811663</identifier>
+                <identifier type="isbn13">9783892207061</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/1027811663.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1804508942</identifier>
+                    <creationDate>2018-09-11</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RA 489(706)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XVI, 157 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Estimation of ship roll damping for the investigation of extreme roll events</title>
+            <abstracts>
+                <abstract xml:lang="de">Importance of ship roll motion investigationExtreme roll motions can occur for different reasons. A ship can suffer a static as well as a dynamic lossof stability. Broaching of ships, a course keeping loss, can also lead to large roll amplitudes. In irregularseaway, a combination of one phenomenon with additional external factors such as wind or green wateron deck are reasons why ships develop large roll angles or accelerations, see also de Kat and RandolphPaulling (2001) [20]. Large roll angles and accelerations can cause crew accidents and cargo losses or leadto capsizing1. A sufficient roll damping moment prevents dynamic loss of stability due to parametric aswell as resonant excitation induced by waves.A Sub-Committee on Ship Design and Construction (SDC)2 of the International Maritime Organization(IMO) is working on regulations to prevent stability failures which are unsafe for crew and ship3. Atthis time a multi-tiered approach to check the intact stability of ships is being discussed under the nameSecond Generation Intact Stability Criteria, see e.g. Belenky et al. (2011) [7]. To investigate dynamicstability events, three levels are introduced: Level 1, Level 2 and the Direct Assessment. Whereas Level1 should be a simple test criteron, the more complex Level 2 and the time and cost-intensive DirectAssessment of extreme roll phenomena based on simulations have to be applied if one of the previouscriteria fails.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="degree-granting-institution">
+                    <type>degree-granting-institution</type>
+                    <name>Technische Universität Hamburg</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">1112763473</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+                <corporateCreator>
+                    <name>Technische Universität Hamburg, Institut für Fluiddynamik und Schiffstheorie</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">1120147859</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Wassermann, Sven</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1163572438</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Abdel-Maksoud, Moustafa</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">140779922</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Krüger, Stefan</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">140779663</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>von Sven Wassermann ; 1. Gutachter: Prof. Dr.-Ing. Moustafa Abdel-Maksoud, 2. Gutachter: Prof. Dr.-Ing Stefan Krüger</responsible>
+            <publicationInfo>
+                <issued>2018</issued>
+                <edition>1. Auflage</edition>
+                <publicationPlaces>
+                    <publicationPlace>Hamburg</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Technische Universität Hamburg$f2018</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Schriftenreihe Schiffbau</title>
+                    <volumeNumber>706 (Mai 2018)</volumeNumber>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2018</dateAccepted>
+                        <description>Dissertation, Technische Universität Hamburg</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Illustrationen</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Schriftenreihe Schiffbau</title>
+                <volumeNumber>706 (Mai 2018)</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420577" classificationName="bk">
+                    <code>55.40</code>
+                    <entries>
+                        <entry>Schiffstechnik, Schiffbau</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>670</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="181569973" classificationName="bk">
+                    <code>55.44</code>
+                    <entries>
+                        <entry>Schiffsführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4278240-5" type="gnd">
+                    <subject xml:lang="de">Schiffsführung</subject>
+                </subject>
+                <subject id="4006178-4" type="gnd">
+                    <subject xml:lang="de">Betriebsfestigkeit</subject>
+                </subject>
+                <subject id="4178400-5" type="gnd">
+                    <subject xml:lang="de">Rollbewegung</subject>
+                </subject>
+                <subject id="4056693-6" type="gnd">
+                    <subject xml:lang="de">Stabilität</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

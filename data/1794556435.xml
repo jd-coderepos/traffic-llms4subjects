@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1794556435</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1794556435">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2022-03-03</databaseDate>
+            <changeDate>2022-08-02</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1794556435</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1794556435</identifier>
+                <identifier type="firstid">KEP:07685177X</identifier>
+                <identifier type="isbn13">9783731510840</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://directory.doabooks.org/handle/20.500.12854/78393</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4081352518</identifier>
+                    <recallSign>OLR-DOAB-OA</recallSign>
+                    <creationDate>2022-03-07</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (108 p.)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Manchester Ship Canal : Back to the Future for Disused European Waterways</title>
+            <abstracts>
+                <abstract xml:lang="de">This book investigates how urban/rural patterns provide differing conditions for living and working. The project is to read and analyse these urban/rural settlement structures and provide insight into the patterns of living and working that have formed them and possible development of a smart networked metropole that integrate the urban and rural socio-economic and physical infrastructures for the future of disused European waterways</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Hisham Elkadi, Sara Biscaya</contributor>
+                </contributor>
+            </contributors>
+            <publicationInfo>
+                <issued>2021</issued>
+                <publicationPlaces>
+                    <publicationPlace>Karlsruhe</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>KIT Scientific Publishing</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-94-OAB</identifier>
+                </isPartOf>
+            </additionalDocumentInfo>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-94-OAB</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106421832" classificationName="bk">
+                    <code>55.86</code>
+                    <entries>
+                        <entry>Schiffsverkehr, Schifffahrt</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106411039" classificationName="bk">
+                    <code>74.72</code>
+                    <entries>
+                        <entry>Stadtplanung, kommunale Planung</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106412124" classificationName="bk">
+                    <code>74.73</code>
+                    <entries>
+                        <entry>Stadtsanierung, Stadterneuerung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>arc</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4446689-4" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Manchester Ship Canal</subject>
+                </subject>
+                <subject id="4056769-2" type="gnd">
+                    <subject xml:lang="de">Stadtsanierung</subject>
+                </subject>
+                <subject id="4056754-0" type="gnd">
+                    <subject xml:lang="de">Stadtplanung</subject>
+                </subject>
+                <subject id="4056730-8" type="gnd">
+                    <subject xml:lang="de">Stadtentwicklung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Architecture</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://directory.doabooks.org/handle/20.500.12854/78393</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

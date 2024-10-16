@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1768422842</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1768422842">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2021-09-02</databaseDate>
+            <changeDate>2024-02-21</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1768422842</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1768422842</identifier>
+                <identifier type="firstid">KXP:1768422842</identifier>
+                <identifier type="isbn13">9789813347809</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1768422842.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3972536852</identifier>
+                    <creationDate>2022-09-07</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 21 B 4055</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">viii, 120 Seiten, Seite C1</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Vacuum circuit breaker for aviation variable frequency power system : theory and application of arc in electrical apparatus</title>
+            <abstracts>
+                <abstract xml:lang="de">Introduction -- Experiment and Simulation Platform of Variable Frequency Power System -- Contacts Characteristics of Variable Frequency Vacuum Arc -- Frequency Characteristics of Variable Frequency Vacuum Arc -- Post-arc Breakdown in Variable Frequency Vacuum Arc.</abstract>
+                <abstract xml:lang="de">This book introduces the concepts of more electric aircraft and aviation electrical appliances, as well as the aviation experimental platform of vacuum switches, the interruption characteristics, frequency characteristics and post-arc breakdown characteristics of intermediate frequency vacuum switches, etc. It is the first monograph on protection electrical appliances, vacuum interrupter in aviation variable frequency power system. This book includes a lot of experimental process and chart analysis for readers to understand and provides references for practical engineering problems. This book could be used as references for engineers and technicians working on electric power systems in aircrafts. .</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Jiang, Yuan</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Li, Qing</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Yuan Jiang, Qing Li</responsible>
+            <publicationInfo>
+                <issued>2021</issued>
+                <edition>Corrected publication</edition>
+                <publicationPlaces>
+                    <publicationPlace>Singapore</publicationPlace>
+                    <publicationPlace>Beijing</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="SG" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Power systems</title>
+                </journalInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Power systems</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106417991" classificationName="bk">
+                    <code>53.35</code>
+                    <entries>
+                        <entry>Stromrichter, Transformatoren</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Power electronics.</subject>
+                </subject>
+                <subject id="4035598-6" type="gnd">
+                    <subject xml:lang="de">Lichtbogen</subject>
+                </subject>
+                <subject id="4127712-0" type="gnd">
+                    <subject xml:lang="de">Stromversorgungsgerät</subject>
+                </subject>
+                <subject id="4036563-3" type="gnd">
+                    <subject xml:lang="de">Luftfahrzeugtechnik</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Aerospace engineering.</subject>
+                </subject>
+                <subject id="4218838-6" type="gnd">
+                    <subject xml:lang="de">Vakuumschalter</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Astronautics.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Energy systems.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Plasma (Ionized gases).</subject>
+                </subject>
+                <subject id="4167301-3" type="gnd">
+                    <subject xml:lang="de">Leistungsschalter</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

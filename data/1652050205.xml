@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1652050205</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1652050205">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2013-02-25</databaseDate>
+            <changeDate>2024-02-19</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>1652050205</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1652050205</identifier>
+                <identifier type="doi">10.1049/PBCE035E</identifier>
+                <identifier type="firstid">BSZ:379098563</identifier>
+                <identifier type="isbn13">9781849193382</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">http://dx.doi.org/10.1049/PBCE035E</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1490062149</identifier>
+                    <recallSign>OLR-IET</recallSign>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2014-07-20</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">x, 311 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Implementation of Self-tuning Controllers</title>
+            <abstracts>
+                <abstract xml:lang="de">This book has 13 chapters. The first chapter of this book not only provides an overview of the scope and generality provided by self-tuning control schemes, but also indicates where such a scheme might be of benefit and how it complements and augments other control techniques. Chapters 2-5 discuss the basic ideas behind self-tuning control techniques; identification/ parameter estimation (chapter 2), optimal controller design (chapter 3), numerical considerations (chapter 4) and simplified methods (chapter 5). Chapters 6-9 discuss advances in the framework employed for self-tuning control; the delta operator (chapter 6), continuous-time control (chapter 7), software aspects (chapter 8) and predictive control (chapter 9). Chapters 10-13 are concerned with detailed application examples of; predictive control (chapter 10), PIP control (chapter 11), LQG optimal control (chapter 12) and various SISO/MIMO case studies (chapter 13)</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Warwick, Kevin</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">124247113</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>edited by Kevin Warwick</responsible>
+            <publicationInfo>
+                <issued>1988</issued>
+                <publicationPlaces>
+                    <publicationPlace>London</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Peter Peregrinus Ltd on behalf of the Institution of Electrical  Engineers</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-100-CRS</identifier>
+                    <identifier type="collectioncode">ZDB-100-IET</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>IEE Control Engineering Series</title>
+                    <volumeNumber>35</volumeNumber>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen</description>
+            <description>Campusweiter Zugriff (Universität Hannover) - Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Keine Weitergabe an Dritte. Kein systematisches Downloaden durch Robots.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druckausgabe</label>
+                <title>Implementation of self-tuning controllers</title>
+                <identifier type="isbn">0863411274</identifier>
+                <identifier type="ppn">126731241</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-100-CRS</identifier>
+                <identifier type="collectioncode">ZDB-100-IET</identifier>
+            </related>
+            <related type="parent">
+                <title>IEE Control Engineering Series</title>
+                <volumeNumber>35</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.8'36</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.8/36</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">MIMO systems</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Parameter estimation</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">optimal control</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">PI control</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Predictive control</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">self-adjusting systems</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">System theory</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Control theory</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Control</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">continuous time systems</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Adaptive control systems</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">control system synthesis</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Adaptive control systems</subject>
+                </subject>
+                <subject id="4000457-0" type="gnd">
+                    <subject xml:lang="de">Adaptivregelung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">linear quadratic Gaussian control</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">parameter estimation</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">adaptive control</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">predictive control</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Linear control systems</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://dx.doi.org/10.1049/PBCE035E</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

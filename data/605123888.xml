@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:605123888</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:605123888">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2009-07-21</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>605123888</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">605123888</identifier>
+                <identifier type="firstid">GBV:605123888</identifier>
+                <identifier type="isbn13">9780262013826</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://external.dandelon.com/download/attachments/dandelon/ids/CH00108D8183DACB9797EC1257862003C6CF3.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1160930430</identifier>
+                    <creationDate>2010-05-26</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 10 B 2819</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">X, 227 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Reinventing the automobile : personal urban mobility for the 21st century</title>
+            <abstracts>
+                <abstract xml:lang="de">The new DNA of the automobile -- The mobility Internet -- Reinventing the automobile for urban use -- Clean, Smart energy supply -- Charging infrastructure for electric-drive automobiles -- Integrating vehicles and smart electric grids -- New mobility markets -- Personal mobility in an urbanizaing world -- Realizing the vision</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Mitchell, William J.</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">123020603</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Borroni-Bird, Christopher E.</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Borroni-Bird, Chris</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Burns, Lawrence D.</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">170238148</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>William J. Mitchell; Christopher E. Borroni-Bird, and Lawrence D. Burns</responsible>
+            <publicationInfo>
+                <issued>2010</issued>
+                <publicationPlaces>
+                    <publicationPlace>Cambridge, Mass. [u.a.]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>MIT Press</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst., Kt.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>TL220</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.2</code>
+                </classification>
+                <classification classificationID="106418610" classificationName="bk">
+                    <code>53.15</code>
+                    <entries>
+                        <entry>Elektrische Messtechnik und Prüftechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>QR 524</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Wissenschaft</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Intelligent Transportation Systems</subject>
+                </subject>
+                <subject id="4123177-6" type="gnd">
+                    <subject xml:lang="de">Fahrzeugantrieb</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Electric automobiles</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Intelligent transportation systems</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Urban transportation</subject>
+                </subject>
+                <subject id="4014238-3" type="gnd">
+                    <subject xml:lang="de">Elektroantrieb</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Technological innovations</subject>
+                </subject>
+                <subject id="4151795-7" type="gnd">
+                    <subject xml:lang="de">Elektrofahrzeug</subject>
+                </subject>
+                <subject id="4076001-7" type="gnd">
+                    <subject xml:lang="de">Personenkraftwagen</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Transportation, Automotive</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Verkehrspolitik</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:537668047</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:537668047">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2007-07-16</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>537668047</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">537668047</identifier>
+                <identifier type="firstid">GBV:537668047</identifier>
+                <identifier type="isbn13">9783185127083</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/ilmenau/toc/537668047.PDF</location>
+                <location subtype="description" type="url">http://www.gbv.de/dms/ilmenau/abs/530043378eichh.txt</location>
+                <location subtype="miscellaneous" type="url">http://www.gbv.de/dms/ilmenau/abs/530043378eichh.txt</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">827506198</identifier>
+                    <creationDate>2007-07-19</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">ZN 742(1127)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">836041534</identifier>
+                    <creationDate>2007-09-25</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">ZN 742(1127) a</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XIII, 172 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Intelligentes Führungskonzept für ein autonomes Unterwasserfahrzeug in Sondersituationen</title>
+            <alternativeTitles>
+                <alternative>Führung eines autonomen Unterwasserfahrzeuges</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Die vorliegende Arbeit stellt ein vollständiges und neues Konzept zur Fahrzeugführung in Sondersituationen für ein Autonomes Unterwasserfahrzeug vor. Eine Sondersituation ist dann gegeben, wenn während einer Mission Objekte den abzufahrenden Routenplan tangieren. Die möglichen Handlungen bestehen im Ausweichen oder in der Identifikation dieser Objekte. Bei der Erstellung des Konzeptes gab es eine Reihe praxisrelevanter Anforderungen (Sicherheit, Robustheit, Rechenzeit, Optimalität) an die zu entwickelnden Verfahren und Algorithmen, die unter den hard- und softwaretechnischen Vorgaben und Arbeitsbedingungen einzuhalten waren. Solche Vorgaben umfassen das nichtholonome, verzögerte Bewegungsverhalten des Unterwasserfahrzeuges, die Sensorik zur Bestimmung der Umwelt, die im Fahrzeug eingesetzte Rechentechnik sowie die zu verwendende Entwicklungs- und Kommunikationssoftware. Die Arbeitsbedingungen eines Unterwasserfahrzeuges sind durch ein Manövrieren im dreidimensionalen Raum bei einer möglichen Seeströmung, schlechter Sicht und hohem Wasserdruck unter Einhaltung eines Sicherheitsabstandes zum Meeresbodens und zu den geographischen Hindernissen, technischen Bauten und Altlasten charakterisiert.Das entwickelte Konzept ist modular aufgebaut und umfasst Komponenten zur Kollisionsüberwachung, Zielpunktgenerierung,Kollisionsvermeidung, Fahrzeugführung bei Identifikationsaufgaben sowie zur Fahrzeugsteuerung. Für die Kollisionsüberwachung wird ein Zwei-Phasen-Konzept eingesetzt. Dieses Konzept ermöglicht eine schnelle Kollisionsüberprüfung durch die Verwendung einfacher Kollisionstests zur Vorselektion möglicher Kollisionskandidaten. Das in dieser Arbeit entwickelte Kollisionsvermeidungssystem besitzt eine hybride Struktur, bei der ein reaktiver (Reaktive Steuerung) und ein planender Ansatz (Wegeplanung) parallel arbeiten. Die Reaktive Steuerung übernimmt die Führung des Fahrzeuges, während die Wegeplanung einen Routenplan generiert.Steht ein Routenplan zur Verfügung, arbeitet die Wegeplanung diesen ab. Für die Reaktive Steuerung wurde ein neues Verfahren zur geometrischen Konstruktion von Gradientenlinien entwickelt. Es verbindet die Vorteile des von Guldner entwickelten Verfahrens der Harmonischen Dipolpotentiale mit der Forderung einer wegoptimalen Fahrweise unter Berücksichtigung des nichtholonomen, verzögerten Bewegungsverhaltens des Fahrzeuges. Durch die Forderung der online-Erzeugung eines Routenplanes unter Gewährleistung des Echtzeitverhaltens des Systems wurden graphenbasierte Verfahren für die Wegeplanung untersucht. Diese Verfahren ermöglichen es, einen optimalen Weg nach definierten Vorgaben in einer kalkulierbaren Zeit zu ermitteln. Zwei neu entwickelte Verfahren zur Generierung eines geometrischen Graphen aus einem Konfigurationsraum mit elliptischen Objektzylindern sowie ein Algorithmus zur Bestimmung der Fahrtkosten unter Einbeziehung der Strömungsinformation werden detailliert beschrieben. Obgleich das in dieser Arbeit vorgestellte Führungskonzept für ein Autonomes Unterwasserfahrzeug entwickelt wurde, können Teile dieser Arbeit auch für boden- und luftgeführte Autonome Mobile Systeme angewandt werden.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Eichhorn, Mike-Joachim</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Eichhorn, Mike</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">13329627X</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor>
+                    <contributor>Wernstedt, Jürgen</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">130244864</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Kuhn, Thomas</contributor>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Bachmayer, Ralf</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Mike-Joachim Eichhorn</responsible>
+            <publicationInfo>
+                <issued>2007</issued>
+                <edition>Als Ms. gedr.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Düsseldorf</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>VDI-Verl.</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Fortschritt-Berichte VDI</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>Reihe 8, Mess-, Steuerungs- und Regelungstechnik</title>
+                    <volumeNumber>1127</volumeNumber>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Zugl.: Ilmenau, Techn. Univ., Diss., 2007</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+                <publicationIDInfo>Parallel als Online-Ausg. erschienen unter der Adresse www.db-thueringen.de/servlets/DocumentServlet?id=8709</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>21 cm</description>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Fortschritt-Berichte VDI</title>
+            </related>
+            <related type="parent">
+                <title>Reihe 8, Mess-, Steuerungs- und Regelungstechnik</title>
+                <volumeNumber>1127</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>623.8257</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="106413929" classificationName="bk">
+                    <code>50.92</code>
+                    <entries>
+                        <entry>Meerestechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="181570424" classificationName="bk">
+                    <code>55.24</code>
+                    <entries>
+                        <entry>Fahrzeugführung, Fahrtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106419447" classificationName="bk">
+                    <code>50.25</code>
+                    <entries>
+                        <entry>Robotertechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZQ 6230</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 6500</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4143713-5" type="gnd">
+                    <subject xml:lang="de">Autonomes System</subject>
+                </subject>
+                <subject id="4267628-9" type="gnd">
+                    <subject xml:lang="de">Bahnplanung</subject>
+                </subject>
+                <subject id="4199255-6" type="gnd">
+                    <subject xml:lang="de">Kollisionsschutz</subject>
+                </subject>
+                <subject id="4016862-1" type="gnd">
+                    <subject xml:lang="de">Fernsteuerung</subject>
+                </subject>
+                <subject id="4042803-5" type="gnd">
+                    <subject xml:lang="de">Bahnsteuerung</subject>
+                </subject>
+                <subject id="4781185-7" type="gnd">
+                    <subject xml:lang="de">Navigationssystem</subject>
+                </subject>
+                <subject id="4314334-9" type="gnd">
+                    <subject xml:lang="de">Objekterkennung</subject>
+                </subject>
+                <subject id="4136258-5" type="gnd">
+                    <subject xml:lang="de">Unterwasserfahrzeug</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

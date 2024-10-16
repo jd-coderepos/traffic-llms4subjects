@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:61073959X</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:61073959X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2009-10-21</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>61073959X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">61073959X</identifier>
+                <identifier type="firstid">GBV:61073959X</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1102589772</identifier>
+                    <creationDate>2009-11-16</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RS 7271(2009,9)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">X, 100 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Robuste aktive Schallreduktion in Flugzeugen</title>
+            <abstracts>
+                <abstract xml:lang="de">Durch die Ansprüche an Komfort und Arbeitsschutz sind Schalldämmmaßnahmen ein wichtiger Bestandteil jedes technischen Systems. Die Technologie der aktiven Schallreduktion kommt hierfür zunehmend zum Einsatz. Sie basiert auf dem Prinzip der Interferenz des Störschallfelds mit einem Sekundärschallfeld. Ein Anwendungsbeispiel ist das aktive System im Lademeisterbereich des Airbus A400M. Ziel ist es, eine robuste Schallpegelreduktion am Kopf des Lademeisters zu erreichen.--- Zur Lösung des Problems werden Parameter in Form von Gewichtungsmatrizen in den Regelalgorithmus eingeführt. Für den Entwurf dieser Gewichtungsmatrizen wird ein neues Verfahren entwickelt, welches die gemessenen Unsicherheiten berücksichtigt. Hierzu werden für die Regelstabilität und -qualität Gütemaße formuliert. Diese erfassen die Reglergüte. Anschließend wird diese mit einem genetischen Algorithmus optimiert.--- Die Methodik wird in einem Mock-up des Lademeisterbereichs des Airbus A400M angewendet. In Experimenten wird gezeigt, dass die robuste Schallpegelreduktion dabei um bis zu 7 dB gesteigert wird. Die vorgestellte Entwurfsmethodik löst das Problem allein über Reglerparameter, teures Umplatzieren von Lautsprechern und Mikrofonen entfällt. Dies erhöht die Schallpegelreduktion unter Einsatzbedingungen und senkt die Entwicklungskosten.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="degree-granting-institution">
+                    <type>degree-granting-institution</type>
+                    <name>Helmut-Schmidt-Universität</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">10072785-2</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Kochan, Kay</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">138923507</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <type>editor</type>
+                    <contributor>Sachau, Delf</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">120120852</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>von Kay Kochan</responsible>
+            <publicationInfo>
+                <issued>2009</issued>
+                <publicationPlaces>
+                    <publicationPlace>Hamburg</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Helmut-Schmidt-Univ., Univ. der Bundeswehr Hamburg</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Bericht aus der Professur für Mechatronik / Helmut-Schmidt-Universität</title>
+                    <volumeNumber>2009,September</volumeNumber>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Zugl.: Hamburg, Helmut-Schmidt-Univ., Diss., 2009</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Digitalisierte Ausg.</label>
+                <title>Robuste aktive Schallreduktion in Flugzeugen</title>
+                <identifier type="ppn">610737503</identifier>
+            </related>
+            <related type="parent">
+                <title>Bericht aus der Professur für Mechatronik / Helmut-Schmidt-Universität</title>
+                <volumeNumber>2009,September</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.13442</code>
+                </classification>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="106420801" classificationName="bk">
+                    <code>58.56</code>
+                    <entries>
+                        <entry>Lärmschutz, Erschütterungsdämpfung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>cet</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4154784-6" type="gnd">
+                    <subject xml:lang="de">Flugzeugkabine</subject>
+                </subject>
+                <subject id="4451322-7" type="gnd">
+                    <subject xml:lang="de">Aktive Schalldämpfung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:725909811</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:725909811">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2012-09-15</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>725909811</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">725909811</identifier>
+                <identifier type="ean">9781849800204</identifier>
+                <identifier type="firstid">BVB:BV040407143</identifier>
+                <identifier type="isbn13">9781849800204</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://bvbr.bib-bvb.de:8991/F?func=service&amp;doc_library=BVB01&amp;doc_number=025260201&amp;line_number=0001&amp;func_code=DB_RECORDS&amp;service_type=MEDIA</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1339235234</identifier>
+                    <creationDate>2013-10-23</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 12 B 9283</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">IX, 267 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Transport, the environment and security : making the connection</title>
+            <abstracts>
+                <abstract xml:lang="de">From a primarily urban perspective, the author illustrates that the fields of transportation, environment (with an emphasis on climate change) and security (for both natural hazards and terrorism) and their interconnections remain robust areas for policy and planning. Synthesizing existing data, new analyses, and a rich set of case studies, the book uses transportation networks as a framework to explore transportation in conjunction with environment, security, and interdependencies with other infrastructure sectors. The US rail transit system, ecological corridors, cyber security, planning mechanisms and the effectiveness of technologies are among the topics explored in detail. Case studies of severe and potential impacts of natural hazards, accidents, and security breaches on transportation are presented. These cases support the analyses of the forces on transportation, land use and patterns of population change that connect, disconnect and reconnect people from their environment and security</abstract>
+                <abstract xml:lang="de">Rail and road networks -- The climate connection -- Planning, technology and behavior -- Environmental networks and transport : air, water and ecosystems -- Natural hazards and accidents that disrupt transportation networks -- Security</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Zimmerman, Rae</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1166354717</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Rae Zimmerman</responsible>
+            <publicationInfo>
+                <issued>2012</issued>
+                <publicationPlaces>
+                    <publicationPlace>Cheltenham [u.a.]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="GB" />
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Elgar</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>graph. Darst., Kt.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>388.04</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>QR 800</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>HE147.65</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>RB 10762</code>
+                </classification>
+                <classification classificationID="106420631" classificationName="bk">
+                    <code>55.80</code>
+                    <entries>
+                        <entry>Verkehrswesen, Transportwesen: Allgemeines</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106414682" classificationName="bk">
+                    <code>83.72</code>
+                    <entries>
+                        <entry>Verkehrswirtschaft</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>oek</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4062955-7" type="gnd">
+                    <subject xml:lang="de">Verkehrspolitik</subject>
+                </subject>
+                <subject id="4054790-5" type="gnd">
+                    <subject xml:lang="de">Sicherheit</subject>
+                </subject>
+                <subject id="4061638-1" type="gnd">
+                    <subject xml:lang="de">Umweltökonomie</subject>
+                </subject>
+                <subject id="4060680-6" type="gnd">
+                    <subject xml:lang="de">Transport</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Transportation</subject>
+                </subject>
+                <subject id="4062992-2" type="gnd">
+                    <subject xml:lang="de">Verkehrswirtschaft</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

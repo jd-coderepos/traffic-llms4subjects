@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:358965195</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:358965195">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2003-01-10</databaseDate>
+            <changeDate>2024-04-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>358965195</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">358965195</identifier>
+                <identifier type="contract">19P0041</identifier>
+                <identifier type="contract">19P0041E</identifier>
+                <identifier type="firstid">GBV:358965195</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="miscellaneous" type="url">https://edocs.tib.eu/files/e01fb02/358965195l.pdf</location>
+                <location mimetype="application/pdf" subtype="fulltext" type="url">https://edocs.tib.eu/files/e01fb02/358965195.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">584970439</identifier>
+                    <creationDate>2003-01-10</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-89</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">Online-Ressource (49 p. = 901 KB)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Hinderniserkennung mit hochauflösendem Radar : DaimlerChrysler AG, Schlußbericht ; Forschungsvorhaben: Komponenten Automatisierter Schienenverkehr (KOMPAS), Phase 1 ; [Laufzeit: 01.11.1999 - 31.12.2002]</title>
+            <alternativeTitles>
+                <alternative>Komponenten Automatisierter Schienenverkehr (KOMPAS), Phase 1</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Hinderniserkennung, Radarsensorik, Radarabbildung, hochauflösendes Radlichtraumprofil, automatisches Fahren</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>DaimlerChrysler AG, Forschungsinstitut Ulm</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">6008926-X</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor>
+                    <contributor>Wenger, Josef</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Josef Wenger; Robert Schneider; Birgit Michael; Nils Appenrodt</responsible>
+            <publicationInfo>
+                <issued>2001</issued>
+                <edition>Version: 1.0</edition>
+                <publicationPlaces>
+                    <publicationPlace>[Ulm]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Universitätsbibliothek u. Technische Informationsbibliothek</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-296-TTN</identifier>
+                </isPartOf>
+                <publicationIDInfo>Contract BMBF 19P0041E. - Differences between the printed and electronic version of the document are possible. - nIndex p. 48 - 49</publicationIDInfo>
+                <publicationIDInfo>Also available as printed version</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>ill., graphs</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-296-TTN</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106415182" classificationName="bk">
+                    <code>53.84</code>
+                    <entries>
+                        <entry>Ortungstechnik, Radartechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="181570750" classificationName="bk">
+                    <code>55.34</code>
+                    <entries>
+                        <entry>Bahnbetriebstechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4368704-0" type="gnd">
+                    <subject xml:lang="de">Hindernis</subject>
+                </subject>
+                <subject id="4051865-6" type="gnd">
+                    <subject xml:lang="de">S-Bahn</subject>
+                </subject>
+                <subject id="4016284-9" type="gnd">
+                    <subject xml:lang="de">Fahrerloses Transportsystem</subject>
+                </subject>
+                <subject id="4176776-7" type="gnd">
+                    <subject xml:lang="de">Radarsignal</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">default</property>
+            <property name="displaySubscriberAccess">https://edocs.tib.eu/files/e01fb02/358965195.pdf</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

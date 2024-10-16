@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1733931120</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1733931120">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2020-09-29</databaseDate>
+            <changeDate>2022-02-27</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1733931120</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1733931120</identifier>
+                <identifier type="doi">10.1007/978-3-030-39126-3</identifier>
+                <identifier type="firstid">KXP:1733931120</identifier>
+                <identifier type="isbn13">9783030391256</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="cover" type="url">https://swbplus.bsz-bw.de/bsz1728471109cov.jpg</location>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1733931120.pdf</location>
+                <location subtype="miscellaneous" type="url">https://www.zbmath.org/?q=an%3A1440.76002</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3893547916</identifier>
+                    <creationDate>2021-03-24</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RS 6346(156)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xxv, 477 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Aerospace system analysis and optimization in uncertainty</title>
+            <abstracts>
+                <abstract xml:lang="de">Part I Aerospace system multidisciplinary modeling and uncertainty characterization -- 1 Multidisciplinary system modeling and optimization -- 2 Uncertainty characterization and modeling -- Part II Single discipline problem: uncertainty propagation, reliability analysis and optimization -- 3 Uncertainty propagation and sensitivity analysis -- 4 Reliability analysis -- 5 Problem formulations and optimization algorithms -- Part III Multidisciplinary Optimization under uncertainty -- 6 Uncertainty propagation for multidisciplinary problems -- 7 Uncertainty-based MDO -- Part IV MDO related issues: multi-fidelity, multi-objective and mixed continuous / discrete optimization -- 8 Multi-fidelity for MDO using Gaussian Processes -- 9 Multi-objective and mixed MDO -- Part V Case studies -- 10 Civil aircraft vehicle design -- 11 Blended Wing Body design -- 12 Expendable and reusable launch vehicle design -- Appendix: List of librairies used for the simulations.</abstract>
+                <abstract xml:lang="de">Spotlighting the field of Multidisciplinary Design Optimization (MDO), this book illustrates and implements state-of-the-art methodologies within the complex process of aerospace system design under uncertainties. The book provides approaches to integrating a multitude of components and constraints with the ultimate goal of reducing design cycles. Insights on a vast assortment of problems are provided, including discipline modeling, sensitivity analysis, uncertainty propagation, reliability analysis, and global multidisciplinary optimization. The extensive range of topics covered include areas of current open research. This Work is destined to become a fundamental reference for aerospace systems engineers, researchers, as well as for practitioners and engineers working in areas of optimization and uncertainty. Part I is largely comprised of fundamentals. Part II presents methodologies for single discipline problems with a review of existing uncertainty propagation, reliability analysis, and optimization techniques. Part III is dedicated to the uncertainty-based MDO and related issues. Part IV deals with three MDO related issues: the multifidelity, the multi-objective optimization and the mixed continuous/discrete optimization and Part V is devoted to test cases for aerospace vehicle design.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Brevault, Loïc</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Balesdent, Mathieu</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Morio, Jérôme</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Loïc Brevault, Mathieu Balesdent, Jérôme Morio</responsible>
+            <publicationInfo>
+                <issued>2020</issued>
+                <publicationPlaces>
+                    <publicationPlace>Cham, Switzerland</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="CH" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer Nature</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Springer optimization and its applications</title>
+                    <volumeNumber>volume 156</volumeNumber>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>Aerospace System Analysis and Optimization in Uncertainty</title>
+                <identifier type="isbn13">9783030391263</identifier>
+                <identifier type="ppn">1728471109</identifier>
+            </related>
+            <related type="parent">
+                <title>Springer optimization and its applications</title>
+                <volumeNumber>volume 156</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="msc">
+                    <code>93-02</code>
+                </classification>
+                <classification classificationID="106408070" classificationName="bk">
+                    <code>31.70</code>
+                    <entries>
+                        <entry>Wahrscheinlichkeitsrechnung</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="181570769" classificationName="bk">
+                    <code>55.54</code>
+                    <entries>
+                        <entry>Flugführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="msc">
+                    <code>76-02</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>519.6</code>
+                </classification>
+                <classification classificationID="106419005" classificationName="bk">
+                    <code>31.80</code>
+                    <entries>
+                        <entry>Angewandte Mathematik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mat</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Mathematical optimization.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Numerical analysis.</subject>
+                </subject>
+                <subject id="4196491-3" type="gnd">
+                    <subject xml:lang="de">Avionik</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">System theory.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Algorithms.</subject>
+                </subject>
+                <subject id="4043664-0" type="gnd">
+                    <subject xml:lang="de">Optimierung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Aerospace engineering.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Astronautics.</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1796274003</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1796274003">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2022-03-22</databaseDate>
+            <changeDate>2024-05-13</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1796274003</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1796274003</identifier>
+                <identifier type="doi">10.1007/978-3-030-82934-6</identifier>
+                <identifier type="firstid">KXP:1796274003</identifier>
+                <identifier type="isbn13">9783030846763</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1796274003.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4131236281</identifier>
+                    <creationDate>2022-05-11</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">U 22 B 272</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-84</isil>
+            </preservation>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Integrated computational life cycle engineering for traction batteries</title>
+            <abstracts>
+                <abstract xml:lang="de">Background and context -- LCE and electromobility -- State of Research -- Concept Development -- Exemplary application -- Summary, critical review and outlook.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="degree-granting-institution">
+                    <type>degree-granting-institution</type>
+                    <name>Technische Universität Braunschweig</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">36227-X</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Cerdas, Felipe</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1151528528</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Herrmann, Christoph</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">13421286X</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Kwade, Arno</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">115153031X</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Hammer Strøman, Anders</contributor>
+                </contributor>
+            </contributors>
+            <responsible>von: Juan Felipe Cerdas Marin</responsible>
+            <publicationInfo>
+                <issued>2021</issued>
+                <publicationPlaces>
+                    <publicationPlace>Cham</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="CH" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer Nature</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Sustainable production, life cycle engineering and management</title>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2020</dateAccepted>
+                        <description>Dissertation, Technische Universität Carolo-Wilhelmina zu Braunschweig</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>Integrated computational life cycle engineering for traction batteries</title>
+                <identifier type="ppn">1769722785</identifier>
+                <identifier type="isbn13">9783030829346</identifier>
+            </related>
+            <related type="parent">
+                <title>Sustainable production, life cycle engineering and management</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>670</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106418645" classificationName="bk">
+                    <code>53.36</code>
+                    <entries>
+                        <entry>Energiedirektumwandler, elektrische Energiespeicher</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="1042006857" type="gnd">
+                    <subject xml:lang="de">Elektromobilität</subject>
+                </subject>
+                <subject id="1064675859" type="gnd">
+                    <subject xml:lang="de">Traktionsbatterie</subject>
+                </subject>
+                <subject id="4299127-4" type="gnd">
+                    <subject xml:lang="de">Umweltbilanz</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Computer-aided engineering.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Industrial engineering.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Production engineering.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Science.</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

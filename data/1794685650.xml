@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1794685650</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1794685650">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2022-03-04</databaseDate>
+            <changeDate>2023-11-23</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1794685650</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1794685650</identifier>
+                <identifier type="doi">10.22032/dbt.51540</identifier>
+                <identifier type="firstid">KXP:1794685650</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://nbn-resolving.de/urn:nbn:de:gbv:ilm1-2022000043</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4113240698</identifier>
+                    <creationDate>2022-04-07</creationDate>
+                    <selectionKey>zdt</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (xiii, 170 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Robust distributed resource allocation for cellular vehicle-to-vehicle communication</title>
+            <abstracts>
+                <abstract xml:lang="de">Mit Release 14 des LTE Standards unterstützt dieser die direkte Fahrzeug-zu-Fahrzeug-Kommunikation über den Sidelink. Diese Dissertation beschäftigt sich mit dem Scheduling Modus 4, einem verteilten MAC-Protokoll ohne Involvierung der Basisstation, das auf periodischer Wiederverwendung von Funkressourcen aufbaut. Der Stand der Technik und eine eigene Analyse des Protokolls decken verschiedene Probleme auf. So wiederholen sich Kollisionen von Paketen, wodurch manche Fahrzeuge für längere Zeit keine sicherheitskritischen Informationen verbreiten können. Kollisionen entstehen vermehrt auch dadurch, dass Hidden-Terminal-Probleme in Kauf genommen werden oder veränderliche Paketgrößen und -raten schlecht unterstützt werden. Deshalb wird ein Ansatz namens "Scheduling based on Acknowledgement Feedback Exchange" vorgeschlagen. Zunächst wird eine Funkreservierung in mehrere ineinander verschachtelte Unter-Reservierungen mit verschiedenen Funkressourcen unterteilt, was die Robustheit gegenüber wiederholenden Kollisionen erhöht. Dies ist die Grundlage für eine verteilte Staukontrolle, die die Periodizitätseigenschaft nicht verletzt. Außerdem können so veränderliche Paketgrößen oder -raten besser abgebildet werden. Durch die periodische Wiederverwendung können Acknowledgements für Funkressourcen statt für Pakete ausgesendet werden. Diese können in einer Bitmap in den Padding-Bits übertragen werden. Mittels der Einbeziehung dieser Informationen bei der Auswahl von Funkressourcen können Hidden-Terminal-Probleme effizient vermieden werden, da die Acknowledgements auch eine Verwendung dieser Funkressource ankündigen. Kollisionen können nun entdeckt und eine Wiederholung vermieden werden. Die Evaluierung des neuen MAC-Protokolls wurde zum großen Teil mittels diskreter-Event-Simulationen durchgeführt, wobei die Bewegung jedes einzelnen Fahrzeuges simuliert wurde. Der vorgeschlagene Ansatz führt zu einer deutlich erhöhten Paketzustellrate. Die Verwendung einer anwendungsbezogenen Awareness-Metrik zeigt, dass die Zuverlässigkeit der Kommunikation durch den Ansatz deutlich verbessert werden kann. Somit zeigt sich der präsentierte Ansatz als vielversprechende Lösung für die erheblichen Probleme, die der LTE Modus 4 mit sich bringt.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="degree-granting-institution">
+                    <type>degree-granting-institution</type>
+                    <name>Technische Universität Ilmenau</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2125187-3</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Wendland, Philip</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1252466919</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Schäfer, Günter</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">133950875</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Seitz, Jochen</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">13002077X</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Wolf, Lars</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1236316487</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>vorgelegt von: Philip Wendland</responsible>
+            <publicationInfo>
+                <issued>2022</issued>
+                <publicationPlaces>
+                    <publicationPlace>Ilmenau</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Universitätsbibliothek</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2022</dateAccepted>
+                        <description>Dissertation, Technische Universität Ilmenau</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Diagramme, Illustrationen</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Robust distributed resource allocation for cellular vehicle-to-vehicle communication</title>
+                <identifier type="ppn">1790052874</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>ZO 4620</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.277</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="1024622754" type="gnd">
+                    <subject xml:lang="de">Car-to-Car-Kommunikation</subject>
+                </subject>
+                <subject id="102679028X" subtype="work" type="gnd">
+                    <subject xml:lang="de">Long Term Evolution Advanced</subject>
+                </subject>
+                <subject id="7524983-2" type="gnd">
+                    <subject xml:lang="de">VANET</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://nbn-resolving.de/urn:nbn:de:gbv:ilm1-2022000043</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

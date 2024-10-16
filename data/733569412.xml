@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:733569412</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:733569412">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2013-01-07</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>733569412</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">733569412</identifier>
+                <identifier type="firstid">GBV:733569412</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1289676518</identifier>
+                    <creationDate>2012-01-24</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">H 12 B 17</location>
+                    <loanIndicator>i</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1289676526</identifier>
+                    <creationDate>2012-01-24</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">H 12 B 17 a</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1289676534</identifier>
+                    <creationDate>2012-01-24</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">H 12 B 17 b</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">IX, 219 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Betriebliche Maßnahmen zur Optimierung der Leistungsfähigkeit der Bahnstrecken und zur Erhöhung der Reisegeschwindigkeit des Personenverkehrs in China</title>
+            <abstracts>
+                <abstract xml:lang="de">Eisenbahnbetrieb, Leistungsfähigkeit, Reisegeschwindigkeit. - Railway operations, performance, cruising speed</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Shi, Lei</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1020008253</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>von Lei Shi</responsible>
+            <publicationInfo>
+                <issued>2011</issued>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Hannover, Univ., Diss., 2011</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausg.</label>
+                <title>Betriebliche Maßnahmen zur Optimierung der Leistungsfähigkeit der Bahnstrecken und zur Erhöhung der Reisegeschwindigkeit des Personenverkehrs in China</title>
+                <identifier type="ppn">680219714</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc-dbn">
+                    <code>380</code>
+                </classification>
+                <classification classificationID="106420666" classificationName="bk">
+                    <code>55.85</code>
+                    <entries>
+                        <entry>Schienenverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="181570637" classificationName="bk">
+                    <code>55.81</code>
+                    <entries>
+                        <entry>Personenverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4045298-0" type="gnd">
+                    <subject xml:lang="de">Personenverkehr</subject>
+                </subject>
+                <subject id="4607696-7" type="gnd">
+                    <subject xml:lang="de">Reisegeschwindigkeit</subject>
+                </subject>
+                <subject id="4009937-4" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">China</subject>
+                </subject>
+                <subject id="4014024-6" type="gnd">
+                    <subject xml:lang="de">Eisenbahnbetrieb</subject>
+                </subject>
+                <subject id="4153563-7" type="gnd">
+                    <subject xml:lang="de">Fahrplan</subject>
+                </subject>
+                <subject id="4167271-9" type="gnd">
+                    <subject xml:lang="de">Leistungsbewertung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

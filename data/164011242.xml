@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:164011242</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:164011242">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1994-09-15</databaseDate>
+            <changeDate>2024-04-18</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>164011242</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">164011242</identifier>
+                <identifier type="firstid">GBV:164011242</identifier>
+                <identifier type="isbn">3816911854</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/hbz/toc/ht006401878.PDF</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">148662056</identifier>
+                    <creationDate>1995-05-30</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">RA 4189(464)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-24</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">216 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Altautoverwertung und -entsorgung : Stand und Aktivitäten beim Automobilrecycling</title>
+            <abstracts>
+                <abstract xml:lang="de">Sammelband über den Stand des Automobilrecycling mit Beiträgen zur Verfahrenstechnik, Werkstoffaufbereitung, Entsorgung, EDV-Planung. Das Thema, bislang meist in Zeitschriftenaufsätzen oder in Forschungsberichten mitbehandelt, ist praxisorientiert gearbeitet und wendet sich an einen breiteren Fachleserkreis. Ersetzt kein Lehrbuch, bietet aber einen solide gearbeiteten Querschnitt. Ein Vergleichstitel ist nicht bekannt. (3) (LK/N: Pleuß)</abstract>
+            </abstracts>
+            <contributors>
+                <contributor>
+                    <contributor>Schmidt, Joachim</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Joachim Schmidt ...</responsible>
+            <publicationInfo>
+                <issued>1995</issued>
+                <publicationPlaces>
+                    <publicationPlace>Renningen-Malmsheim</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>expert-Verl.</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Kontakt &amp; Studium</title>
+                    <volumeNumber>464</volumeNumber>
+                </journalInfo>
+                <journalInfo>
+                    <title>Umwelttechnik</title>
+                </journalInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>21 cm</description>
+            <description>Ill., graph. Darst</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Kontakt &amp; Studium</title>
+                <volumeNumber>464</volumeNumber>
+            </related>
+            <related type="parent">
+                <title>Umwelttechnik</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="dbn">
+                    <code>17</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4290</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>AR 21680</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>QR 524</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>36</code>
+                </classification>
+                <classification classificationID="106418831" classificationName="bk">
+                    <code>58.53</code>
+                    <entries>
+                        <entry>Abfallwirtschaft</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>38</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>AR 21160</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>cet</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4390751-9" type="gnd">
+                    <subject xml:lang="de">Altauto</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Personenkraftwagen</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Kraftwagen</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Recycling</subject>
+                </subject>
+                <subject id="4076573-8" type="gnd">
+                    <subject xml:lang="de">Recycling</subject>
+                </subject>
+                <subject id="4011882-4" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Deutschland</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

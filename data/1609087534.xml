@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1609087534</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1609087534">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2014-05-26</databaseDate>
+            <changeDate>2022-07-14</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1609087534</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1609087534</identifier>
+                <identifier type="ean">9781493908011</identifier>
+                <identifier type="firstid">BSZ:40691365X</identifier>
+                <identifier type="isbn13">9781493908011</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="cover" type="url">https://swbplus.bsz-bw.de/bsz40691365xcov.jpg</location>
+                <location subtype="description" type="url">https://zbmath.org/?q=an:1381.70006</location>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/787508527.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1521889570</identifier>
+                    <creationDate>2015-02-02</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RO 6173(33)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xv, 486 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Fundamentals of spacecraft attitude determination and control</title>
+            <abstracts>
+                <abstract xml:lang="de">"This book explores topics that are central to the field of spacecraft attitude determination and control. The authors provide rigorous theoretical derivations of significant algorithms accompanied by a generous amount of qualitative discussions of the subject matter. The book documents the development of the important concepts and methods in a manner accessible to practicing engineers, graduate-level engineering students and applied mathematicians. It includes detailed examples from actual mission designs to help ease the transition from theory to practice, and also provides prototype algorithms that are readily available on the author's website. Subject matter includes both theoretical derivations and practical implementation of spacecraft attitude determination and control systems. It provides detailed derivations for attitude kinematics and dynamics, and provides detailed description of the most widely used attitude parameterization, the quaternion. This title alsoprovides a thorough treatise of attitude dynamics including Jacobian elliptical functions. It is the first known book to provide detailed derivations and explanations of state attitude determination, and gives readers real-world examples from actual working spacecraft missions. The subject matter is chosen to fill the void of existing textbooks and treatises, especially in state and dynamics attitude determination. MATLAB code of all examples will be provided through an external website." --Publisher's Website</abstract>
+                <abstract xml:lang="de">Introduction -- Matrices, vectors, frames, transforms -- Attitude kinematics and dynamics -- Sensors and actuators -- Static attitude determination methods -- Filtering for attitude estimation and calibration -- Attitude control -- Quaternion identities -- Euler angles -- Orbital dynamics -- Environment models -- Review of control and estimation theory -- Computer software</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Markley, F. Landis</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1050690974</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Crassidis, John L.</contributor>
+                </contributor>
+            </contributors>
+            <responsible>F. Landis Markley, John L. Crassidis</responsible>
+            <publicationInfo>
+                <issued>2014</issued>
+                <publicationPlaces>
+                    <publicationPlace>New York, NY [u.a.]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                    <publicationCountry code="DE" />
+                    <publicationCountry code="NL" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Space technology library</title>
+                    <volumeNumber>33</volumeNumber>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>Fundamentals of Spacecraft Attitude Determination and Control</title>
+                <identifier type="isbn13">9781493908028</identifier>
+                <identifier type="ppn">1657957055</identifier>
+            </related>
+            <related type="parent">
+                <title>Space technology library</title>
+                <volumeNumber>33</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="181571455" classificationName="bk">
+                    <code>50.03</code>
+                    <entries>
+                        <entry>Methoden und Techniken der Ingenieurwissenschaften</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="msc">
+                    <code>*70-02</code>
+                </classification>
+                <classification classificationName="msc">
+                    <code>70M20</code>
+                </classification>
+                <classification classificationID="106421344" classificationName="bk">
+                    <code>50.23</code>
+                    <entries>
+                        <entry>Regelungstechnik, Steuerungstechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 8000</code>
+                </classification>
+                <classification classificationID="181570416" classificationName="bk">
+                    <code>55.64</code>
+                    <entries>
+                        <entry>Raumfahrzeugführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL3260</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 8200</code>
+                </classification>
+                <classification classificationName="msc">
+                    <code>93C95</code>
+                </classification>
+                <classification classificationName="msc">
+                    <code>70Q05</code>
+                </classification>
+                <classification classificationName="msc">
+                    <code>70P05</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mat</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Engineering</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Space vehicles</subject>
+                </subject>
+                <subject id="4042803-5" type="gnd">
+                    <subject xml:lang="de">Bahnsteuerung</subject>
+                </subject>
+                <subject id="4034076-4" type="gnd">
+                    <subject xml:lang="de">Lageregelung</subject>
+                </subject>
+                <subject id="4177066-3" type="gnd">
+                    <subject xml:lang="de">Raumflugkörper</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

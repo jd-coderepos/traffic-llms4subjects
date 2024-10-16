@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1795231467</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1795231467">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2022-03-10</databaseDate>
+            <changeDate>2024-01-09</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>1795231467</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1795231467</identifier>
+                <identifier type="doi">10.1515/9783110760477</identifier>
+                <identifier type="firstid">KEP:076936872</identifier>
+                <identifier type="isbn13">9783110760477</identifier>
+                <identifier type="isbn13">9783110760491</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="cover" type="url">https://www.degruyter.com/document/cover/isbn/9783110760477/original</location>
+                <location subtype="fulltext" type="url">https://www.degruyter.com/isbn/9783110760477</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4195047293</identifier>
+                    <recallSign>OLR-DG</recallSign>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2022-10-14</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (X, 152 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Artificial intelligence of things in smart environments : applications in transportation and logistics</title>
+            <abstracts>
+                <abstract xml:lang="de">This book focuses on the use of AI/ML-based techniques to solve issues related to IoT-based environments, as well as their applications. It addresses, among others, signal detection, channel modeling, resource optimization, routing protocol design, transport layer optimization, user/application behavior prediction, software-defi ned networking, congestion control, communication network optimization, security, and anomaly detection</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Ouaissa, Mariyam</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1259340570</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Boulouard, Zakaria</contributor>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Quaissa, Mariya</contributor>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Maleh, Yassine</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1190215594</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>edited by Mariyam Ouaissa, Zakaria Boulouard, Mariya Ouaissa, Yassine Maleh</responsible>
+            <publicationInfo>
+                <issued>2022</issued>
+                <publicationPlaces>
+                    <publicationPlace>Berlin</publicationPlace>
+                    <publicationPlace>Boston</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>De Gruyter</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-23-DEI</identifier>
+                    <identifier type="collectioncode">ZDB-23-DGG</identifier>
+                    <identifier type="collectioncode">BSZ-23-DHBW</identifier>
+                    <identifier type="collectioncode">EBA-CL-CHCOMSGSEN</identifier>
+                    <identifier type="collectioncode">EBA-DGALL</identifier>
+                    <identifier type="collectioncode">EBA-EBKALL</identifier>
+                    <identifier type="collectioncode">EBA-ECL-CHCOMSGSEN</identifier>
+                    <identifier type="collectioncode">EBA-EEBKALL</identifier>
+                    <identifier type="collectioncode">EBA-ESTMALL</identifier>
+                    <identifier type="collectioncode">EBA-STMALL</identifier>
+                    <identifier type="collectioncode">GBV-deGruyter-alles</identifier>
+                    <identifier type="collectioncode">PDA12STME</identifier>
+                    <identifier type="collectioncode">PDA13ENGE</identifier>
+                    <identifier type="collectioncode">PDA18STMEE</identifier>
+                    <identifier type="collectioncode">PDA5EBK</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>De Gruyter Series on the internet of things</title>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen</description>
+            <description>Campusweiter Zugriff (Universität Hannover) - Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Keine Weitergabe an Dritte. Kein systematisches Downloaden durch Robots</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Artificial intelligence of things in smart environments</title>
+                <identifier type="isbn13">9783110755336</identifier>
+                <identifier type="ppn">1788806832</identifier>
+                <identifier type="isbn">3110755335</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-23-DEI</identifier>
+                <identifier type="collectioncode">ZDB-23-DGG</identifier>
+                <identifier type="collectioncode">BSZ-23-DHBW</identifier>
+                <identifier type="collectioncode">EBA-CL-CHCOMSGSEN</identifier>
+                <identifier type="collectioncode">EBA-DGALL</identifier>
+                <identifier type="collectioncode">EBA-EBKALL</identifier>
+                <identifier type="collectioncode">EBA-ECL-CHCOMSGSEN</identifier>
+                <identifier type="collectioncode">EBA-EEBKALL</identifier>
+                <identifier type="collectioncode">EBA-ESTMALL</identifier>
+                <identifier type="collectioncode">EBA-STMALL</identifier>
+                <identifier type="collectioncode">GBV-deGruyter-alles</identifier>
+                <identifier type="collectioncode">PDA12STME</identifier>
+                <identifier type="collectioncode">PDA13ENGE</identifier>
+                <identifier type="collectioncode">PDA18STMEE</identifier>
+                <identifier type="collectioncode">PDA5EBK</identifier>
+            </related>
+            <related type="parent">
+                <title>De Gruyter Series on the internet of things</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>004</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ST 300</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="10641240X" classificationName="bk">
+                    <code>54.72</code>
+                    <entries>
+                        <entry>Künstliche Intelligenz</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>inf</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="7713781-4" type="gnd">
+                    <subject xml:lang="de">Internet der Dinge</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Künstliche Intelligenz</subject>
+                </subject>
+                <subject id="4033447-8" type="gnd">
+                    <subject xml:lang="de">Künstliche Intelligenz</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Logistik</subject>
+                </subject>
+                <subject id="4120666-6" type="gnd">
+                    <subject xml:lang="de">Lernendes System</subject>
+                </subject>
+                <subject id="4185934-0" type="gnd">
+                    <subject xml:lang="de">Transportsystem</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">IT-gestützte Logistik</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://www.degruyter.com/isbn/9783110760477</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

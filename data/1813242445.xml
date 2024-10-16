@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1813242445</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1813242445">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2022-08-04</databaseDate>
+            <changeDate>2023-11-30</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1813242445</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1813242445</identifier>
+                <identifier type="firstid">KXP:1813242445</identifier>
+                <identifier type="isbn13">9783030920531</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1813242445.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4175824065</identifier>
+                    <creationDate>2023-06-14</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 22 B 3386</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xv, 288 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Intelligent cyber-physical systems for autonomous transportation</title>
+            <abstracts>
+                <abstract xml:lang="de">Part I Overview of Transportation Systems -- Transportation Systems -- Future Autonomous Transportation - Challenges and Prospective dimensions -- Part II Artificial Intelligence -- Artificial Intelligence -- Artificial Intelligence: Evolution, Benefits and Challenges -- Artificial Intelligence - Need, Evolution and Applications for Transportation Systems -- Artificial Intelligence Deployment in Transportation Systems -- Part III Cyber-Physical Systems -- Cyber-Physical Systems: Historical Evolution and Role in Future Autonomous Transportation -- Cyber Physical Systems in Transportation -- Part IV Application Use Cases of Autonomous Transportation Systems -- "Correlation between Traffic Lights and Emergency Vehicles in Intelligent Transportation System" -- Use Case for Underwater Transportation -- Advanced Signal Processing for Autonomous Transportation Big Data -- Deep neural network based prediction of high-speed train induced subway track vibration -- Advanced Complex Data Analysis of Autonomous Transportation for Smart City Industrial Environment -- A Meta Sensor Based Autonomous Vehicle Safety System for Collision Avoidance using Li-Fi Technology -- Part V Security Perspective in Intelligent Transportation Systems -- Secure Information Transmission in Intelligent Transportation Systems using Blockchain Technique -- "Privacy-preserved Mobile Crowdsensing for Intelligent Transportation Systems".</abstract>
+                <abstract xml:lang="de">This book provides comprehensive discussion on key topics related to the usage and deployment of AI in urban transportation systems including drones. The book presents intelligent solutions to overcome the challenges of static approaches in the transportation sector to make them intelligent, adaptive, agile, and flexible. The book showcases different AI-deployment models, algorithms, and implementations related to intelligent cyber physical systems (CPS) along with their pros and cons. Even more, this book provides deep insights into the CPS specifically about the layered architecture and different planes, interfaces, and programmable network operations. The deployment models for AI-based CPS are also included with an aim towards the design of interoperable and intelligent CPS architectures by researchers in future. The authors present hands on practical implementations, deployment scenarios, and use cases related to different transportation scenarios. In the end, the design and research challenges, open issues, and future research directions are provided. Presents application use cases of AI-based cyber physical systems (CPS) in urban transportation; Includes practical models, algorithms and implementations for AI solutions; Includes detailed implementation of intelligent algorithms along with evaluation results.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Garg, Sahil</contributor>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Aujla, Gagangeet Singh</contributor>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Kaur, Kuljeet</contributor>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Ahmed, Syed Hassan</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1292247959</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Sahil Garg, Gagangeet Singh Aujla, Kuljeet Kaur, Syed Hassan Ahmed Shah (editors)</responsible>
+            <publicationInfo>
+                <issued>2022</issued>
+                <publicationPlaces>
+                    <publicationPlace>Cham</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="CH" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Internet of things</title>
+                </journalInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Internet of things</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="10642064X" classificationName="bk">
+                    <code>55.84</code>
+                    <entries>
+                        <entry>Straßenverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106410288" classificationName="bk">
+                    <code>54.99</code>
+                    <entries>
+                        <entry>Informatik: Sonstiges</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106418696" classificationName="bk">
+                    <code>53.59</code>
+                    <entries>
+                        <entry>Elektronik: Sonstiges</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>inf</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4033447-8" type="gnd">
+                    <subject xml:lang="de">Künstliche Intelligenz</subject>
+                </subject>
+                <subject id="1069505412" type="gnd">
+                    <subject xml:lang="de">Cyber-physisches System</subject>
+                </subject>
+                <subject id="7714938-5" type="gnd">
+                    <subject xml:lang="de">Autonomes Fahrzeug</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

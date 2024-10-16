@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1670730980</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1670730980">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2019-08-07</databaseDate>
+            <changeDate>2022-03-22</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>1670730980</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1670730980</identifier>
+                <identifier type="doi">10.1117/3.2525400</identifier>
+                <identifier type="firstid">BVB:BV046037622</identifier>
+                <identifier type="isbn13">9781510627659</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://doi.org/10.1117/3.2525400</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3509001796</identifier>
+                    <recallSign>ACQ</recallSign>
+                    <recallSign>OLR-SPIE-ebooks</recallSign>
+                    <creationDate>2019-08-27</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (XVIII, 571 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Sensor and data fusion for intelligent transportation systems</title>
+            <abstracts>
+                <abstract xml:lang="de">Sensor and data fusion in traffic management -- Bayesian inference for traffic management -- Dempster-Shafer evidential reasoning for traffic management -- Kalman filtering for traffic management -- State of the practice and research gaps</abstract>
+                <abstract xml:lang="de">"Sensor and Data Fusion for Intelligent Transportation Systems introduces readers to the roles of the data fusion processes defined by the Joint Directors of Laboratories (JDL) data fusion model, data fusion algorithms, and noteworthy applications of data fusion to ITS. Additionally, the monograph offers detailed descriptions of three of the widely applied data fusion techniques and their relevance to ITS (namely, Bayesian inference, Dempster-Shafer evidential reasoning, and Kalman filtering), and indicates directions for future research in the area of data fusion. The focus is on data fusion algorithms rather than on sensor and data fusion architectures, although the book does summarize factors that influence the selection of a fusion architecture and several architecture frameworks"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Klein, Lawrence A.</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">173133002</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Lawrence A. Klein</responsible>
+            <publicationInfo>
+                <issued>2019</issued>
+                <publicationPlaces>
+                    <publicationPlace>Bellingham, Washington, USA</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>SPIE Press</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-50-SPI</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>PM / SPIE</title>
+                    <volumeNumber>305</volumeNumber>
+                </journalInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen</description>
+            <description>Campusweiter Zugriff (Universität Hannover). - Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Keine Weitergabe an Dritte. Kein systematisches Downloaden durch Robots.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Sensor and data fusion for intelligent transportation systems</title>
+                <identifier type="isbn13">9781510627642</identifier>
+                <identifier type="ppn">1664213910</identifier>
+                <identifier type="isbn">1510627642</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-50-SPI</identifier>
+            </related>
+            <related type="parent">
+                <title>PM / SPIE</title>
+                <volumeNumber>305</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>388.3/12</code>
+                </classification>
+                <classification classificationID="106420631" classificationName="bk">
+                    <code>55.80</code>
+                    <entries>
+                        <entry>Verkehrswesen, Transportwesen: Allgemeines</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Motor vehicles / Automatic control</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Traffic congestion</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Intelligent transportation systems</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Multisensor data fusion</subject>
+                </subject>
+                <subject id="4187817-6" type="gnd">
+                    <subject xml:lang="de">Verkehrsleitsystem</subject>
+                </subject>
+                <subject id="4582612-2" type="gnd">
+                    <subject xml:lang="de">Datenfusion</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Algorithms</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://doi.org/10.1117/3.2525400</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:820443174</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:820443174">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2015-03-17</databaseDate>
+            <changeDate>2022-01-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>820443174</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">820443174</identifier>
+                <identifier type="firstid">GBV:820443174</identifier>
+                <identifier type="isbn13">9780727759801</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/820443174.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1530961238</identifier>
+                    <creationDate>2016-09-21</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 16 B 291</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xiv, 396 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Accessibility and the bus system : transforming the world</title>
+            <alternativeTitles>
+                <alternative>Accessibility and the bus system - concepts into practice</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">'Accessibility and the Bus System' explores the role of the bus system in enabling cities to function sustainably and efficiently by providing the necessary resources to support growing populations. The book takes a comprehensive view of what buses can and cannot do, and how to maximise the bus system's positive contribution while minimising the negative impacts.--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Tyler, Nick</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Nick Tyler</responsible>
+            <publicationInfo>
+                <issued>2016</issued>
+                <edition>Second edition</edition>
+                <publicationPlaces>
+                    <publicationPlace>London</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>ice publishing, institution of civil engineers</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+                <publicationIDInfo>Vor dem Erscheinen auch angekündigt unter dem Titel: "Accessibility and the bus system - concepts into practice"</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>388.41322</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TA1225</code>
+                </classification>
+                <classification classificationID="106420658" classificationName="bk">
+                    <code>55.83</code>
+                    <entries>
+                        <entry>Stadtverkehr, Nahverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="181570637" classificationName="bk">
+                    <code>55.81</code>
+                    <entries>
+                        <entry>Personenverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Bus terminals</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Buses</subject>
+                </subject>
+                <subject id="4205632-9" type="gnd">
+                    <subject xml:lang="de">Behindertengerechte Gestaltung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Buses</subject>
+                </subject>
+                <subject id="4172577-3" type="gnd">
+                    <subject xml:lang="de">Omnibuslinienverkehr</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Barrier-free design</subject>
+                </subject>
+                <subject id="4158936-1" type="gnd">
+                    <subject xml:lang="de">Haltestelle</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Bus terminals</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Bus lines</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Bus lines</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

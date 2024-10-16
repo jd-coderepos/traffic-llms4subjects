@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:747182256</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:747182256">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2013-05-29</databaseDate>
+            <changeDate>2024-04-22</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>747182256</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">747182256</identifier>
+                <identifier type="contract">03574</identifier>
+                <identifier type="ean">9783613035744</identifier>
+                <identifier type="firstid">DNB:1034837214</identifier>
+                <identifier type="isbn">361303574X</identifier>
+                <identifier type="isbn13">9783613035744</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/747182256.pdf</location>
+                <location subtype="miscellaneous" type="url">http://cover.ekz.de/9783613035744.jpg</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1428293361</identifier>
+                    <creationDate>2014-06-24</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 13 B 6470</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-24</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">334 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Flug ohne Motor : das Lehrbuch für Segelflieger</title>
+            <abstracts>
+                <abstract xml:lang="de">Umfassendes Lehrbuch über Theorie und Praxis des Segelflugs. (LK/F: Langer-Weber)</abstract>
+                <abstract xml:lang="de">Neuausgabe (21. Auflage) des 1971 erstmals erschienenen Klassikers unter den Segelflug-Lehrbüchern (BA 11/03 und BA 6/09). Kassera, Autor, Lehrer und Ausbilder für Motor- und Segelflug, hat in der vorliegenden 21. Auflage seines bewährten Lehrbuchs Text und Grafik überarbeitet und aktualisiert. Das Buch bietet Flugschülern eine gut strukturierte Einführung in die Materie. Es enthält alles Wissenswerte über Aerodynamik und Technik des Fliegens, Flugzeugkunde, Meteorologie, Luftrecht und Flugsicherung sowie Navigation und Kartenkunde. Fluglehrern bietet das Werk eine Fülle an Material für den Unterricht. Derzeit aktuellster Titel zum Thema vor "Segelfliegen für Anfänger" (BA 11/06). Empfohlen für die genannte Zielgruppe, darüber hinaus auch für interessiertes Fachpublikum geeignet. (2) (LK/F: Langer-Weber)</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Kassera, Winfried</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Winfried Kassera</responsible>
+            <publicationInfo>
+                <issued>2013</issued>
+                <edition>1. Aufl. [=21. Aufl., überarb. u. aktualisierte Neuaufl.]</edition>
+                <publicationPlaces>
+                    <publicationPlace>Stuttgart</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Motorbuch-Verl.</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>25 cm</description>
+            <description>Ill., graph. Darst., Kt.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>797.55</code>
+                </classification>
+                <classification classificationID="181570769" classificationName="bk">
+                    <code>55.54</code>
+                    <entries>
+                        <entry>Flugführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>796</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Segelflugsport</subject>
+                </subject>
+                <subject id="4137680-8" type="gnd">
+                    <subject xml:lang="de">Segelflugsport</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

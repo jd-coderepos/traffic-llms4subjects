@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:60941271X</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:60941271X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2009-09-23</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>60941271X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">60941271X</identifier>
+                <identifier type="ean">9783839125571</identifier>
+                <identifier type="firstid">DNB:996715312</identifier>
+                <identifier type="isbn13">9783839125571</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="description" type="url">http://deposit.d-nb.de/cgi-bin/dokserv?id=3354266&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</location>
+                <location subtype="toc" type="url">http://d-nb.info/996715312/04</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1100749179</identifier>
+                    <creationDate>2009-12-09</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 09 B 8315</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">136 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Zukunft Elektroauto : die Geschichte der Elektrofahrzeuge von ihren Anfängen bis in die heutige Zeit</title>
+            <abstracts>
+                <abstract xml:lang="de">Verlagstext: In den letzten Jahrzehnten erlebte das Elektroauto einen neuen Aufschwung. Akkumulatoren mit höherer Speicherkapazität verhalfen den Elektrofahrzeugen zu mehr Leistung und einer akzeptablen Reichweite. Der steigende Ölpreis und die wirtschaftliche Rezession im letzten Jahr brachten die Automobilindustrie in Bedrängnis.Und so wird an der Entwicklung von neuen Batterien und deren Verbesserungen weltweit mit Hochdruck geforscht. Es wird ein Kampf der Herstellungskosten und die Besten werden das Rennen im Marktsegment "Elektrofahrzeug" machen. Das Buch gibt einen Überblick von den Anfängen der ersten batteriebetriebenen Kutschen bis hin zu den Hightech-Fahrzeugen unserer Zeit</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Battlogg, Elmar</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">136007465</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Elmar Battlogg</responsible>
+            <publicationInfo>
+                <issued>2009</issued>
+                <publicationPlaces>
+                    <publicationPlace>Norderstedt</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Books on Demand</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>210 mm x 148 mm, 206 gr.</description>
+            <description>zahlr. Ill</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4480</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="106418637" classificationName="bk">
+                    <code>53.33</code>
+                    <entries>
+                        <entry>Elektrische Maschinen und Antriebe</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4151795-7" type="gnd">
+                    <subject xml:lang="de">Elektrofahrzeug</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Elektrofahrzeug*Elektromobil</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:362850496</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:362850496">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2003-04-30</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>362850496</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">362850496</identifier>
+                <identifier type="contract">50NA9913</identifier>
+                <identifier type="firstid">GBV:362850496</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">599842997</identifier>
+                    <creationDate>2003-04-30</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">F 03 B 355</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">75 Bl</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Navigationsunterstützung durch integrierte Kommunikation - (Navigation Support by Integrated Communication) : NACOM ; Schlussbericht ; Berichtszeitraum: 01.06.1999 - 30.06.2002</title>
+            <alternativeTitles>
+                <alternative>Navigation support by integrated communication</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Self organised co-ordination systems, AIS, ECIDOS, de-central architecture, master-slave-structure, satellite based communication system, navigation</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Schiffahrtsinstitut Warnemünde</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2176964-3</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor>
+                    <contributor>Müller, Reinhard</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Zölder, Anke</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Schiffahrtsinstitut Warnemünde e.V. an der Hochschule Wismar. Projektleiter: Reinhard Müller. Unter Mitarb. von: Anke Zölder ...</responsible>
+            <publicationInfo>
+                <issued>2002</issued>
+                <publicationPlaces>
+                    <publicationPlace>Wismar</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Förderkennzeichen BMBF 50NA9913. - Engl. Zsfassung u.d.T.: Navigation support by integrated communication</publicationIDInfo>
+                <publicationIDInfo>Unterschiede zwischen dem gedruckten Dokument und der elektronischen Dokumentenversion können nicht ausgeschlossen werden</publicationIDInfo>
+                <publicationIDInfo>Auch als elektronische Ressource vorh</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="181569973" classificationName="bk">
+                    <code>55.44</code>
+                    <entries>
+                        <entry>Schiffsführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4202846-2" type="gnd">
+                    <subject xml:lang="de">Satellitennavigation</subject>
+                </subject>
+                <subject id="4690490-6" type="gnd">
+                    <subject xml:lang="de">Assistenzsystem</subject>
+                </subject>
+                <subject id="4179589-1" type="gnd">
+                    <subject xml:lang="de">Schiffsnavigation</subject>
+                </subject>
+                <subject id="4206098-9" type="gnd">
+                    <subject xml:lang="de">Automatische Identifikation</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

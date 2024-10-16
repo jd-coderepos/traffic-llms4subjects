@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:625996364</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:625996364">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2009-04-08</databaseDate>
+            <changeDate>2022-08-06</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>625996364</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">625996364</identifier>
+                <identifier type="doi">10.1787/9789282113295-en</identifier>
+                <identifier type="firstid">HBZ:HF000000358</identifier>
+                <identifier type="isbn13">9789282113295</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://doi.org/10.1787/9789282113295-en</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1445265338</identifier>
+                    <recallSign>OLR-OECD</recallSign>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2013-11-13</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online-Ressource (21 p)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Improving Access to Public Transport : Guidelines for Transport Personnel</title>
+            <abstracts>
+                <abstract xml:lang="de">These guidelines are designed to encourage understanding of the specific problems experienced by disabled and older passengers when using the transport system, and to provide guidance on how best to respond to their needs. Accessible, user-friendly transport means that disabled and older people can use the transport system without hindrance to participate in society on an equal basis without losing their independence. Whilst much progress has been made in all modes of transport to make travel easier and more pleasant for all passengers, it is the attitude and skill of the driver, captain, pilot, etc. that can make the difference between a pleasant and safe journey for a disabled or older person and one that is fraught with worry, frustration or confusion.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>OECD</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">5157-3</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+                <corporateCreator>
+                    <name>European Conference of Ministers of Transport</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2009614-8</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <responsible>European Conference of Ministers of Transport</responsible>
+            <publicationInfo>
+                <issued>2006</issued>
+                <publicationPlaces>
+                    <publicationPlace>Paris</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="FR" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>OECD Publishing and European Conference of Ministers of Transport</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-13-SOC</identifier>
+                    <identifier type="collectioncode">ZDB-13-SOC-ebook</identifier>
+                </isPartOf>
+            </additionalDocumentInfo>
+            <description>Campusweiter Zugriff (Universität Hannover) - Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Keine Weitergabe an Dritte. Kein systematisches Downloaden durch Robots.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-13-SOC</identifier>
+                <identifier type="collectioncode">ZDB-13-SOC-ebook</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationModel="tib-linsearch-fasttext:2024-04-16" classificationName="linsearch" classificationProcedure="automatic">
+                    <code confidence="0.40927931666374207">ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Transport</subject>
+                </subject>
+                <subject id="4172391-0" type="gnd">
+                    <subject xml:lang="de">Öffentliches Verkehrsmittel</subject>
+                </subject>
+                <subject id="4205632-9" type="gnd">
+                    <subject xml:lang="de">Behindertengerechte Gestaltung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://doi.org/10.1787/9789282113295-en</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

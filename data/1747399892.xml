@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1747399892</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1747399892">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2021-02-04</databaseDate>
+            <changeDate>2022-01-26</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>1747399892</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1747399892</identifier>
+                <identifier type="doi">10.1117/3.2536927</identifier>
+                <identifier type="firstid">KXP:1747399892</identifier>
+                <identifier type="isbn13">9781510629912</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://doi.org/10.1117/3.2536927</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4021752579</identifier>
+                    <recallSign>ACQ</recallSign>
+                    <recallSign>OLR-SPIE-ebooks</recallSign>
+                    <creationDate>2021-12-17</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online-Ressource (xiii, 165 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>An introduction to interpretation of graphic images</title>
+            <abstracts>
+                <abstract xml:lang="de">The image analysis community has put much effort into developing systems for the automatic reading of various types of documents containing text, graphic information, and pictures. A closely related but much more problematic task is the reading and interpretation of line drawings such as maps, engineering drawings, and diagrams. This book considers the problem in detail, analyzes its theoretical foundations, and analyzes existing approaches and systems</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="publisher">
+                    <type>publisher</type>
+                    <name>Society of Photo-Optical Instrumentation Engineers</name>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Ablamejko, Sergej Vladimirovič</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">115473068</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Sergey Ablameyko (Institute of Engineering Cybernetics, Belarussian Academy of Sciences)</responsible>
+            <publicationInfo>
+                <issued>1997</issued>
+                <publicationPlaces>
+                    <publicationPlace>Bellingham</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>SPIE Optical Engineering Press</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-50-SPI</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>Tutorial texts in optical engineering</title>
+                    <volumeNumber>volume TT27</volumeNumber>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Karten</description>
+            <description>Campusweiter Zugriff (Universität Hannover) - Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Keine Weitergabe an Dritte. Kein systematisches Downloaden durch Robots.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>An Introduction to interpretation of graphic images</title>
+                <identifier type="ppn">228285275</identifier>
+                <identifier type="isbn">0819423807</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-50-SPI</identifier>
+            </related>
+            <related type="parent">
+                <title>Tutorial texts in optical engineering</title>
+                <volumeNumber>volume TT27</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>621.36/7</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TA1637</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Optical pattern recognition</subject>
+                </subject>
+                <subject id="4310936-6" type="gnd">
+                    <subject xml:lang="de">Optische Zeichenerkennung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Image processing</subject>
+                </subject>
+                <subject id="4006684-8" type="gnd">
+                    <subject xml:lang="de">Bildverarbeitung</subject>
+                </subject>
+                <subject id="4011152-0" type="gnd">
+                    <subject xml:lang="de">Datenverarbeitung</subject>
+                </subject>
+                <subject id="4264283-8" type="gnd">
+                    <subject xml:lang="de">Bilderkennung</subject>
+                </subject>
+                <subject id="4040936-3" type="gnd">
+                    <subject xml:lang="de">Mustererkennung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Drawing</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://doi.org/10.1117/3.2536927</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

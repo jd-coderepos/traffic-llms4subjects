@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:766405338</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:766405338">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2013-08-27</databaseDate>
+            <changeDate>2022-10-17</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>766405338</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">766405338</identifier>
+                <identifier type="firstid">OBV:AC11007245</identifier>
+                <identifier type="isbn13">9780080994253</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/ilmenau/toc/766405338.PDF</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">163668260X</identifier>
+                    <creationDate>2017-03-17</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 16 B 3579</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xxv, 741 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>The multibody systems approach to vehicle dynamics</title>
+            <abstracts>
+                <abstract xml:lang="de">Literaturverzeichnis: Seite 721-728</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Blundell, Michael</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1060702169</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Harty, Damian</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Mike Blundell, Damian Harty (Faculty of Engineering and Computing, Coventry University, Coventry, UK)</responsible>
+            <publicationInfo>
+                <issued>2015</issued>
+                <edition>Second edition</edition>
+                <publicationPlaces>
+                    <publicationPlace>Amsterdam , Boston</publicationPlace>
+                    <publicationPlace>Heidelberg</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="NL" />
+                    <publicationCountry code="US" />
+                    <publicationCountry code="DE" />
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>BH, Butterworth-Heinemann, an imprint of Elsevier</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>TL243</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4200</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="181571161" classificationName="bk">
+                    <code>50.32</code>
+                    <entries>
+                        <entry>Dynamik, Schwingungslehre</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.2/31</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4215</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4016278-3" type="gnd">
+                    <subject xml:lang="de">Fahrdynamik</subject>
+                </subject>
+                <subject id="4038390-8" type="gnd">
+                    <subject xml:lang="de">Mehrkörpersystem</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Motor vehicles</subject>
+                </subject>
+                <subject id="4148259-1" type="gnd">
+                    <subject xml:lang="de">Computersimulation</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

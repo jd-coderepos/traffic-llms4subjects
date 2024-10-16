@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:390318590</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:390318590">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2004-07-07</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>390318590</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">390318590</identifier>
+                <identifier type="ean">9783782209076</identifier>
+                <identifier type="firstid">DNB:971630968</identifier>
+                <identifier type="isbn">3782209079</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">661337812</identifier>
+                    <creationDate>2004-10-08</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">T 04 B 5860</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">152 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Deutsche Containerschiffe : eine illustrierte Flottenliste der Containerschiffe im deutschen Management</title>
+            <abstracts>
+                <abstract xml:lang="de">Klappentext: Die illustrierte aktuelle Flottenliste versammelt erstmalig detailgenaue Abbildungen der zur Zeit betriebenen deutschen Containerschiffe. In über 250 Federzeichnungen im Maßstab 1:1250 werden die unterschiedlichen Typschiffe präsentiert. Eine Schiffsliste mit statistischen Angaben ermöglicht dabei das gezielte Auffinden von Informationen.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Krüger-Kopiske, Karsten Kunibert</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">124658989</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Karsten Kunibert Krüger-Kopiske</responsible>
+            <publicationInfo>
+                <issued>2004</issued>
+                <edition>Stand Frühjahr 2004</edition>
+                <publicationPlaces>
+                    <publicationPlace>Hamburg</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Koehlers Verlagsgesellschaft mbH</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>25 x 30 cm</description>
+            <description>Illustrationen</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>ZO 6460</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>380</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>HE566.C6</code>
+                </classification>
+                <classification classificationID="106413805" classificationName="bk">
+                    <code>55.41</code>
+                    <entries>
+                        <entry>Schiffe</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>380</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Ship registers</subject>
+                </subject>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte 2004</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Container ships</subject>
+                </subject>
+                <subject id="4113241-5" type="gnd">
+                    <subject xml:lang="de">Containerschiff</subject>
+                </subject>
+                <subject id="4364048-5" type="gnd">
+                    <subject xml:lang="de">Reederei</subject>
+                </subject>
+                <subject id="4011882-4" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Deutschland</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

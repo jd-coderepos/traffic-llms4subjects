@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1804368946</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1804368946">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2022-05-25</databaseDate>
+            <changeDate>2023-11-30</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1804368946</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1804368946</identifier>
+                <identifier type="firstid">KXP:1804368946</identifier>
+                <identifier type="isbn13">9783030973063</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1804368946.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4169952006</identifier>
+                    <creationDate>2023-06-14</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 22 B 3378</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xiv, 148 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Next generation marine wireless communication networks</title>
+            <abstracts>
+                <abstract xml:lang="de">Introduction -- Overview of Marine Wireless Communication Networks (MWCNs) -- Topology Optimization of Marine Wireless Networks -- Autoencoder with Channel Estimation for Marine Communications -- Enabling Sustainable Underwater IoT Networks with Energy Harvesting -- Learning based Opportunistic Routing for Marine Wireless Sensor Networks -- Future research directions -- Conclusion.</abstract>
+                <abstract xml:lang="de">This book presents a novel framework design for the next generation Marine Wireless Communication Networks (MWCNs). The authors first provide an overview of MWCNs, followed by a discussion of challenges in the design and development of MWCNs in support of a diversity of marine services such as real-time marine monitoring, offshore oil exploration, drilling, marine tourism and fishing. The authors then propose cross layer networking solutions to achieve a high performance modern MWCN that enables efficient and reliable data transmissions under hostile marine environment, which include the network deployment, the physical layer channel coding, intelligent network access and resource management, and learning-based opportunistic routing. Finally, the authors summarize the book and present some open issues that will lead to new research directions in the next generation MWCNs. Presents a comprehensive survey on existing marine wireless communication networks (MWCNs) and marine applications; Provides a thorough review of key technologies and their potential development prospects in MWCNs; Proposes networking solutions for high performance MWCNs, namely optimal topology management, the physical layer channel coding, intelligent network access and resource management, and learning-based opportunistic routing.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Lin, Bin</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Duan, Jianli</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Han, Mengqi</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Cai, Lin X.</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Bin Lin, Jianli Duan, Mengqi Han, Lin X. Cai</responsible>
+            <publicationInfo>
+                <issued>2022</issued>
+                <publicationPlaces>
+                    <publicationPlace>Cham</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="CH" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Wireless Networks</title>
+                </journalInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Wireless Networks</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106421832" classificationName="bk">
+                    <code>55.86</code>
+                    <entries>
+                        <entry>Schiffsverkehr, Schifffahrt</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106417665" classificationName="bk">
+                    <code>53.74</code>
+                    <entries>
+                        <entry>Hochfrequenztechnik, Funktechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>621.382</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Underwater acoustics.</subject>
+                </subject>
+                <subject id="4116383-7" type="gnd">
+                    <subject xml:lang="de">Schifffahrt</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Oceanography.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Telecommunication.</subject>
+                </subject>
+                <subject id="4018908-9" type="gnd">
+                    <subject xml:lang="de">Funktechnik</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

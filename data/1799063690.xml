@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1799063690</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1799063690">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2022-04-11</databaseDate>
+            <changeDate>2023-08-12</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1799063690</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1799063690</identifier>
+                <identifier type="firstid">KXP:1799063690</identifier>
+                <identifier type="isbn13">9789811680076</identifier>
+                <identifier type="isbn13">9789811680090</identifier>
+                <identifier type="isbn13">9789811680106</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1799063690.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4116189782</identifier>
+                    <creationDate>2023-02-13</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 22 B 1895</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xxii, 217 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Travel behavior characteristics analysis technology based on mobile phone location data : methodology and empirical research</title>
+            <abstracts>
+                <abstract xml:lang="de">This book is devoted to the technology and methodology of individual travel behavior analysis and refined travel information extraction. Traditional resident trip surveys are characterized by many shortcomings, such as subjective memory errors, difficulty in organization and high cost. Therefore, in this book, a set of refined extraction and analysis techniques for individual travel activities is proposed. It provides a solid foundation for the optimization and reconstruction of traffic theoretical models, urban traffic planning, management and decision-making. This book helps traffic engineering researchers, traffic engineering technicians and traffic industry managers understand the difficulties and challenges faced by transportation big data. Additionally, it helps them adapt to changes in traffic demand and the technological environment to achieve theoretical innovation and technological reform.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Yang, Fei</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Yao, Zhenxing</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Fei Yang, Zhenxing Yao</responsible>
+            <publicationInfo>
+                <issued>2022</issued>
+                <publicationPlaces>
+                    <publicationPlace>Singapore</publicationPlace>
+                    <publicationPlace>[Shanghai]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="SG" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer Singapore</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>300.00285</code>
+                </classification>
+                <classification classificationID="106420631" classificationName="bk">
+                    <code>55.80</code>
+                    <entries>
+                        <entry>Verkehrswesen, Transportwesen: Allgemeines</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106414097" classificationName="bk">
+                    <code>70.03</code>
+                    <entries>
+                        <entry>Methoden, Techniken und Organisation der sozialwissenschaftlichen Forschung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>sow</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4155272-6" type="gnd">
+                    <subject xml:lang="de">Datenerhebung</subject>
+                </subject>
+                <subject id="4802620-7" type="gnd">
+                    <subject xml:lang="de">Big Data</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Social sciences—Data processing.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Sociology—Methodology.</subject>
+                </subject>
+                <subject id="4229526-9" type="gnd">
+                    <subject xml:lang="de">Reiseverhalten</subject>
+                </subject>
+                <subject id="4170280-3" type="gnd">
+                    <subject xml:lang="de">Mobilfunk</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Quantitative research.</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

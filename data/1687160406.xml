@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1687160406</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1687160406">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2020-01-13</databaseDate>
+            <changeDate>2024-05-10</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1687160406</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1687160406</identifier>
+                <identifier type="firstid">KXP:1687160406</identifier>
+                <identifier type="isbn13">9783892207153</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1687160406.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3597872719</identifier>
+                    <creationDate>2020-02-24</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">RA 489(715)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-18</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">XX, 160 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Modellierung von Abgasturboladern zur Berechnung des dynamischen Verhaltens von Schiffsmotoren</title>
+            <abstracts>
+                <abstract xml:lang="de">Im Rahmen dieser Arbeit wird ein Simulationsmodell für die stationäre und dynamische Simulation von Abgasturboladern für Großmotoren entwickelt. Hierbei wird ein physikalischer Ansatz auf Basis der Stromfadentheorie verfolgt und durch die Entwicklung und Implementierung verschiedener Verlustmodelle erweitert. Durch das Modell kann das Betriebsverhalten von Radialverdichtern und Radial- sowie Axialturbinen prognostiziert werden. Weiterhin kann das entwickelte Modell dazu genutzt werden, Verdichter- und Turbinenkennfelder auf Basis einfacher Geometrieparameter zu erzeugen. Hierbei werden die Pump- und die Stopfgrenze in guter Näherung rechnerisch ermittelt. Im Rahmen einer ausführlichen Validierung wird die Qualität der Simulationsergebnisse dargestellt und diskutiert. Für die Validierung stehen sowohl die benötigten Geometrieparameter als auch die Verdichter- und Turbinenkennfelder für insgesamt drei verschiedene Abgasturbolader von zwei unterschiedlichen Herstellern zur Verfügung. Weiterhin konnten die Qualität und Quantität der Berechnung des dynamischen Verhaltens aufgezeigt werden. Hierzu wird auf gemessene bzw. mit Hilfe eines kalibrierten Modells erzeugte Datensätze von zwei unterschiedlichen Turboladerherstellern zurückgegriffen. Mit Hilfe des Simulationsmodells können in kurzer Zeit Verdichter- und Turbinenkennfelder mit einer für die Vorauslegung ausreichenden Genauigkeit abgebildet werden. Die Abweichungen von den zur Validierung herangezogenen Vergleichswerten liegt in weiten Teilen im einstelligen Prozentbereich. Hierbei treten die größten Unsicherheiten bei der exakten Bestimmung der Pumpgrenze auf. Die Validierung des Simulationsmodells für die dynamische Simulation zeigt, dass das Modell geeignet ist, um die Maschinendynamik im Rahmen einer Gesamtsystemsimulation abzubilden. Die größten Abweichungen zu den Validierungsdaten betragen selten mehr als 10 %. Diese treten insbesondere bei der Berechnung der Drehzahl und des Verdichtermassenstroms im Schwachlastbereich auf. Für die Weiterentwicklung des Modells wird empfohlen, den Ansatz zur Erfassung der Pumpgrenze weiterzuentwickeln, um die Genauigkeit der Berechnungen weiter zu erhöhen. Weiterhin wäre es wünschenswert, die aerodynamische Verblockung durch die Strömung und die Mischungsverluste betriebspunktabhängig zu erfassen. Hierzu müsste ein Zwei-Zonen-Modell auf Basis der Grenzschichttheorie erstellt werden, welches die Strömung innerhalb des Laufrades in eine Haupt- und eine Nebenströmung unterteilt und die Teilströmungen nach Verlassen des Laufrades wieder vereinigt.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="degree-granting-institution">
+                    <type>degree-granting-institution</type>
+                    <name>Technische Universität Hamburg</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">1112763473</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+                <corporateCreator type="issuing-body">
+                    <type>issuing-body</type>
+                    <name>Hamburg</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">4023118-5</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+                <corporateCreator>
+                    <name>Technische Universität Hamburg</name>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Panten, Thilo</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1205515682</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Wirz, Friedrich</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">143847872</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Krüger, Stefan</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">140779663</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>vonThilo Panten, M.Sc. ; Erstgutachter: Prof. Dr.-Ing. Friedrich Wirz, Zweitgutachter: Prof. Dr.-Ing. Stefan Krüger</responsible>
+            <publicationInfo>
+                <issued>2019</issued>
+                <publicationPlaces>
+                    <publicationPlace>Hamburg</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Technische Universität Hamburg</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Schriftenreihe Schiffbau</title>
+                    <volumeNumber>715 (November 2019)</volumeNumber>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2019</dateAccepted>
+                        <description>Dissertation, Technische Universität Hamburg</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+                <publicationIDInfo>Literaturverzeichnis: Seite 151-160</publicationIDInfo>
+                <publicationIDInfo>Sonstige Körperschaft: Technische Universität Hamburg, Arbeitsgruppe Schiffsmaschinenbau</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Diagramme, Illustrationen</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Schriftenreihe Schiffbau</title>
+                <volumeNumber>715 (November 2019)</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420577" classificationName="bk">
+                    <code>55.40</code>
+                    <entries>
+                        <entry>Schiffstechnik, Schiffbau</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="181571455" classificationName="bk">
+                    <code>50.03</code>
+                    <entries>
+                        <entry>Methoden und Techniken der Ingenieurwissenschaften</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106419900" classificationName="bk">
+                    <code>52.38</code>
+                    <entries>
+                        <entry>Arbeitsmaschinen</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mat</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mas</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4055072-2" type="gnd">
+                    <subject xml:lang="de">Simulation</subject>
+                </subject>
+                <subject id="4130692-2" type="gnd">
+                    <subject xml:lang="de">Maschinendynamik</subject>
+                </subject>
+                <subject id="4219700-4" type="gnd">
+                    <subject xml:lang="de">Schiffsmotor</subject>
+                </subject>
+                <subject id="4141045-2" type="gnd">
+                    <subject xml:lang="de">Abgasturbolader</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

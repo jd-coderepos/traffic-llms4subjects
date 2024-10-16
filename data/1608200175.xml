@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1608200175</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1608200175">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2011-02-18</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>1608200175</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1608200175</identifier>
+                <identifier type="ean">9781849192590</identifier>
+                <identifier type="firstid">BSZ:337657262</identifier>
+                <identifier type="isbn13">9781849192590</identifier>
+                <identifier type="isbn">1849192596</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="biographical-note" type="url">http://www.loc.gov/catdir/enhancements/fy1215/2011514793-b.html</location>
+                <location subtype="toc" type="url">http://www.loc.gov/catdir/enhancements/fy1215/2011514793-t.html</location>
+                <location subtype="miscellaneous" type="url">http://www.loc.gov/catdir/enhancements/fy1215/2011514793-d.html</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1677064374</identifier>
+                    <creationDate>2017-04-12</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RN 5170(74)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XV, 285 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Eigenstructure control algorithms : applications to aircraft/rotorcraft handling qualities design</title>
+            <abstracts>
+                <abstract xml:lang="de">This book demonstrates that eigenstructure control theory can be easily adapted and infused into aircraft industry's stringent design practices. Thus practicing flight control engineers will find it useful to explore the use of the new design concepts discussed in the book</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Srinathkumar, S.</contributor>
+                </contributor>
+            </contributors>
+            <responsible>S. Srinathkumar</responsible>
+            <publicationInfo>
+                <issued>2011</issued>
+                <edition>1. publ.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Stevenage</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Institution of Engineering and Technology</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Control engineering series</title>
+                    <volumeNumber>74</volumeNumber>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>24 cm</description>
+            <description>graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>Eigenstructure control algorithms</title>
+                <identifier type="isbn13">9781849192606</identifier>
+                <identifier type="ppn">165212439X</identifier>
+            </related>
+            <related type="parent">
+                <title>Control engineering series</title>
+                <volumeNumber>74</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>TL589.4</code>
+                </classification>
+                <classification classificationID="106421344" classificationName="bk">
+                    <code>50.23</code>
+                    <entries>
+                        <entry>Regelungstechnik, Steuerungstechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 7250</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.1326</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Flight control</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Mathematical models</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Automatic pilot (Airplanes)</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Flight control</subject>
+                </subject>
+                <subject id="4001183-5" type="gnd">
+                    <subject xml:lang="de">Algorithmus</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Eigenvalues</subject>
+                </subject>
+                <subject id="4328094-8" type="gnd">
+                    <subject xml:lang="de">Flugregelung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

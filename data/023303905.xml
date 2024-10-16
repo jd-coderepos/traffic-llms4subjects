@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:023303905</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:023303905">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1971-01-01</databaseDate>
+            <changeDate>2024-03-01</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>023303905</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">023303905</identifier>
+                <identifier type="firstid">GBV:023303905</identifier>
+                <identifier type="isbn">3881180389</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">190539518</identifier>
+                    <creationDate>1996-07-03</creationDate>
+                    <selectionKey>r</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">AC 3941</location>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">326 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Stadtverkehr und Umweltschutz : Kosten-Nutzen-Untersuchungen, insbesondere zur Lärmminderung, am Beispiel der Stadt Hannover</title>
+            <abstracts>
+                <abstract xml:lang="de">Die Studie untersucht für einen Teil des Stadtgebiets Hannovers für sämtliche Straßen die Höhe des Lärmpegels, die Art der Straßenrandnutzung und die Zahl der betroffenen Anwohner. Es werden verschiedene Maßnahmen zur Minderung des Straßenverkehrslärms einschließlich ihrer zeitlichen, städtebaulichen und finanziellen Realisierbarkeit untersucht. Die Arbeit schließt mit Folgerungen für die Umwelt- und Verkehrspolitik, insbesondere mit Vorschlägen für die bevorstehenden gesetzlichen Regelungen für den Lärmschutz beim Bau von Straßen- und Schienenwegen.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="issuing-body">
+                    <type>issuing-body</type>
+                    <name>Deutsches Institut für Urbanistik</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">5028175-6</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Apel, Dieter</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">171493346</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Schwarzer, Gabriele</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Dieter Apel, Gabriele Schwarzer</responsible>
+            <publicationInfo>
+                <issued>1977</issued>
+                <publicationPlaces>
+                    <publicationPlace>Berlin</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Dt. Institut für Urbanistik</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Literaturverzeichnis: Seite 319-326</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>8°</description>
+            <description>Illustrationen, Diagramme, Karten</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="10642064X" classificationName="bk">
+                    <code>55.84</code>
+                    <entries>
+                        <entry>Straßenverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loksys">
+                    <code>wir 233.8</code>
+                </classification>
+                <classification classificationName="loksys">
+                    <code>rau 610</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>RC 85765</code>
+                </classification>
+                <classification classificationName="loksys">
+                    <code>rau 595</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>HE363.G34</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>21a</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4032589-1" type="gnd">
+                    <subject xml:lang="de">Kosten-Nutzen-Analyse</subject>
+                </subject>
+                <subject id="4057931-1" type="gnd">
+                    <subject xml:lang="de">Straßenverkehr</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">City traffic</subject>
+                </subject>
+                <subject id="4023349-2" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Hannover</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Traffic noise</subject>
+                </subject>
+                <subject id="4034054-5" type="gnd">
+                    <subject xml:lang="de">Lärmschutz</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

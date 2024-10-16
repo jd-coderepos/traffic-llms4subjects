@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:626004977</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:626004977">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2010-05-12</databaseDate>
+            <changeDate>2024-04-10</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>626004977</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">626004977</identifier>
+                <identifier type="doi">10.1787/9789264103245-en</identifier>
+                <identifier type="firstid">HBZ:HF000002343</identifier>
+                <identifier type="isbn13">9789264103221</identifier>
+                <identifier type="isbn13">9789264103245</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">http://dx.doi.org/10.1787/9789264103245-en</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1445272490</identifier>
+                    <recallSign>OLR-OECD</recallSign>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2013-11-13</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online-Ressource (99 p.)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Road Safety : Impact of New Technologies</title>
+            <abstracts>
+                <abstract xml:lang="de">Every day, thousands are injured and almost 350 people are killed on the roads of OECD countries. Although new technologies -- including intelligent speed adaptation and collision avoidance systems -- are being developed and could significantly reduce this toll by as much as 40%, considerable challenges need to be overcome in order to achieve these benefits</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>OECD</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">5157-3</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <publicationInfo>
+                <issued>2003</issued>
+                <publicationPlaces>
+                    <publicationPlace>Paris</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="FR" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>OECD Publishing</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">H-ZDB-13-SOC</identifier>
+                    <identifier type="collectioncode">H-ZDB-13-SOC-ebook</identifier>
+                </isPartOf>
+                <publicationIDInfo>Description based upon print version of record</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Campusweiter Zugriff (Universität Hannover) - Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Keine Weitergabe an Dritte. Kein systematisches Downloaden durch Robots.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">H-ZDB-13-SOC</identifier>
+                <identifier type="collectioncode">H-ZDB-13-SOC-ebook</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>614.8605</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4870</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TE228.3</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4062962-4" type="gnd">
+                    <subject xml:lang="de">Verkehrssicherheit</subject>
+                </subject>
+                <subject id="4194462-8" type="gnd">
+                    <subject xml:lang="de">Neue Technologie</subject>
+                </subject>
+                <subject id="4006340-9" type="gnd">
+                    <subject xml:lang="de">Bewertung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Electronic books</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://dx.doi.org/10.1787/9789264103245-en</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:507545478</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:507545478">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2006-02-15</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>507545478</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">507545478</identifier>
+                <identifier type="firstid">DNB:978291816</identifier>
+                <identifier type="isbn">3899594274</identifier>
+                <identifier type="isbn13">9783899594270</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/ilmenau/toc/507545478.PDF</location>
+                <location subtype="description" type="url">http://www.gbv.de/dms/ilmenau/abs/507545478hahn.txt</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">76102493X</identifier>
+                    <creationDate>2006-04-05</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RB 1223(8)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XXVII, 121 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Entwicklung eines Modells zur Beurteilung von Detektionsreichweiten von Infrarot-Kamerasystemen</title>
+            <abstracts>
+                <abstract xml:lang="de">Fahrerassistenzsysteme gewinnen in der Automobilindustrie zunehmend an Bedeutung für den Komfort des Fahrers und die Verbesserung der Verkehrssicherheit. Die dabei für den Fahrer wichtigste Größe stellt  die Sichtbedingung dar. Gerade bei eingeschränkten Sichtbedingungen durch Dunkelheit und/oder Nebel steigt das Unfallrisiko überproportional an. Nachtsichtsysteme liefern hier dem Fahrer zusätzliche Informationen durch die Nutzung des mittleren und fernen infraroten Spektralbereiches. Während bei Nacht und klarer Atmosphäre durch eine Infrarotkamera Informationen aus der Fahrumgebung jenseits des Ausleuchtungsbereiches von Autoscheinwerfer gewonnen werden können, ist die Reichweite von Infrarot-Kamerasystemen bei dichtem Nebel bisher nicht bekannt. - Diese Arbeit beschreibt ein Modell zur Bestimmung der Reichweiten von Infrarot-Kamerasystemen, das sich an das Modell der Normsichtweite anlehnt. Eine wesentliche Komponente dieses Modells besteht in einem für Infrarotanwendungen geeignetem Sichtziel. Unter Verwendung dieses Modells wurden die Kamerareichweiten von Kamerasystemen des mittleren und fernen Infrarot bei dichtem Nebel mit Normsichtweiten kleiner 500 m betrachtet. Diese Reichweiten wurden mit visuellen Sichtweiten von kontrastgleichen Objekten verglichen.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Hahn, Wolfgang</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Gall, Dietrich</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">107229641</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Kokoschka, Siegfried</contributor>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Reichart, Günter</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Wolfgang Hahn</responsible>
+            <publicationInfo>
+                <issued>2006</issued>
+                <publicationPlaces>
+                    <publicationPlace>Tönning [u.a.]</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Der Andere Verl.</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Publikationsreihe des Fachgebietes Lichttechnik in Ilmenau</title>
+                    <volumeNumber>8</volumeNumber>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Zugl.: Ilmenau, Techn. Univ., Diss., 2005</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>21 cm</description>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Publikationsreihe des Fachgebietes Lichttechnik in Ilmenau</title>
+                <volumeNumber>8</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106421352" classificationName="bk">
+                    <code>50.37</code>
+                    <entries>
+                        <entry>Technische Optik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4620</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="181570424" classificationName="bk">
+                    <code>55.24</code>
+                    <entries>
+                        <entry>Fahrzeugführung, Fahrtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4313197-9" type="gnd">
+                    <subject xml:lang="de">Nachtsichtgerät</subject>
+                </subject>
+                <subject id="4181179-3" type="gnd">
+                    <subject xml:lang="de">Sichtweite</subject>
+                </subject>
+                <subject id="4581632-3" type="gnd">
+                    <subject xml:lang="de">Infrarotkamera</subject>
+                </subject>
+                <subject id="4049187-0" type="gnd">
+                    <subject xml:lang="de">Reichweite</subject>
+                </subject>
+                <subject id="4041483-8" type="gnd">
+                    <subject xml:lang="de">Nebel</subject>
+                </subject>
+                <subject id="4622983-8" type="gnd">
+                    <subject xml:lang="de">Fahrerassistenzsystem</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

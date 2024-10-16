@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:348475144</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:348475144">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2002-05-30</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>348475144</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">348475144</identifier>
+                <identifier type="contract">20W9703</identifier>
+                <identifier type="contract">20W9703A</identifier>
+                <identifier type="contract">TN-TXF-077-99</identifier>
+                <identifier type="firstid">GBV:348475144</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">556981359</identifier>
+                    <creationDate>2002-07-30</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">F 02 B 590</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">329 Bl</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>CFK-Tragflügel - Megaliner Außenflügel : Konzepte und Dimensionierungsfähigkeit höchstbelasteter CFK-Flügel-Konstruktionen ; Abschlußbericht ; 01.09.1997 bis 30.09.1999</title>
+            <alternativeTitles>
+                <alternative>Megaliner outer wing, design concepts and dimensioning ability for highest loaded CFRP designs</alternative>
+                <alternative>Megaliner Außenflügel : Konzepte und Dimensionierungsfähigkeit höchstbelasteter CFK-Flügel-Konstruktionen</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Composite, wing box, structural concepts, design rules, materials, processes, aerolastic tailoring</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>DaimlerChrysler Aerospace Airbus GmbH, Hamburg</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">10084228-8</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor>
+                    <contributor>Becker, Horst</contributor>
+                </contributor>
+            </contributors>
+            <responsible>[Durchführende Institution: DaimlerCrysler Aerospace Airbus GmbH.] [Projektleitung: Horst Becker]</responsible>
+            <publicationInfo>
+                <issued>1999</issued>
+                <publicationPlaces>
+                    <publicationPlace>Hamburg</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>DASA-Airbus Wing Team</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Förderkennzeichen BMWi 20W9703 A. - Engl. Zsfassung u.d.T.: Megaliner outer wing, design concepts and dimensioning ability for highest loaded CFRP designs</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="sigle">
+                    <code>01C</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4060582-6" type="gnd">
+                    <subject xml:lang="de">Tragflügel</subject>
+                </subject>
+                <subject id="4164540-6" type="gnd">
+                    <subject xml:lang="de">Kohlenstofffaserverstärkter Kunststoff</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

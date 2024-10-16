@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:343262223</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:343262223">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2002-03-07</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>343262223</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">343262223</identifier>
+                <identifier type="contract">50OY98020</identifier>
+                <identifier type="contract">50OY9802</identifier>
+                <identifier type="contract">500Y9802</identifier>
+                <identifier type="contract">500Y98020</identifier>
+                <identifier type="firstid">GBV:343262223</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">549001875</identifier>
+                    <creationDate>2002-06-19</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">F 02 B 210</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">21 Bl</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Abschlussbericht zum F &amp; E-Vorhaben: "Untersuchungen zu hochempfindlichen SQUID-Positionsdetektoren für die Mission STEP und Durchführung experimenteller Tests am Fallturm Bremen", Kurztitel: "SQUID-Positionsdetektor für STEP" ; (Förderzeitraum: 01.10.1998 - 28.02.2001)</title>
+            <alternativeTitles>
+                <alternative>Untersuchungen zu hochempfindlichen SQUID-Positionsdetektoren für die Mission STEP und Durchführung experimenteller Tests am Fallturm Bremen</alternative>
+                <alternative>SQUID-Positionsdetektor für STEP</alternative>
+                <alternative>Investigations on high precision SQUID position detectors for the STEP mission and realisation of experimental tests at the Drop Tower Bremen</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">LTS-SQUIDs, position detectors, flux resolution, LHe dewar, drop tower Bremen, STEP mission</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Friedrich-Schiller-Universität Jena, Institut für Festkörperphysik</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">5141864-2</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor>
+                    <contributor>Vodel, W.</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Institut für Festkörperphysik der Friedrich-Schiller-Universität Jena. Projektleiter: W. Vodel</responsible>
+            <publicationInfo>
+                <issued>2001</issued>
+                <publicationPlaces>
+                    <publicationPlace>Jena</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Förderkennzeichen BMBF 50OY98020. - Engl. Zsfassung u.d.T.: Investigations on high precision SQUID position detectors for the STEP mission and realisation of experimental tests at the Drop Tower Bremen</publicationIDInfo>
+                <publicationIDInfo>Literaturverz. S. 21</publicationIDInfo>
+                <publicationIDInfo>Unterschiede zwischen dem gedruckten Dokument und der elektronischen Ressource können nicht ausgeschlossen werden</publicationIDInfo>
+                <publicationIDInfo>Auch als elektronische Ressource vorh.</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="181570416" classificationName="bk">
+                    <code>55.64</code>
+                    <entries>
+                        <entry>Raumfahrzeugführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4136498-3" type="gnd">
+                    <subject xml:lang="de">Satellit</subject>
+                </subject>
+                <subject id="127728797X" type="gnd">
+                    <subject xml:lang="de">Fallturm Bremen</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

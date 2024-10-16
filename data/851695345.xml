@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:851695345</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:851695345">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2016-03-15</databaseDate>
+            <changeDate>2021-02-22</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>851695345</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">851695345</identifier>
+                <identifier type="firstid">OBV:AC13046434</identifier>
+                <identifier type="isbn13">9780993072130</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/851695345.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1618083996</identifier>
+                    <creationDate>2017-01-11</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 16 B 2477</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">416 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>International space station : architecture beyond earth</title>
+            <abstracts>
+                <abstract xml:lang="de">In 1984 President Ronald Reagan gave NASA the go-ahead to build a Space Station. A generation later, the International Space Station is an established and highly successful research centre in Earth orbit. The history of this extraordinary project is a complex weave of powerful threads - political, diplomatic, financial and technological among them - but none is more fascinating than the story of its design. This book provides the first comprehensive account of the International Space Station's conception, development and assembly in space. As a highly accessible chronicle of a complex piece of design and engineering, it will appeal to readers far beyond the space field. NASA Astronaut Nicole Stott, a veteran of International Space Station Expeditions 20 and 21 and Shuttle Missions STS-128, STS-129 and STS-133, introduces the book with a personal memoir - 'A Home in Space'</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <type>architect</type>
+                    <contributor>Nixon, David</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1095557343</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>David Nixon</responsible>
+            <publicationInfo>
+                <issued>2016</issued>
+                <publicationPlaces>
+                    <publicationPlace>London</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Circa</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Literaturverzeichnis: Seite 398-406</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme, Karten, Pläne</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420607" classificationName="bk">
+                    <code>55.61</code>
+                    <entries>
+                        <entry>Raumfahrzeuge</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZH 6850</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.442</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL797</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 8650</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">International Space Station</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Space stations</subject>
+                </subject>
+                <subject id="4486542-9" type="gnd">
+                    <subject xml:lang="de">ISS (Raumfahrt)</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

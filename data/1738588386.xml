@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1738588386</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1738588386">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2020-11-12</databaseDate>
+            <changeDate>2023-04-06</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>1738588386</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1738588386</identifier>
+                <identifier type="doi">10.22032/dbt.45849</identifier>
+                <identifier type="firstid">KXP:1738588386</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://nbn-resolving.de/urn:nbn:de:gbv:ilm1-2020000359</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3835875310</identifier>
+                    <creationDate>2021-01-14</creationDate>
+                    <selectionKey>zdt</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (XI, 142 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Operational concepts for grid services using electric vehicles</title>
+            <abstracts>
+                <abstract xml:lang="de">Das europäische Stromnetz ist aufgrund des steigenden Anteils volatiler erneuerbare Energiequellen einer zunehmenden Belastung ausgesetzt. Diese Technologien, in Verbindung mit einer höheren Volatilität der Nachfrage, stellen eine Herausforderung für die Stabilität und Sicherheit des europäischen Netzes dar, das früher von einer zentralisierteren Erzeugung in großen und relativ zuverlässigen konventionellen Kraftwerken geprägt war. Mit zunehmendem Beitrag der Wind- und Photovoltaikerzeugung am Energiemix ist eine Bewertung des Risikos für die Frequenzstabilität und mögliche Präventivmaßnahmen erforderlich. Die ungesteuerte Aufladung der zunehmenden Anzahl von Elektrofahrzeugen in Deutschland erfordert auch eine gründliche Untersuchung der Methoden für ihre Integration in das Stromnetz, um nicht nur die Stabilität der Stromnetzfrequenz zu verbessern, sondern auch einen sekundären Nutzen für die Elektrofahrzeug-Nutzer zu erzielen. Diese Arbeit analysiert die Lastfrequenzregelungssysteme auf ihre Eignung zur Integration von Elektrofahrzeugen ins Stromnetz sowie die Auswirkungen der Erhöhung des Anteils von volatilen erneuerbaren Energien auf die Frequenzstabilität in Deutschland, und zeigt einen deutlichen Anstieg der Anforderungen an Reservekapazität. Die Bewertung alternativer Ansätze zur Lastfrequenzsteuerung auf der Grundlage von Infrastrukturanforderungen zeigt, dass die Einführung eines verteilten Energieressourcen Aggregators den gesamten Infrastrukturbedarf der Netzbetreiber deutlich reduzieren kann. Die hierin vorgeschlagenen Betriebskonzepte werden anhand mehrerer Fallstudien zur Optimierung des Einsatzes von Elektrofahrzeugen für Flexibilitätsdienstleistungen im Stromnetz unter Berücksichtigung der Anforderungen der Fahrzeughalter und des Versorgungsbedarfs von Netzdiensten bewertet.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="degree-granting-institution">
+                    <type>degree-granting-institution</type>
+                    <name>Technische Universität Ilmenau</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2125187-3</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+                <corporateCreator type="publisher">
+                    <type>publisher</type>
+                    <name>Universitätsverlag Ilmenau</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">7635051-4</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Bokhari, Hamza</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1217002642</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Westermann, Dirk</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">134094646</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Haubrock, Jens</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">134133676</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Agsten, Michael</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1016389000</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Hamza Riaz Bokhari</responsible>
+            <publicationInfo>
+                <issued>2020</issued>
+                <publicationPlaces>
+                    <publicationPlace>Ilmenau</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Universitätsverlag Ilmenau</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>Ilmenauer Beiträge zur elektrischen Energiesystem-, Geräte- und Anlagentechnik</title>
+                    <volumeNumber>Band 28</volumeNumber>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2020</dateAccepted>
+                        <description>Dissertation, Technische Universität Ilmenau</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Diagramme, Illustrationen</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Operational concepts for grid services using electric vehicles</title>
+                <identifier type="isbn13">9783863602284</identifier>
+                <identifier type="ppn">1738553345</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+            <related type="parent">
+                <title>Ilmenauer Beiträge zur elektrischen Energiesystem-, Geräte- und Anlagentechnik</title>
+                <volumeNumber>Band 28</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.2293</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4155413-9" type="gnd">
+                    <subject xml:lang="de">Frequenzstabilität</subject>
+                </subject>
+                <subject id="4151795-7" type="gnd">
+                    <subject xml:lang="de">Elektrofahrzeug</subject>
+                </subject>
+                <subject id="4068598-6" type="gnd">
+                    <subject xml:lang="de">Erneuerbare Energien</subject>
+                </subject>
+                <subject id="4121178-9" type="gnd">
+                    <subject xml:lang="de">Elektrizitätsversorgungsnetz</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://nbn-resolving.de/urn:nbn:de:gbv:ilm1-2020000359</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

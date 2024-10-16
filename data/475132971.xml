@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:475132971</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:475132971">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2004-12-15</databaseDate>
+            <changeDate>2024-04-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>475132971</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">475132971</identifier>
+                <identifier type="ean">9783613024168</identifier>
+                <identifier type="firstid">GBV:475132971</identifier>
+                <identifier type="isbn">3613024160</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">693885793</identifier>
+                    <creationDate>2005-09-28</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">L ver 30.7</location>
+                    <location type="tibShelfmark">T 05 B 2545</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-24</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">215 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Motorrad-Technik pur : Funktion - Konstruktion - Fahrwerk</title>
+            <alternativeTitles>
+                <alternative>How and why - motorcycle design and technology &lt;dt.&gt;</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Wer könnte besser beschreiben wie ein Motorrad funktioniert als ein ehemaliger Chefkonstrukteur? Gaetano Cocco, der diesen Beruf beim Zweiradhersteller Aprilia ausgeübt hat, erläutert in diesem Titel die konstruktiven Hintergründe, zeigt Zusammenhänge auf, erklärt Formeln und technische Parameter, die das Fahrverhalten der Maschine beeinflussen. Ein zweiter Teil geht den Geheimnissen von Motor und Fahrwerk auf den Grund. Kompetent und übersichtlich wird hier alles aufgezeigt, was man über moderne Zweiräder wissen muss. Ein technisches Handbuch wie man es sich versierter nicht wünschen kann, jetzt in einer aktualisierten und überarbeiteten Neuauflage.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Cocco, Gaetano</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Gaetano Cocco. Übers. von Waldemar Schwarz</responsible>
+            <publicationInfo>
+                <issued>2005</issued>
+                <edition>1. Aufl., [Nachdr.]</edition>
+                <publicationPlaces>
+                    <publicationPlace>Stuttgart</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Motorbuch-Verl.</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>265 mm x 230 mm</description>
+            <description>zahlr. Ill., graph. Darst</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>ZO 4410</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4040392-0" type="gnd">
+                    <subject xml:lang="de">Motorrad</subject>
+                </subject>
+                <subject id="4165441-9" type="gnd">
+                    <subject xml:lang="de">Kraftfahrzeugtechnik</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

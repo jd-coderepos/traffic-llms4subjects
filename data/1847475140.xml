@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1847475140</identifier><datestamp>2024-06-14</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1847475140">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2023-06-06</databaseDate>
+            <changeDate>2023-06-19</changeDate>
+            <ftxCreationDate>2024-06-14</ftxCreationDate>
+            <documentID>1847475140</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1847475140</identifier>
+                <identifier type="doi">10.1007/978-3-662-67333-1</identifier>
+                <identifier type="firstid">KEP:092916163</identifier>
+                <identifier type="isbn13">9783662673331</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://doi.org/10.1007/978-3-662-67333-1</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4330265397</identifier>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2023-06-08</creationDate>
+                    <selectionKey>zesp</selectionKey>
+                    <loanIndicator>s</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource(X, 58 S. 7 Abb.)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Leitfaden Automotive Cybersecurity Engineering : Absicherung vernetzter Fahrzeuge auf dem Weg zum autonomen Fahren</title>
+            <abstracts>
+                <abstract xml:lang="de">Einführung -- Übergeordnetes (projektunabhängiges) Management der Cybersecurity -- Kontinuierliche Weiterentwicklung der Cyberabwehrfähigkeit -- Projektbezogenes Management der Cybersecurity -- Risikoorientierte Bestimmung der gebotenen Schutzmaßnahmen -- Entwurf angriffssicherer Systeme -- Eigenschaftsabsicherung angriffssicherer Systeme -- Der Entwicklung nachgelagerte Lebenszyklusphasen -- Zukünftige Herausforderungen.</abstract>
+                <abstract xml:lang="de">What’s not secure is not safe – damit die Funktionale Sicherheit von Kraftfahrzeugen nicht durch unberechtigte Zugriffe von außen kompromittiert wird, sind besondere Schutzmaßnahmen erforderlich. Dieses essential verdeutlicht anhand konkreter Beispiele, wie die Angriffssicherheit von Automotive-Systemen von vornherein durch eine zielorientierte Systemgestaltung und -implementierung sowie Tests berücksichtigt wird. Mit Blick auf die Produktion und den Betrieb von Automotive-Systemen wird deutlich, dass die Absicherung gegen unberechtigten Zugriff nicht mit dem Abschluss der Entwicklung endet. Sie ist eine kontinuierlich über den Lebenszyklus fortlaufende Aktivität und erfordert eine nachhaltige Aufmerksamkeit aller beteiligten Zulieferer, des Fahrzeugherstellers sowie des Nutzers. Die vorliegende zweite Auflage beinhaltet eine Anpassung an die fortgeschrittene internationale Normung im Bereich der Automotive Cybersecurity. Der Inhalt Übergeordnetes Management der Cybersecurity Management der Cybersecurity im konkreten Entwicklungsprojekt Entwurf und Eigenschaftsabsicherung angriffssicherer Systeme Produktion, Betrieb, Instandhaltung und Außerbetriebnahme angriffssicherer Systeme Die Zielgruppen Praktisch Tätige in der Automobil- und deren Zulieferindustrie Dozierende und Studierende der Kraftfahrzeugtechnik Der Autor Prof. Dr.-Ing. habil. Lars Schnieder ist Geschäftsführer (CEO) der ESE Engineering und Software-Entwicklung GmbH, lehrt als Privatdozent am Verkehrswissenschaftlichen Institut der RWTH Aachen und ist an der TU Braunschweig zum Honorarprofessor bestellt.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Schnieder, Lars</contributor>
+                </contributor>
+            </contributors>
+            <responsible>von Lars Schnieder</responsible>
+            <publicationInfo>
+                <issued>2023</issued>
+                <edition>2nd ed. 2023.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Berlin, Heidelberg</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer Berlin Heidelberg</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-2-SEB</identifier>
+                    <identifier type="collectioncode">ZDB-2-STI</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>essentials</title>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>Campusweiter Zugriff (Universität Hannover) - Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Keine Weitergabe an Dritte. Kein systematisches Downloaden durch Robots.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-2-SEB</identifier>
+                <identifier type="collectioncode">ZDB-2-STI</identifier>
+            </related>
+            <related type="parent">
+                <title>essentials</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.2</code>
+                </classification>
+                <classification classificationID="106418866" classificationName="bk">
+                    <code>54.38</code>
+                    <entries>
+                        <entry>Computersicherheit</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="181570424" classificationName="bk">
+                    <code>55.24</code>
+                    <entries>
+                        <entry>Fahrzeugführung, Fahrtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>inf</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Security systems.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Electrical engineering.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Mechatronics.</subject>
+                </subject>
+                <subject id="4274324-2" type="gnd">
+                    <subject xml:lang="de">Computersicherheit</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Automotive engineering.</subject>
+                </subject>
+                <subject id="7714938-5" type="gnd">
+                    <subject xml:lang="de">Autonomes Fahrzeug</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://doi.org/10.1007/978-3-662-67333-1</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

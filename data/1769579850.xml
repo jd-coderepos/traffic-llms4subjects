@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1769579850</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1769579850">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2021-09-07</databaseDate>
+            <changeDate>2021-12-10</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1769579850</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1769579850</identifier>
+                <identifier type="firstid">KXP:1769579850</identifier>
+                <identifier type="isbn13">9789811641602</identifier>
+                <identifier type="isbn13">9789811641626</identifier>
+                <identifier type="isbn13">9789811641633</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1769579850.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">397458644X</identifier>
+                    <creationDate>2021-11-02</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RT 3144(386)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XV, 129 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Adaptive compensation of nonlinear actuators for flight control applications</title>
+            <abstracts>
+                <abstract xml:lang="de">Introduction -- Active Flow Control -- Adaptive Compensation at Low Angles of Attack: Linear Aircraft Model -- Adaptive Compensation at Low Angles of Attack: Nonlinear Aircraft Model -- Adaptive Compensation at High Angles of Attack -- Adaptive Compensation of Signal-Dependent Actuator Nonlinearities -- High-Order Design of Adaptive Inverses for Signal-Dependent Actuator Nonlinearities -- Adaptive Synthetic Jet Actuation for Aircraft Control -- Adaptive Actuator Fault Diagnosis in Uncertain Systems -- Adaptive Sensor Fault Diagnosis in Uncertain Systems -- Integrated Adaptive Diagnostics and Control.</abstract>
+                <abstract xml:lang="de">This book provides a basic understanding of adaptive control and its applications in Flight control. It discusses the designing of an adaptive feedback control system and analyzes this for flight control of linear and nonlinear aircraft models using synthetic jet actuators. It also discusses control methodologies and the application of control techniques which will help practicing flight control and active flow control researchers. It also covers modelling and control designs which will also benefit researchers from the background of fluid mechanics and health management of actuation systems. The unique feature of this book is characterization of synthetic jet actuator nonlinearities over a wide range of angles of attack, an adaptive compensation scheme for such nonlinearities, and a systematic framework for feedback control of aircraft dynamics with synthetic jet actuators.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Deb, Dipankar</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Burkholder, Jason</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Tao, Gang</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Dipankar Deb, Jason Burkholder, Gang Tao</responsible>
+            <publicationInfo>
+                <issued>2022</issued>
+                <publicationPlaces>
+                    <publicationPlace>Singapore</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="SG" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer Singapore</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Studies in systems, decision and control</title>
+                    <volumeNumber>386</volumeNumber>
+                </journalInfo>
+            </additionalDocumentInfo>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Studies in systems, decision and control</title>
+                <volumeNumber>386</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106421344" classificationName="bk">
+                    <code>50.23</code>
+                    <entries>
+                        <entry>Regelungstechnik, Steuerungstechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="181570769" classificationName="bk">
+                    <code>55.54</code>
+                    <entries>
+                        <entry>Flugführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4112450-9" type="gnd">
+                    <subject xml:lang="de">Adaptive Steuerung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Acoustical engineering.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Engineering design.</subject>
+                </subject>
+                <subject id="4136065-5" type="gnd">
+                    <subject xml:lang="de">Nichtlineares Phänomen</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Control engineering.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Fluid mechanics.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Aerospace engineering.</subject>
+                </subject>
+                <subject id="4198914-4" type="gnd">
+                    <subject xml:lang="de">Aktor</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Astronautics.</subject>
+                </subject>
+                <subject id="4328094-8" type="gnd">
+                    <subject xml:lang="de">Flugregelung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

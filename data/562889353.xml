@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:562889353</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:562889353">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2008-04-23</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>562889353</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">562889353</identifier>
+                <identifier type="ean">9780754670681</identifier>
+                <identifier type="firstid">GBV:562889353</identifier>
+                <identifier type="isbn">0754670686</identifier>
+                <identifier type="isbn13">9780754670681</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/ilmenau/toc/562889353.PDF</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">872946428</identifier>
+                    <creationDate>2009-01-21</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 08 B 6567</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">IX, 143 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>The multisensory driver : implications for ergonomic car interface design</title>
+            <abstracts>
+                <abstract xml:lang="de">Driven to distraction -- Driven to listen -- The auditory spatial cuing of driver attention -- The vibrotactile spatial cuing of driver attention -- The multisensory perceptual versus decisional facilitation of driving -- The multisensory spatial cuing of driver attention</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Ho, Cristy</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Spence, Charles</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1048213471</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Cristy Ho &amp; Charles Spence</responsible>
+            <publicationInfo>
+                <issued>2008</issued>
+                <publicationPlaces>
+                    <publicationPlace>Aldershot [u.a.]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="GB" />
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Ashgate</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Human factors in road and rail transport</title>
+                </journalInfo>
+                <publicationIDInfo>Includes bibliographical references (p. [103]-137) and index. - Formerly CIP</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>25 cm</description>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausg.</label>
+                <title>Multisensory Driver</title>
+                <identifier type="isbn13">9780754688891</identifier>
+                <identifier type="isbn13">9780754670681</identifier>
+                <identifier type="isbn">0754670686</identifier>
+                <identifier type="ppn">1658269942</identifier>
+            </related>
+            <related type="parent">
+                <title>Human factors in road and rail transport</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>TL152.3</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.28304</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>CW 7000</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.28/304</code>
+                </classification>
+                <classification classificationID="181570424" classificationName="bk">
+                    <code>55.24</code>
+                    <entries>
+                        <entry>Fahrzeugführung, Fahrtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Intersensory effects</subject>
+                </subject>
+                <subject id="4398736-9" type="gnd">
+                    <subject xml:lang="de">Selektive Wahrnehmung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Automobile drivers</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Psychology</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Senses and sensation</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Senses and sensation</subject>
+                </subject>
+                <subject id="4132165-0" type="gnd">
+                    <subject xml:lang="de">Fahrerverhalten</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Intersensory effects</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Automobile drivers</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Psychology</subject>
+                </subject>
+                <subject id="4032656-1" type="gnd">
+                    <subject xml:lang="de">Kraftfahrer</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

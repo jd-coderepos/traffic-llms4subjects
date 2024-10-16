@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1841088145</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1841088145">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2023-04-03</databaseDate>
+            <changeDate>2023-10-25</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1841088145</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1841088145</identifier>
+                <identifier type="firstid">KXP:1841088145</identifier>
+                <identifier type="isbn13">9783985551491</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1841088145.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4301640770</identifier>
+                    <creationDate>2023-05-31</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RB 2890(2023,5)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xxiii, 165 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Schwingkomfortbewertung in Straßenbahnen mittels Maschinellen Lernens</title>
+            <alternativeTitles>
+                <alternative>Ride comfort evaluation in trams using machine learning methods</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Während der Fahrt in Straßen- und Stadtbahnen sind die Fahrgäste im Innenstadtbereich häufig auftretenden Beschleunigungsänderungen ausgesetzt. Alle im Schienenfahrzeugbereich etablierten Schwingkomfortbewertungsmethoden wurden für Vollbahnfahrzeuge entworfen und können nur eingeschränkt im BOStrab-Bereich eingesetzt werden. In dieser Arbeit wird eine Schwingkomfortbewertungsmethodik für stehende und sitzende Fahrgäste unter Verwendung von Methoden des Maschinellen Lernens entwickelt</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Bettinger, Tobias</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1286165393</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Tobias Bettinger</responsible>
+            <publicationInfo>
+                <issued>2023</issued>
+                <publicationPlaces>
+                    <publicationPlace>Aachen</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Apprimus Verlag</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Schriftenreihe Schienenfahrzeuge und Transportsysteme</title>
+                    <volumeNumber>2022, Band 05</volumeNumber>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2022</dateAccepted>
+                        <description>Dissertation, Rheinisch-Westfälische Technische Hochschule Aachen</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Schriftenreihe Schienenfahrzeuge und Transportsysteme</title>
+                <volumeNumber>2022, Band 05</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="106420666" classificationName="bk">
+                    <code>55.85</code>
+                    <entries>
+                        <entry>Schienenverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="10641240X" classificationName="bk">
+                    <code>54.72</code>
+                    <entries>
+                        <entry>Künstliche Intelligenz</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>inf</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4193754-5" type="gnd">
+                    <subject xml:lang="de">Maschinelles Lernen</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Fahrzeugtechnik</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Fertigungstechnik und Ingenieurwesen</subject>
+                </subject>
+                <subject id="4057884-7" type="gnd">
+                    <subject xml:lang="de">Straßenbahn</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Machine learning</subject>
+                </subject>
+                <subject id="4016278-3" type="gnd">
+                    <subject xml:lang="de">Fahrdynamik</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Schwingungsanalyse</subject>
+                </subject>
+                <subject id="4135984-7" type="gnd">
+                    <subject xml:lang="de">Anfahren</subject>
+                </subject>
+                <subject id="4146551-9" type="gnd">
+                    <subject xml:lang="de">Bremsen</subject>
+                </subject>
+                <subject id="4144870-4" type="gnd">
+                    <subject xml:lang="de">Beschleunigung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Verkehrstechnik und Transportwesen</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Informatik</subject>
+                </subject>
+                <subject id="4125547-1" type="gnd">
+                    <subject xml:lang="de">Fahrzeugschwingung</subject>
+                </subject>
+                <subject id="1234001772" type="gnd">
+                    <subject xml:lang="de">Fahrkomfort</subject>
+                </subject>
+                <subject id="4114528-8" type="gnd">
+                    <subject xml:lang="de">Mathematisches Modell</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

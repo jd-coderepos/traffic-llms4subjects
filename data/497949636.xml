@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:497949636</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:497949636">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2005-09-07</databaseDate>
+            <changeDate>2024-04-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>497949636</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">497949636</identifier>
+                <identifier type="firstid">GBV:497949636</identifier>
+                <identifier type="isbn">3936124892</identifier>
+                <identifier type="isbn13">9783936124897</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="description" type="url">http://deposit.dnb.de/cgi-bin/dokserv?id=2674512&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</location>
+                <location subtype="miscellaneous" type="url">http://deposit.dnb.de/cgi-bin/dokserv?id=2674512&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">738004588</identifier>
+                    <creationDate>2007-02-22</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">T 06 B 4740</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-3</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">176 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Das Junkers Flugzeugtypenbuch : die Junkers-Flugzeuge und die JFM-Flugzeuge, vorgestellt in Texten, Fotos, Daten, Tabellen und Dreiseitenzeichnungen</title>
+            <abstracts>
+                <abstract xml:lang="de">Hugo Junkers: Flugzeugkonstrukteur in Dessau (1888-1933). Geb. 3.2.1859 Rheydt; gest. 3.2.1935 Gauting b. München</abstract>
+            </abstracts>
+            <contributors>
+                <contributor>
+                    <contributor>Schmitt, Günter</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Gründer, Matthias</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Günter Schmitt. Zeichnungen von Matthias Gründer</responsible>
+            <publicationInfo>
+                <issued>2006</issued>
+                <edition>2. Aufl.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Dessau, Anh</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Funk Verlag</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>270 mm x 240 mm</description>
+            <description>zahlr. Ill.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>Das Junkers Flugzeugtypenbuch</title>
+                <identifier type="isbn">3936124892</identifier>
+                <identifier type="isbn13">9783936124897</identifier>
+                <identifier type="ppn">860045587</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="106420593" classificationName="bk">
+                    <code>55.51</code>
+                    <entries>
+                        <entry>Flugzeuge</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4500441-9" type="gnd">
+                    <subject xml:lang="de">Junkers</subject>
+                </subject>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte</subject>
+                </subject>
+                <subject id="4017672-1" type="gnd">
+                    <subject xml:lang="de">Flugzeug</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

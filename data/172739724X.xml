@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:172739724X</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:172739724X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2020-08-18</databaseDate>
+            <changeDate>2022-02-25</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>172739724X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">172739724X</identifier>
+                <identifier type="firstid">KXP:172739724X</identifier>
+                <identifier type="isbn13">9781119575696</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/172739724x.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3836949393</identifier>
+                    <creationDate>2022-02-03</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 21 B 740</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xxvi, 440 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>UAV communications for 5G and beyond</title>
+            <abstracts>
+                <abstract xml:lang="de">"To advantageously plan and design for the explosive near-future increase in the number of unmanned aerial vehicles (UAVs) and their demanding applications, integration of UAVs into cellular communication systems has seen increasing interest. This book provides a timely and comprehensive overview of the recent research efforts and results of unmanned aerial vehicles (UAVs)-integrated cellular network communications. The aim of the book is to provide a comprehensive coverage of the potential applications, networking architectures, latest research findings and key enabling technologies, experimental measurement results, as well as up-to-date industry standardizations for UAV communications in cellular systems, including the existing LTE as well as the future 5G-and-beyond systems"--</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="publisher">
+                    <type>publisher</type>
+                    <name>John Wiley and Sons</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">4101395-5</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Zeng, Yong</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Guvenc, Ismail</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Zhang, Rui</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Geraci, Giovanni</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Matolak, David W.</contributor>
+                </contributor>
+            </contributors>
+            <responsible>edited by Yong Zeng (Southeast University, China, Jiangsu, China and Purple Mountain Laboratories, Jiangsu, China), Ismail Guvenc (North Carolina State University, NC, USA), Rui Zhang (National University of Singapore, Singapore), Giovanni Geraci (Universitat Pompeu Fabra, Barcelona, Spain), David W. Matolak (University of South Carolina, SC, USA)</responsible>
+            <publicationInfo>
+                <issued>2021</issued>
+                <publicationPlaces>
+                    <publicationPlace>Hoboken, NJ</publicationPlace>
+                    <publicationPlace>Chichester, West Sussex</publicationPlace>
+                    <publicationPlace>[Piscataway, NJ]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Wiley</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>UAV communications for 5G and beyond</title>
+                <identifier type="isbn13">9781119575726</identifier>
+                <identifier type="ppn">1759144320</identifier>
+                <identifier type="isbn13">9781119575795</identifier>
+                <identifier type="isbn13">9781119575672</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>TL589.4</code>
+                </classification>
+                <classification classificationID="106419595" classificationName="bk">
+                    <code>53.70</code>
+                    <entries>
+                        <entry>Nachrichtentechnik, Kommunikationstechnik: Allgemeines</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.135/5</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Mobile communication systems</subject>
+                </subject>
+                <subject id="4154756-1" type="gnd">
+                    <subject xml:lang="de">Flugkörper</subject>
+                </subject>
+                <subject id="4031888-6" type="gnd">
+                    <subject xml:lang="de">Kommunikationstechnik</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">5G mobile communication systems</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Aeronautics</subject>
+                </subject>
+                <subject id="4332556-7" type="gnd">
+                    <subject xml:lang="de">Drohne (Flugkörper)</subject>
+                </subject>
+                <subject id="1188755676" type="gnd">
+                    <subject xml:lang="de">5G</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Drone aircraft</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

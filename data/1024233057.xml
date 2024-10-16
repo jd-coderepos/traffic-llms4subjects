@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1024233057</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1024233057">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2018-06-09</databaseDate>
+            <changeDate>2022-07-22</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1024233057</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1024233057</identifier>
+                <identifier type="ean">9783319750576</identifier>
+                <identifier type="firstid">HBZ:HT019701956</identifier>
+                <identifier type="isbn13">9783319750576</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1024233057.pdf</location>
+                <location subtype="miscellaneous" type="url">https://www.springer.com/de/book/9783319750576</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1783666137</identifier>
+                    <creationDate>2019-09-30</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 18 B 2942</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xvi, 156 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Advances in Aeronautical Informatics : Technologies Towards Flight 4.0</title>
+            <abstracts>
+                <abstract xml:lang="de">The history of flight started with the pioneer era. The introduction of mechanical controls (including hydraulics) then led to the second era. Later, with the utilization of computers and automation in aircraft, we reached the third era. Now, we are moving towards the fourth era of flight, namely Flight 4.0, which is characterized by "smart" and "connected" aircraft that extensively exploit emerging information and communication technologies.Aeronautical informatics is advancing rapidly through the synergy between information and communication technologies and aeronautics. Multi-core avionic platforms, wireless avionics networking, service-oriented architectures and IoT, data sciences and semantic infrastructures are shaping systems to come. Increasing autonomy requirements are challenging the community to investigate new ways to assure safety. Modern software engineering methodologies and real-time software techniques are altering the established development practice. Universities are starting to align their aerospace engineering and computer science curriculums in order to address this synergy.This book is a unique compilation of advancements in aeronautical informatics, introducing the changing technology landscape of flight with respect to a new push in information and communication technology.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Durak, Umut</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1088805248</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Becker, Jürgen</contributor>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Hartmann, Sven</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">118124978</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Voros, Nikolaos S.</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1173625798</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Umut Durak, Jürgen Becker, Sven Hartmann, Nikolaos S. Voros, editors</responsible>
+            <publicationInfo>
+                <issued>2018</issued>
+                <publicationPlaces>
+                    <publicationPlace>Cham</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="CH" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>Diagramme</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="181570769" classificationName="bk">
+                    <code>55.54</code>
+                    <entries>
+                        <entry>Flugführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Smart Aircraft;Cyber-Physical Systems;Internet of Things;Service Orientation;Data Analytics</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Computer science</subject>
+                </subject>
+                <subject id="4802620-7" type="gnd">
+                    <subject xml:lang="de">Big Data</subject>
+                </subject>
+                <subject id="1069505412" type="gnd">
+                    <subject xml:lang="de">Cyber-physisches System</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Computer Communication Networks</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Big data</subject>
+                </subject>
+                <subject id="4036597-9" type="gnd">
+                    <subject xml:lang="de">Luftverkehr</subject>
+                </subject>
+                <subject id="4196491-3" type="gnd">
+                    <subject xml:lang="de">Avionik</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Artificial intelligence</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>TRP</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>COM075000</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Astronautics</subject>
+                </subject>
+                <subject id="1076175724" type="gnd">
+                    <subject xml:lang="de">Machine to Machine</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

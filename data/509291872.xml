@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:509291872</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:509291872">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2006-03-21</databaseDate>
+            <changeDate>2023-04-26</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>509291872</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>CD</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">509291872</identifier>
+                <identifier type="ean">978-3-8343-3016-1</identifier>
+                <identifier type="ean">9783834330161</identifier>
+                <identifier type="firstid">GBV:509291872</identifier>
+                <identifier type="isbn">3834330167</identifier>
+                <identifier type="isbn13">9783834330161</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">769758096</identifier>
+                    <creationDate>2006-10-30</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">L ver 96</location>
+                    <location type="tibShelfmark">YA 1573</location>
+                    <loanIndicator>b</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 CD-ROM</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Brennstoffzellen im Kraftfahrzeug</title>
+            <abstracts>
+                <abstract xml:lang="de">Nach "Brennstoffzellen" vom gleichen Verlag (BA 11/04) ein ähnlich aufgebautes Lernprogramm über die Anwendung der Brennstoffzelle bei Kraftfahrzeugen. Diese befinden sich noch im Versuchsstadium, gelten aber wegen ihrer Umweltfreundlichkeit als wichtige Alternative zu herkömmlichen Fahrzeugantrieben. Informiert zunächst allgemein über die Wasserstofftechnologie für die Energieversorgung, über Elektromotoren und Fahrzeugantriebe, bevor zukünftige Anwendungen vorgestellt werden. Gut strukturiert und übersichtlich aufgebaut, mit Testaufgaben, klar definierten Lernzielen, eingestreuten Animationen und ausführlichem Glossar. Nicht nur für speziell Interessierte. (2)</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Schulé, Roland</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Roland Schulé</responsible>
+            <publicationInfo>
+                <issued>2006</issued>
+                <publicationPlaces>
+                    <publicationPlace>Würzburg</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Vogel</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Vogel-Lernprogramm</title>
+                </journalInfo>
+                <publicationIDInfo>Titel auf dem Behältnis</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Beil. ([4]S.)</description>
+            <description>12 cm, in Behältnis 19x14x2cm</description>
+            <hiddenSearchTerm>KFZ</hiddenSearchTerm>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Vogel-Lernprogramm</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>ZO 4270</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4280</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4480</code>
+                </classification>
+                <classification classificationID="106418645" classificationName="bk">
+                    <code>53.36</code>
+                    <entries>
+                        <entry>Energiedirektumwandler, elektrische Energiespeicher</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4123177-6" type="gnd">
+                    <subject xml:lang="de">Fahrzeugantrieb</subject>
+                </subject>
+                <subject id="4008195-3" type="gnd">
+                    <subject xml:lang="de">Brennstoffzelle</subject>
+                </subject>
+                <subject id="4073757-3" type="gnd">
+                    <subject xml:lang="de">Kraftfahrzeug</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

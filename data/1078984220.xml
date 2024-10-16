@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1078984220</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1078984220">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1985-01-01</databaseDate>
+            <changeDate>2024-05-06</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>1078984220</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1078984220</identifier>
+                <identifier type="firstid">BSZ:008984220</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">015873099</identifier>
+                    <creationDate>1984-02-21</creationDate>
+                    <selectionKey>n</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">RA 525(42)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">437 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Planungsstrategien für den öffentlichen Personennahverkehr unter veränderten siedlungsstrukturellen und demographischen Rahmenbedingungen</title>
+            <abstracts>
+                <abstract xml:lang="de">Betr. auch den Rhein-Neckar-Raum</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Schild, Gregor</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">170437019</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>von Gregor Schild</responsible>
+            <publicationInfo>
+                <issued>1981</issued>
+                <publicationPlaces>
+                    <publicationPlace>Düsseldorf</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Verkehrs-Verlag Fischer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Buchreihe des Instituts für Verkehrswissenschaft an der Universität Köln</title>
+                    <volumeNumber>Nr. 42</volumeNumber>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Zugl.: Köln, Univ., Diss., 1981</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>graph. Darst., Kt.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Buchreihe des Instituts für Verkehrswissenschaft an der Universität Köln</title>
+                <volumeNumber>Nr. 42</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>380.5</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>380.5 s</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>41</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>388.4/068</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>44</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>s</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>QR 860</code>
+                </classification>
+                <classification classificationID="106420658" classificationName="bk">
+                    <code>55.83</code>
+                    <entries>
+                        <entry>Stadtverkehr, Nahverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106421050" classificationName="bk">
+                    <code>74.75</code>
+                    <entries>
+                        <entry>Verkehrsplanung, Verkehrspolitik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>RC 25768</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>arc</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4062954-5" type="gnd">
+                    <subject xml:lang="de">Verkehrsplanung</subject>
+                </subject>
+                <subject id="4046235-3" type="gnd">
+                    <subject xml:lang="de">Planung</subject>
+                </subject>
+                <subject id="4035262-6" type="gnd">
+                    <subject xml:lang="de">Leitbild</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Verkehrsplanung</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Deutschland</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Stadtverkehr</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Siedlungsstruktur</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Öffentlicher Personennahverkehr</subject>
+                </subject>
+                <subject id="4130125-0" type="gnd">
+                    <subject xml:lang="de">Raumstruktur</subject>
+                </subject>
+                <subject id="4043176-9" type="gnd">
+                    <subject xml:lang="de">Öffentlicher Personennahverkehr</subject>
+                </subject>
+                <subject id="4048989-9" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Regensburg</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

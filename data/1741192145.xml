@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1741192145</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1741192145">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2020-11-26</databaseDate>
+            <changeDate>2021-09-02</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1741192145</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1741192145</identifier>
+                <identifier type="firstid">KXP:1741192145</identifier>
+                <identifier type="isbn13">9789811554278</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1741192145.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3813352412</identifier>
+                    <creationDate>2021-04-22</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RT 1816(4)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xiii, 321 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Design and practice of cruise ports</title>
+            <abstracts>
+                <abstract xml:lang="de">Executive Summary -- Preface -- Introduction -- Cruise Ships -- Global Cruise Ports -- Site Selection of Cruise Terminals -- General Layout of Cruise Terminals -- Cruise Terminal Process -- Terminal Building -- Marine Structures and Other Facilities -- Construction Practice of Cruise Port Construction -- Prospect.</abstract>
+                <abstract xml:lang="de">This book focuses on design technologies and practical engineering applications in connection with cruise ports and terminals. After a brief introduction to cruise ships and global cruise ports, it addresses the location, structure and layout of cruise terminals, the technologies involved, cruise terminal buildings and supporting facilities. The book also explores practical engineering cases, including projects that the authors have worked on, such as the Shenzhen Prince Bay and Shanghai Wusongkou International Cruise Terminal projects. Systematically discussing the design and engineering aspects of domestic and international cruise terminals, the book offers a practical reference guide for engineers, researchers, practitioners and policymakers in relevant fields.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Cheng, Zekun</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Gong, Lei</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Li, Chen</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Zekun Cheng, Lei Gong, Chen Li</responsible>
+            <publicationInfo>
+                <issued>2020</issued>
+                <publicationPlaces>
+                    <publicationPlace>Singapore</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="SG" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Springer series on naval architecture, marine engineering, shipbuilding and shipping</title>
+                    <volumeNumber>4</volumeNumber>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Springer series on naval architecture, marine engineering, shipbuilding and shipping</title>
+                <volumeNumber>4</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106421832" classificationName="bk">
+                    <code>55.86</code>
+                    <entries>
+                        <entry>Schiffsverkehr, Schifffahrt</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106422006" classificationName="bk">
+                    <code>56.30</code>
+                    <entries>
+                        <entry>Wasserbau</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>bau</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Engineering, Architectural.</subject>
+                </subject>
+                <subject id="7676145-9" type="gnd">
+                    <subject xml:lang="de">Kreuzfahrtschiff</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Civil engineering.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Buildings—Design and construction.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Building.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Transportation engineering.</subject>
+                </subject>
+                <subject id="4275233-4" type="gnd">
+                    <subject xml:lang="de">Terminal (Gebäude)</subject>
+                </subject>
+                <subject id="4126054-5" type="gnd">
+                    <subject xml:lang="de">Hafenanlage</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Traffic engineering.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Construction.</subject>
+                </subject>
+                <subject id="4158719-4" type="gnd">
+                    <subject xml:lang="de">Hafenbau</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

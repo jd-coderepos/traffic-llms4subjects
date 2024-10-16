@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:368475794</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:368475794">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2003-08-30</databaseDate>
+            <changeDate>2024-04-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>368475794</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">368475794</identifier>
+                <identifier type="contract">19B9816C3</identifier>
+                <identifier type="contract">19B9816C</identifier>
+                <identifier type="contract">01011562</identifier>
+                <identifier type="firstid">GBV:368475794</identifier>
+            </identifiers>
+            <locations>
+                <location mimetype="application/pdf" subtype="fulltext" type="url">https://edocs.tib.eu/files/e01fb02/368475794.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">613720369</identifier>
+                    <creationDate>2003-08-30</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-89</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">Online-Ressource (82 p., 605 Kb.)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Ein wissensbasiertes mikroskopisches Entscheidungsverfahren zur kurz- bis mittelfristigen Vorhersage der Verkehrsnachfrage : Abschlussbericht Arbeitspaket B4 - [Verhaltensorientiertes Prognosemodell - Testplatz für verkehrstelematische Anwendungen] ; mobilist</title>
+            <alternativeTitles>
+                <alternative>A knowledge based microscopic decision processing for short-term and medium-term forecast of traffic demand</alternative>
+                <alternative>Mobilität im Ballungsraum Stuttgart</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Routined behavior, variation and change of behavior, day specific and person specific chains of activities, rule based knowledge processing, Fuzzy Logic, specific of behavior and character, activities, time and means of transportation oriented basic pattern, event conditional reaction, timed bond, potential flexibility, timded rhythm</abstract>
+            </abstracts>
+            <contributors>
+                <contributor>
+                    <contributor>Heine-Nims, Torsten</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Schnittger, Stephan</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Bearb.: Torsten Heine-Nims; Stephan Schnittger</responsible>
+            <publicationInfo>
+                <issued>2002</issued>
+                <edition>[Elektronische Ressource]</edition>
+                <publicationPlaces>
+                    <publicationPlace>Ulm</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Forschungsinst. f. Anwendungsorientierte Wissensverarbeitung</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-296-TTN</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>graphs</title>
+                </journalInfo>
+                <publicationIDInfo>Differences between the printed and electronic version of the document are possible. - Contract BMBF 19B9816C 3</publicationIDInfo>
+                <publicationIDInfo>Joint project no. 01011562 . - Engl. abstract under title: A knowledge based microscopic decision processing for short-term and medium-term forecast of traffic demand</publicationIDInfo>
+                <publicationIDInfo>nIndex p. 81 - 82</publicationIDInfo>
+                <publicationIDInfo>Also available as printed version</publicationIDInfo>
+            </additionalDocumentInfo>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-296-TTN</identifier>
+            </related>
+            <related type="parent">
+                <title>graphs</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="181570637" classificationName="bk">
+                    <code>55.81</code>
+                    <entries>
+                        <entry>Personenverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106421050" classificationName="bk">
+                    <code>74.75</code>
+                    <entries>
+                        <entry>Verkehrsplanung, Verkehrspolitik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>arc</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4187825-5" type="gnd">
+                    <subject xml:lang="de">Verkehrsprognose</subject>
+                </subject>
+                <subject id="4062987-9" type="gnd">
+                    <subject xml:lang="de">Verkehrsverhalten</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">default</property>
+            <property name="displaySubscriberAccess">https://edocs.tib.eu/files/e01fb02/368475794.pdf</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

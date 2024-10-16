@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1799617629</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1799617629">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2022-04-14</databaseDate>
+            <changeDate>2024-05-17</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1799617629</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1799617629</identifier>
+                <identifier type="firstid">KXP:1799617629</identifier>
+                <identifier type="isbn13">9789811681110</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1799617629.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4117678175</identifier>
+                    <creationDate>2023-02-10</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 22 B 1875</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XIV, 238 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Stabilization, tracking and formation control of autonomous marine vessels</title>
+            <abstracts>
+                <abstract xml:lang="de">Fixed -- Asymptotic Stabilization of AMVs with Actuator Dead -- Zones and Yaw Constraints -- Stabilization of AMVs Under Mismatched Condition -- Command Filtered Path Tracking Control of AMVs -- Command-filtered Fixed-time Trajectory Tracking Control of AMVs -- Adaptive Formation Control of Autonomous Marine Vessels with Model Uncertainties -- Command Filtered Finite-time Formation Tracking Control of AMVs with Unknown Control Directions -- Velocity Free Leader -- Follower Formation Control for AMVs with LOS Range and Angle Constraints -- Prescribed-time Formation Control of AMVs with Asymmetric Constraints on LOS Range and Bearing Angles -- Adaptive Fixed-time Formation Control of AMVs without Velocity Measurement.</abstract>
+                <abstract xml:lang="de">This book focuses on autonomous marine vessel systems and control approaches. In particular, it mainly contains modeling, analysis and control design methodologies for covert stabilization control, trajectory tracking control, and cooperative formation control of AMVs. The comprehensive and systematic treatment of practical issues in autonomous marine vessel systems is one of the book’s significant features, particularly suited for readers interested in learning control problems in AMV and other related topic areas like mobile robots and vehicles. The book can benefit researchers, engineers, and graduate students in mathematical skills, methodologies, and algorithms needed in the analysis and control design for tracking and stabilization, cooperative control of surface vessels and underwater vehicles. Through the book, readers can have a deeper understanding of such fields.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Guo, Ge</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">125369141X</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Gao, Zhenyu</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1253691916</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Zhang, Pengfei</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1253692181</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Ge Guo, Zhenyu Gao, Pengfei Zhang</responsible>
+            <publicationInfo>
+                <issued>2022</issued>
+                <publicationPlaces>
+                    <publicationPlace>Singapore</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="SG" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Diagramme</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="181569973" classificationName="bk">
+                    <code>55.44</code>
+                    <entries>
+                        <entry>Schiffsführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4357300-9" type="gnd">
+                    <subject xml:lang="de">Stabilisierung</subject>
+                </subject>
+                <subject id="4278240-5" type="gnd">
+                    <subject xml:lang="de">Schiffsführung</subject>
+                </subject>
+                <subject id="4052385-8" type="gnd">
+                    <subject xml:lang="de">Schiff</subject>
+                </subject>
+                <subject id="4172896-8" type="gnd">
+                    <subject xml:lang="de">Ortung</subject>
+                </subject>
+                <subject id="7714938-5" type="gnd">
+                    <subject xml:lang="de">Autonomes Fahrzeug</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

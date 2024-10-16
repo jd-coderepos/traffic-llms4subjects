@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:024790222</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:024790222">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1989-08-16</databaseDate>
+            <changeDate>2024-04-16</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>024790222</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">024790222</identifier>
+                <identifier type="firstid">GBV:024790222</identifier>
+                <identifier type="isbn">3924899002</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="review" type="url">http://www.gbv.de/dms/faz-rez/851008_FAZ_0063_L23_0003.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">031919022</identifier>
+                    <creationDate>1988-09-01</creationDate>
+                    <selectionKey>n</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">FN 1810</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-25</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">415 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Hermann Oberth : Leben, Werk und Auswirkung auf die spätere Raumfahrtentwicklung</title>
+            <abstracts>
+                <abstract xml:lang="de">Literaturverzeichnis</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Barth, Hans</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1013446534</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Hans Barth</responsible>
+            <publicationInfo>
+                <issued>1985</issued>
+                <publicationPlaces>
+                    <publicationPlace>Feucht</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Uni-Verl.</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>22 cm</description>
+            <description>Ill.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>UB 3250</code>
+                </classification>
+                <classification classificationName="loksys">
+                    <code>tec 36-OBE</code>
+                </classification>
+                <classification classificationName="loksys">
+                    <code>ver 840</code>
+                </classification>
+                <classification classificationName="loksys">
+                    <code>tec 25</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4176905-3" type="gnd">
+                    <subject xml:lang="de">Raketentriebwerk</subject>
+                </subject>
+                <subject id="4117629-7" type="gnd">
+                    <subject xml:lang="de">Weltraumforschung</subject>
+                </subject>
+                <subject id="118589229" subtype="person" type="gnd">
+                    <subject xml:lang="de">Oberth, Hermann 1894-1989</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

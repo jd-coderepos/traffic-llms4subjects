@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:67914739X</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:67914739X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2011-12-07</databaseDate>
+            <changeDate>2024-04-21</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>67914739X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">67914739X</identifier>
+                <identifier type="ean">9783613034266</identifier>
+                <identifier type="firstid">DNB:1017502951</identifier>
+                <identifier type="isbn13">9783613034266</identifier>
+                <identifier type="isbn">3613034263</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/67914739x.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1289790728</identifier>
+                    <creationDate>2013-03-05</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 12 B 5180</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-24</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">126 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Geheime Raumfahrtprojekte seit 1957</title>
+            <abstracts>
+                <abstract xml:lang="de">Vieles, von dem hier berichtet wird, stammt aus der Zeit des Kalten Krieges und unterlag z.T. begründeter, z.T. auch fast paranoider Geheimhaltung (im Osten wie auch im Westen), ist praktisch unbekannt oder schon wieder vergessen: der russische Raumgleiter Buran, "Harp" - der Plan, mittels einer Kanone Satelliten ins All zu befördern, den "One Way Spaceman" - eine Mondmission ohne grosse Rückkehrwahrscheinlichkeit, eine sowjetische Super-Trägerrakete, auch das Projekt "Dyna Soar", das den USA bereits in den 1960er-Jahren einen wiederverwendbaren Raumgleiter geboten hätte und dessen Einstellung in den USA heute als "geradezu kriminell schlechtes politisches Urteilsvermögen" gesehen wird. Alles knapp, kompetent mit zahlreichen Bildern, Illustrationen und technischen Details dargestellt, leider ohne Dokumentation der Quellen. Fortsetzungen sind geplant. Der preiswerte Titel sei breit empfohlen (nicht nur) neben anderen Reihentiteln zur Raumfahrt wie u.a. Eugen Reichl, "Trägerraketen seit 1957"  oder "Bemannte Raumfahrzeuge seit 1960". (2)</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Reichl, Eugen</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">132192705</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Eugen Reichl</responsible>
+            <publicationInfo>
+                <issued>2012</issued>
+                <edition>1. Aufl.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Stuttgart</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Motorbuch-Verl.</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Typenkompass</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>Basiswissen für Raumfahrt-Freunde</title>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>21 cm</description>
+            <description>Ill., graph. Darst., Kt.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Typenkompass</title>
+            </related>
+            <related type="parent">
+                <title>Basiswissen für Raumfahrt-Freunde</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>623.69</code>
+                </classification>
+                <classification classificationID="106420607" classificationName="bk">
+                    <code>55.61</code>
+                    <entries>
+                        <entry>Raumfahrzeuge</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 8050</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Space flight</subject>
+                </subject>
+                <subject id="4140232-7" type="gnd">
+                    <subject xml:lang="de">Geheimhaltung</subject>
+                </subject>
+                <subject id="4074823-6" type="gnd">
+                    <subject xml:lang="de">Militärtechnik</subject>
+                </subject>
+                <subject id="4039336-7" type="gnd">
+                    <subject xml:lang="de">Militärische Raumfahrt</subject>
+                </subject>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte 1957-2012</subject>
+                </subject>
+                <subject id="4350479-6" type="gnd">
+                    <subject xml:lang="de">Militärische Forschung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Paperback / softback</subject>
+                </subject>
+                <subject id="4177061-4" type="gnd">
+                    <subject xml:lang="de">Raumfahrttechnik</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Typenkompass, Typenbuch, bemannte Raumfahrt, Raumfahrzeuge, Raumfahrtprojekte, geheim, top secret, Raumfahrt, NASA, Raumfahrt-Programm, USA, Russland, Mondlandung, Raumstation, ISS, Motorbuch</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:790515873</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:790515873">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2014-07-15</databaseDate>
+            <changeDate>2021-07-05</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>790515873</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">790515873</identifier>
+                <identifier type="firstid">GBV:790515873</identifier>
+                <identifier type="isbn13">9780415675239</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/bowker/toc/9780415675239.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1505448255</identifier>
+                    <creationDate>2016-02-23</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 14 B 8452</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xxvi, 280 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Environmental methods for transport noise reduction</title>
+            <abstracts>
+                <abstract xml:lang="de">"This book is based on research conducted in the research project "HOlistic and Sustainable Abatement of Noise by optimized combinations of Natural and Artificial means" (HOSANNA). The project aimed to develop a set of tools for reducing road and rail traffic noise in outdoor environments by the optimal use of vegetation, soil, other natural materials and recycled materials in combination with artificial elements. The project studied a number of green abatement strategies that might achieve cost-effective improvements using new barrier designs, planting of trees, shrubs, or bushes, ground and road surface treatments, and greening of building facades and roofs. The noise reduction was assessed in terms of sound level reductions, perceptual effects, and cost-benefit analyses"-Provided by publisher</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Nilsson, Mats E.</contributor>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Bengtsson, Jörgen</contributor>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Klæboe, Ronny</contributor>
+                </contributor>
+            </contributors>
+            <responsible>edited by  Mats E. Nilsson, Jörgen Bengtsson, Ronny Klaeboe</responsible>
+            <publicationInfo>
+                <issued>2014</issued>
+                <publicationPlaces>
+                    <publicationPlace>Boca Raton</publicationPlace>
+                    <publicationPlace>London</publicationPlace>
+                    <publicationPlace>New York</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>CRC Press, an imprint of Taylor &amp; Francis Group, a Spon book</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Version date: 20140909. - Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420518" classificationName="bk">
+                    <code>50.36</code>
+                    <entries>
+                        <entry>Technische Akustik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TD893.6.T7</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>620.2/3</code>
+                </classification>
+                <classification classificationID="106409786" classificationName="bk">
+                    <code>55.10</code>
+                    <entries>
+                        <entry>Technik der Verkehrsmittel, Transporttechnik: Allgemeines</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4243860-3" type="gnd">
+                    <subject xml:lang="de">Verkehrsbau</subject>
+                </subject>
+                <subject id="4062942-9" type="gnd">
+                    <subject xml:lang="de">Verkehrslärm</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Transportation noise</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Trees</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Noise barriers</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Railroads</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Plants as noise barriers</subject>
+                </subject>
+                <subject id="4034054-5" type="gnd">
+                    <subject xml:lang="de">Lärmschutz</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

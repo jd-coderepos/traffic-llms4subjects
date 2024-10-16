@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:821427164</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:821427164">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2015-03-31</databaseDate>
+            <changeDate>2022-07-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>821427164</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">821427164</identifier>
+                <identifier type="firstid">GBV:821427164</identifier>
+                <identifier type="isbn13">9781118977934</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/bowker/toc/9781118977934.pdf</location>
+                <location subtype="miscellaneous" type="url">http://onlinelibrary.wiley.com/book/10.1002/9781119078203</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1622167236</identifier>
+                    <creationDate>2017-01-20</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 16 B 2719</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XVII, 388 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Securing transportation systems</title>
+            <abstracts>
+                <abstract xml:lang="de">"This book focuses on how to protect our transportation systems including airports and airlines, water ports, highways, tunnels and bridges, rail and mass transit, and how to better plan evacuation when severe disasters occur. These infrastructures may face various threats, namely biological, chemical, nuclear (dirty bombs), cyber, and natural disaster. The book presents the "State of the Art" efforts to improve technological and managerial security measures against terrorism as well as during and after natural disasters"--Provided by publisher</abstract>
+            </abstracts>
+            <contributors>
+                <contributor>
+                    <contributor>Hakim, Simon</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">170061515</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>ed. by Simon Hakim ...</responsible>
+            <publicationInfo>
+                <issued>2016</issued>
+                <publicationPlaces>
+                    <publicationPlace>Hoboken, NJ</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Wiley</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>ZO 3700</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>HE194</code>
+                </classification>
+                <classification classificationID="106420631" classificationName="bk">
+                    <code>55.80</code>
+                    <entries>
+                        <entry>Verkehrswesen, Transportwesen: Allgemeines</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106419390" classificationName="bk">
+                    <code>50.17</code>
+                    <entries>
+                        <entry>Sicherheitstechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>363.28/7</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4054790-5" type="gnd">
+                    <subject xml:lang="de">Sicherheit</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Freight and freightage</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Terrorism</subject>
+                </subject>
+                <subject id="4060680-6" type="gnd">
+                    <subject xml:lang="de">Transport</subject>
+                </subject>
+                <subject id="4172386-7" type="gnd">
+                    <subject xml:lang="de">Öffentlicher Verkehr</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Transportation</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:389992801</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:389992801">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2004-07-01</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>389992801</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">389992801</identifier>
+                <identifier type="ean">9783832506186</identifier>
+                <identifier type="firstid">GBV:389992801</identifier>
+                <identifier type="isbn">3832506187</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/ilmenau/toc/389992801.PDF</location>
+                <location subtype="description" type="url">https://zbmath.org/?q=an:1083.90010</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">709372043</identifier>
+                    <creationDate>2005-10-27</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">T 05 B 2716</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">V, 134 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Mathematics of traffic flow networks : modeling, simulation and optimization</title>
+            <abstracts>
+                <abstract xml:lang="de">Traffic flow has been a continuous source of challenging mathematical problems. The following work is dedicated to recent questions in modeling, simulation and optimization of traffic flow networks. Mathematics can help to solve traffic problems in different ways. Modelling provides fundamental understanding of traffic dynamics and behaviour. Optimization yields solutions for complex situations and helps to organize traffic flow. During the last decade there has been intensive research in different fields of and related to traffic flow. One of the primary research activities focus on the development of new and more realistic models for traffic flow on a single road. Our work's primary focus is on traffic flow models for networks and related topics. We provide new ideas on modelling flow in networks and solve different optimization problems analytically and numerically. The main result is the derivation of a hierarchy of models treating different situations with suitable traffic flow models. To each level of modeling we consider the optimal control issues and present techniques to address those problems. Furthermore, we derive an adjoint calculus for scalar hyperbolic equations with nonlinear boundary control. The derived concepts fit for general network problems as well as they did for traffic flow issues. The principles of modeling and simplification can be applied to all kinds of network flows. Examples for applications are fluid flow in open channels or gas networks</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Herty, Michael</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">129287601</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>von Michael Matthias Herty</responsible>
+            <publicationInfo>
+                <issued>2004</issued>
+                <publicationPlaces>
+                    <publicationPlace>Berlin</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Logos-Verl.</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Zugl.: Darmstadt, Techn. Univ., Diss., 2004</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>21 cm</description>
+            <description>graph. Darst</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="msc">
+                    <code>35B37</code>
+                </classification>
+                <classification classificationName="msc">
+                    <code>*90B20</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>380</code>
+                </classification>
+                <classification classificationID="106408194" classificationName="bk">
+                    <code>31.76</code>
+                    <entries>
+                        <entry>Numerische Mathematik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106420631" classificationName="bk">
+                    <code>55.80</code>
+                    <entries>
+                        <entry>Verkehrswesen, Transportwesen: Allgemeines</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="msc">
+                    <code>76N15</code>
+                </classification>
+                <classification classificationName="msc">
+                    <code>35L65</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>510</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>380</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>510</code>
+                </classification>
+                <classification classificationID="106419005" classificationName="bk">
+                    <code>31.80</code>
+                    <entries>
+                        <entry>Angewandte Mathematik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mat</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4057912-8" type="gnd">
+                    <subject xml:lang="de">Straßennetz</subject>
+                </subject>
+                <subject id="4043664-0" type="gnd">
+                    <subject xml:lang="de">Optimierung</subject>
+                </subject>
+                <subject id="4062902-8" type="gnd">
+                    <subject xml:lang="de">Verkehrsablauf</subject>
+                </subject>
+                <subject id="4593441-1" type="gnd">
+                    <subject xml:lang="de">Verkehrsmodell</subject>
+                </subject>
+                <subject id="4121428-6" type="gnd">
+                    <subject xml:lang="de">Optimale Kontrolle</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

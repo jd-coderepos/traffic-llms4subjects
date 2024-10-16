@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1681636816</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1681636816">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2019-11-12</databaseDate>
+            <changeDate>2022-01-14</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1681636816</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1681636816</identifier>
+                <identifier type="firstid">KXP:1681636816</identifier>
+                <identifier type="isbn13">9783030267056</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1681636816.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3815913446</identifier>
+                    <creationDate>2021-12-17</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 21 B 351</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xviii, 162 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Wireless power transfer for electric vehicles: foundations and design approach</title>
+            <abstracts>
+                <abstract xml:lang="de">This book describes the fundamentals and applications of wireless power transfer (WPT) in electric vehicles (EVs). Wireless power transfer (WPT) is a technology that allows devices to be powered without having to be connected to the electrical grid by a cable. Electric vehicles can greatly benefit from WPT, as it does away with the need for users to manually recharge the vehicles' batteries, leading to safer charging operations. Some wireless chargers are available already, and research is underway to develop even more efficient and practical chargers for EVs. This book brings readers up to date on the state-of-the-art worldwide. In particular, it provides: * The fundamental principles of WPT for the wireless charging of electric vehicles (car, bicycles and drones), including compensation topologies, bi-directionality and coil topologies. * Information on international standards for EV wireless charging. * Design procedures for EV wireless chargers, including software files to help readers test their own designs. * Guidelines on the components and materials for EV wireless chargers. * Review and analysis of the main control algorithms applied to EV wireless chargers. * Review and analysis of commercial EV wireless charger products coming to the market and the main research projects on this topic being carried out worldwide. The book provides essential practical guidance on how to design wireless chargers for electric vehicles, and supplies MATLAB files that demonstrate the complexities of WPT technology, and which can help readers design their own chargers.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Triviño-Cabrera, Alicia</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>González-González, José M.</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Aguado, José A.</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Alicia Triviño-Cabrera, José M. González-González, José A. Aguado</responsible>
+            <publicationInfo>
+                <issued>2020</issued>
+                <publicationPlaces>
+                    <publicationPlace>Cham</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="CH" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer Nature Switzerland AG</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Power systems</title>
+                </journalInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>Wireless Power Transfer for Electric Vehicles: Foundations and Design Approach</title>
+                <identifier type="isbn13">9783030267063</identifier>
+                <identifier type="ppn">1678681032</identifier>
+            </related>
+            <related type="parent">
+                <title>Power systems</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106417991" classificationName="bk">
+                    <code>53.35</code>
+                    <entries>
+                        <entry>Stromrichter, Transformatoren</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106418629" classificationName="bk">
+                    <code>53.31</code>
+                    <entries>
+                        <entry>Elektrische Energieübertragung</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="1023747006" type="gnd">
+                    <subject xml:lang="de">Batterieaufladung</subject>
+                </subject>
+                <subject id="103887131X" type="gnd">
+                    <subject xml:lang="de">Drahtlose Energieübertragung</subject>
+                </subject>
+                <subject id="4151795-7" type="gnd">
+                    <subject xml:lang="de">Elektrofahrzeug</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

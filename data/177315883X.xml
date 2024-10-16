@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:177315883X</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:177315883X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2021-10-11</databaseDate>
+            <changeDate>2024-02-15</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>177315883X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">177315883X</identifier>
+                <identifier type="firstid">KXP:177315883X</identifier>
+                <identifier type="isbn13">9789811648502</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/177315883x.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3987562870</identifier>
+                    <creationDate>2022-06-22</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RT 5945(1)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">x, 381 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>The key technologies for powertrain system of intelligent vehicles based on switched reluctance motors</title>
+            <abstracts>
+                <abstract xml:lang="de">Modeling of SRM drive system for EV -- Electromagnetic analysis for SRM -- Optimization design for SRM in EVs -- Optimization and control of SRM drive system for EV applications -- Design and control of regenerative braking system -- Performance matching design for the vehicle drive system -- Torque Coordination Control of Distributed Drive Electric Vehicle with SRM -- Comprehensive control of in wheel SRM-suspension system -- Temperature filed analysis and optimization for the SRM.</abstract>
+                <abstract xml:lang="de">This book is intended for engineer’s in automotive industry and in research community of electrical machines. This book systematically focus on all the major aspects of switched reluctance motor for intelligent electric vehicle applications, including optimization design, drive system control, regenerative braking control, and motor-suspension system control, which is particularly suited for readers who are interested to learn the theory of the motor used for intelligent electric vehicles.The comprehensive and systematic treatment of practical issues around switched reluctance motor considering vehicle requirments is one of the major features of the book. The book can benefit researchers, engineers, and graduate students in fields of switched reluctance motor, electric vehicle drive system, regenerative braking system, motor-suspension system, etc.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Zhu, Yueying</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Yueying Zhu</responsible>
+            <publicationInfo>
+                <issued>2022</issued>
+                <publicationPlaces>
+                    <publicationPlace>Singapore</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="SG" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Recent advancements in connected autonomous vehicle technologies</title>
+                    <volumeNumber>1</volumeNumber>
+                </journalInfo>
+            </additionalDocumentInfo>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Recent advancements in connected autonomous vehicle technologies</title>
+                <volumeNumber>1</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106410628" classificationName="bk">
+                    <code>52.20</code>
+                    <entries>
+                        <entry>Antriebstechnik, Getriebelehre</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106418637" classificationName="bk">
+                    <code>53.33</code>
+                    <entries>
+                        <entry>Elektrische Maschinen und Antriebe</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>621</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mas</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Mechanical engineering.</subject>
+                </subject>
+                <subject id="4177755-4" type="gnd">
+                    <subject xml:lang="de">Reluktanzmotor</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Robotics.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Mechatronics.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Control engineering.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Automotive engineering.</subject>
+                </subject>
+                <subject id="4431076-6" type="gnd">
+                    <subject xml:lang="de">Triebstrang</subject>
+                </subject>
+                <subject id="4151795-7" type="gnd">
+                    <subject xml:lang="de">Elektrofahrzeug</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

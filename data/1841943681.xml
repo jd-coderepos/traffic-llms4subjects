@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1841943681</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1841943681">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2023-04-11</databaseDate>
+            <changeDate>2024-01-16</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>1841943681</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1841943681</identifier>
+                <identifier type="firstid">KXP:1841943681</identifier>
+                <identifier type="isbn13">9781630819569</identifier>
+                <identifier type="isbn">1630819565</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1841943681.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4307237374</identifier>
+                    <creationDate>2023-09-13</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 23 B 718</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xxiii, 255 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>5G and satellite RF and optical integration</title>
+            <alternativeTitles>
+                <alternative>Five G and satellite radio frequency and optical integration</alternative>
+                <alternative>Fifth generation and satellite radio frequency and optical integration</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Analyzes the radio spectrum/band and technical specifications under consideration for 5G, along with the related performance, cost, and vertical market expectations. In addition, the book studies the cost of coexistence between 5G operators and other user communities' co-sharing spectrum, including GNSS; radio astronomers; radar; GSO, MEO, and LEO satellites in the Ku, K, and Ka bands and above; and satellite TV. Also covered is the role of free-space optical technology in 5G and satellite networks and what interference issues will arise from new band allocations. This includes co-shared allocations and how interference will be mitigated in and between next generation terrestrial and satellite 5G networks. The publication coincides with an inflection point where terrestrial, nonterrestrial, and RF and optical networks could be integrated in a financially useful way</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Varrall, Geoff</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Geoff Varrall</responsible>
+            <publicationInfo>
+                <issued>2023</issued>
+                <publicationPlaces>
+                    <publicationPlace>Boston</publicationPlace>
+                    <publicationPlace>London</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Artech House</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Artech House mobile communications library</title>
+                </journalInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>27 cm</description>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>5G and satellite RF and optical integration</title>
+                <identifier type="ppn">1831126214</identifier>
+                <identifier type="isbn13">9781630819576</identifier>
+            </related>
+            <related type="parent">
+                <title>Artech House mobile communications library</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>TK5103.25</code>
+                </classification>
+                <classification classificationID="106418718" classificationName="bk">
+                    <code>53.75</code>
+                    <entries>
+                        <entry>Optische Nachrichtentechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>621.3845/6</code>
+                </classification>
+                <classification classificationID="106417665" classificationName="bk">
+                    <code>53.74</code>
+                    <entries>
+                        <entry>Hochfrequenztechnik, Funktechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106410334" classificationName="bk">
+                    <code>55.60</code>
+                    <entries>
+                        <entry>Raumfahrttechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4172668-6" type="gnd">
+                    <subject xml:lang="de">Optische Nachrichtenübertragung</subject>
+                </subject>
+                <subject id="4136498-3" type="gnd">
+                    <subject xml:lang="de">Satellit</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Integrated optics</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Artificial satellites in telecommunication</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Integrated optics</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>5G mobile communication systems</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Artificial satellites in telecommunication</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">5G mobile communication systems</subject>
+                </subject>
+                <subject id="4160153-1" type="gnd">
+                    <subject xml:lang="de">Hochfrequenzübertragung</subject>
+                </subject>
+                <subject id="1188755676" type="gnd">
+                    <subject xml:lang="de">5G</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

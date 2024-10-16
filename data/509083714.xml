@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:509083714</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:509083714">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2006-03-16</databaseDate>
+            <changeDate>2024-01-23</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>509083714</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">509083714</identifier>
+                <identifier type="doi">10.25643/bauhaus-universitaet.737</identifier>
+                <identifier type="firstid">GBV:509083714</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">http://nbn-resolving.de/urn:nbn:de:gbv:wim2-20060221-7754</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1644961253</identifier>
+                    <creationDate>2016-11-08</creationDate>
+                    <selectionKey>zdo</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">170, 32 S. = 6072 Kb, text</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Entwicklung eines Verfahrens zur Beurteilung der Verkehrsqualität auf Straßen mit 2+1-Verkehrsführung</title>
+            <abstracts>
+                <abstract xml:lang="de">Die vorliegende Arbeit hatte zum Ziel, für Strecken mit 2+1-Verkehrsführung (Straßentyp RQ 15,5) ein Verfahren zum Nachweis der Verkehrsqualität zu entwickeln. Dabei wurden in einem ersten Schritt zunächst für freie Streckenabschnitte Beziehungen zwischen den Verkehrsstärken (q) und den mittleren Pkw-Reisegeschwindigkeiten (v) ermittelt und darauf aufbauend ein Bemessungsverfahren abgeleitet. In einem zweiten Schritt wurde das Verfahren erweitert, um für den Fall der Einbindung planfreier Knotenpunkte ebenfalls eine Bewertung vornehmen zu können. Bislang standen in Deutschland keine ausreichenden Erkenntnisse über den Zusammenhang zwischen q und v für Strecken mit einem RQ 15,5 zur Verfügung. Eine Literaturanalyse ergab, dass sich frühere Untersuchungen mehrheitlich mit dem Aspekt der Verkehrssicherheit beschäftigten. Somit stellten die eigenen Messungen und die daran anschließende Ergänzung von Daten mit Hilfe einer mikroskopischen Verkehrsflusssimulation den Schwerpunkt der Untersuchung dar. ...</abstract>
+            </abstracts>
+            <contributors>
+                <contributor>
+                    <contributor>Baselau, Christian</contributor>
+                </contributor>
+            </contributors>
+            <responsible>von Christian Baselau</responsible>
+            <publicationInfo>
+                <issued>2006</issued>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Weimar, Univ., Fak. Bauing., Diss., 2006</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>graph. Darst</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druckausg.</label>
+                <title>Entwicklung eines Verfahrens zur Beurteilung der Verkehrsqualität auf Straßen mit 2+1-Verkehrsführung</title>
+                <identifier type="ppn">508991609</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="10642064X" classificationName="bk">
+                    <code>55.84</code>
+                    <entries>
+                        <entry>Straßenverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>380</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4600</code>
+                </classification>
+                <classification classificationID="106411934" classificationName="bk">
+                    <code>56.24</code>
+                    <entries>
+                        <entry>Straßenbau</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>388.31420151</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>bau</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4183586-4" type="gnd">
+                    <subject xml:lang="de">Straßenquerschnitt</subject>
+                </subject>
+                <subject id="4288650-8" type="gnd">
+                    <subject xml:lang="de">Dreistreifige Landstraße</subject>
+                </subject>
+                <subject id="4062902-8" type="gnd">
+                    <subject xml:lang="de">Verkehrsablauf</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://nbn-resolving.de/urn:nbn:de:gbv:wim2-20060221-7754</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

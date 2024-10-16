@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1658902394</identifier><datestamp>2024-06-14</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1658902394">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2014-08-25</databaseDate>
+            <changeDate>2023-04-23</changeDate>
+            <ftxCreationDate>2024-06-14</ftxCreationDate>
+            <documentID>1658902394</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1658902394</identifier>
+                <identifier type="doi">10.1007/978-3-658-02419-2</identifier>
+                <identifier type="firstid">BSZ:412880067</identifier>
+                <identifier type="isbn13">9783658024192</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="cover" type="url">https://swbplus.bsz-bw.de/bsz412880067cov.jpg</location>
+                <location subtype="toc" type="url">https://external.dandelon.com/download/attachments/dandelon/ids/DE002B7FC5A327068DC6FC1257D7E003AE2FC.pdf</location>
+                <location subtype="fulltext" type="url">https://doi.org/10.1007/978-3-658-02419-2</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4195278716</identifier>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2022-10-08</creationDate>
+                    <selectionKey>zesp</selectionKey>
+                    <loanIndicator>s</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1499079362</identifier>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2014-08-19</creationDate>
+                    <selectionKey>zesp</selectionKey>
+                    <loanIndicator>s</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online-Ressource (XVII, 507 S. 300 Abb, online resource)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Bussysteme in der Fahrzeugtechnik : Protokolle, Standards und Softwarearchitektur</title>
+            <abstracts>
+                <abstract xml:lang="de">Bussysteme, Protokolle, Standards und Softwarearchitektur -- Physical und Data Link Layer für CAN, CAN FD, LIN, FlexRay, MOST, Automotive Ethernet, SAE J1939, K-Line, SENT, PSI5, ASRB, DSI, Car-to-Car -- Transportprotokolle -- Diagnoseprotokolle UDS, KWP 2000, OBD, DoIP -- Applikation und Diagnose mit ASAM FIBEX, ODX, OTX -- Softwarestandards: OSEK, HIS, AUTOSAR, Flashlader -- Zeitverhalten von Bus und Betriebssystem -- Werkzeuge, Anwendungen und Einsatzgebiete.</abstract>
+                <abstract xml:lang="de">Dieses Fachbuch gibt einen Überblick über die in der Kfz-Elektronik verbreiteten Bussysteme wie CAN, FlexRay, LIN oder MOST, deren Protokolle und die Softwarearchitektur moderner Steuergeräte. Die Beschreibung erfolgt aus der Sicht von Ingenieuren, die diese Systeme in der Praxis einsetzen und in Fahrzeuge integrieren müssen. Ausführlich wird auf die höheren Schichten der ISO, SAE und ASAM-Transport- und Diagnoseprotokolle sowie deren Anwendung eingegangen. Neben der Kommunikation wird die Softwarearchitektur der Steuergeräte mit Betriebssystem und Basissoftware vorgestellt, wie sie im Rahmen von AUTOSAR, OSEK/VDX und HIS definiert werden. Neu in dieser Auflage wurden CAN FD, Automotive Ethernet, OTX und WWH-OBD aufgenommen. Der Inhalt Bussysteme, Protokolle, Standards und Softwarearchitektur - Physical und Data Link Layer für CAN, CAN FD, LIN, FlexRay, MOST, Automotive Ethernet, SAE J1939, K-Line, SENT, PSI5, ASRB, DSI, Car-to-Car - Transportprotokolle - Diagnoseprotokolle UDS, KWP 2000, OBD, DoIP - Applikation und Diagnose mit ASAM FIBEX, ODX, OTX - Softwarestandards: OSEK, HIS, AUTOSAR, Flashlader - Zeitverhalten von Bus und Betriebssystem - Werkzeuge, Anwendungen und Einsatzgebiete Die Zielgruppen Entwicklungs- und Applikationsingenieure in der Automobil- und Zulieferindustrie Studierende der Kfz-Elektrik/Elektronik, Mechatronik, Technischen Informatik, Softwaretechnik, Maschinenbau/Kraftfahrzeugtechnik Die Autoren Prof. Dr.-Ing. Werner Zimmermann lehrt Regelungstechnik, Systementwurf, Digital- und Rechnersysteme an der Hochschule Esslingen und war vorher bei der Robert Bosch GmbH für die Steuergeräteentwicklung von Dieselfahrzeugen verantwortlich. Dr. Ralf Schmidgall ist in der Entwicklung Fahrzeugdiagnose der Daimler AG tätig. Zuvor sammelte er Erfahrungen in der Entwicklung von Flash-Bootladern in der Kfz-Zulieferindustrie.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Zimmermann, Werner</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Schmidgall, Ralf</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">131612395</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>von Werner Zimmermann, Ralf Schmidgall</responsible>
+            <publicationInfo>
+                <issued>2014</issued>
+                <edition>5., aktualisierte und erw. Aufl. 2014</edition>
+                <publicationPlaces>
+                    <publicationPlace>Wiesbaden</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer Vieweg</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-2-SEB</identifier>
+                    <identifier type="collectioncode">ZDB-2-STI</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>ATZ/MTZ-Fachbuch</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>SpringerLink</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>Bücher</title>
+                </journalInfo>
+                <publicationIDInfo>Description based upon print version of record</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Campusweiter Zugriff (Universität Hannover) - Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Keine Weitergabe an Dritte. Kein systematisches Downloaden durch Robots.</description>
+            <description>Erworben aus Studienbeiträgen</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druckausg.</label>
+                <title>Bussysteme in der Fahrzeugtechnik</title>
+                <identifier type="ppn">774407069</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-2-SEB</identifier>
+                <identifier type="collectioncode">ZDB-2-STI</identifier>
+            </related>
+            <related type="parent">
+                <title>ATZ/MTZ-Fachbuch</title>
+            </related>
+            <related type="parent">
+                <title>SpringerLink</title>
+            </related>
+            <related type="parent">
+                <title>Bücher</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>TK1-9971</code>
+                </classification>
+                <classification classificationID="106418033" classificationName="bk">
+                    <code>53.16</code>
+                    <entries>
+                        <entry>Elektrische und elektronische Steuerungs- und Regelungssysteme</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4250</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>621.382</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Engineering</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Electronic equipment</subject>
+                </subject>
+                <subject id="4191569-0" type="gnd">
+                    <subject xml:lang="de">Kraftfahrzeugelektronik</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Electrical engineering.</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Motor vehicles</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Telecommunication</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Speech processing systems.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Image processing.</subject>
+                </subject>
+                <subject id="4128252-8" type="gnd">
+                    <subject xml:lang="de">Kommunikationsprotokoll</subject>
+                </subject>
+                <subject id="4122982-4" type="gnd">
+                    <subject xml:lang="de">Bus (Informatik)</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Controller area network</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Buses</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Electronic circuits.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Systems engineering</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Computer engineering</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Signal processing.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Automotive engineering.</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Microcomputers</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://doi.org/10.1007/978-3-658-02419-2</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

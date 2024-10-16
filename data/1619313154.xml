@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1619313154</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1619313154">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2016-04-12</databaseDate>
+            <changeDate>2023-02-24</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1619313154</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1619313154</identifier>
+                <identifier type="ean">9781593277031</identifier>
+                <identifier type="firstid">DNB:1081434562</identifier>
+                <identifier type="isbn13">9781593277031</identifier>
+                <identifier type="isbn">1593277032</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="description" type="url">http://deposit.d-nb.de/cgi-bin/dokserv?id=169e03ad7bc94084abcb8e172d585aa9&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</location>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/bowker/toc/9781593277031.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1601959974</identifier>
+                    <creationDate>2016-10-18</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 16 B 3340</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xxv, 277 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>The car hacker's handbook : a guide for the penetration tester</title>
+            <abstracts>
+                <abstract xml:lang="de">"A technical guide that shows how to identify network security risks, exploit software vulnerabilities, and gain a deeper understanding of vehicle software. Covers how navigation systems can be hacked to take control of vehicles, system interconnectivity, and how to bypass dealership restrictions to diagnose and troubleshoot problems"--</abstract>
+                <abstract xml:lang="de">Policies and guidelines -- Threat modeling -- Vehicle communications -- Utilizing the Linux SocketCAN interface -- Diagnostic communications -- CAN Bus RE -- ECU hacking -- ECU test benches -- Infotainment systems -- Vehicle to vehicle -- Weaponizing -- TPMS -- Keysystems -- Hotwiring -- Embedded system attack -- Performance tuning</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Smith, Craig</contributor>
+                </contributor>
+                <contributor type="participant">
+                    <type>participant</type>
+                    <contributor>Blundell, Dave</contributor>
+                </contributor>
+                <contributor type="participant">
+                    <type>participant</type>
+                    <contributor>Evans, Chris</contributor>
+                </contributor>
+            </contributors>
+            <responsible>by Craig Smith</responsible>
+            <publicationInfo>
+                <issued>2016</issued>
+                <publicationPlaces>
+                    <publicationPlace>San Francisco</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>No Starch Press</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Includes index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>004</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.2/72</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4650</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>004</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4250</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ST 620</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL272.53</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ST 277</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ST 276</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Automobiles</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Automotive computers</subject>
+                </subject>
+                <subject id="4016321-0" type="gnd">
+                    <subject xml:lang="de">Fahrzeugbau</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Penetration testing (Computer security)</subject>
+                </subject>
+                <subject id="4014390-9" type="gnd">
+                    <subject xml:lang="de">Elektrotechnik</subject>
+                </subject>
+                <subject id="4054790-5" type="gnd">
+                    <subject xml:lang="de">Sicherheit</subject>
+                </subject>
+                <subject id="4014346-6" type="gnd">
+                    <subject xml:lang="de">Elektronik</subject>
+                </subject>
+                <subject id="4825817-9" type="gnd">
+                    <subject xml:lang="de">Penetrationstest</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

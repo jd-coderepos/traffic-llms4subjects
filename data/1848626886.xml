@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1848626886</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1848626886">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2023-06-09</databaseDate>
+            <changeDate>2024-05-22</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1848626886</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1848626886</identifier>
+                <identifier type="firstid">KXP:1848626886</identifier>
+                <identifier type="isbn13">9781119883302</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1848626886.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">436480309X</identifier>
+                    <creationDate>2024-01-05</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 23 B 2441</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xv, 432 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Highway engineering</title>
+            <abstracts>
+                <abstract xml:lang="de">"Highway Engineering covers all the necessary foundational material needed by civil engineers to address the analysis, design, and construction of highways. It covers central topics such as geometric, junction and pavement design, structural design, and pavement maintenance, while also ensuring students obtain an adequate grasp of traffic analysis. It places the topic in context by introducing the economic, political, social, environmental, and administrative dimensions of the subject -- essential understanding for all engineers. Highway Engineering makes frequent reference to the Department of Transport's Design Manual for Roads and Bridges and moves in a logical sequence from the planning and economic justification for a highway, through the geometric design and traffic analysis of highway links and intersections, including analysis for the increasingly important non-car-based modes of transport, to the design and maintenance of both flexible and rigid pavements"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Rogers, Martin Gerard</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Enright, Bernard</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Martin Rogers (Martin Rogers Consulting Ltd.), Bernard Enright (Technological University Dublin)</responsible>
+            <publicationInfo>
+                <issued>2023</issued>
+                <edition>Fourth edition</edition>
+                <publicationPlaces>
+                    <publicationPlace>Hoboken, NJ</publicationPlace>
+                    <publicationPlace>Chichester, West Sussex</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Wiley Blackwell</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="10642064X" classificationName="bk">
+                    <code>55.84</code>
+                    <entries>
+                        <entry>Straßenverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TE145</code>
+                </classification>
+                <classification classificationID="106411934" classificationName="bk">
+                    <code>56.24</code>
+                    <entries>
+                        <entry>Straßenbau</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>625.7</code>
+                </classification>
+                <classification classificationID="106410164" classificationName="bk">
+                    <code>56.23</code>
+                    <entries>
+                        <entry>Brückenbau</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>bau</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4225587-9" type="gnd">
+                    <subject xml:lang="de">Straßenplanung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Highway engineering</subject>
+                </subject>
+                <subject id="4057887-2" type="gnd">
+                    <subject xml:lang="de">Straßenbau</subject>
+                </subject>
+                <subject id="4192667-5" type="gnd">
+                    <subject xml:lang="de">Straßenunterhaltung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

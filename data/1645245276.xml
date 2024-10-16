@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1645245276</identifier><datestamp>2024-06-14</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1645245276">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2007-05-03</databaseDate>
+            <changeDate>2023-05-15</changeDate>
+            <ftxCreationDate>2024-06-14</ftxCreationDate>
+            <documentID>1645245276</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1645245276</identifier>
+                <identifier type="doi">10.1007/3-540-28305-6</identifier>
+                <identifier type="firstid">BSZ:26435334X</identifier>
+                <identifier type="isbn13">9783540283058</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="cover" type="url">https://swbplus.bsz-bw.de/bsz26435334xcov.jpg</location>
+                <location subtype="toc" type="url">https://swbplus.bsz-bw.de/bsz117417890inh.htm</location>
+                <location subtype="description" type="url">https://swbplus.bsz-bw.de/bsz117417890vlg.htm</location>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/bowker/toc/9783540283058.pdf</location>
+                <location subtype="fulltext" type="url">https://doi.org/10.1007/3-540-28305-6</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">814895026</identifier>
+                    <recallSign>OLR-SEB</recallSign>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2012-01-11</creationDate>
+                    <selectionKey>zesp</selectionKey>
+                    <loanIndicator>s</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online-Ressource (XXIV, 445 S. 84 Abb, digital)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Automotive Embedded Systeme : Effizientes Framework — Vom Design zur Implementierung</title>
+            <abstracts>
+                <abstract xml:lang="de">Bausteine eines Embedded Frameworks -- Ein Infotainment-System -- Anforderungen an ein Embedded Automotive Framework -- Betriebssysteme -- Design-Rules und Konventionen -- Speicherverwaltung -- Embedded Speicherkonzepte, spezielle Muster -- Prozesse und POSIX-Threads -- Inter-Prozess-Kommunikationskanäle, IPC -- Gemeinsame Nutzung von Code -- Synchronisierungsmechanismen für Prozesse und Threads -- Kommunikation per Events -- Event-Verarbeitung -- Zustandsautomaten -- Externer Kommunikationskanal: MOST-Bus -- Das Framework -- Das Framework -- OS-Grundmechanismen -- Komponentenarchitektur -- Main-Dispatcher-Komponente -- Modell-Komponenten, logische Geräte -- HMI-Komponente -- Persistenz-Controller und On/Off-Konzepte -- Codegenerierung -- Sonstige Aspekte.</abstract>
+                <abstract xml:lang="de">Die Entwicklung hochkomplexer automotiver Infotainmentsysteme bestehend aus einer Headunit mit Bedienelementen, dem Gateway als Brücke zwischen Kfz-Bus und CAN und weiteren Komponenten wie Audio- und Videoelementen, Kommunikationseinheiten, Navigationssystemen und Sensorik erfordert solides Domänenwissen und umfassendes Know-how im Software-Engineering. Das vorliegende Buch gibt eine fundierte Darstellung der softwareseitigen Implementierung dieser Komponenten innerhalb eines Frameworks, das die Designziele, Architekturmerkmale und Kommunikationsprozesse definiert. Im ersten Teil des Buches werden wichtige Grundlagen zu Eingebetteten Systemen und den für diese Systeme charakteristischen Methoden des Software-Engineerings vermittelt. Insbesondere werden dabei die Themen Speichermanagement und Systemperformance sowie grundlegende Mechanismen von Betriebssystemen betrachtet. Im zweiten Teil wird eine konkrete, objektorientierte Implementierung eines Frameworks dargestellt, und diese Implementierung zeigt die Umsetzung besonders effizienter Sychronisations- und Kommunikationsprozesse innerhalb einer kompakten und hochperformanten Systemarchitektur.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor>
+                    <contributor>Wietzke, Joachim</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Tran, Manh Tien</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">113689853</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>by Joachim Wietzke, Manh Tien Tran</responsible>
+            <publicationInfo>
+                <issued>2005</issued>
+                <publicationPlaces>
+                    <publicationPlace>Berlin, Heidelberg</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer-Verlag Berlin Heidelberg</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-2-SEB</identifier>
+                    <identifier type="collectioncode">ZDB-2-STI</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>Xpert.press</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>SpringerLink</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>Bücher</title>
+                </journalInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Campusweiter Zugriff (Universität Hannover) - Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Keine Weitergabe an Dritte. Kein systematisches Downloaden durch Robots.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Buchausg. u.d.T.</label>
+                <title>Automotive Embedded Systeme</title>
+                <identifier type="ppn">485262177</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-2-SEB</identifier>
+                <identifier type="collectioncode">ZDB-2-STI</identifier>
+            </related>
+            <related type="parent">
+                <title>Xpert.press</title>
+            </related>
+            <related type="parent">
+                <title>SpringerLink</title>
+            </related>
+            <related type="parent">
+                <title>Bücher</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>004</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>004</code>
+                </classification>
+                <classification classificationID="106418882" classificationName="bk">
+                    <code>54.52</code>
+                    <entries>
+                        <entry>Software engineering</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4250</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ST 153</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>005.1</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>QA76.76.O63</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>QA76.758</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>inf</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Computer network architectures</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Computer Science</subject>
+                </subject>
+                <subject id="4191569-0" type="gnd">
+                    <subject xml:lang="de">Kraftfahrzeugelektronik</subject>
+                </subject>
+                <subject id="4006216-8" type="gnd">
+                    <subject xml:lang="de">Betriebssystem</subject>
+                </subject>
+                <subject id="4139374-0" type="gnd">
+                    <subject xml:lang="de">Architektur (Informatik)</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Electrical engineering.</subject>
+                </subject>
+                <subject id="4658795-0" type="gnd">
+                    <subject xml:lang="de">Infotainment</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Computer science</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Software Engineering</subject>
+                </subject>
+                <subject id="4182146-4" type="gnd">
+                    <subject xml:lang="de">Speicherverwaltung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Embedded computer systems</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Computer programming.</subject>
+                </subject>
+                <subject id="4439521-8" type="gnd">
+                    <subject xml:lang="de">Komponente (Software)</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Software engineering</subject>
+                </subject>
+                <subject id="4125909-9" type="gnd">
+                    <subject xml:lang="de">Mensch-Maschine-Kommunikation</subject>
+                </subject>
+                <subject id="4210346-0" type="gnd">
+                    <subject xml:lang="de">Feldbus</subject>
+                </subject>
+                <subject id="4396978-1" type="gnd">
+                    <subject xml:lang="de">Eingebettetes System</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Operating systems (Computers)</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Architecture, Computer.</subject>
+                </subject>
+                <subject id="4121677-5" type="gnd">
+                    <subject xml:lang="de">Softwarearchitektur</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://doi.org/10.1007/3-540-28305-6</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

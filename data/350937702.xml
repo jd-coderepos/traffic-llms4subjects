@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:350937702</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:350937702">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2002-07-23</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>350937702</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">350937702</identifier>
+                <identifier type="firstid">GBV:350937702</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="cover" type="url">http://www.fahrradfreundlich.nrw.de/cache/pica/0/8/7/3/33311165155898/FahrRad-in-NRW.jpg</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">608646091</identifier>
+                    <creationDate>2003-07-14</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">T 03 B 3348</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">113 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>FahrRad in NRW!</title>
+            <abstracts>
+                <abstract xml:lang="de">"FahrRad in NRW!" ist das Handbuch für jeden, der sich in Nordrhein-Westfalen über das Fahrradfahren informieren will - egal ob aus professionellen Gründen oder einfach nur aus Interesse. Auf 113 Seiten beschreibt das NRW-Verkehrsministerium darin mit Fotos und Beispielen die vier Säulen der Radverkehrsförderung in NRW: Infrastruktur, Service, Information und Kommunikation.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Nordrhein-Westfalen, Ministerium für Wirtschaft und Mittelstand, Energie und Verkehr</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">10016560-6</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <responsible>Ministerium für Wirtschaft und Mittelstand, Energie und Verkehr des Landes Nordrhein-Westfalen</responsible>
+            <publicationInfo>
+                <issued>2002</issued>
+                <publicationPlaces>
+                    <publicationPlace>Düsseldorf</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Ministerium für Wirtschaft und Mittelstand, Energie und Verkehr des Landes Nordrhein-Westfalen</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Mobil: NRW</title>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst., Kt</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Mobil: NRW</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="dbn">
+                    <code>41</code>
+                </classification>
+                <classification classificationID="181570637" classificationName="bk">
+                    <code>55.81</code>
+                    <entries>
+                        <entry>Personenverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4048155-4" type="gnd">
+                    <subject xml:lang="de">Radfahren</subject>
+                </subject>
+                <subject id="4042570-8" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Nordrhein-Westfalen</subject>
+                </subject>
+                <subject id="4076473-4" type="gnd">
+                    <subject xml:lang="de">Radfahrerverkehr</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

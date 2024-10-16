@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:273837184</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:273837184">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2008-04-28</databaseDate>
+            <changeDate>2024-01-11</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>273837184</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">273837184</identifier>
+                <identifier type="firstid">GBV:273837184</identifier>
+                <identifier type="isbn">3822503959</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="miscellaneous" type="url">https://www.dsm.museum/seebuch/</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">232408432</identifier>
+                    <creationDate>1997-03-25</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">RA 4776(44)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">256 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Das "Seebuch" : das älteste erhaltene Seehandbuch und die spätmittelalterliche Navigation in Nordwesteuropa</title>
+            <abstracts>
+                <abstract xml:lang="de">zu: Mittelalterliches Seebuch = S/72</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Sauer, Albrecht</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">129578614</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Albrecht Sauer</responsible>
+            <publicationInfo>
+                <issued>1996</issued>
+                <publicationPlaces>
+                    <publicationPlace>Hamburg</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Kabel</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Schriften des Deutschen Schiffahrtsmuseums</title>
+                    <volumeNumber>44</volumeNumber>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Zugl.: Berlin, Freie Univ., Diss., 1993</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+                <publicationIDInfo>Zusammenfassung in engl., franz. und russ.</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Schriften des Deutschen Schiffahrtsmuseums</title>
+                <volumeNumber>44</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>VK811</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>41</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>31</code>
+                </classification>
+                <classification classificationID="106413805" classificationName="bk">
+                    <code>55.41</code>
+                    <entries>
+                        <entry>Schiffe</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>31</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>623.89/2233</code>
+                </classification>
+                <classification classificationID="106421808" classificationName="bk">
+                    <code>55.01</code>
+                    <entries>
+                        <entry>Geschichte des Verkehrswesens</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Atlantic Coast (Europe)</subject>
+                </subject>
+                <subject id="4054184-8" type="gnd">
+                    <subject xml:lang="de">Seeschifffahrt</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Nordwesteuropa</subject>
+                </subject>
+                <subject id="4041447-4" type="gnd">
+                    <subject xml:lang="de">Nautik</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Nautik</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Seeschiffahrt</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Early works to 1800</subject>
+                </subject>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte 1470</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Pilot guides</subject>
+                </subject>
+                <subject id="4075488-1" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Nordwesteuropa</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

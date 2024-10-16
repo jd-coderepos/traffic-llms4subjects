@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:197964540</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:197964540">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1996-05-08</databaseDate>
+            <changeDate>2024-03-28</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>197964540</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">197964540</identifier>
+                <identifier type="firstid">GBV:197964540</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">185519458</identifier>
+                    <creationDate>1996-05-08</creationDate>
+                    <selectionKey>r</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">AA 4672</location>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">VII, 273 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Railroads and regulation : 1877-1916</title>
+            <abstracts>
+                <abstract xml:lang="de">Gabriel Kolko, a left-leaning historian, wrote his Ph.D. thesis to identify the forces that brought railroads under regulation at the end of the 19th century. It was the railroad barons themselves who eventually sought regulation (and thereby brought it about). Kolko recounts the customer protests against high rates, especially for short-haul service, and the cycles of boom and bust, when competition caused railroads to overbuild, and then underprice their services. The railroad industry eventually sought regulation as a means of dividing up the market and ending ruinous competition. This book debunks the common view that Teddy Roosevelt and the progressives, acting at the urging of angry farmers and other customers, forced government to assert regulatory control over the railroads.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Kolko, Gabriel</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">120929007</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>by Gabriel Kolko</responsible>
+            <publicationInfo>
+                <issued>1965</issued>
+                <publicationPlaces>
+                    <publicationPlace>Princeton, NJ</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Princeton Univ. Pr</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>8°</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loksys">
+                    <code>jur 308</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>385.10973</code>
+                </classification>
+                <classification classificationID="181569760" classificationName="bk">
+                    <code>15.87</code>
+                    <entries>
+                        <entry>USA</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106420666" classificationName="bk">
+                    <code>55.85</code>
+                    <entries>
+                        <entry>Schienenverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>his</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4078704-7" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">USA</subject>
+                </subject>
+                <subject id="4014015-5" type="gnd">
+                    <subject xml:lang="de">Eisenbahn</subject>
+                </subject>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte 1877-1916</subject>
+                </subject>
+                <subject id="4201190-5" type="gnd">
+                    <subject xml:lang="de">Regulierung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

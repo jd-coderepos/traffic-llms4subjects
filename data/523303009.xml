@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:523303009</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:523303009">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2007-03-16</databaseDate>
+            <changeDate>2024-01-30</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>523303009</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">523303009</identifier>
+                <identifier type="firstid">GBV:523303009</identifier>
+            </identifiers>
+            <locations>
+                <location mimetype="application/pdf" subtype="fulltext" type="url">https://edocs.tib.eu/files/e01dd01/523303009.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">834463202</identifier>
+                    <creationDate>2007-09-14</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online-Ressource</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Einsatz moderner Software-Techniken bei der Multidisziplinären Optimierung wiederverwendbarer Raumtransporter</title>
+            <alternativeTitles>
+                <alternative type="earlier">Application of modern software techniques for the multidisciplinary optimization of reusable space vehicles</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">This thesis presents a multidisciplinary analysis tool RTSOPT for the simultaneous trajectory and system optimization of reusable launch vehicles. This software package has been devel-oped at the Space Systems Institute, University of Stuttgart over 20 years. In this work the tool has been revised fundamentally, updated and improved both from the algorithmic and software point of view while maintaining the principal methodology, model assumptions and the system dynamics for the flight simulation. The flexibility and performance increase achieved is dem-onstrated by using this software package to perform system analyses of the partly-reusable launch vehicle Hopper  the central concept of the national technology program ASTRA. Hopper consists of a reusable, unmanned, and winged main stage and an expendable upper stage. The main stage is powered by three cryogenic Vulcain 3 engines  a future version of the Ariane 5 main engine. The upper stage is powered by a cryogenic Vinci engine...</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Kalden, Osman</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">132459043</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>vorgelegt von Osman Kalden</responsible>
+            <publicationInfo>
+                <issued>2006</issued>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Niedersächsische Staats- und Universitätsbibliothek</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Stuttgart, Univ., Diss., 2006</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+                <publicationIDInfo>Auch als gedr. Ausg. erschienen</publicationIDInfo>
+            </additionalDocumentInfo>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druckausg. u.d.T.</label>
+                <title>Einsatz moderner Software-Techniken bei der multidisziplinären Otmimierung wiederverwendbarer Raumtransporter</title>
+                <identifier type="ppn">1330253884</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.4410113</code>
+                </classification>
+                <classification classificationName="ssg">
+                    <code>16,12</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="106410334" classificationName="bk">
+                    <code>55.60</code>
+                    <entries>
+                        <entry>Raumfahrttechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="10642050X" classificationName="bk">
+                    <code>50.31</code>
+                    <entries>
+                        <entry>Technische Mechanik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Trägerrakete</subject>
+                </subject>
+                <subject id="4154760-3" type="gnd">
+                    <subject xml:lang="de">Flugmechanik</subject>
+                </subject>
+                <subject id="4129359-9" type="gnd">
+                    <subject xml:lang="de">Flugleistung</subject>
+                </subject>
+                <subject id="4390818-4" type="gnd">
+                    <subject xml:lang="de">Optimierungsproblem</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Raumfahrt</subject>
+                </subject>
+                <subject id="4183811-7" type="gnd">
+                    <subject xml:lang="de">Strukturoptimierung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Raumtransporter</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Optimierung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Nichtlineare Optimierung</subject>
+                </subject>
+                <subject id="4177083-3" type="gnd">
+                    <subject xml:lang="de">Raumtransporter</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">default</property>
+            <property name="displaySubscriberAccess">https://edocs.tib.eu/files/e01dd01/523303009.pdf</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

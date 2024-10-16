@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:039907031</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:039907031">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1995-08-04</databaseDate>
+            <changeDate>2024-01-08</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>039907031</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">039907031</identifier>
+                <identifier type="firstid">GBV:039907031</identifier>
+                <identifier type="isbn">3499162849</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">013389831</identifier>
+                    <creationDate>1985-05-15</creationDate>
+                    <selectionKey>n</selectionKey>
+                    <location type="tibLocationCode">L ver 300</location>
+                    <location type="tibShelfmark">RA 40(6284)</location>
+                    <loanIndicator>c</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">215 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Lexikon der Schiffahrt : über 3000 Begriffe von Aalregatta bis Zwischendeck aus Handelsschiffahrt und Segelsport</title>
+            <abstracts>
+                <abstract xml:lang="de">Originalausgabe</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Westphal, Gerhard</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Westphahl, Gerhard</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Gerhard Westphal</responsible>
+            <publicationInfo>
+                <issued>1981</issued>
+                <edition>Orig.-Ausg.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Reinbek b. Hamburg</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Rowohlt-Taschenbuch-Verl.</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Rororo</title>
+                    <volumeNumber>6284</volumeNumber>
+                </journalInfo>
+                <journalInfo>
+                    <title>rororo-Handbuch</title>
+                </journalInfo>
+                <publicationIDInfo>Originalausgabe</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>19 cm</description>
+            <description>Ill., graph. Darst</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Rororo</title>
+                <volumeNumber>6284</volumeNumber>
+            </related>
+            <related type="parent">
+                <title>rororo-Handbuch</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106421832" classificationName="bk">
+                    <code>55.86</code>
+                    <entries>
+                        <entry>Schiffsverkehr, Schifffahrt</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loksys">
+                    <code>ver 300 a</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>41</code>
+                </classification>
+                <classification classificationName="loksys">
+                    <code>ver 424 a</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>623.8/03/31</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Schiffahrt / Lexikon, Wörterbuch</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Schiff / Lexikon, Wörterbuch</subject>
+                </subject>
+                <subject id="4116383-7" type="gnd">
+                    <subject xml:lang="de">Schifffahrt</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

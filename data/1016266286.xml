@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1016266286</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1016266286">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2018-03-22</databaseDate>
+            <changeDate>2024-04-23</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>1016266286</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1016266286</identifier>
+                <identifier type="firstid">GBV:1016266286</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">http://nbn-resolving.de/urn:nbn:de:gbv:ilm1-2017000691</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1787969274</identifier>
+                    <creationDate>2018-07-26</creationDate>
+                    <selectionKey>zdt</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-101</isil>
+            </preservation>
+            <preservation procedure="digital-preservation">
+                <isil>DE-27</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">xvi, 215 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Energiemanagement Ethernet-basierter Fahrzeugnetze</title>
+            <abstracts>
+                <abstract xml:lang="de">Die Einführung von Ethernet als Vernetzungstechnologie für neue Fahrzeuggenerationen eröffnet ein weites Feld an Möglichkeiten für vernetzte Funktionen und Systeme im Automobil. Die wachsende Anzahl elektronischer Systeme heutiger Fahrzeuge hat jedoch auch einen zunehmend deutlichen Anteil am gesamten Energiebedarf und damit einhergehend an Kraftstoffverbrauch und CO2-Emission. Gleichzeitig steigt das Bestreben, Fahrzeuge effizienter zu gestalten, um Energieverbrauch und Emissionen zu reduzieren. Neben der Erhöhung der Energieeffizienz der einzelnen Komponenten ist das selektive Abschalten vernetzter Steuergeräte während des Betriebs des Fahrzeugs (Teilnetzbetrieb) ein Mittel zur Optimierung der Leistungsaufnahme der Bordelektronik. In der vorliegenden Arbeit werden Konzepte zur Umsetzung von Teilnetzbetrieb für Ethernet-basierte Netzwerke vorgeschlagen. Um Steuergeräte durch das Netzwerk aufwecken zu können wurde ein ruhestromloser Weckempfänger entwickelt, realisiert und getestet. Zur Koordination des Teilnetzbetriebs wurden zwei Netzwerkmanagement-Protokolle erarbeitet, implementiert und evaluiert. Die beschriebenen Konzepte wurden in einem Testfahrzeug unter realen Bedingungen eingesetzt und erprobt.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="degree-granting-institution">
+                    <type>degree-granting-institution</type>
+                    <name>Technische Universität Ilmenau</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2125187-3</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+                <corporateCreator type="publisher">
+                    <type>publisher</type>
+                    <name>Universitätsverlag Ilmenau</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">7635051-4</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Balbierer, Norbert</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1152079964</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Seitz, Jochen</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">13002077X</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Waas, Thomas</contributor>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Kucera, Markus</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Norbert Balbierer</responsible>
+            <publicationInfo>
+                <issued>2018</issued>
+                <publicationPlaces>
+                    <publicationPlace>Ilmenau</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Universitätsverlag Ilmenau</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2018</dateAccepted>
+                        <description>Dissertation, Technische Universität Ilmenau</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme (teilweise farbig)</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Energiemanagement Ethernet-basierter Fahrzeugnetze</title>
+                <identifier type="ppn">1016176791</identifier>
+                <identifier type="isbn13">9783863601751</identifier>
+                <identifier type="isbn">3863601750</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.272</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="10640623X" classificationName="bk">
+                    <code>54.32</code>
+                    <entries>
+                        <entry>Rechnerkommunikation</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>inf</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4359141-3" type="gnd">
+                    <subject xml:lang="de">Vernetzung</subject>
+                </subject>
+                <subject id="4191569-0" type="gnd">
+                    <subject xml:lang="de">Kraftfahrzeugelektronik</subject>
+                </subject>
+                <subject id="4333112-9" type="gnd">
+                    <subject xml:lang="de">Teilnetz</subject>
+                </subject>
+                <subject id="4513722-5" type="gnd">
+                    <subject xml:lang="de">Abschaltung</subject>
+                </subject>
+                <subject id="7660153-5" type="gnd">
+                    <subject xml:lang="de">Energieeffizienz</subject>
+                </subject>
+                <subject id="4124833-8" type="gnd">
+                    <subject xml:lang="de">Energiemanagement</subject>
+                </subject>
+                <subject id="4314339-8" type="gnd">
+                    <subject xml:lang="de">Netzwerkverwaltung</subject>
+                </subject>
+                <subject id="103238512X" type="gnd">
+                    <subject xml:lang="de">Steuergerät</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://nbn-resolving.de/urn:nbn:de:gbv:ilm1-2017000691</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:483222364</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:483222364">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2005-04-11</databaseDate>
+            <changeDate>2024-04-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>483222364</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">483222364</identifier>
+                <identifier type="contract">20T0004B</identifier>
+                <identifier type="contract">01018832</identifier>
+                <identifier type="doi">10.2314/GBV:483222364</identifier>
+                <identifier type="firstid">GBV:483222364</identifier>
+            </identifiers>
+            <locations>
+                <location mimetype="application/pdf" subtype="fulltext" type="url">https://edocs.tib.eu/files/e01fb05/483222364.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">714858544</identifier>
+                    <creationDate>2005-04-11</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-89</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">Online-Ressource (34 S., 1,11 MB)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Integrated Total Engine Management (ITEM) - Vibroakustische Diagnose an Flugzeugtriebwerken : Abschlussbericht ; Laufzeit des Vorhabens: 07/00 bis 12/02</title>
+            <alternativeTitles>
+                <alternative>Integrated Total Engine Management (ITEM) - vibro-acoustic diagnostics on aircraft engines</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Vibrations, diagnostics, aircraft engine, APU</abstract>
+            </abstracts>
+            <contributors>
+                <contributor>
+                    <contributor>Pritzkow, Christian</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Rennert, Roland</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Autoren des Berichts: Christian Pritzkow; Roland Rennert</responsible>
+            <publicationInfo>
+                <issued>2003</issued>
+                <publicationPlaces>
+                    <publicationPlace>Dresden</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>IMA Materialforschung und Anwendungstechnik</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-296-TTN</identifier>
+                </isPartOf>
+                <publicationIDInfo>Förderkennzeichen BMBF 20T0004B. - Verbund-Nr. 01018832. - Literaturverz. Bl. 34. - Engl. Titel: Integrated Total Engine Management (ITEM) - vibro-acoustic diagnostics on aircraft engines</publicationIDInfo>
+                <publicationIDInfo>Unterschiede zwischen dem gedruckten Dokument und der elektronischen Ressource können nicht ausgeschlossen werden</publicationIDInfo>
+                <publicationIDInfo>Auch als gedr. Ausg. vorh.</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>zahlr. graph. Darst</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-296-TTN</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106410601" classificationName="bk">
+                    <code>52.30</code>
+                    <entries>
+                        <entry>Strömungskraftmaschinen, Turbomaschinen</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mas</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4187137-6" type="gnd">
+                    <subject xml:lang="de">Unwuchtschwingung</subject>
+                </subject>
+                <subject id="4180569-0" type="gnd">
+                    <subject xml:lang="de">Schwingungsverhalten</subject>
+                </subject>
+                <subject id="4128278-4" type="gnd">
+                    <subject xml:lang="de">Luftstrahltriebwerk</subject>
+                </subject>
+                <subject id="4186655-1" type="gnd">
+                    <subject xml:lang="de">Überwachungseinrichtung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">default</property>
+            <property name="displaySubscriberAccess">https://edocs.tib.eu/files/e01fb05/483222364.pdf</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

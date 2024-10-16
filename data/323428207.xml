@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:323428207</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:323428207">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2001-01-05</databaseDate>
+            <changeDate>2024-01-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>323428207</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">323428207</identifier>
+                <identifier type="contract">13N69867</identifier>
+                <identifier type="contract">13N6986</identifier>
+                <identifier type="firstid">GBV:323428207</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="miscellaneous" type="url">https://edocs.tib.eu/files/e001/323428207l.pdf</location>
+                <location mimetype="application/pdf" subtype="fulltext" type="url">https://edocs.tib.eu/files/e001/323428207.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">421854626</identifier>
+                    <creationDate>2001-01-05</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">12 p. = 996 Kb., text and images</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Abschlußbericht zum Teilvorhaben Entwicklung eines inertialen Meßsystems für ein adaptronisches Transportsystem zur Beförderung sensibler Güter : im Unterauftrag der Fa. Carl Schenck AG im Rahmen des Vorhabens Adaptronisches Transportsystem</title>
+            <alternativeTitles>
+                <alternative>Entwicklung eines ineratialen Meßsystems für ein adaptronische Transportsystem zur Beföderung sensibler Güter</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Inertial, navigation, gyroscope, car dynamics, control, stabilisation, tilt technology, laser gyro, fiber optic gyro, surveying</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Carl-Schenck-Aktiengesellschaft, Darmstadt</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2053741-4</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+                <corporateCreator>
+                    <name>iMar GmbH</name>
+                </corporateCreator>
+            </corporateCreators>
+            <responsible>iMAR GmbH</responsible>
+            <publicationInfo>
+                <issued>2000</issued>
+                <edition>[Elektronische Ressource]</edition>
+                <publicationPlaces>
+                    <publicationPlace>St. Ingbert</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Universitätsbibliothek u. Technische Informationsbibliothek</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-296-TTN</identifier>
+                </isPartOf>
+                <publicationIDInfo>Contract BMBF 13 N 6986/7. - Differences between the printed and electronic version of the document are possible</publicationIDInfo>
+                <publicationIDInfo>Also available as printed version</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graphics</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-296-TTN</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106419870" classificationName="bk">
+                    <code>52.23</code>
+                    <entries>
+                        <entry>Fluidtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="sigle">
+                    <code>13F</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mas</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4123857-6" type="gnd">
+                    <subject xml:lang="de">Nutzfahrzeug</subject>
+                </subject>
+                <subject id="4152361-1" type="gnd">
+                    <subject xml:lang="de">Entkopplung</subject>
+                </subject>
+                <subject id="4160866-5" type="gnd">
+                    <subject xml:lang="de">Hydraulische Steuerung</subject>
+                </subject>
+                <subject id="4133846-7" type="gnd">
+                    <subject xml:lang="de">Ladegut</subject>
+                </subject>
+                <subject id="4298060-4" type="gnd">
+                    <subject xml:lang="de">Elektrorheologie</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">default</property>
+            <property name="displaySubscriberAccess">https://edocs.tib.eu/files/e001/323428207.pdf</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

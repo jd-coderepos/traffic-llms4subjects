@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:479463859</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:479463859">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2005-02-16</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>479463859</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">479463859</identifier>
+                <identifier type="contract">2005927900</identifier>
+                <identifier type="contract">11332794</identifier>
+                <identifier type="ean">9783540251958</identifier>
+                <identifier type="firstid">GBV:479463859</identifier>
+                <identifier type="isbn">3540251952</identifier>
+                <identifier type="isbn13">9783540251958</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/hebis-darmstadt/toc/133328554.pdf</location>
+                <location subtype="cover" type="url">https://swbplus.bsz-bw.de/bsz119463318cov.jpg</location>
+                <location subtype="description" type="url">https://swbplus.bsz-bw.de/bsz119463318vlg.htm</location>
+                <location subtype="miscellaneous" type="url">http://www.loc.gov/catdir/enhancements/fy0663/2005927900-d.html</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">713680830</identifier>
+                    <creationDate>2005-10-13</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">T 05 B 6770</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">X, 291 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Vehicle propulsion systems : introduction to modeling and optimization</title>
+            <abstracts>
+                <abstract xml:lang="de">In this book the longitudinal behavior of road vehicles is analyzed. The main emphasis is on the analysis and minimization of the fuel and energy consumption. Most approaches to this problem enhance the complexity of the vehicle system by adding components such as electrical motors or storage devices. Such a complex system can only be designed by means of mathematical models. This text gives an introduction to the modeling and optimization problems typically encountered when designing new propulsion systems for passenger cars. It is intended for persons interested in the analysis and optimization of classical and novel vehicle propulsion systems. Its focus lies on the control-oriented mathematical description of the physical processes and on the model-based optimization of the system structure and of the supervisory control algorithms. This text has evolved from a lecture series at ETH Zurich. Prerequisites are general engineering topics and a first course in optimal control theory. TOC:Introduction. - Vehicle Dynamics and Energy Consumption. - Methods for Fuel Consumption Prediction. - Models of IC-Engine-Based Propulsion Systems. - Models Hybrid-Hydraulic and Hybrid-Mechanic Powertrains. - Models of Hybrid-Electric Powertrains. - Models of Fuel-Cell Systems. - System Optimization. - Supervisory Control Algorithms. - Appenix I: Case Studies. - Appendix II: Optimal Control Theory. - References</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Guzzella, Lino</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">108994537X</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Sciarretta, Antonio</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Lino Guzzella; Antonio Sciarretta</responsible>
+            <publicationInfo>
+                <issued>2005</issued>
+                <publicationPlaces>
+                    <publicationPlace>Berlin [u.a.]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Literaturverz. S. 279 - 291</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>24 cm</description>
+            <description>Ill., graph. Darst</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausg.</label>
+                <title>Vehicle Propulsion Systems</title>
+                <identifier type="isbn13">9783540288534</identifier>
+                <identifier type="ppn">1645262979</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>TL210</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.25015118</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4230</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4280</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106410628" classificationName="bk">
+                    <code>52.20</code>
+                    <entries>
+                        <entry>Antriebstechnik, Getriebelehre</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.2501/5118</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mas</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Automobiles</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Motors</subject>
+                </subject>
+                <subject id="4137755-2" type="gnd">
+                    <subject xml:lang="de">Straßenfahrzeug</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Propulsion systems</subject>
+                </subject>
+                <subject id="4123177-6" type="gnd">
+                    <subject xml:lang="de">Fahrzeugantrieb</subject>
+                </subject>
+                <subject id="4121428-6" type="gnd">
+                    <subject xml:lang="de">Optimale Kontrolle</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Mathematical models</subject>
+                </subject>
+                <subject id="4114528-8" type="gnd">
+                    <subject xml:lang="de">Mathematisches Modell</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

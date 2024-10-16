@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:654624453</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:654624453">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2011-03-22</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>654624453</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">654624453</identifier>
+                <identifier type="ean">9780486482187</identifier>
+                <identifier type="firstid">GBV:654624453</identifier>
+                <identifier type="isbn">0486482189</identifier>
+                <identifier type="isbn13">9780486482187</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://swbplus.bsz-bw.de/bsz350814414inh.htm</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1255604026</identifier>
+                    <creationDate>2011-11-02</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 11 B 6711</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XIII, 449 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Living and working in space : a NASA history of Skylab</title>
+            <abstracts>
+                <abstract xml:lang="de">"The official record of America's first space station, this book from the NASA History Series chronicles the Skylab program from its planning during the 1960s through its 1973 launch and its conclusion in 1979. It presents definitive accounts of the project's goals and achievements as well as its use of discoveries and technology developed during the Apollo program. 1983 edition"--Provided by publisher</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Compton, William David</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Benson, Charles D.</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Dickson, Paul</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Benson, Charles Dunlap</contributor>
+                </contributor>
+            </contributors>
+            <responsible>W. David Compton; Charles D. Benson</responsible>
+            <publicationInfo>
+                <issued>2011</issued>
+                <edition>Dover ed.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Mineola, NY</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Dover Publications</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Slightly altered republication of the work originally published in NASA history series (NASA SP - 4208), Washington D.C., in 1983</publicationIDInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>25 cm</description>
+            <description>Ill.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>TL789.8.U6</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>SCI004000</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.44/2</code>
+                </classification>
+                <classification classificationName="ssg">
+                    <code>19,2</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 8050</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte</subject>
+                </subject>
+                <subject id="4515631-1" type="gnd">
+                    <subject xml:lang="de">Skylab</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Skylab Program</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

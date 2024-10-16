@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1754907954</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1754907954">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2021-04-13</databaseDate>
+            <changeDate>2022-08-03</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1754907954</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1754907954</identifier>
+                <identifier type="firstid">KXP:1754907954</identifier>
+                <identifier type="isbn13">9781119761839</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1754907954.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3949546464</identifier>
+                    <creationDate>2022-07-18</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 21 B 3078</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xix, 411 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Cloud and IoT-based vehicular ad hoc networks</title>
+            <abstracts>
+                <abstract xml:lang="de">"Optimizing the traffic management operations is a big challenge due to massive global increase in vehicles numbers, traffic congestion and road accidents. This book describes the state-of-the-art of the recent developments of Internet of Things (IoT) and cloud computing-based concepts have been introduced to improve Vehicular Ad-Hoc Networks (VANET) with advanced cellular networks such as 5G networks and vehicular cloud concepts. 5G cellular networks provide consistent, faster and more reliable connections within the vehicular mobile nodes. By 2030, 5G networks will deliver the virtual reality content in VANET which will support vehicle navigation with real time communications capabilities, improving road safety and enhance passenger comfort"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Singh, Gurinder</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1183590245</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Jain, Vishal</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1222050188</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Chatterjee, Jyotir Moy</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1176054384</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Gaur, Loveleen</contributor>
+                </contributor>
+            </contributors>
+            <responsible>edited by Gurinder Singh, Vishal Jain, Jyotir Moy Chatterjee and Loveleen Gaur</responsible>
+            <publicationInfo>
+                <issued>2021</issued>
+                <publicationPlaces>
+                    <publicationPlace>Hoboken, NJ, USA</publicationPlace>
+                    <publicationPlace>Beverly, MA</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Wiley</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>388.3/12</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106417665" classificationName="bk">
+                    <code>53.74</code>
+                    <entries>
+                        <entry>Hochfrequenztechnik, Funktechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TE228.37</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="7713781-4" type="gnd">
+                    <subject xml:lang="de">Internet der Dinge</subject>
+                </subject>
+                <subject id="4216130-7" type="gnd">
+                    <subject xml:lang="de">Funknetz</subject>
+                </subject>
+                <subject id="7623494-0" type="gnd">
+                    <subject xml:lang="de">Cloud Computing</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Cloud computing</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Vehicular ad hoc networks (Computer networks)</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Internet of things</subject>
+                </subject>
+                <subject id="7524983-2" type="gnd">
+                    <subject xml:lang="de">VANET</subject>
+                </subject>
+                <subject id="4165441-9" type="gnd">
+                    <subject xml:lang="de">Kraftfahrzeugtechnik</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

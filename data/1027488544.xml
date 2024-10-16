@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1027488544</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1027488544">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2018-07-24</databaseDate>
+            <changeDate>2023-01-03</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>1027488544</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1027488544</identifier>
+                <identifier type="doi">10.15480/882.1712</identifier>
+                <identifier type="firstid">GBV:1027488544</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">http://nbn-resolving.de/urn:nbn:de:gbv:830-88221802</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1802844414</identifier>
+                    <creationDate>2018-09-07</creationDate>
+                    <selectionKey>zdt</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-101</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (a-d, VIII, 129 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Einbindung von Brennstoffzellenanlagen in schiffstechnische Systeme</title>
+            <abstracts>
+                <abstract xml:lang="de">The high temperature polymer electrolyte (HT-PEM) fuel cell technology is investigated with regard to its suitability for the electrical energy supply of marine systems. For this purpose, the dynamic and stationary behavior of a pilot fuel cell system is analyzed. For model calibration, experiments are carried out on a methanol reformer, which supplies synthesis gas for the HT-PEM fuel cell stack. A thermodynamic model of the fuel cell system (evaporator, methanol reformer, cell stack) with automation is created and operational parameters are simulated. Results between a diesel generator and an HT-PEM power supply are compared.</abstract>
+                <abstract xml:lang="de">Die Hochtemperatur-Polymerelektrolytmembran-Brennstoffzellentechnik (HT-PEM) wird hinsichtlich ihrer Eignung zur elektrischen Energieversorgung schiffstechnischer Systeme untersucht. Dazu wird das dynamische und stationäre Verhalten einer Pilot-Brennstoffzellenanlage analysiert. Zur Modellkalibrierung werden Experimente an einem Methanolreformer, der Synthesegas für den Zellstapel liefert, durchgeführt. Ein thermodynamisches Modell des Brennstoffzellensystems (Verdampfer, Methanolreformer, Zellstapel) mit Automation wird erstellt und wesentliche Betriebsparameter werden darüber ermittelt. Ergebnisse für eine Dieselgenerator- und eine HT-PEM-Energieversorgung werden verglichen.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="degree-granting-institution">
+                    <type>degree-granting-institution</type>
+                    <name>Technische Universität Hamburg</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">1112763473</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+                <corporateCreator>
+                    <name>Technische Universität Hamburg-Harburg, Institut für Elektrische Energiesysteme und Automation</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">10177992-6</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+                <corporateCreator>
+                    <name>Technische Universität Hamburg, Institut für Elektrische Energiesysteme und Automation</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">1166977277</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Gentner, Christoph</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1163047295</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Ackermann, Günter</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">132384752</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Wirz, Friedrich</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">143847872</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>von Christoph Gentner ; 1. Gutachter: Prof. Dr.-Ing. Günter Ackermann ; 2. Gutachter: Prof. Dr.-Ing. Friedrich Wirz</responsible>
+            <publicationInfo>
+                <issued>2018</issued>
+                <publicationPlaces>
+                    <publicationPlace>Hamburg</publicationPlace>
+                </publicationPlaces>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2018</dateAccepted>
+                        <description>Dissertation, Technische Universität Hamburg</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Einbindung von Brennstoffzellenanlagen in schiffstechnische Systeme</title>
+                <identifier type="ppn">1027922937</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420577" classificationName="bk">
+                    <code>55.40</code>
+                    <entries>
+                        <entry>Schiffstechnik, Schiffbau</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>621.3</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>620: Ingenieurwissenschaften</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="106418645" classificationName="bk">
+                    <code>53.36</code>
+                    <entries>
+                        <entry>Energiedirektumwandler, elektrische Energiespeicher</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4160270-5" type="gnd">
+                    <subject xml:lang="de">Hochtemperaturbrennstoffzelle</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Brennstoffzelle</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Schiffsentwurf</subject>
+                </subject>
+                <subject id="4175165-6" type="gnd">
+                    <subject xml:lang="de">Polyelektrolyt</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>HT-PEM</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Energieversorgung auf Schiffen</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Methanol</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://nbn-resolving.de/urn:nbn:de:gbv:830-88221802</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

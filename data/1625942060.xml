@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1625942060</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1625942060">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1985-12-19</databaseDate>
+            <changeDate>2023-06-19</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>1625942060</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1625942060</identifier>
+                <identifier type="firstid">DNB:850645506</identifier>
+                <identifier type="isbn">3184006875</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="review" type="url">http://www.gbv.de/dms/faz-rez/860310_FAZ_0031_31_0001.pdf</location>
+                <location subtype="toc" type="url">http://d-nb.info/850645506/04</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">033355657</identifier>
+                    <creationDate>1986-10-30</creationDate>
+                    <selectionKey>n</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">FJ 1119</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">VIII, 244 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Die großen Zeppeline : die Geschichte des Luftschiffbaus</title>
+            <abstracts>
+                <abstract xml:lang="de">Peter Kleinheins (Hrsg.): "Die großen Zeppeline. Die Geschichte des Luftschiffbaus". VDI-Verlag, Düsseldorf 1985. 244 S., ca. 290 Abb., geb., 98,- DM</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Kleinheins, Peter</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Dürr, Ludwig</contributor>
+                </contributor>
+            </contributors>
+            <responsible>hrsg. von  Peter Kleinheins. Unter Verwendung von Texten von Ludwig Dürr ...</responsible>
+            <publicationInfo>
+                <issued>1985</issued>
+                <publicationPlaces>
+                    <publicationPlace>Düsseldorf</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>VDI-Verl.</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Klassiker der Technik</title>
+                </journalInfo>
+                <publicationIDInfo>Enthält u.a.: Ludwig Dürr: 25 Jahre Zeppelin-Luftschiffbau, 1924, Faks.</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Mit 5 Tab., zahlr. Graphiken und Abb</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Klassiker der Technik</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loksys">
+                    <code>ver 615</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>41</code>
+                </classification>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ssg">
+                    <code>19,2</code>
+                </classification>
+                <classification classificationID="106419072" classificationName="bk">
+                    <code>55.59</code>
+                    <entries>
+                        <entry>Ballons, Luftschiffe, Fallschirme</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>NW 3450</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>36</code>
+                </classification>
+                <classification classificationName="loksys">
+                    <code>tec 25</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.133/24</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4036587-6" type="gnd">
+                    <subject xml:lang="de">Luftschiff</subject>
+                </subject>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Luftschiff ; Geschichte</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

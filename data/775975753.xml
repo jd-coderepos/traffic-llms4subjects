@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:775975753</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:775975753">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2014-01-09</databaseDate>
+            <changeDate>2024-04-22</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>775975753</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">775975753</identifier>
+                <identifier type="ean">9783642541674</identifier>
+                <identifier type="firstid">DNB:1045982830</identifier>
+                <identifier type="isbn">3642541674</identifier>
+                <identifier type="isbn13">9783642541674</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://d-nb.info/1045982830/04</location>
+                <location subtype="description" type="url">http://deposit.d-nb.de/cgi-bin/dokserv?id=4559367&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</location>
+                <location subtype="cover" type="url">https://swbplus.bsz-bw.de/bsz403875943cov.jpg</location>
+                <location subtype="miscellaneous" type="url">http://www.loc.gov/catdir/enhancements/fy1601/2014930025-d.html</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1460085108</identifier>
+                    <creationDate>2014-11-25</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 14 B 2326</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-31</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">XVI, 355 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Aerodynamic data of space vehicles</title>
+            <abstracts>
+                <abstract xml:lang="de">The capacity and quality of the atmospheric flight performance of space flight vehicles is characterized by their aerodynamic data bases. A complete aerodynamic data base would encompass the coefficients of the static longitudinal and lateral motions and the related dynamic coefficients. In this book the aerodynamics of 27 vehicles are considered. Only a few of them did really fly. Therefore the aerodynamic data bases are often not complete, in particular when the projects or programs were more or less abruptly stopped, often due to political decisions. Configurational design studies or the development of demonstrators usually happen with reduced or incomplete aerodynamic data sets. Therefore some data sets base just on the application of one of the following tools: semi-empirical design methods, wind tunnel tests, numerical simulations. In so far a high percentage of the data presented is incomplete and would have to be verified. Flight mechanics needs the aerodynamic coefficients as function of a lot of variables. The allocation of the aerodynamic coefficients for a particular flight operation at a specific trajectory point is conducted by an aerodynamic model. The establishment of such models is described in this book. This book is written for graduate and doctoral students to give them insight into the aerodynamics of the various flight configurations. Further for design and development engineers in industry and at research institutes (including universities) searching for an appropriate vehicle shape, as well as for non-specialists, who may be interested in this subject. The book will be helpful, too, in the case that system studies require in their concept phases the selection of suitable vehicle shapes</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Weiland, Claus</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1158886551</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Claus Weiland</responsible>
+            <publicationInfo>
+                <issued>2014</issued>
+                <publicationPlaces>
+                    <publicationPlace>Heidelberg</publicationPlace>
+                    <publicationPlace>Berlin [u.a.]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                    <publicationCountry code="US" />
+                    <publicationCountry code="NL" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>25 cm</description>
+            <description>Ill., graph. Darst</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausg. (SpringerLink)</label>
+                <title>Aerodynamic Data of Space Vehicles</title>
+                <identifier type="ppn">1653667125</identifier>
+                <identifier type="isbn13">9783642541681</identifier>
+            </related>
+            <related type="parallel">
+                <label>Online-Ausg. (Ebook Central)</label>
+                <title>Aerodynamic data of space vehicles</title>
+                <identifier type="ppn">1654770752</identifier>
+                <identifier type="isbn13">9783642541681</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.47021</code>
+                </classification>
+                <classification classificationID="106419498" classificationName="bk">
+                    <code>50.34</code>
+                    <entries>
+                        <entry>Gasdynamik, Aerodynamik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106420607" classificationName="bk">
+                    <code>55.61</code>
+                    <entries>
+                        <entry>Raumfahrzeuge</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL1050</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 8200</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 8300</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Space vehicles</subject>
+                </subject>
+                <subject id="4000589-6" type="gnd">
+                    <subject xml:lang="de">Aerodynamik</subject>
+                </subject>
+                <subject id="4177066-3" type="gnd">
+                    <subject xml:lang="de">Raumflugkörper</subject>
+                </subject>
+                <subject id="4183720-4" type="gnd">
+                    <subject xml:lang="de">Strömungstechnische Kennzahl</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

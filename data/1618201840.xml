@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1618201840</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1618201840">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2012-08-08</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1618201840</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1618201840</identifier>
+                <identifier type="firstid">BSZ:369728483</identifier>
+                <identifier type="isbn">0875804470</identifier>
+                <identifier type="isbn">1609090527</identifier>
+                <identifier type="isbn13">9781609090524</identifier>
+                <identifier type="isbn13">9780875804477</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://external.dandelon.com/download/attachments/dandelon/ids/DE013DB990FC8B70C10B5C1257AE70035BE2C.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1301389072</identifier>
+                    <creationDate>2013-01-17</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 12 B 4036</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">viii, 315 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>The cosmonaut who couldn't stop smiling : the life and legend of Yuri Gagarin</title>
+            <alternativeTitles>
+                <alternative>The life and legend of Yuri Gagarin</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Yuri Gagarin and the many faces of modern Russia -- A victor's congress baby -- The industrial boys -- The chief designer -- The flight that launched a thousand rumors -- Exegesis -- Homo sovieticus -- Sacred lies, profane truths -- Landscapes of Russianness, 1991-2011</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Jenks, Andrew</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">160746442</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Andrew L. Jenks</responsible>
+            <publicationInfo>
+                <issued>2012</issued>
+                <publicationPlaces>
+                    <publicationPlace>DeKalb, Ill.</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>NIU Press</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>24 cm</description>
+            <description>Ill.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ssg">
+                    <code>16,12</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>NQ 8294</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>B</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 8050</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.450092</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>KK 1020</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL789.85.G3</code>
+                </classification>
+                <classification classificationID="106421808" classificationName="bk">
+                    <code>55.01</code>
+                    <entries>
+                        <entry>Geschichte des Verkehrswesens</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Gagarin, Yuri Alekseyevich 1934-1968</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Astronauts</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Biography</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Soviet Union</subject>
+                </subject>
+                <subject id="4143247-2" type="gnd">
+                    <subject xml:lang="de">Astronaut</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Gagarin, Yuri Alekseyevich</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

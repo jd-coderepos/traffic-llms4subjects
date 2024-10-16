@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:790988674</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:790988674">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2014-07-22</databaseDate>
+            <changeDate>2022-07-17</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>790988674</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">790988674</identifier>
+                <identifier type="firstid">GBV:790988674</identifier>
+                <identifier type="isbn13">9780470662571</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/bowker/toc/9780470662571.pdf</location>
+                <location subtype="cover" type="url">http://catalogimages.wiley.com/images/db/jimages/9780470662571.jpg</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1509547746</identifier>
+                    <creationDate>2016-02-12</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 14 B 8140</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XV, 246 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Aircraft aerodynamic design : geometry and optimization</title>
+            <abstracts>
+                <abstract xml:lang="de">"Optimal aircraft design is impossible without a parametric representation of the geometry of the airframe. We need a mathematical model equipped with a set of controls, or design variables, which generates different candidate airframe shapes in response to changes in the values of these variables. This model's objectives are to be flexible and concise, and capable of yielding a wide range of shapes with a minimum number of design variables. Moreover, the process of converting these variables into aircraft geometries must be robust. Alas, flexibility, conciseness and robustness can seldom be achieved simultaneously.Aircraft Aerodynamic Design: Geometry and Optimization addresses this problem by navigating the subtle trade-offs between the competing objectives of geometry parameterization. It beginswith the fundamentals of geometry-centred aircraft design, followed by a review of the building blocks of computational geometries, the curve and surface formulations at the heart of aircraft geometry. The authors then cover a range of legacy formulations in the build-up towards a discussion of the most flexible shape models used in aerodynamic design (with a focus on lift generating surfaces). The book takes a practical approach and includes MATLAB(r), Python and Rhinoceros(r) code, as well as 'real-life' example case studies.Key features:   Covers effective geometry parameterization within the context of design optimization  Demonstrates how geometry parameterization is an important element of modern aircraft design  Includes code and case studies which enable the reader to apply each theoretical concept either as an aid to understanding or as a building block of their own geometry model  Accompanied by a website hosting codes  Aircraft Aerodynamic Design: Geometry and Optimization is a practical guide for researchers and practitioners in the aerospace industry, and a reference for graduate and undergraduate students in aircraft design and multidisciplinary design optimization"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Sóbester, András</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Forrester, Alexander I. J.</contributor>
+                </contributor>
+            </contributors>
+            <responsible>András Sóbester and  Alexander I. J. Forrester</responsible>
+            <publicationInfo>
+                <issued>2014</issued>
+                <publicationPlaces>
+                    <publicationPlace>Chichester</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Wiley</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Aerospace series</title>
+                </journalInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>Aircraft aerodynamic design</title>
+                <identifier type="isbn">1118534743</identifier>
+                <identifier type="isbn13">9781118534717</identifier>
+                <identifier type="isbn">1118534719</identifier>
+                <identifier type="isbn13">9781118534748</identifier>
+                <identifier type="ppn">863147011</identifier>
+            </related>
+            <related type="parent">
+                <title>Aerospace series</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106419498" classificationName="bk">
+                    <code>50.34</code>
+                    <entries>
+                        <entry>Gasdynamik, Aerodynamik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL671.6</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>TEC002000</code>
+                </classification>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 7230</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.134/1</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Aerodynamics</subject>
+                </subject>
+                <subject id="4121208-3" type="gnd">
+                    <subject xml:lang="de">Entwurf</subject>
+                </subject>
+                <subject id="4329076-0" type="gnd">
+                    <subject xml:lang="de">Gestaltoptimierung</subject>
+                </subject>
+                <subject id="4154782-2" type="gnd">
+                    <subject xml:lang="de">Flugzeugbau</subject>
+                </subject>
+                <subject id="4135410-2" type="gnd">
+                    <subject xml:lang="de">Flugzeugaerodynamik</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Airframes</subject>
+                </subject>
+                <subject id="4708139-9" type="gnd">
+                    <subject xml:lang="de">Flugwerk</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

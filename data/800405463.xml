@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:800405463</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:800405463">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2014-11-10</databaseDate>
+            <changeDate>2022-12-28</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>800405463</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">800405463</identifier>
+                <identifier type="firstid">GBV:800405463</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">http://nbn-resolving.de/urn:nbn:de:gbv:830-tubdok-13000</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1519338260</identifier>
+                    <creationDate>2015-01-23</creationDate>
+                    <selectionKey>zdo</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online-Ressource (PDF-Datei: III, 171 S., 3.969 KB)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Modellgestützte Fertigungssteuerung in der Unikatfertigung am Beispiel des Schiffbaus</title>
+            <alternativeTitles>
+                <alternative>Model-based production control in one-of-a-kind production in shipbuilding</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">The economical success of ship yards in Europe depends strongly on their capability to deliver their products on time. Big potentials in optimization exist in decreasing the through put time, using production methods in a more systematical way. The manufacturing control model describes a suitable way. This work shows the capability of this approach and describes a suiting way of implementing the method into a real production.</abstract>
+                <abstract xml:lang="de">Die vorgelegte Arbeit beschreibt den Forschungsbedarf, um eine zielgerichtete Fertigungssteuerung in der Unikatfertigung auf Baustellen (Kapitel 2) zu erreichen. Hierfür wird im ersten Schritt das Modell der Fertigungssteuerung untersucht. Ziel der Arbeit ist es, diese Modellvorstellung in die Unikatfertigung auf Baustellen zu übertragen. Ausgehend von dieser Untersuchung werden anschließend die Besonderheiten der Baustellenfertigung und der Planung von Produktionsabläufen auf ihr analysiert. Hierauf aufbauend überführt Kapitel 3 das Modell der Fertigungssteuerung in die Baustellenfertigung, indem es das Arbeitssystem Baustelle zunächst in die Teilarbeitssysteme Mitarbeiter und Fläche zerlegt. Auf diese Teilsysteme wird das Hannoveraner Trichtermodell übertragen und es werden logistische Kennzahlen sowie das Durchlaufdiagramm eingeführt. Die theoretische Modellierung wird durch die Vereinigung beider Teilarbeitssysteme im Gesamtarbeitssystem Baustelle abgeschlossen. Ausgehend vom Stand der Technik und der theoretischen Modellierung des Arbeitssystems werden Anforderungen für die Implementierung der Fertigungssteuerung in der schiffbaulichen Baustellenfertigung abgeleitet (Kapitel 4). Unterteilt werden diese in Anforderungen an die Produktionsplanung, die Auftragsfreigabe, die Kapazitätssteuerung sowie die Reihenfolgebildung. Den Fokus legt die Arbeit hierbei auf die Freigabe- und die Kapazitätssteuerung. Kapitel 5 beschreibt, mit welchen Teilkonzepten die zuvor erarbeiteten Anforderungen erfüllt werden. Auch hierbei orientiert sich die Arbeit an den Aufgaben der Fertigungssteuerung und gliedert nach den Bereichen Produktionsplanung, Auftragsfreigabe, die Kapazitätssteuerung und Reihenfolgebildung. Zielstellung des Konzepts ist es, einen Ansatz für die reale Umsetzung der Fertigungssteuerung auf Baustellen zu finden und diese anschließend in einem Simulationsmodell nachzubilden. Wichtige Ansatzpunkte hierfür sind die Detaillierung und Gestaltung der Planung, die Messung der Auftragsabarbeitung für die Teilarbeitssysteme Mitarbeiter und Fläche sowie die Gestaltung der Kapazitätsanpassung. Kapitel 6 beschreibt zunächst das Simulationsmodell sowie die Validierung des Simulationsmodells. Die Validierung fokussiert auf die neu implementierten Steuerungsfunktionen. Das Simulationsmodell basiert auf Planungsdaten, Fertigungsinformationen und Strukturbeschreibungen einer realen Werft. Als nächstes beschreibt das Kapitel zwei Störungsszenarien und die Evaluierung der Fertigungssteuerung in der Baustellenfertigung anhand dieser Szenarien. Die Evaluierung untersucht zunächst die Steuerungen zur Auftragsfreigabe und zur Kapazitätssteuerung getrennt. Danach werden die Steuerungsverfahren gemeinsam in den Störungsszenarien verwendet. Im Verlauf der Evaluation zeigen die Verfahren der Fertigungssteuerung ihre Wirksamkeit sehr deutlich.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Technische Universität Hamburg-Harburg, Institut für Produktionsmanagement und -technik</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">10184249-1</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Wandt, Robert</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Lödding, Hermann</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">123767997</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Windt, Katja</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1034532766</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Robert Wandt</responsible>
+            <publicationInfo>
+                <issued>2014</issued>
+                <edition>[Electronische Ressource]</edition>
+                <publicationPlaces>
+                    <publicationPlace>Hamburg</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Techn. Univ. Hamburg-Harburg, Univ.-Bibl.</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>Wissen schafft Innovation</title>
+                    <volumeNumber>21</volumeNumber>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Hamburg-Harburg, Techn. Univ., Institut für Produktionsmanagement und -technik, Diss., 2014</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+                <publicationIDInfo>Unterschiede zwischen dem gedruckten Dokument und der elektronischen Ressource können nicht ausgeschlossen werden.</publicationIDInfo>
+                <publicationIDInfo>Differences between the printed and electronic version of the document are possible.</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druckausg.</label>
+                <title>Modellgestützte Fertigungssteuerung in der Unikatfertigung am Beispiel des Schiffbaus</title>
+                <identifier type="ppn">802914187</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+            <related type="parent">
+                <title>Wissen schafft Innovation</title>
+                <volumeNumber>21</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc-dbn">
+                    <code>650</code>
+                </classification>
+                <classification classificationID="106420577" classificationName="bk">
+                    <code>55.40</code>
+                    <entries>
+                        <entry>Schiffstechnik, Schiffbau</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="106403729" classificationName="bk">
+                    <code>85.35</code>
+                    <entries>
+                        <entry>Fertigung</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106420011" classificationName="bk">
+                    <code>52.70</code>
+                    <entries>
+                        <entry>Fertigungstechnik: Allgemeines</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>oek</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mas</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="stw">
+                    <subject xml:lang="de">Baustelle</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>manufacturing control model</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Einzelfertigung</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Produktionssteuerung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Unikatfertigung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>production control</subject>
+                </subject>
+                <subject id="4113547-7" type="gnd">
+                    <subject xml:lang="de">Fertigungssteuerung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>One-of-a-kind production</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>ship building</subject>
+                </subject>
+                <subject id="4511937-5" type="gnd">
+                    <subject xml:lang="de">Online-Ressource</subject>
+                </subject>
+                <subject id="4131844-4" type="gnd">
+                    <subject xml:lang="de">Baustellenfertigung</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Schiffbau</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Schiffstechnik</subject>
+                </subject>
+                <subject id="4013967-0" type="gnd">
+                    <subject xml:lang="de">Einzelfertigung</subject>
+                </subject>
+                <subject id="4128181-0" type="gnd">
+                    <subject xml:lang="de">Werft</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Modell der Fertigungssteuerung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>simulation</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://nbn-resolving.de/urn:nbn:de:gbv:830-tubdok-13000</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

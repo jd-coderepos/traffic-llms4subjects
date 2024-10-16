@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1700278606</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1700278606">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2020-06-09</databaseDate>
+            <changeDate>2022-04-01</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1700278606</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1700278606</identifier>
+                <identifier type="firstid">KXP:1700278606</identifier>
+                <identifier type="isbn13">9781119689041</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1700278606.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3892420602</identifier>
+                    <creationDate>2022-02-24</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 21 B 1456</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xii, 372 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Mathematical foundation of railroad vehicle systems : geometry and mechanics</title>
+            <abstracts>
+                <abstract xml:lang="de">"Mathematical foundation of railroad vehicle systems : Geometry and mechanics develops the mathematical foundation of railroad vehicle systems with emphasis placed on the integration of geometry and mechanics. This geometry/mechanics integration is necessary for developing a sound mathematical foundation, accurate formulation of the nonlinear dynamic equations, and general computational algorithms that can be effectively used in the virtual prototyping, analysis, design, and performance evaluation of railroad vehicle systems. Mathematical foundation of railroad vehicle systems : Geometry and mechanics introduces basic concepts, formulations and computational algorithms used in railroad vehicle system dynamics. Shows how new mechanics-based approaches such as the absolute nodal coordinate formulation (ANCF) can be used to achieve the geometry/mechanics integration. It also discusses new problems and issues to be addressed in this area, and describes how geometry and mechanics approaches can be used in studying derailments"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Shabana, Ahmed A.</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">114968594</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Ahmed A. Shabana (Richard and Loan Hill Professor of Engineering, University of Illinois at Chicago, Chicago, Illinois, USA)</responsible>
+            <publicationInfo>
+                <issued>2021</issued>
+                <publicationPlaces>
+                    <publicationPlace>Hoboken, NJ</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Wiley</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Includes bibliographical references (page 335-353) and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106421042" classificationName="bk">
+                    <code>56.25</code>
+                    <entries>
+                        <entry>Schienenbahnbau, Gleisbau</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>625.1001/5118</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TF205</code>
+                </classification>
+                <classification classificationID="106405691" classificationName="bk">
+                    <code>55.30</code>
+                    <entries>
+                        <entry>Schienenfahrzeugtechnik, Eisenbahntechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>bau</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Railroad engineering</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Railroad rails</subject>
+                </subject>
+                <subject id="4012248-7" type="gnd">
+                    <subject xml:lang="de">Differentialgeometrie</subject>
+                </subject>
+                <subject id="4136423-5" type="gnd">
+                    <subject xml:lang="de">Fahrleitung</subject>
+                </subject>
+                <subject id="4052368-8" type="gnd">
+                    <subject xml:lang="de">Schienenfahrzeug</subject>
+                </subject>
+                <subject id="4017233-8" type="gnd">
+                    <subject xml:lang="de">Finite-Elemente-Methode</subject>
+                </subject>
+                <subject id="4021250-6" type="gnd">
+                    <subject xml:lang="de">Gleis</subject>
+                </subject>
+                <subject id="7544047-7" type="gnd">
+                    <subject xml:lang="de">Eisenbahnrad</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Geometric analysis</subject>
+                </subject>
+                <subject id="4743929-4" type="gnd">
+                    <subject xml:lang="de">Pantograph</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Railroad trains</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

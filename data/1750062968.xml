@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1750062968</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1750062968">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2021-03-01</databaseDate>
+            <changeDate>2022-08-16</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1750062968</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1750062968</identifier>
+                <identifier type="firstid">KXP:1750062968</identifier>
+                <identifier type="isbn13">9783030618018</identifier>
+                <identifier type="isbn13">9783030617981</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1750062968.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3879836884</identifier>
+                    <creationDate>2022-02-08</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 21 B 1231</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xxii, 239 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Electro-mechanical actuators for the more electric aircraft</title>
+            <abstracts>
+                <abstract xml:lang="de">This book presents recent results on fault diagnosis and condition monitoring of airborne electromechanical actuators, illustrating both algorithmic and hardware design solutions to enhance the reliability of onboard more electric aircraft. The book begins with an introduction to the current trends in the development of electrically powered actuation systems for aerospace applications. Practical examples are proposed to help present approaches to reliability, availability, maintainability and safety analysis of airborne equipment. The terminology and main strategies for fault diagnosis and condition monitoring are then reviewed. The core of the book focuses on the presentation of relevant case studies of fault diagnosis and monitoring design for airborne electromechanical actuators, using different techniques. The last part of the book is devoted to a summary of lessons learned and practical suggestions for the design of fault diagnosis solutions of complex airborne systems. The book is written with the idea of providing practical guidelines on the development of fault diagnosis and monitoring algorithms for airborne electromechanical actuators. It will be of interest to practitioners in aerospace, mechanical, electronic, reliability and systems engineering, as well as researchers and postgraduates interested in dynamical systems, automatic control and safety-critical systems. Advances in Industrial Control reports and encourages the transfer of technology in control engineering. The rapid development of control technology has an impact on all areas of the control discipline. The series offers an opportunity for researchers to present an extended exposition of new work in all aspects of industrial control.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Mazzoleni, Mirko</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Di Rito, Gianpietro</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Previdi, Fabio</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Mirko Mazzoleni, Gianpietro Di Rito, Fabio Previdi</responsible>
+            <publicationInfo>
+                <issued>2021</issued>
+                <publicationPlaces>
+                    <publicationPlace>Cham</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="CH" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Advances in industrial control</title>
+                </journalInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Advances in industrial control</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106418505" classificationName="bk">
+                    <code>53.12</code>
+                    <entries>
+                        <entry>Bauelemente der Elektrotechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.1</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Robotics.</subject>
+                </subject>
+                <subject id="4151849-4" type="gnd">
+                    <subject xml:lang="de">Elektromechanisches Bauelement</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Quality control.</subject>
+                </subject>
+                <subject id="4135658-5" type="gnd">
+                    <subject xml:lang="de">Elektrifizierung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Aerospace engineering.</subject>
+                </subject>
+                <subject id="4198914-4" type="gnd">
+                    <subject xml:lang="de">Aktor</subject>
+                </subject>
+                <subject id="4017672-1" type="gnd">
+                    <subject xml:lang="de">Flugzeug</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Industrial safety.</subject>
+                </subject>
+                <subject id="4134933-7" type="gnd">
+                    <subject xml:lang="de">Elektrisches Energiesystem</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Mechatronics.</subject>
+                </subject>
+                <subject id="4369492-5" type="gnd">
+                    <subject xml:lang="de">Zustandsüberwachung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Control engineering.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Astronautics.</subject>
+                </subject>
+                <subject id="4133764-5" type="gnd">
+                    <subject xml:lang="de">Fehlererkennung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Reliability.</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

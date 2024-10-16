@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1879627205</identifier><datestamp>2024-06-28</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1879627205">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2024-01-31</databaseDate>
+            <changeDate>2024-04-10</changeDate>
+            <ftxCreationDate>2024-06-19</ftxCreationDate>
+            <documentID>1879627205</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1879627205</identifier>
+                <identifier type="doi">10.22032/dbt.59165</identifier>
+                <identifier type="firstid">KXP:1879627205</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://nbn-resolving.org/urn:nbn:de:gbv:ilm1-2023000349</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4539168894</identifier>
+                    <creationDate>2024-06-15</creationDate>
+                    <selectionKey>13</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (ii, 171 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Messkonzepte für Funksysteme bei Mobilfunk-basierter Fahrzeugkommunikation</title>
+            <abstracts>
+                <abstract xml:lang="de">Die vorliegende Arbeit beschäftigt sich in interdisziplinärer Weise mit Fragestellungen und anhand von over-the-air Tests mit Lösungsansätzen zur Antennenmesstechnik und Funkkanalemulation sowie mit Testverfahren bei LTE-basierter Mobilkommunikation im Kontext vernetzter Automobile. Die Herausforderung besteht darin, dass der Speisepunkt der Antennen aufgrund des Einbauzustandes im Fahrzeug sowie der fortschreitenden Integration von Antennen und Empfängern nur schwer oder gar nicht zugänglich ist. Durch Nutzung modulierter Kommunikationssignale gelingt es, direkt und ohne komplexe Algorithmen dreidimensionale Gewinn- und Phaseninformation von Fahrzeugantennen im Einbauzustand aus einfachen Leistungsmessungen zu ermitteln. Kenntnis des Phasendiagramms der Antennen ist insbesondere bei der Übertragung mit mehreren Antennen essenziell und wird außerdem für die Bestimmung der Position von Antennen anhand ihres Phasenzentrums benötigt. Nach der Charakterisierung der Strahlungseigenschaften der Antennen werden diese als Teil einer Funkumgebung betrachtet und in der Funkkanalnachbildung berücksichtigt. Für die Bestimmung der Leistungsfähigkeit von Fahrzeugantennen durch die Emulation drahtloser Ausbreitungskanäle wurden im Rahmen dieser Arbeit mittels programmierbarer Funkmodule Alternativen zu etablierten Kanalemulatoren sowie die Zahl und Anordnung von Beleuchtungsantennen für die Nachbildung räumlicher Eigenschaften erforscht. Im Bereich realer und virtueller Fahrtests mit vernetzten Automobilen bestehen die Ergebnisse dieser Arbeit aus einem Messkonzept für virtuelle Fahrtests mit dem Ziel der Nachbildung relevanter Ausbreitungseffekte aus realen Fahrtests. Als relevantes Testszenario wurden die Grenzbereiche zwischen Mobilfunkzellen, bzw. die Nachbarbasisstation als größter Störeinfluss, identifiziert. Anhand gezielter Regelung von Nutz- und Störsignalpegeln im virtuellen Test kann das Verhalten des Testgeräts an den kritischen Stellen in Nähe der Zellränder mit Schwankungen &lt; 5 % nachgebildet werden. Dieses Konzept ermöglicht einen einfachen Test, ohne notwendigerweise detaillierte Kenntnis des Funkkanals haben zu müssen, indem der Fokus auf der Nachbildung von für die Übertragung kritischen Szenarien anstelle der Nachbildung eines spezifischen Funkkanals liegt.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Berlt, Philipp</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1311779647</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Hein, Matthias</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">121270033</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Del Galdo, Giovanni</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">136084575</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Geissler, Matthias</contributor>
+                </contributor>
+            </contributors>
+            <responsible>vorgelegt von M.Sc. Philipp Berlt</responsible>
+            <publicationInfo>
+                <issued>2023</issued>
+                <publicationPlaces>
+                    <publicationPlace>Ilmenau</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Universitätsbibliothek</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2023</dateAccepted>
+                        <description>Dissertation, Technische Universität Ilmenau</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Diagramme, Illustrationen</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Messkonzepte für Funksysteme bei Mobilfunk-basierter Fahrzeugkommunikation</title>
+                <identifier type="ppn">1871700051</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc-dbn">
+                    <code>621.3</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4660</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>621.38413</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Antenne</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Kraftfahrzeugtechnik</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Ende-zu-Ende-Prinzip</subject>
+                </subject>
+                <subject id="4142613-7" type="gnd">
+                    <subject xml:lang="de">Antennenmesstechnik</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Antennenmesstechnik</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>MIMO</subject>
+                </subject>
+                <subject id="4839540-7" type="gnd">
+                    <subject xml:lang="de">Ende-zu-Ende-Prinzip</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Strahlungscharakteristik</subject>
+                </subject>
+                <subject id="7540075-3" type="gnd">
+                    <subject xml:lang="de">MIMO</subject>
+                </subject>
+                <subject id="4165441-9" type="gnd">
+                    <subject xml:lang="de">Kraftfahrzeugtechnik</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://nbn-resolving.org/urn:nbn:de:gbv:ilm1-2023000349</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

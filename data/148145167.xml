@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:148145167</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:148145167">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1994-03-28</databaseDate>
+            <changeDate>2024-03-28</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>148145167</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">148145167</identifier>
+                <identifier type="firstid">GBV:148145167</identifier>
+                <identifier type="isbn">0446517844</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">142861251</identifier>
+                    <creationDate>1995-03-01</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">T 95 B 4160</location>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">229 S., [1] Faltbl</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Hindenburg : an illustrated history</title>
+            <abstracts>
+                <abstract xml:lang="de">Klappentext: The giant airship "Hindenburg" crashing to the ground in flames remains one of the most instantly recognizable photographs this century. Truly a flying luxury liner, the "Hindenburg" was the largest object ever launched in the air and her spectacular destruction on May 6th, 1937, marked the end of airship travel. This book looks at Germany's titanic airship and the other silver giants that once silently crossed the skies. It chronicles the great dirigibles, from the pioneering efforts of Count Zeppelin to the years between the wars when the United States and Great Britain competed with Germany for the prestige of building the world's most advanced airships. British hopes of airship flights spanning the empire had ended before the "Hindenburg" disaster with the crash of the R101 in a French field.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Archbold, Richard</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">123252032</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor>
+                    <contributor>Marschall, Ken</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">120659964</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Text by Rick Archbold. Paintings by Ken Marshall</responsible>
+            <publicationInfo>
+                <issued>1994</issued>
+                <publicationPlaces>
+                    <publicationPlace>New York, NY</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Warner Books</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>A Warner/Madison Press book</publicationIDInfo>
+                <publicationIDInfo>Includes bibliographical references (p. 226) and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>29 x 30 cm</description>
+            <description>zahlr. Ill., Kt</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.13325</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL659.H5</code>
+                </classification>
+                <classification classificationID="106419072" classificationName="bk">
+                    <code>55.59</code>
+                    <entries>
+                        <entry>Ballons, Luftschiffe, Fallschirme</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.133/25</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">History</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Airships</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Hindenburg (Airship)</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Pictorial works</subject>
+                </subject>
+                <subject id="4348092-5" type="gnd">
+                    <subject xml:lang="de">Hindenburg (Luftschiff)</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

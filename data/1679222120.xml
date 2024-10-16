@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1679222120</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1679222120">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2019-10-21</databaseDate>
+            <changeDate>2021-08-26</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1679222120</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1679222120</identifier>
+                <identifier type="firstid">KXP:1679222120</identifier>
+                <identifier type="isbn">9811391920</identifier>
+                <identifier type="isbn13">9789811391927</identifier>
+                <identifier type="isbn13">9789811391958</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1679222120.pdf</location>
+                <location subtype="miscellaneous" type="url">https://www.springer.com/de/book/9789811391927</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3525709072</identifier>
+                    <creationDate>2020-11-11</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 19 B 3724</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xv, 142 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Radar signal processing for autonomous driving</title>
+            <abstracts>
+                <abstract xml:lang="de">The subject of this book is theory, principles and methods used in radar algorithm development with a special focus on automotive radar signal processing. In the automotive industry, autonomous driving is currently a hot topic that leads to numerous applications for both safety and driving comfort. It is estimated that full autonomous driving will be realized in the next twenty to thirty years and one of the enabling technologies is radar sensing. This book presents both detection and tracking topics specifically for automotive radar processing. It provides illustrations, figures and tables for the reader to quickly grasp the concepts and start working on practical solutions. The complete and comprehensive coverage of the topic provides both professionals and newcomers with all the essential methods and tools required to successfully implement and evaluate automotive radar processing algorithms</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Gamba, Jonah</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1213059593</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Jonah Gamba</responsible>
+            <publicationInfo>
+                <issued>2020</issued>
+                <publicationPlaces>
+                    <publicationPlace>Singapore</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="SG" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Signals and communication technology</title>
+                </journalInfo>
+                <publicationIDInfo>Includes bibliographical references</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>25 cm</description>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Signals and communication technology</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106415182" classificationName="bk">
+                    <code>53.84</code>
+                    <entries>
+                        <entry>Ortungstechnik, Radartechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>621.3</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL152.8</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4208045-9" type="gnd">
+                    <subject xml:lang="de">Radarantenne</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Signal processing</subject>
+                </subject>
+                <subject id="4176776-7" type="gnd">
+                    <subject xml:lang="de">Radarsignal</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Automated vehicles</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Signal processing</subject>
+                </subject>
+                <subject id="7714938-5" type="gnd">
+                    <subject xml:lang="de">Autonomes Fahrzeug</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Radar</subject>
+                </subject>
+                <subject id="4142611-3" type="gnd">
+                    <subject xml:lang="de">Antennengruppe</subject>
+                </subject>
+                <subject id="4176765-2" type="gnd">
+                    <subject xml:lang="de">Radar</subject>
+                </subject>
+                <subject id="4018904-1" type="gnd">
+                    <subject xml:lang="de">Funkortung</subject>
+                </subject>
+                <subject id="4267841-9" type="gnd">
+                    <subject xml:lang="de">Autofahren</subject>
+                </subject>
+                <subject id="4190792-9" type="gnd">
+                    <subject xml:lang="de">Zielerkennung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Radar</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Automated vehicles</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

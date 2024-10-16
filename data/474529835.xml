@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:474529835</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:474529835">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2004-12-14</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>474529835</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">474529835</identifier>
+                <identifier type="contract">29954114</identifier>
+                <identifier type="contract">UBA-FB-000229</identifier>
+                <identifier type="firstid">GBV:474529835</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/474529835.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">689181930</identifier>
+                    <creationDate>2004-12-14</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RN 8908(2000,229)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Getr. Zählung [ca. 130] Bl</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Ermittlung von Rollgeräusch- und Rollwiderstandsbeiwerten sowie Durchführung von Naßbremsversuchen mit Nutzfahrzeugreifen</title>
+            <alternativeTitles>
+                <alternative>Determination of rolling noise and rolling-resistance coefficients and conduct of wet surface brake tests on utility-vehicles</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Tires, rolling noise, rolling resistance, wet braking</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Reithmaier, Walter</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Kretschmer, Stefan</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Savic, Branislv</contributor>
+                </contributor>
+            </contributors>
+            <responsible>von Walter Reithmaier; Stefan Kretschmer; Branislv Savic</responsible>
+            <publicationInfo>
+                <issued>2000</issued>
+                <publicationPlaces>
+                    <publicationPlace>München: TÜV Automotive GmbH</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>UB-FB</title>
+                    <volumeNumber>00,550</volumeNumber>
+                </journalInfo>
+                <journalInfo>
+                    <title>Umweltforschungsplan des Bundesministeriums für Umwelt, Naturschutz und Reaktorsicherheit</title>
+                </journalInfo>
+                <publicationIDInfo>Förderkennzeichen UFOPLAN 29954114. - Engl. Zsfassung u.d.T.: Determination of rolling noise and rolling-resistance coefficients and conduct of wet surface brake tests on utility-vehicles tires</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>30 cm</description>
+            <description>graph. Darst</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>UB-FB</title>
+                <volumeNumber>00,550</volumeNumber>
+            </related>
+            <related type="parent">
+                <title>Umweltforschungsplan des Bundesministeriums für Umwelt, Naturschutz und Reaktorsicherheit</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4123857-6" type="gnd">
+                    <subject xml:lang="de">Nutzfahrzeug</subject>
+                </subject>
+                <subject id="4171198-1" type="gnd">
+                    <subject xml:lang="de">Nasse Fahrbahn</subject>
+                </subject>
+                <subject id="4137152-5" type="gnd">
+                    <subject xml:lang="de">Reifen</subject>
+                </subject>
+                <subject id="4124621-4" type="gnd">
+                    <subject xml:lang="de">Bremsverhalten</subject>
+                </subject>
+                <subject id="4177550-8" type="gnd">
+                    <subject xml:lang="de">Reifengeräusch</subject>
+                </subject>
+                <subject id="4660659-2" type="gnd">
+                    <subject xml:lang="de">Laufwiderstand</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

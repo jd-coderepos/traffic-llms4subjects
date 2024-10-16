@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1726185184</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1726185184">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2020-08-04</databaseDate>
+            <changeDate>2023-01-10</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>1726185184</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1726185184</identifier>
+                <identifier type="doi">10.24355/dbbs.084-202008031602-0</identifier>
+                <identifier type="firstid">KXP:1726185184</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://nbn-resolving.de/urn:nbn:de:gbv:084-2020080411124</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3933107962</identifier>
+                    <creationDate>2021-06-01</creationDate>
+                    <selectionKey>zdt</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online Ressource</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>System zur automatischen Reifendruckeinstellung bei Traktoren</title>
+            <alternativeTitles>
+                <alternative>System for the Automatic Control of the Tire Inflation Pressure of a Tractor</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Eine Reifendruckanpassung wirkt sich in mehrfacher Hinsicht auf das Betriebsverhalten eines Traktors bei Feldarbeiten aus. Neben der Bodenschonung und dem Traktionswirkungsgrad werden auch der Komfort und die Fahrsicherheit durch den Reifendruck beeinflusst. Bei der Einstellung des Reifendrucks ist zu beachten, dass die Reifentragfähigkeit vom Reifendruck abhängt. Für die Optimierung des Traktionswirkungsgrads durch eine Reifendruckanpassung gilt ein möglichst niedriger Reifendruck als wirkungsgradgünstig. Die Analyse bestehender Forschungsarbeiten zeigt, dass ein möglichst niedriger Reifendruck bei Feldarbeiten nicht notwendigerweise zu maximalem Traktionswirkungsgrad führt. Der optimale Reifendruck hängt von den gegebenen Einsatzbedingungen ab. Um das volle Potential der Reifendruckanpassung zur Wirkungsgradsteigerung zu nutzen, wird in dieser Arbeit ein System zur automatischen Einstellung des Reifendrucks erarbeitet, prototypisch aufgebaut und untersucht. Der Algorithmus des Systems bewertet unterschiedliche Reifendrücke anhand von Reifen-Boden- Kennlinien. Als Grundvoraussetzung für die Funktionalität des Systems wird eine neuartige Sensorik für Traktionsparameter aufgebaut, kalibriert und in einem Versuchstraktor in Betrieb genommen. Die Ergebnisse aus dem Traktoreinsatz auf dem Feld bestätigen die aus dem Stand der Forschung bekannte Beobachtung, dass der minimal zulässige Reifendruck nicht notwendigerweise zu maximalem Traktionswirkungsgrad führt. Die Ermittlung des wirkungsgradoptimalen Reifendrucks durch den Algorithmus bei homogenen Einsatzbedingungen funktioniert. Die Optimierung des Traktionswirkungsgrads bei heterogenen Einsatzbedingungen hingegen birgt ein Risiko für Fehlbewertungen, verursacht durch das Vermischen unterschiedlicher Bodentypen durch den Algorithmus in einer Reifen-Boden-Kennlinie. Dies sollte in weiterführenden Arbeiten aufgegriffen und untersucht werden.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Wieckhorst, Jan Carsten</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1193661528</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>von: Dipl.-Ing. Jan Carsten Wieckhorst</responsible>
+            <publicationInfo>
+                <issued>2019</issued>
+                <publicationPlaces>
+                    <publicationPlace>Braunschweig</publicationPlace>
+                </publicationPlaces>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2018</dateAccepted>
+                        <description>Dissertation, Technische Universität Carolo-Wilhelmina zu Braunschweig</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>System zur automatischen Reifendruckeinstellung bei Traktoren</title>
+                <identifier type="isbn13">9783844067064</identifier>
+                <identifier type="isbn">384406706X</identifier>
+                <identifier type="ppn">1665562757</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.225</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Reifen</subject>
+                </subject>
+                <subject id="6040991-5" subtype="corporate-body" type="gnd">
+                    <subject xml:lang="de">Traktor (Körperschaft)</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Luftdruck</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Schlepper</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://nbn-resolving.de/urn:nbn:de:gbv:084-2020080411124</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

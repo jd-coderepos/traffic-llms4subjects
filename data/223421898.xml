@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:223421898</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:223421898">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1997-02-05</databaseDate>
+            <changeDate>2023-04-11</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>223421898</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">223421898</identifier>
+                <identifier type="ean">9783800621385</identifier>
+                <identifier type="firstid">DNB:94943700X</identifier>
+                <identifier type="isbn">380062138X</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/bs/toc/223421898.pdf</location>
+                <location subtype="toc" type="url">http://d-nb.info/94943700X/04</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">237333821</identifier>
+                    <creationDate>1997-06-26</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">T 97 B 3721</location>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XXVII, 389 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Telekommunikation und Verkehr</title>
+            <abstracts>
+                <abstract xml:lang="de">enth.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Ernst, Matthias</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">170972283</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor>
+                    <contributor>Walpuski, Dirk</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">171147952</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>von Matthias Ernst und Dirk Walpuski</responsible>
+            <publicationInfo>
+                <issued>1997</issued>
+                <publicationPlaces>
+                    <publicationPlace>München</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Vahlen</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>zahlr. Tab.</description>
+            <description>25 cm</description>
+            <description>graph. Darst</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>QR 800</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>RB 10190</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 3600</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>QR 700</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>41</code>
+                </classification>
+                <classification classificationID="106420631" classificationName="bk">
+                    <code>55.80</code>
+                    <entries>
+                        <entry>Verkehrswesen, Transportwesen: Allgemeines</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>QR 720</code>
+                </classification>
+                <classification classificationID="106403559" classificationName="bk">
+                    <code>05.42</code>
+                    <entries>
+                        <entry>Telekommunikation</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4062901-6" type="gnd">
+                    <subject xml:lang="de">Verkehr</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Verkehr</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Industrieökonomik</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Deutschland</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Verkehrsökonomik</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Verkehrsinfrastruktur</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Telekommunikation</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Theorie</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Wettbewerb</subject>
+                </subject>
+                <subject id="4059360-5" type="gnd">
+                    <subject xml:lang="de">Telekommunikation</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

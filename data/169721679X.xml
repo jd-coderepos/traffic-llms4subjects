@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:169721679X</identifier><datestamp>2024-06-14</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:169721679X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2020-05-05</databaseDate>
+            <changeDate>2022-07-29</changeDate>
+            <ftxCreationDate>2024-06-14</ftxCreationDate>
+            <documentID>169721679X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">169721679X</identifier>
+                <identifier type="doi">10.1007/978-3-658-30141-5</identifier>
+                <identifier type="firstid">KEP:051997428</identifier>
+                <identifier type="isbn13">9783658301415</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://doi.org/10.1007/978-3-658-30141-5</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3660530956</identifier>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2020-05-06</creationDate>
+                    <selectionKey>zesp</selectionKey>
+                    <loanIndicator>s</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (XXIII, 144 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Methodische Entwicklung eines durchgängigen Motormodells für den Motorsport</title>
+            <abstracts>
+                <abstract xml:lang="de">Durchgängiger Modelleinsatz im Entwicklungsprozess -- 0D/1D-Motormodelle für Motorsport-Motoren -- Rundenzeitsimulation mit detaillierten Motormodellen -- Echtzeitsimulationen: Driver-in-the-Loop und Hardware-in-the-Loop.</abstract>
+                <abstract xml:lang="de">Simon Malcher untersucht den durchgängigen Einsatz von Modellen im Entwicklungsprozess von Motorsport-Motoren. Dabei werden die Entwicklungsphasen tiefergehend analysiert, um die Modellanforderungen abzuleiten und eine übergreifende Modellarchitektur zu entwickeln. Mit beispielhaften Modellanwendungen aus den Entwicklungsphasen wird der Modelleinsatz verifiziert und die Durchgängigkeit validiert. Die 0D/1D-Motormodellierung wird detailliert vorgestellt, mit besonderem Fokus auf der Verbrennungsmodellierung. Darüber hinaus wird ein Ansatz zur Rundenzeitsimulation mit detaillierten Motormodellen aufgezeigt. Zudem wird die Modellentwicklung für die Echtzeitanwendungen „Driver-in-the-Loop Simulation“ sowie „Hardware-in-the-Loop Simulation“ zur modellbasierten Applikation ausführlich erläutert. Der Inhalt Durchgängiger Modelleinsatz im Entwicklungsprozess 0D/1D-Motormodelle für Motorsport-Motoren Rundenzeitsimulation mit detaillierten Motormodellen Echtzeitsimulationen: Driver-in-the-Loop und Hardware-in-the-Loop Die Zielgruppen Dozenten, Studenten und Wissenschaftler aus den Bereichen Fahrzeug- und Antriebstechnik, Motorsport sowie Modellbildung und Simulation Ingenieure aus den gleichen Fachbereichen in Forschung und Entwicklung Der Autor Simon Malcher promovierte am Institut für Verbrennungsmotoren und Kraftfahrwesen (IVK) der Universität Stuttgart in enger Zusammenarbeit mit der Motorsport-Motorenentwicklung eines deutschen Automobilherstellers. Heute ist er weiterhin in diesem Bereich tätig.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Malcher, Simon</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1213923468</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Simon Malcher</responsible>
+            <publicationInfo>
+                <issued>2020</issued>
+                <publicationPlaces>
+                    <publicationPlace>Wiesbaden</publicationPlace>
+                    <publicationPlace>[Heidelberg]</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Springer Vieweg</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-2-SEB</identifier>
+                    <identifier type="collectioncode">ZDB-2-STI</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>Wissenschaftliche Reihe Fahrzeugtechnik Universität Stuttgart</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>Research</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>Springer eBook Collection</title>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2020</dateAccepted>
+                        <description>Dissertation, Universität Stuttgart</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+            <description>Campusweiter Zugriff (Universität Hannover) - Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Keine Weitergabe an Dritte. Kein systematisches Downloaden durch Robots.</description>
+            <description>Erworben aus Studienqualitätsmitteln</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Methodische Entwicklung eines durchgängigen Motormodells für den Motorsport</title>
+                <identifier type="ppn">1694637514</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-2-SEB</identifier>
+                <identifier type="collectioncode">ZDB-2-STI</identifier>
+            </related>
+            <related type="parent">
+                <title>Wissenschaftliche Reihe Fahrzeugtechnik Universität Stuttgart</title>
+            </related>
+            <related type="parent">
+                <title>Research</title>
+            </related>
+            <related type="parent">
+                <title>Springer eBook Collection</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.2</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106419897" classificationName="bk">
+                    <code>52.35</code>
+                    <entries>
+                        <entry>Kolbenkraftmaschinen</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mas</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Engines.</subject>
+                </subject>
+                <subject id="4040408-0" type="gnd">
+                    <subject xml:lang="de">Motorsport</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Machinery.</subject>
+                </subject>
+                <subject id="4160163-4" type="gnd">
+                    <subject xml:lang="de">Hochleistungsmotor</subject>
+                </subject>
+                <subject id="4176077-3" type="gnd">
+                    <subject xml:lang="de">Prozesssimulation</subject>
+                </subject>
+                <subject id="4468716-3" type="gnd">
+                    <subject xml:lang="de">Rennmotor</subject>
+                </subject>
+                <subject id="4690080-9" type="gnd">
+                    <subject xml:lang="de">Numerische Strömungssimulation</subject>
+                </subject>
+                <subject id="4044196-9" type="gnd">
+                    <subject xml:lang="de">Ottomotor</subject>
+                </subject>
+                <subject id="4132165-0" type="gnd">
+                    <subject xml:lang="de">Fahrerverhalten</subject>
+                </subject>
+                <subject id="4690875-4" type="gnd">
+                    <subject xml:lang="de">Hardware-in-the-loop</subject>
+                </subject>
+                <subject id="4153572-8" type="gnd">
+                    <subject xml:lang="de">Fahrsimulator</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Automotive engineering.</subject>
+                </subject>
+                <subject id="4059827-5" type="gnd">
+                    <subject xml:lang="de">Thermodynamik</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://doi.org/10.1007/978-3-658-30141-5</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

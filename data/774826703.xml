@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:774826703</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:774826703">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2013-12-18</databaseDate>
+            <changeDate>2022-12-26</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>774826703</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">774826703</identifier>
+                <identifier type="ean">9783844024494</identifier>
+                <identifier type="firstid">DNB:1044990198</identifier>
+                <identifier type="isbn13">9783844024494</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://d-nb.info/1044990198/04</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1456341731</identifier>
+                    <creationDate>2014-02-06</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">H 14 B 29</location>
+                    <loanIndicator>i</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">145634174X</identifier>
+                    <creationDate>2014-02-06</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">H 14 B 29 a</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1456341758</identifier>
+                    <creationDate>2014-02-06</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">H 14 B 29 b</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XVII, 204 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Zur Steigerung der Kommunikationszuverlässigkeit von IEEE 802.11p im fahrzeugspezifischen Umfeld</title>
+            <abstracts>
+                <abstract xml:lang="de">Fahrzeug-zu-Fahrzeugkommunikation, Fahrzeug-zu-Umweltkommunikation, OFDM, IEEE 802.11p, Kanalschätzung, Mehrantennenkonzepte, Diversity-Verfahren. - Car-to-Car-communication, channel estimation, multi-antenna systems, spatial diversity</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Skupin, Christian</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1046867571</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Christian Skupin</responsible>
+            <publicationInfo>
+                <issued>2014</issued>
+                <publicationPlaces>
+                    <publicationPlace>Aachen</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Shaker</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Berichte aus der Kommunikationstechnik</title>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Zugl.: Hannover, Univ., Diss., 2013</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Berichte aus der Kommunikationstechnik</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc-dbn">
+                    <code>621.3</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106417665" classificationName="bk">
+                    <code>53.74</code>
+                    <entries>
+                        <entry>Hochfrequenztechnik, Funktechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZN 6560</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.277</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4062937-5" type="gnd">
+                    <subject xml:lang="de">Verkehrsinfrastruktur</subject>
+                </subject>
+                <subject id="4293049-2" type="gnd">
+                    <subject xml:lang="de">Physikalische Schicht</subject>
+                </subject>
+                <subject id="1024622754" type="gnd">
+                    <subject xml:lang="de">Car-to-Car-Kommunikation</subject>
+                </subject>
+                <subject id="1052198759" subtype="work" type="gnd">
+                    <subject xml:lang="de">IEEE 802</subject>
+                </subject>
+                <subject id="4186649-6" type="gnd">
+                    <subject xml:lang="de">Übertragungskanal</subject>
+                </subject>
+                <subject id="4342646-3" type="gnd">
+                    <subject xml:lang="de">Adaptive Schätzung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

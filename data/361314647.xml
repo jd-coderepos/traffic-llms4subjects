@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:361314647</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:361314647">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2003-03-10</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>361314647</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">361314647</identifier>
+                <identifier type="contract">50QD0001</identifier>
+                <identifier type="firstid">GBV:361314647</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">594275881</identifier>
+                    <creationDate>2003-03-26</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">F 03 B 175</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">[ca. 800] S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>DIVA : [Interferometer und Missionsanforderungs-Optimierungsstudie] ; [Schlußbericht] ; [Abschlußdatum des Vorhabens: 31.07.2001]</title>
+            <alternativeTitles>
+                <alternative>DIVA interferometer and mission requirements optimization study</alternative>
+                <alternative>Interferometer und Missionsanforderungs-Optimierungsstudie</alternative>
+                <alternative>DIVA Hauptinstrument</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">DIVA, mission requirements document, mission and system requirements specification, system design and interface document, tri-mirror-anastigmat-telescope, uv-telescope, flexbus-design</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Astrium GmbH, Space Transportation Centre, Friedrichshafen</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">6025734-9</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor>
+                    <contributor>Schelkle, Markus</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Astrium GmbH. [Autoren des Berichts: Markus Schelkle ...]</responsible>
+            <publicationInfo>
+                <issued>2001</issued>
+                <publicationPlaces>
+                    <publicationPlace>Friedrichshafen</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Förderkennzeichen DLR 50QD0001. - Engl. Zsfassung u.d.T.: DIVA interferometer and mission requirements optimization study</publicationIDInfo>
+                <publicationIDInfo>In Ordner</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>graph. Darst</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106410334" classificationName="bk">
+                    <code>55.60</code>
+                    <entries>
+                        <entry>Raumfahrttechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106406884" classificationName="bk">
+                    <code>39.10</code>
+                    <entries>
+                        <entry>Praktische Astronomie: Allgemeines</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4182170-1" type="gnd">
+                    <subject xml:lang="de">Spektralfotometrie</subject>
+                </subject>
+                <subject id="4207657-2" type="gnd">
+                    <subject xml:lang="de">Astrometrie</subject>
+                </subject>
+                <subject id="4115554-3" type="gnd">
+                    <subject xml:lang="de">Pflichtenheft</subject>
+                </subject>
+                <subject id="4276501-8" type="gnd">
+                    <subject xml:lang="de">Astronomiesatellit</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

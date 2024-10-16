@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:333247639</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:333247639">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2001-08-28</databaseDate>
+            <changeDate>2024-04-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>333247639</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">333247639</identifier>
+                <identifier type="contract">MTK0610</identifier>
+                <identifier type="firstid">GBV:333247639</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="miscellaneous" type="url">https://edocs.tib.eu/files/e01fb01/333247639l.pdf</location>
+                <location mimetype="application/pdf" subtype="fulltext" type="url">https://edocs.tib.eu/files/e01fb01/333247639.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">508824257</identifier>
+                    <creationDate>2001-08-28</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-89</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">Online-Ressource, 277 p. = 4,2 Mb., text and images</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Entwicklung eines einheitlichen sicherheitstechnischen Konzeptes für den Bau und Betrieb von Bodeneffektfahrzeugen (BEF), TEBEF Phase 3</title>
+            <abstracts>
+                <abstract xml:lang="de">Bodeneffektfahrzeuge, BEF, Lastannahmen für BEF, Stabilität von BEF, Sicherheitsanalyse, Funktionelle Gefährdungsanalyse, Erpobungen, ISM-Code, Betriebsgrenzen</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Germanischer Lloyd AG, Fachbereich Maschinenbau, Elektrotechnik</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2143846-8</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor>
+                    <contributor>Fach, K.</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Abteilung Maschinenbau/FM, [Germanischer Lloyd]. [K. Fach .̤]</responsible>
+            <publicationInfo>
+                <issued>2001</issued>
+                <edition>Version 1/2000-09-01; [Elektronische Ressource]</edition>
+                <publicationPlaces>
+                    <publicationPlace>Hamburg</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Universitätsbibliothek u. Technische Informationsbibliothek</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-296-TTN</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>Bericht / Germanischer Lloyd</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>FM</title>
+                    <volumeNumber>00,038</volumeNumber>
+                </journalInfo>
+                <publicationIDInfo>Differences between the printed and electronic version of the document are possible. - Contract BMBF  MTK 0610</publicationIDInfo>
+                <publicationIDInfo>nIndex p. 170 - 173. - attachement</publicationIDInfo>
+                <publicationIDInfo>Also available as printed version</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>ill., graphs</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-296-TTN</identifier>
+            </related>
+            <related type="parent">
+                <title>Bericht / Germanischer Lloyd</title>
+            </related>
+            <related type="parent">
+                <title>FM</title>
+                <volumeNumber>00,038</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106414739" classificationName="bk">
+                    <code>55.45</code>
+                    <entries>
+                        <entry>Amphibienfahrzeuge, Luftkissenfahrzeuge</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4476438-8" type="gnd">
+                    <subject xml:lang="de">Wing-in-ground-Fahrzeug</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">default</property>
+            <property name="displaySubscriberAccess">https://edocs.tib.eu/files/e01fb01/333247639.pdf</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

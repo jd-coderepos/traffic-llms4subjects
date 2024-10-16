@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1614313911</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1614313911">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2004-10-27</databaseDate>
+            <changeDate>2024-05-09</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1614313911</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1614313911</identifier>
+                <identifier type="ean">9783540210870</identifier>
+                <identifier type="firstid">DNB:970161026</identifier>
+                <identifier type="isbn">3540210873</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="cover" type="url">https://swbplus.bsz-bw.de/bsz114154007cov.jpg</location>
+                <location subtype="toc" type="url">https://swbplus.bsz-bw.de/bsz114154007inh.htm</location>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/bsz/toc/bsz114154007inh.pdf</location>
+                <location subtype="miscellaneous" type="url">http://www.loc.gov/catdir/enhancements/fy0818/2004111939-d.html</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">641404611</identifier>
+                    <creationDate>2004-10-26</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">T 04 B 6397</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-31</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">XXX, 906, A-23 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Location, transport and land use : modelling spatial-temporal information; with ... 113 tables</title>
+            <abstracts>
+                <abstract xml:lang="de">This book identifies the underlying principles that govern siting, community dvelopment, and product/service delivery. Included are step-by-step procedures to perform: site location, land-use planning, location-routing, competitive allocation of products/services &amp; spatial forecasting. The treatment goes well beyond the state-of-the-art, suggesting emerging techniques that are able to adress the following sample problems: emergency- response to natural &amp; manmade hazards, environmental planning, infrastructure management, intelligent transportation systems, real-estate development, remote-sensing, supply-chain management and urban land-use plans. Mindful of the cross-disciplinary nature of today's practice, this book equips professionals and researchers with the necessary techniques and software to work effectively with other members of the team from different background. The text is supplemented by many examples, case studies and solutions</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Chan, Yupo</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">173625819</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Yupo Chan</responsible>
+            <publicationInfo>
+                <issued>2005</issued>
+                <publicationPlaces>
+                    <publicationPlace>Berlin</publicationPlace>
+                    <publicationPlace>Heidelberg [u.a.]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Includes references and bibliography</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>graph. Darst., Kt.</description>
+            <hiddenSearchTerm>land-use</hiddenSearchTerm>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausg.</label>
+                <title>Location, Transport and Land-Use</title>
+                <identifier type="ppn">1645131386</identifier>
+                <identifier type="isbn13">9783540268512</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420631" classificationName="bk">
+                    <code>55.80</code>
+                    <entries>
+                        <entry>Verkehrswesen, Transportwesen: Allgemeines</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>QH 233</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>HD108.6</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>QC 150</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>333.731302</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>380</code>
+                </classification>
+                <classification classificationID="106420321" classificationName="bk">
+                    <code>83.64</code>
+                    <entries>
+                        <entry>Regionalwirtschaft</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>380</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>330</code>
+                </classification>
+                <classification classificationName="ssg">
+                    <code>14</code>
+                </classification>
+                <classification classificationID="106414682" classificationName="bk">
+                    <code>83.72</code>
+                    <entries>
+                        <entry>Verkehrswirtschaft</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>QY 000</code>
+                </classification>
+                <classification classificationID="106413708" classificationName="bk">
+                    <code>74.60</code>
+                    <entries>
+                        <entry>Raumordnung, Städtebau: Allgemeines</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>oek</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>arc</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Transportation buildings</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Buildings</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Industrial location</subject>
+                </subject>
+                <subject id="4121557-6" type="gnd">
+                    <subject xml:lang="de">Raumwirtschaftstheorie</subject>
+                </subject>
+                <subject id="4043212-9" type="gnd">
+                    <subject xml:lang="de">Ökonometrisches Modell</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Land use</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Transportation</subject>
+                </subject>
+                <subject id="4114528-8" type="gnd">
+                    <subject xml:lang="de">Mathematisches Modell</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

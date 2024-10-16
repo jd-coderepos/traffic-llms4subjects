@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1777630053</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1777630053">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2021-11-17</databaseDate>
+            <changeDate>2024-02-08</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1777630053</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1777630053</identifier>
+                <identifier type="firstid">KXP:1777630053</identifier>
+                <identifier type="isbn13">9783030779078</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1777630053.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4002655148</identifier>
+                    <creationDate>2022-11-28</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 22 B 214</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xiv, 293 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Machine-type communication for maritime Internet-of-Things : from concept to practice</title>
+            <abstracts>
+                <abstract xml:lang="de">Introduction -- Maritime Machine-Type Communication -- System Architecture -- Radio Spectrum -- Network Design -- Air Interface Design -- Proximity Communication Component -- Satellite Communication Component -- Terrestrial Communication Component -- Transmitter and Receiver Design -- Conclusion.</abstract>
+                <abstract xml:lang="de">This book introduces the concept of machine-type communication (MTC) for maritime Internet of Things. The first part of the book portrays a maritime MTC system from an architectural perspective and describes an MTC framework and the fundamental components, laying out a foundation that leads to an ultimate solution to the maritime IoT requirements and challenges. The second part ties together all discussed in the first part and demonstrates how to apply it to a practical system through a realistic design example based on an international maritime mobile spectrum. The book serves as a comprehensive tutorial of the maritime MTC from the top (the network architecture) to the bottom (the air/radio interface and regulatory radio spectrum constraints), guiding readers to an easier understanding of the maritime MTC-related issues and the rationale behind the design. The primary readers of this book include maritime communication engineers, maritime IoT professionals, maritime academia, and the general MTC and IoT communities. Presents the concept of machine-type communication (MTC) for maritime Internet of Things (IoT) and its services, requirements, and challenges; Explains space-earth-integrated maritime machine-type communication system architecture with a comparison with its land counterpart; Sets out a comprehensive framework and details the ways to implement it on a practical radio spectrum; Includes maritime MTC radio spectrum and regulations, network design, protocol design, and air interface design.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Wang, Michael Mao</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Zhang, Jingjing</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Michael Mao Wang, Jingjing Zhang</responsible>
+            <publicationInfo>
+                <issued>2021</issued>
+                <publicationPlaces>
+                    <publicationPlace>Cham</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="CH" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Wireless networks</title>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Wireless networks</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420577" classificationName="bk">
+                    <code>55.40</code>
+                    <entries>
+                        <entry>Schiffstechnik, Schiffbau</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="10640623X" classificationName="bk">
+                    <code>54.32</code>
+                    <entries>
+                        <entry>Rechnerkommunikation</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>inf</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="7713781-4" type="gnd">
+                    <subject xml:lang="de">Internet der Dinge</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Electrical engineering.</subject>
+                </subject>
+                <subject id="4179595-7" type="gnd">
+                    <subject xml:lang="de">Schiffstechnik</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Law of the sea.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Transportation engineering.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Traffic engineering.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Computer communication systems.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">International law.</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

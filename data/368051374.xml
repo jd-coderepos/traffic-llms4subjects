@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:368051374</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:368051374">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2003-08-21</databaseDate>
+            <changeDate>2024-04-19</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>368051374</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">368051374</identifier>
+                <identifier type="ean">9783540406112</identifier>
+                <identifier type="firstid">DNB:968515444</identifier>
+                <identifier type="isbn">3540406115</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://swbplus.bsz-bw.de/bsz106969951inh.htm</location>
+                <location subtype="cover" type="url">https://swbplus.bsz-bw.de/bsz106969951cov.jpg</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">61709862X</identifier>
+                    <creationDate>2004-10-18</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">T 04 B 3061</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-31</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">XIX, 483 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Thermodynamik des Kraftfahrzeugs : mit 7 Tabellen</title>
+            <abstracts>
+                <abstract xml:lang="de">Die Thermodynamik ist eine tragende Säule der Ingenieurwissenschaften, aber oftmals auch - durch ihre Komplexität und ihren Umfang sowie durch phänomenologische Herangehensweise - ein Herausforderung für die Ingenieure. Ziel des Buchs ist, durch eine methodische Verkettung der theoretischen Grundlagen, ihrer mathematischen Darstellung, der Anwendungsgebiete in der Kraftfahrzeugtechnik und vieler spezifischer Übungen und Beispiele den Kraftfahrzeugingenieuren und -studenten eine geistige Werkstatt zur Forschung, Entwicklung oder numerischer Simulation vielfältiger Fahrzeugmodule anzubieten. TOC:Grundlagen der Technischen Thermodynamik.- Ideale Gase - Thermodynamische Eigenschaften.- Der zweite Hauptsatz der Thermodynamik.- Anwendung der Hauptsätze der Thermodynamik in Energieumwandlungen.- Der Dampf.- Gas-Dampf-Gemische.- Verbrennung.- Grunlagen der Wärmeübertragung.- Wärmeleitung.- Wärmeübergang (Konvektion).- Wärmestrahlung.- Thermodynamische Prozesse in Maschinen und Anlagen.- Messung thermodynamischer Größen.-</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Stan, Cornel</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">173269257</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Cornel Stan</responsible>
+            <publicationInfo>
+                <issued>2004</issued>
+                <publicationPlaces>
+                    <publicationPlace>Berlin</publicationPlace>
+                    <publicationPlace>Heidelberg [u.a.]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                    <publicationCountry code="US" />
+                    <publicationCountry code="CN" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Literaturverz. S. [473] - 474</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausg.</label>
+                <title>Thermodynamik des Kraftfahrzeugs</title>
+                <identifier type="isbn13">9783540350507</identifier>
+                <identifier type="ppn">1646874455</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420534" classificationName="bk">
+                    <code>50.38</code>
+                    <entries>
+                        <entry>Technische Thermodynamik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>UG 1200</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4200</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4210</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>36</code>
+                </classification>
+                <classification classificationID="106419897" classificationName="bk">
+                    <code>52.35</code>
+                    <entries>
+                        <entry>Kolbenkraftmaschinen</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mas</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4059827-5" type="gnd">
+                    <subject xml:lang="de">Thermodynamik</subject>
+                </subject>
+                <subject id="4165441-9" type="gnd">
+                    <subject xml:lang="de">Kraftfahrzeugtechnik</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

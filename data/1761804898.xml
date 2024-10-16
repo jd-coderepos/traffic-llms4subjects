@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1761804898</identifier><datestamp>2024-06-14</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1761804898">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2021-07-02</databaseDate>
+            <changeDate>2023-03-10</changeDate>
+            <ftxCreationDate>2024-06-14</ftxCreationDate>
+            <documentID>1761804898</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1761804898</identifier>
+                <identifier type="doi">10.1007/978-3-658-31721-8</identifier>
+                <identifier type="firstid">KEP:066147727</identifier>
+                <identifier type="isbn13">9783658317218</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://doi.org/10.1007/978-3-658-31721-8</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3947260253</identifier>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2021-07-10</creationDate>
+                    <selectionKey>zesp</selectionKey>
+                    <loanIndicator>s</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (XX, 701 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Maritime Regelungs- und Sensorsysteme : Automatisierte Schiffsführung – mit MATLAB® und Simulink®</title>
+            <abstracts>
+                <abstract xml:lang="de">Das Buch beschreibt die erforderlichen Grundlagen für den Entwurf und die Anwendung maritimer Regelungssysteme. Unter Verwendung moderner Methoden der Modellbildung und der Regelungstheorie erfolgt die Behandlung von Navigationssystemen und Sensoren, Regelungsstrukturen und Assistenzsystemen bis hin zu einem neuentwickelten Manöverregelungssystem. Der methodisch dargestellte Stoff wird durch eine Vielzahl von mit MATLAB® und Simulink® erstellten Rechenbeispielen und Simulationen auf der Basis von Borddaten anschaulich interpretiert. Der Inhalt Bewegungsmodelle maritimer Fahrzeuge und deren Identifikation – Störgrößenanalyse – Satellitennavigationssysteme (wie GALILEO) und Sensoren – Kurs- und Bahnregelungssysteme – Robustes Manöverregelungssystem – Regelung unbemannter Oberflächen- und Unterwasser-Fahrzeuge (USV, UUV) – Assistenzsysteme und hochautomatisierte Schiffsführung Die Zielgruppen Studierende, Lehrende, Ingenieure und Praktiker in der Seewirtschaft, Automatisierungstechnik und Informatik Die Autoren Prof. Dr.-Ing. habil. Jürgen Majohr wirkte nach einer fast zehnjährigen Tätigkeit als Entwicklungsingenieur in der schiffselektrotechnischen Industrie im Rahmen eines Lehrauftrages zu maritimen Regelungs- und Sensorsystemen bis 2018 an der Universität Rostock. Dr.-Ing. Martin Kurowski ist Arbeitsgruppenleiter am Institut für Automatisierungstechnik der Universität Rostock mit der Verantwortlichkeit der strategischen Ausrichtung der maritimen Forschungsgruppe.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Majohr, Jürgen</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">141710608</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Kurowski, Martin</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">120591191X</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Jürgen Majohr, Martin Kurowski</responsible>
+            <publicationInfo>
+                <issued>2021</issued>
+                <publicationPlaces>
+                    <publicationPlace>Wiesbaden</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer Vieweg</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-2-STI</identifier>
+                    <identifier type="collectioncode">ZDB-2-SEB</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>Springer eBook Collection</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>Lehrbuch</title>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>Campusweiter Zugriff (Universität Hannover) - Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Keine Weitergabe an Dritte. Kein systematisches Downloaden durch Robots.</description>
+            <description>Erworben aus Studienqualitätsmitteln</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Maritime Regelungs- und Sensorsysteme</title>
+                <identifier type="ppn">1726949893</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-2-STI</identifier>
+                <identifier type="collectioncode">ZDB-2-SEB</identifier>
+            </related>
+            <related type="parent">
+                <title>Springer eBook Collection</title>
+            </related>
+            <related type="parent">
+                <title>Lehrbuch</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>ZQ 9940</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>621.3</code>
+                </classification>
+                <classification classificationID="181569973" classificationName="bk">
+                    <code>55.44</code>
+                    <entries>
+                        <entry>Schiffsführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 6660</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Robotics.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Electrical engineering.</subject>
+                </subject>
+                <subject id="4329066-8" type="gnd">
+                    <subject xml:lang="de">MATLAB</subject>
+                </subject>
+                <subject id="4781185-7" type="gnd">
+                    <subject xml:lang="de">Navigationssystem</subject>
+                </subject>
+                <subject id="4134712-2" type="gnd">
+                    <subject xml:lang="de">Regelungssystem</subject>
+                </subject>
+                <subject id="4003957-2" type="gnd">
+                    <subject xml:lang="de">Automation</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Speech processing systems.</subject>
+                </subject>
+                <subject id="4480546-9" type="gnd">
+                    <subject xml:lang="de">SIMULINK</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Image processing.</subject>
+                </subject>
+                <subject id="4136257-3" type="gnd">
+                    <subject xml:lang="de">Wasserfahrzeug</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Mechanical engineering.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Microwaves.</subject>
+                </subject>
+                <subject id="4307964-7" type="gnd">
+                    <subject xml:lang="de">Sensorsystem</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Optical engineering.</subject>
+                </subject>
+                <subject id="4278240-5" type="gnd">
+                    <subject xml:lang="de">Schiffsführung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Mechatronics.</subject>
+                </subject>
+                <subject id="4202846-2" type="gnd">
+                    <subject xml:lang="de">Satellitennavigation</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Control engineering.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Signal processing.</subject>
+                </subject>
+                <subject id="4124257-9" type="gnd">
+                    <subject xml:lang="de">Störgröße</subject>
+                </subject>
+                <subject id="4690490-6" type="gnd">
+                    <subject xml:lang="de">Assistenzsystem</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://doi.org/10.1007/978-3-658-31721-8</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

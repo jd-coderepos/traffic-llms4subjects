@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1840130245</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1840130245">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2023-03-27</databaseDate>
+            <changeDate>2023-06-03</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1840130245</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1840130245</identifier>
+                <identifier type="doi">10.15480/882.4923</identifier>
+                <identifier type="firstid">KXP:1840130245</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="license" type="url">https://creativecommons.org/licenses/by/4.0/</location>
+                <location subtype="fulltext" type="url">http://nbn-resolving.de/urn:nbn:de:gbv:830-882.0211185</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4317923009</identifier>
+                    <creationDate>2023-05-04</creationDate>
+                    <selectionKey>zdt</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (121 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Experimental and numerical investigation of brittle ice crushing loads</title>
+            <abstracts>
+                <abstract xml:lang="de">Eislasten stellen ein erhebliches Risiko für Schiffe in eisbedeckten Fahrtgebieten dar. Bei niedrigen Dehnraten verhält sich Eis duktil, während es bei hohen Dehnraten spröde versagt. Diese Arbeit konzentriert sich auf den spröden Modus, der bei typischen Schiff-Eis Interaktionen dominiert. In der Literatur findet sich für Eis vielfältige experimentellen Daten und Simulationskonzepte. Dennoch fehlen derzeit allgemein anwendbare und fundiert validierte Simulationstechniken, um die Folgen einer Kollision mit einem Eisberg oder einer Eisscholle zu bestimmen. In dieser Arbeit wird daher der neue Versuchsaufbau des Eisextrusionsversuches zur Untersuchung von Eislasten vorgestellt und ein Finite-Elemente-Modell zur Simulation von spröden Eis-Struktur-Interaktionsproblemen entwickelt. Während des umfassenden Versuchsprogramms wurden unterschiedlich eingespannte Eisproben gegen quasi starre bzw. vollmaßstäbliche Schiffsstrukturen gedrückt. Die Versuchsergebnisse zeigen, dass der Versagensmodus hauptsächlich von der Versuchsgeschwindigkeit abhängt, während die Einspannung des Eises hauptsächlich die Höhe der Belastung bestimmt. Das Hauptziel des entwickelten Mohr-Coulomb Nodal Split (MCNS) Eismaterialmodells ist es, effiziente und physikalisch basierte Eis-Struktur-Interaktionssimulationen zu ermöglichen. Im Gegensatz zu den bisher existierenden Eismodellen berücksichtigt das MCNS-Modell gleichzeitig das Splittern und Crushen, was die Vielseitigkeit und Zuverlässigkeit des Ansatzes deutlich erhöht. Der Effekt der Einspannung auf die Crushing-Festigkeit und das richtungsabhängige Materialverhalten des Eises werden durch das Mohr-Coulomb-Materialmodell modelliert. Um Masse und Energie so weit wie möglich zu erhalten, wird neben der Elementerosion auch Node-Splitting angewandt. Im Rahmen der Validierung des Modells wurden die simulierten maximalen Eiskräfte und Kontaktdrücke mit den Ergebnissen sowohl der klein- und großmaßstäblichen Eisextrusionsversuche als auch mit Doppelpendelversuchen verglichen. Insgesamt stimmen die Ergebnisse des MCNS-Modells sehr gut mit den experimentellen Ergebnissen überein. Abschließend wird ein Prozess zur Simulation von vollmaßstäblichen Schiff-Eis-Kollisionen auf Grundlage der entwickelten Methoden und experimentellen Ergebnisse vorgeschlagen.</abstract>
+                <abstract xml:lang="de">Ice loads pose a significant risk for ship operation in ice covered waters. At low strain rates, the ice behaves ductile, whereas at high strain rates it reacts in brittle manner. This thesis focuses on the brittle mode, which is the dominating mode for ship-ice interactions. A multitude of experimental data and numerical approaches for the simulation of ice can be found in the literature. Nevertheless, versatile and profound validated simulation techniques are currently missing to access the consequences of an iceberg collision or ice floe impact. Hence, in this thesis the new experimental set-up of the ice extrusion tests for the investigation of ice crushing loads is presented and a finite element model for the simulation of brittle ice-structure interaction problems is developed. During the comprehensive ice extrusion test campaign confined ice specimens were pushed against quasi rigid or full-scale ship structures. The obtained results reveal that the failure mode depends mainly on the test speed, while the confinement of ice mainly determines the load level. The core objective of the developed Mohr-Coulomb Nodal Split (MCNS) ice material model is to enable efficient physical based ice-structure interaction simulations. Unlike previously existing ice models, the MCNS model takes spalling and crushing into account, which significantly increases the versatility and reliability of the approach. The confinement effect on the crushing strength and the anisotropic failure behaviour of the ice is modelled by the Mohr-Coulomb material model. To preserve mass and energy as much as possible, the node splitting technique is applied in addition to the element erosion technique. To validate the findings of the model, the simulated maximum ice forces and contact pressures are compared with small- and large-scale ice extrusion experiments and double pendulum tests. During validation, the MCNS model shows a very good agreement with these experimental results. Finally, a procedure is proposed to simulate full-scale ship-ice collisions on basis of the given methodologies and experimental results.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="degree-granting-institution">
+                    <type>degree-granting-institution</type>
+                    <name>Technische Universität Hamburg</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">1112763473</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+                <corporateCreator>
+                    <name>Technische Universität Hamburg, Institut für Konstruktion und Festigkeit von Schiffen</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">1159998078</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Herrnring, Hauke</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1160263302</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Ehlers, Sören</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1159997799</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Grabe, Jürgen</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1037192761</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>von Hauke Herrnring ; Gutachter: Prof. DSc. (Tech) Sören Ehlers, Univ.-Prof. Dr.-Ing. Jürgen Grabe</responsible>
+            <publicationInfo>
+                <issued>2023</issued>
+                <publicationPlaces>
+                    <publicationPlace>Hamburg</publicationPlace>
+                </publicationPlaces>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2022</dateAccepted>
+                        <description>Dissertation, Technische Universität Hamburg</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+                <publicationIDInfo>Sonstige Körperschaft: Technische Universität Hamburg, Institut für Konstruktion und Festigkeit von Schiffen</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Experimental and numerical investigation of brittle ice crushing loads</title>
+                <identifier type="ppn">1843615401</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420577" classificationName="bk">
+                    <code>55.40</code>
+                    <entries>
+                        <entry>Schiffstechnik, Schiffbau</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>620: Ingenieurwissenschaften</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>625.2</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Ice-structure interaction</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Experiment</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Ice mechanics</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Ice breaking ships</subject>
+                </subject>
+                <subject id="4191598-7" type="gnd">
+                    <subject xml:lang="de">Schiffskollision</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Finite element analysis</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://nbn-resolving.de/urn:nbn:de:gbv:830-882.0211185</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

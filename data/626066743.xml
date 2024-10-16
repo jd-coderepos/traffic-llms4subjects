@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:626066743</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:626066743">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2010-05-12</databaseDate>
+            <changeDate>2024-04-21</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>626066743</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">626066743</identifier>
+                <identifier type="contract">03209</identifier>
+                <identifier type="ean">9783613032095</identifier>
+                <identifier type="firstid">DNB:1002143314</identifier>
+                <identifier type="isbn13">9783613032095</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://d-nb.info/1002143314/04</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1174516739</identifier>
+                    <creationDate>2011-05-11</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 10 B 5463</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-24</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">171 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Das große Buch der LKW-Technik</title>
+            <abstracts>
+                <abstract xml:lang="de">Einführung in Konzeption und Technik des Lastkraftwagens mit Beschreibung der Fahrzeugteile und Antriebssysteme; reich illustriert. (LK/N: Pleuß)</abstract>
+                <abstract xml:lang="de">Einführung in Konzeption und Technik des Lastkraftwagens mit Beschreibung der Antriebssysteme, Fahrzeugteile, der Betriebstechnik und Typologie. Wendet sich an technisch interessierte Laien und enthält zahlreiche (Detail-)Fotos und Skizzen. Kein Lehrbuch, insofern keine Alternative zu H. Braun (BA 2/05), eher mit W. Westerwelle (BA 2/08, mehr geschichtlich angelegt, knapper in den technischen Details) vergleichbar. Sachregister und weiterführende Literaturhinweise fehlen; außerdem ist das Werk nicht so umfangreich, wie der etwas vollmundige Buchtitel suggeriert. Trotz dieser Mängel breit einsetzbar und thematisch weitgehend konkurrenzlos. (2) (LK/N: Pleuß)</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Hoepke, Erich</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">122199995</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Breuer, Stefan</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1082561088</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Erich Hoepke/Stefan Breuer</responsible>
+            <publicationInfo>
+                <issued>2010</issued>
+                <edition>1. Aufl.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Stuttgart</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Motorbuch-Verl.</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>25 cm</description>
+            <description>zahlr. Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>ZO 4440</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.224</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Kraftfahrzeugtechnik</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Lastkraftwagen</subject>
+                </subject>
+                <subject id="4034649-3" type="gnd">
+                    <subject xml:lang="de">Lastkraftwagen</subject>
+                </subject>
+                <subject id="4165441-9" type="gnd">
+                    <subject xml:lang="de">Kraftfahrzeugtechnik</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

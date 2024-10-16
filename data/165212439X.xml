@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:165212439X</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:165212439X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2013-02-26</databaseDate>
+            <changeDate>2022-11-25</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>165212439X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">165212439X</identifier>
+                <identifier type="doi">10.1049/PBCE074E</identifier>
+                <identifier type="firstid">BSZ:379377217</identifier>
+                <identifier type="isbn13">9781849192606</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">http://dx.doi.org/10.1049/PBCE074E</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1490062467</identifier>
+                    <recallSign>OLR-IET</recallSign>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2014-07-20</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (xv, 285 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Eigenstructure control algorithms : applications to aircraft/rotorcraft handling qualities design</title>
+            <abstracts>
+                <abstract xml:lang="de">The book reviews developments in the following fields: eigenstructure assignment characterisation; eigenstructure synthesis algorithm; robust eigenstructure assignment; modal canonical observers; model following control systems; flight control system design; aircraft lateral directional handling qualities design; aircraft longitudinal handling qualities design; rotorcraft handling qualities design; aircraft flutter control system design; flight mechanics and aircraft state variable</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Srinathkumar, S.</contributor>
+                </contributor>
+            </contributors>
+            <responsible>S. Srinathkumar</responsible>
+            <publicationInfo>
+                <issued>2011</issued>
+                <publicationPlaces>
+                    <publicationPlace>London</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Institution of engineering and technology</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-100-CRS</identifier>
+                    <identifier type="collectioncode">ZDB-100-IET</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>IET control engineering series</title>
+                    <volumeNumber>74</volumeNumber>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>Campusweiter Zugriff (Universität Hannover) - Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Keine Weitergabe an Dritte. Kein systematisches Downloaden durch Robots.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druckausgabe</label>
+                <title>Eigenstructure control algorithms</title>
+                <identifier type="isbn13">9781849192590</identifier>
+                <identifier type="isbn">1849192596</identifier>
+                <identifier type="ppn">1608200175</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-100-CRS</identifier>
+                <identifier type="collectioncode">ZDB-100-IET</identifier>
+            </related>
+            <related type="parent">
+                <title>IET control engineering series</title>
+                <volumeNumber>74</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106421344" classificationName="bk">
+                    <code>50.23</code>
+                    <entries>
+                        <entry>Regelungstechnik, Steuerungstechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 7250</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.1326</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Flight control</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Mathematical models</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Observers (Control theory)</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Eigenvalues</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Helicopters</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">observers</subject>
+                </subject>
+                <subject id="4001183-5" type="gnd">
+                    <subject xml:lang="de">Algorithmus</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Control theory</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Control</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Aerospace engineering</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">control system synthesis</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">eigenstructure assignment</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">aerospace control</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">helicopters</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Eigenvalues</subject>
+                </subject>
+                <subject id="4328094-8" type="gnd">
+                    <subject xml:lang="de">Flugregelung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://dx.doi.org/10.1049/PBCE074E</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

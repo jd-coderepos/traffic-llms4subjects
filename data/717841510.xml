@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:717841510</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:717841510">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2012-06-18</databaseDate>
+            <changeDate>2024-01-30</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>717841510</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">717841510</identifier>
+                <identifier type="firstid">GBV:717841510</identifier>
+                <identifier type="isbn13">9783892206613</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">http://nbn-resolving.de/urn:nbn:de:gbv:830-tubdok-11562</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1475630808</identifier>
+                    <creationDate>2014-05-29</creationDate>
+                    <selectionKey>zdt</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online-Ressource (PDF-Datei: XV, 196 S., 4,4 MB)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Adjoint Navier-Stokes methods for hydrodynamic shape optimisation</title>
+            <alternativeTitles>
+                <alternative>Adjungierte Navier-Stokes-Methode für hydrodynamische Zielfunktionsableitungen</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">To efficiently calculate the sensitivity derivative of hydrodynamic objective functionals with respect to the shape, the adjoint Navier-Stokes equations were derived analytically. Consistent adjoint discretisation schemes were developed term-wise from the primal finite-volume discretisation. The adjoint method, implemented in the framework of a general-purpose pressure-correction based RANS code for unstructured grids, was validated against analytical solutions and verified by means of the direct-differentiation method. The adjoint-based sensitivity derivative was computed to guide a manual re-design of a ship hull to improve the wake field. Moreover, automatic shape-optimisation runs were carried out to reduce the power loss for ducted flows.</abstract>
+                <abstract xml:lang="de">Zur effizienten Berechnung hydrodynamischer Zielfunktionsableitungen nach der Form wurden die adjungierten Navier-Stokes Gleichungen analytisch hergeleitet. Auf Basis der primalen Finite-Volumen-Diskretisierung wurden konsistente adjungierte Diskretisierungsschemata entwickelt und im Rahmen eines Druckkorrekturalgorithmus für unstrukturierte Gitter implementiert. Das Verfahren wurde gegen analytische Lösungen validiert und numerisch verifiziert. Es wurde eine adjungierte Sensitivitätsanalyse hinsichtlich der Nachstromqualität eines Schiffsrumpfes durchgeführt, um eine manuelle Formmodifikation des Rumpfes zu unterstützen. Außerdem wurden automatisierte Formoptimierungen zur Reduktion der Energiedissipation in Innenströmungen durchgeführt.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Technische Universität Hamburg-Harburg, Institut für Fluiddynamik und Schiffstheorie</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">10194305-2</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Stück, Arthur</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1115679236</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor>
+                    <contributor>Rung, Thomas</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">122358910</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Löhner, Rainald</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1036289656</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Arthur Stück</responsible>
+            <publicationInfo>
+                <issued>2012</issued>
+                <edition>[Elektronische Ressource]</edition>
+                <publicationPlaces>
+                    <publicationPlace>Hamburg</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Techn. Univ. Hamburg-Harburg, Univ.-Bibl.</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>Schriftenreihe Schiffbau</title>
+                    <volumeNumber>661</volumeNumber>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Hamburg-Harburg, Techn. Univ., Institut für Fluiddynamik und Schiffstheorie, Diss., 2012</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+                <publicationIDInfo>Differences between the printed and electronic version of the document are possible</publicationIDInfo>
+                <publicationIDInfo>Unterschiede zwischen dem gedruckten Dokument und der elektronischen Ressource können nicht ausgeschlossen werden</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druckausg.</label>
+                <title>Adjoint Navier-Stokes methods for hydrodynamic shape optimisation</title>
+                <identifier type="ppn">720192889</identifier>
+                <identifier type="isbn13">9783892206613</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+            <related type="parent">
+                <title>Schriftenreihe Schiffbau</title>
+                <volumeNumber>661</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420577" classificationName="bk">
+                    <code>55.40</code>
+                    <entries>
+                        <entry>Schiffstechnik, Schiffbau</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>510</code>
+                </classification>
+                <classification classificationID="106413783" classificationName="bk">
+                    <code>50.33</code>
+                    <entries>
+                        <entry>Technische Strömungsmechanik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 6230</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>shape optimisation</subject>
+                </subject>
+                <subject id="4329076-0" type="gnd">
+                    <subject xml:lang="de">Gestaltoptimierung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>incompressible flow</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Finite-Volumen-Methode</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Adjoint Navier-Stokes method</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>inkompressible Strömung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>finite-volume method</subject>
+                </subject>
+                <subject id="4041456-5" type="gnd">
+                    <subject xml:lang="de">Navier-Stokes-Gleichung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>sensitivity analysis</subject>
+                </subject>
+                <subject id="4198196-0" type="gnd">
+                    <subject xml:lang="de">Schiffsrumpf</subject>
+                </subject>
+                <subject id="4511937-5" type="gnd">
+                    <subject xml:lang="de">Online-Ressource</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>adjungierte Navier-Stokes-Methode</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>pressure-correction method</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Druckkorrekturverfahren</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Formoptimierung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://nbn-resolving.de/urn:nbn:de:gbv:830-tubdok-11562</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:101152340X</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:101152340X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2018-01-24</databaseDate>
+            <changeDate>2021-02-23</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>101152340X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">101152340X</identifier>
+                <identifier type="firstid">GBV:101152340X</identifier>
+                <identifier type="isbn13">9780815354550</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/101152340x.pdf</location>
+                <location subtype="miscellaneous" type="url">https://www.crcpress.com/Human-in-the-Loop-Probabilistic-Modeling-of-an-Aerospace-Mission-Outcome/Suhir/p/book/9780815354550</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1760120073</identifier>
+                    <creationDate>2019-07-09</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 18 B 2063</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xi, 225 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Human-in-the-loop : probabilistic modeling of an aerospace mission outcome</title>
+            <abstracts>
+                <abstract xml:lang="de">Improvements in safety in the air and in space can be achieved through better ergonomics, better work environments, and other efforts of the traditional avionic psychology that directly affect human behaviors and performance. Not limited to just the aerospace field, this book discusses adaptive probabilistic predictive modeling in human-in-the-loop situations. This involves situations where human performance and equipment reliability contributes jointly to the success and safety of a mission. This book gets you familiar with a new, powerful, flexible, and effective approach to making outcomes from missions successful and safe--</abstract>
+                <abstract xml:lang="de">Introduction : probabilistic modeling approach in aerospace engineering -- Fundamentals of applied probability -- Helicopter landing ship and the role of the human factor -- Fundamentals of probabilistic aerospace electronics reliability engineering -- Probabilistic assessment of an aerospace mission outcome -- Quantitative aftermath of the "Miracle-on-the-Hudson" event -- "Two men in a cockpit": likelihood of a casualty if one of the pilots gets incapacitated -- Probabilistic modeling of the concept of anticipation in aviation -- Double-exponential-probability-distribution-function for the human non-failure</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Suhir, Ephraim</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Ephraim Suhir</responsible>
+            <publicationInfo>
+                <issued>2018</issued>
+                <publicationPlaces>
+                    <publicationPlace>Boca Raton</publicationPlace>
+                    <publicationPlace>London</publicationPlace>
+                    <publicationPlace>New York</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>CRC Press/Taylor &amp; Francis Group</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>"A CRC title, part of the Taylor &amp; Francis imprint, a member of the Taylor &amp; Francis Group, the academic division of T&amp;F Informa plc</publicationIDInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>TL553.6</code>
+                </classification>
+                <classification classificationID="181570769" classificationName="bk">
+                    <code>55.54</code>
+                    <entries>
+                        <entry>Flugführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.1</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4038662-4" type="gnd">
+                    <subject xml:lang="de">Mensch-Maschine-System</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Systems engineering</subject>
+                </subject>
+                <subject id="4017678-2" type="gnd">
+                    <subject xml:lang="de">Flugzeugführer</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Aeronautics</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Probabilities</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

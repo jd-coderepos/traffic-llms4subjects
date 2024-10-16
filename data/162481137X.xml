@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:162481137X</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:162481137X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2002-05-07</databaseDate>
+            <changeDate>2023-04-08</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>162481137X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">162481137X</identifier>
+                <identifier type="ean">9783782208475</identifier>
+                <identifier type="firstid">BSZ:098643169</identifier>
+                <identifier type="isbn">3782208471</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://d-nb.info/964297299/04</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">558187595</identifier>
+                    <creationDate>2003-01-13</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">T 02 B 3390</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">VII, 591 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Tradition und Fortschritt : 125 Jahre Blohm + Voss</title>
+            <abstracts>
+                <abstract xml:lang="de">Die Geschichte der 1877 gegründeten Werft Blohm + Voss.Jahr für Jahr werden die Höhepunkte aufgezeigt, untermauert durch zahlreiche Illustrationen. Teil 2 beinhaltet alle Neubauten dieser Werft und ihren Verbleib von Baunummer 1 aus dem Jahre 1880 bis Baunummer 974, geplante Auslieferung 2003.Teil 2 ist erschienen 2004 unter dem Titel "Gebaut bei Blohm+Voss"</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Blohm + Voss GmbH</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2164090-7</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor>
+                    <contributor>Witthöft, Hans Jürgen</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">12275963X</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Hans Jürgen Witthöft</responsible>
+            <publicationInfo>
+                <issued>2002</issued>
+                <publicationPlaces>
+                    <publicationPlace>Hamburg</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Koehler</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Engl. Ausg. u.d.T.: #96431262X#Witthöft, Hans Jürgen: Tradition and progress</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>überw. Ill.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>VM299.7.G3</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>NW 6035</code>
+                </classification>
+                <classification classificationID="106413805" classificationName="bk">
+                    <code>55.41</code>
+                    <entries>
+                        <entry>Schiffe</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 6020</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>65</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 6008</code>
+                </classification>
+                <classification classificationName="ssg">
+                    <code>8,1</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4301582-7" subtype="corporate-body" type="gnd">
+                    <subject xml:lang="de">Blohm-&amp;-Voss-Aktiengesellschaft</subject>
+                </subject>
+                <subject id="4052397-4" type="gnd">
+                    <subject xml:lang="de">Schiffbau</subject>
+                </subject>
+                <subject id="4020517-4" type="gnd">
+                    <subject xml:lang="de">Geschichte</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">History</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Shipbuilding industry</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Blohm + Voss</subject>
+                </subject>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Schiffbau</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Shipyards</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Hamburg</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Werft</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Germany</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

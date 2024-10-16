@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:772419272</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:772419272">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2013-11-27</databaseDate>
+            <changeDate>2024-05-10</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>772419272</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">772419272</identifier>
+                <identifier type="firstid">GBV:772419272</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">http://nbn-resolving.de/urn:nbn:de:gbv:830-tubdok-12458</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1475631308</identifier>
+                    <creationDate>2014-05-29</creationDate>
+                    <selectionKey>zdt</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online-Ressource (PDF-Datei: XVIII, 130 S., 40.500 KB)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Smoothed-particle-hydrodynamics simulation of port hydrodynamic problems</title>
+            <alternativeTitles>
+                <alternative>Smoothed-Particle-Hydrodynamics Simulationen hydrodynamischer Problemstellungen in Häfen</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">The thesis reports on the development of a numerical procedure based on the meshfree Smoothed-Particle-Hydrodynamics (SPH) approach for the simulation of complex port hydrodynamic problems including the interaction between ships, harbour facilities, water and soil. Corresponding constitutive models have been derived, implemented and validated. The regarded applications focus on scouring close to quay walls induced by active ship manoeuvring and propulsion devices. The developed procedure can further be applied to a wide range of problems from the field of marine and offshore engineering.</abstract>
+                <abstract xml:lang="de">Gegenstand der Dissertation ist die Entwicklung eines numerischen Verfahrens auf Basis der gitterfreien Smoothed-Particle-Hydrodynamics (SPH) Methode zur Simulation komplexer hydrodynamischer Fragestellungen in Häfen mit Interaktion zwischen Schiffen, Hafenbauwerken, Boden und Wasser. Entsprechende Stoffmodelle wurden entwickelt, implementiert und validiert. Im Anwendungsfokus liegt die von Schiffspropellern und Querstrahlrudern induzierte Kolkbildung nahe der Kaimauer. Das entwickelte Verfahren lässt sich weiterhin auf eine Vielzahl von Fragestellungen aus dem Gebiet der maritimen Technik anwenden.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Technische Universität Hamburg-Harburg, Institut für Fluiddynamik und Schiffstheorie</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">10194305-2</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Ulrich, Christian</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Rung, Thomas</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">122358910</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Sibilla, Stefano</contributor>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Düster, Alexander</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1160258074</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Heinrich, Stefan</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">132847094</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Christian Ulrich</responsible>
+            <publicationInfo>
+                <issued>2013</issued>
+                <edition>[Elektronische Ressource]</edition>
+                <publicationPlaces>
+                    <publicationPlace>Hamburg</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Techn. Univ. Hamburg-Harburg, Univ.-Bibl.</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>Schriftenreihe Schiffbau</title>
+                    <volumeNumber>671</volumeNumber>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Hamburg-Harburg, Techn. Univ., Institut für Fluiddynamik und Schiffstheorie, Diss., 2013</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+                <publicationIDInfo>Unterschiede zwischen dem gedruckten Dokument und der elektronischen Ressource können nicht ausgeschlossen werden</publicationIDInfo>
+                <publicationIDInfo>Differences between the printed and electronic version of the document are possible.</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druckausg.</label>
+                <title>Smoothed-particle-hydrodynamics simulation of port hydrodynamic problems</title>
+                <identifier type="isbn13">9783892206712</identifier>
+                <identifier type="ppn">776843311</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+            <related type="parent">
+                <title>Schriftenreihe Schiffbau</title>
+                <volumeNumber>671</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420577" classificationName="bk">
+                    <code>55.40</code>
+                    <entries>
+                        <entry>Schiffstechnik, Schiffbau</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 6005</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 6100</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>627.2</code>
+                </classification>
+                <classification classificationID="106422006" classificationName="bk">
+                    <code>56.30</code>
+                    <entries>
+                        <entry>Wasserbau</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>623.81201518</code>
+                </classification>
+                <classification classificationID="106413783" classificationName="bk">
+                    <code>50.33</code>
+                    <entries>
+                        <entry>Technische Strömungsmechanik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>627.042</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>bau</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4269205-2" type="gnd">
+                    <subject xml:lang="de">Kolk</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>marine engineering</subject>
+                </subject>
+                <subject id="4318816-3" type="gnd">
+                    <subject xml:lang="de">Kaimauer</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>meshfree method</subject>
+                </subject>
+                <subject id="4271451-5" type="gnd">
+                    <subject xml:lang="de">Sohle (Wasserbau)</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>computational fluid dynamics</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>multiphysics simulation</subject>
+                </subject>
+                <subject id="4138452-0" type="gnd">
+                    <subject xml:lang="de">Schiffspropeller</subject>
+                </subject>
+                <subject id="4705983-7" type="gnd">
+                    <subject xml:lang="de">Smoothed Particle Hydrodynamics</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>fluid/structure/soil-interaction</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Propellermodel</subject>
+                </subject>
+                <subject id="4511937-5" type="gnd">
+                    <subject xml:lang="de">Online-Ressource</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Fluid/Boden/Struktur-Interaktion</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Bugstrahlrudermodell</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Bodenmodelle</subject>
+                </subject>
+                <subject id="4015366-6" type="gnd">
+                    <subject xml:lang="de">Erosion</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://nbn-resolving.de/urn:nbn:de:gbv:830-tubdok-12458</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

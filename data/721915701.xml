@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:721915701</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:721915701">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2012-08-20</databaseDate>
+            <changeDate>2024-04-21</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>721915701</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">721915701</identifier>
+                <identifier type="firstid">GBV:721915701</identifier>
+                <identifier type="isbn13">9783954041633</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/ilmenau/toc/721915701.PDF</location>
+                <location subtype="description" type="url">http://www.gbv.de/dms/ilmenau/abs/717741346schmi.txt</location>
+                <location subtype="description" type="url">http://deposit.d-nb.de/cgi-bin/dokserv?id=4101098&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1324558601</identifier>
+                    <creationDate>2012-09-05</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">U 12 B 1097</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-35</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">224 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Efficient resource management for intervehicle safety communications</title>
+            <abstracts>
+                <abstract xml:lang="de">Die Einführung von aktiven Sicherheitssystemen, basierend auf Fahrzeug-zu-Fahrzeug (F-zu-F) Kommunikation, verspricht, die immer noch hohe Zahl von Verletzten und tödlich Verunglückten deutlich zu reduzieren. Dabei werden Fahrzeuge befähigt, regelmäßig und ereignisbasiert ihren Status anderen umliegenden Fahrzeugen mitzuteilen. Somit wird die aktive Sicherheit erhöht, weil jederzeit zuverlässige, hochaktuelle und genaue Informationen zur Verfügung stehen. Derzeit werden die Protokolle für die F-zu-F Kommunikation u.a. in ETSI standardisiert. Für die Applikationsschicht sieht ETSI vor, dass drei verschiedene Nachrichtentypen für den Broadcast zur Verfügung stehen: die periodischen CAM, ereignisbasierte DENM und dienstorientierte SAM. Insbesondere die Kommunikationslast generiert durch CAMs, kann leicht dazu führen, dass der Kommunikationskanal in Überlast gerät. In dieser Dissertation wird zunächst eine feingranularere Bewertung der Systemparameter vollzogen im Hinblick auf die Optimierungspotentiale und deren Grenzen. Ergebnis dieser Bewertung ist, dass nur ein hybrider Ansatz aus Einzelparameterregelung und schichtübergreifender Koordinierung eine bessere Verwaltung der verfügbaren Ressourcen durchführen kann. In diesem Ansatz, genannt VRM, wird die Rate der CAMs adaptiert, um die Kanallast zu senken und dennoch eine akzeptable Genauigkeit der Information für die Applikationen zu gewährleisten. Zusätzlich wird ein Mechanismus zur Weiterleitung von CAMs eingeführt, der selektiv ausschließlich Nachrichten mit hoher Relevanz wiederholt, um einzelne Verluste auszugleichen. Um den Medienzugriff unter Hochlast besser zu regeln, wird die räumliche Wiederverwendung des Kommunikationskanals adaptiert, auf Basis der sogenannten CCA Schwelle. Damit kann die Kommunikation innerhalb des sicherheitskritischen Gebiets sichergestellt werden. Die schichtübergreifende Koordinierung verwendet die Möglichkeit, allen Protokollschichten Steuerungskommandos mitzuteilen. VRM bezieht Informationen über den Kanalzustand sowie über die Straßenverkehrssituation. Auf dieser Basis sowie der Berücksichtung der Anforderungen einzelner Schichten und deren komplexen Wechselwirkungen werden angemessene Koordinationseingriffe in den einzelnen Schichten situationsadaptiv ausgeführt. Aus Nachvollziehbarkeitsgründen wurde hierfür das Schema der Zustandsmaschine gewählt. Umfassende Simulationsstudien wurden durchgeführt, um das Konzept von VRM sowie die Einzelmechanismen in großräumigen Verkehrsszenarien zu evaluieren. Darin konnte unter anderem gezeigt werden, dass VRM eine deutlich verbesserte Resourcennutzung erreicht, die direkt in einem deutlich verbesserten Umfeldsissen der Fahrzeuge resultiert.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Schmidt, Robert Karl</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Schäfer, Günter</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">133950875</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor>
+                    <contributor>Thomä, Reiner</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">132014971</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Kargl, Frank</contributor>
+                </contributor>
+            </contributors>
+            <responsible>von Robert Karl Schmidt</responsible>
+            <publicationInfo>
+                <issued>2012</issued>
+                <edition>1. Aufl.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Göttingen</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Cuvillier</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Zugl.: Ilmenau, Techn. Univ., Diss., 2012</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc-dbn">
+                    <code>621.3</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZN 6550</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4538367-4" type="gnd">
+                    <subject xml:lang="de">Kanalkapazität</subject>
+                </subject>
+                <subject id="1024622754" type="gnd">
+                    <subject xml:lang="de">Car-to-Car-Kommunikation</subject>
+                </subject>
+                <subject id="4417917-0" type="gnd">
+                    <subject xml:lang="de">Betriebsmittelverwaltung</subject>
+                </subject>
+                <subject id="4059233-9" type="gnd">
+                    <subject xml:lang="de">Technische Sicherheit</subject>
+                </subject>
+                <subject id="4031888-6" type="gnd">
+                    <subject xml:lang="de">Kommunikationstechnik</subject>
+                </subject>
+                <subject id="4521193-0" type="gnd">
+                    <subject xml:lang="de">Überlastkontrolle</subject>
+                </subject>
+                <subject id="4073757-3" type="gnd">
+                    <subject xml:lang="de">Kraftfahrzeug</subject>
+                </subject>
+                <subject id="4128252-8" type="gnd">
+                    <subject xml:lang="de">Kommunikationsprotokoll</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

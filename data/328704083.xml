@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:328704083</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:328704083">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2001-05-02</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>328704083</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">328704083</identifier>
+                <identifier type="contract">29654806</identifier>
+                <identifier type="contract">29654807</identifier>
+                <identifier type="contract">10505806</identifier>
+                <identifier type="contract">10505807</identifier>
+                <identifier type="contract">UBA-FB-000023</identifier>
+                <identifier type="firstid">GBV:328704083</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/328704083.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">483126845</identifier>
+                    <creationDate>2001-05-02</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RN 8908(2000,23)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">114 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Geräuschemissionen von Schienenfahrzeugen : Schlußbericht für das UBA-Vorhaben Ermittlung und Fortentwicklung des Lärmminderungspotentials beim Schienenverkehr und seine Umsetzung in Geräuschvorschriften und Minderung der Lärmemission von Güterwagen durch Optimierung lärmrelevanter Komponenten (insbesondere des Bremssystems)</title>
+            <abstracts>
+                <abstract xml:lang="de">Rail traffic noise, sound creation limits, brake systems, noise control measures, costs</abstract>
+            </abstracts>
+            <contributors>
+                <contributor>
+                    <contributor>Kurze, Ulrich J.</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Bearb. von: U. J. Kurze ...</responsible>
+            <publicationInfo>
+                <issued>1999</issued>
+                <publicationPlaces>
+                    <publicationPlace>Planegg</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Müller-BBM</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>UBA-FB</title>
+                    <volumeNumber>00,23</volumeNumber>
+                </journalInfo>
+                <publicationIDInfo>Serie aufgestempelt, Zählung handschriftl. - Förderkennzeichen: UFOPLAN-Nr. 10505806; 10505807 (alt); 29654806; 29654807 (neu). - Literaturverz. S. 98 - 114</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>UBA-FB</title>
+                <volumeNumber>00,23</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="sigle">
+                    <code>03B</code>
+                </classification>
+                <classification classificationID="106420801" classificationName="bk">
+                    <code>58.56</code>
+                    <entries>
+                        <entry>Lärmschutz, Erschütterungsdämpfung</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106405691" classificationName="bk">
+                    <code>55.30</code>
+                    <entries>
+                        <entry>Schienenfahrzeugtechnik, Eisenbahntechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>cet</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4034046-6" type="gnd">
+                    <subject xml:lang="de">Lärm</subject>
+                </subject>
+                <subject id="4052019-5" type="gnd">
+                    <subject xml:lang="de">Schallabstrahlung</subject>
+                </subject>
+                <subject id="4022497-1" type="gnd">
+                    <subject xml:lang="de">Güterwagen</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

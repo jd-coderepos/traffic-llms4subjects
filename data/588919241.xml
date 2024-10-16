@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:588919241</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:588919241">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2009-01-07</databaseDate>
+            <changeDate>2023-01-18</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>588919241</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">588919241</identifier>
+                <identifier type="ean">9783763938896</identifier>
+                <identifier type="firstid">DNB:99181973X</identifier>
+                <identifier type="isbn13">9783763938896</identifier>
+            </identifiers>
+            <locations>
+                <location type="library">89</location>
+                <location subtype="description" type="url">http://deposit.d-nb.de/cgi-bin/dokserv?id=3198773&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</location>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/hbk-bs-toc/588919241.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1103940503</identifier>
+                    <creationDate>2009-12-21</creationDate>
+                    <selectionKey>zce</selectionKey>
+                    <location type="libraryDepartment">15</location>
+                    <location type="tibLocationCode">FBE pae 307</location>
+                    <location type="tibShelfmark">E 09 B 1862</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">185 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Mobilität bewegt Schule : das niedersächsische Curriculum Mobilität an schulischen und außerschulischen Lernorten</title>
+            <abstracts>
+                <abstract xml:lang="de">Wie setzt sich die Umwelt mit Mobilität auseinander? Wie sieht die Zukunft von Mobilität aus? Lässt sich das Thema mit Wirtschaft und Pädagogik kombinieren und didaktisch aufarbeiten?</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Autostadt GmbH</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">16176874-X</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Curdt, Erwin</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Erwin Curdt ... (Hg.)</responsible>
+            <publicationInfo>
+                <issued>2009</issued>
+                <publicationPlaces>
+                    <publicationPlace>Bielefeld</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Bertelsmann</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>In Bewegung</title>
+                    <volumeNumber>1</volumeNumber>
+                </journalInfo>
+                <publicationIDInfo>Literaturverz. S. 167 - 181</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>210 mm x 148 mm</description>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>In Bewegung</title>
+                <volumeNumber>1</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>DP 6400</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>372.37043</code>
+                </classification>
+                <classification classificationID="106410261" classificationName="bk">
+                    <code>55.04</code>
+                    <entries>
+                        <entry>Ausbildung, Beruf, Organisationen</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>370</code>
+                </classification>
+                <classification classificationName="ssg">
+                    <code>5,3</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>pae</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4010781-4" type="gnd">
+                    <subject xml:lang="de">Curriculum</subject>
+                </subject>
+                <subject id="4062926-0" type="gnd">
+                    <subject xml:lang="de">Verkehrserziehung</subject>
+                </subject>
+                <subject id="4039785-3" type="gnd">
+                    <subject xml:lang="de">Mobilität</subject>
+                </subject>
+                <subject id="4042226-4" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Niedersachsen</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

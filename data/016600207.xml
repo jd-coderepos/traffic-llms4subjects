@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:016600207</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:016600207">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1987-10-12</databaseDate>
+            <changeDate>2024-03-28</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>016600207</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">016600207</identifier>
+                <identifier type="firstid">GBV:016600207</identifier>
+                <identifier type="isbn">3778514008</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://d-nb.info/870816128/04</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">018207952</identifier>
+                    <creationDate>1988-07-18</creationDate>
+                    <selectionKey>n</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">AH 833/1986</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">212 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Die deutschen Funkmessverfahren bis 1945</title>
+            <alternativeTitles>
+                <alternative>Die deutschen Funkmeßverfahren bis neunzehnhundertfünfundvierzig</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Dieser Band ergänzt bisher erschienene Werke über die Entwicklung der deutschen Funkpeilverfahren (Funkfremdpeilverfahren) und Funkhorchverfahren, der Funkstörverfahren und der Funklenkverfahren für den Bereich der Funkmesstechnik bzw Radartechnik. Dazu kommt noch eine Beschreibung der Funkführungsverfahren. Das Buch beinhaltet: 1) Grundbegriffe der Funkmeßtechnik; 2) Die ersten Funkmeßgeräteentwicklungen in Deutschland; 3) Die Bodengeräte der Luftwaffe; 4) Funkmessortungsgeräte der Kriegsmarine; 5) Die Entwicklung der deutschen Kennungstechnik.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>AEG AG, Geschäftsbereich Hochfrequenztechnik</name>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Trenkle, Fritz</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">142946591</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Fritz Trenkle</responsible>
+            <publicationInfo>
+                <issued>1986</issued>
+                <publicationPlaces>
+                    <publicationPlace>Heidelberg [u.a.]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Hüthig [u.a.]</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Literaturverz. S. 202 - 208</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>22 cm</description>
+            <description>Ill.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="dbn">
+                    <code>21</code>
+                </classification>
+                <classification classificationName="loksys">
+                    <code>ver 806</code>
+                </classification>
+                <classification classificationName="loksys">
+                    <code>elt 883</code>
+                </classification>
+                <classification classificationName="loksys">
+                    <code>waf 455</code>
+                </classification>
+                <classification classificationName="loksys">
+                    <code>tec 25</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>37</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte 1902-1945</subject>
+                </subject>
+                <subject id="4018904-1" type="gnd">
+                    <subject xml:lang="de">Funkortung</subject>
+                </subject>
+                <subject id="4011882-4" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Deutschland</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

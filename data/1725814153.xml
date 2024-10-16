@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1725814153</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1725814153">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2020-07-28</databaseDate>
+            <changeDate>2022-03-18</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1725814153</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1725814153</identifier>
+                <identifier type="firstid">KXP:1725814153</identifier>
+                <identifier type="isbn13">9781119455349</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1725814153.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3839769256</identifier>
+                    <creationDate>2022-02-03</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 21 B 737</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xi, 352 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Foundations of space dynamics</title>
+            <abstracts>
+                <abstract xml:lang="de">"Space dynamics is one of the most important topics in aerospace engineering. It governs the satellites launched into an Earth orbit as well as lunar and interplanetary space exploration missions. The successful launching and operation of all spacecraft requires a good knowledge of space dynamics. Space dynamics can be divided into two broad categories: (i) orbital mechanics, and (ii) attitude dynamics. Orbital mechanics is a study of the translational motion of a spacecraft under the gravitational influence of either one or several large bodies. Attitude dynamics is the study of rotational motion of a rigid spacecraft about its own centre of mass, and includes both kinematical and kinetic description in terms of Euler angles, quaternion, or Rodrigues/modified Rodrigues parameters, and the angular velocity components."--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Tewari, Ashish</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1183004117</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Ashish Tewari (Indian Institute of Technology Kanpur)</responsible>
+            <publicationInfo>
+                <issued>2021</issued>
+                <edition>First edition</edition>
+                <publicationPlaces>
+                    <publicationPlace>Hoboken, NJ</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Wiley</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Aerospace series</title>
+                </journalInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Aerospace series</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.4/11</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL545</code>
+                </classification>
+                <classification classificationID="181570416" classificationName="bk">
+                    <code>55.64</code>
+                    <entries>
+                        <entry>Raumfahrzeugführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="10640783X" classificationName="bk">
+                    <code>39.23</code>
+                    <entries>
+                        <entry>Himmelsmechanik, Astrodynamik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4127484-2" type="gnd">
+                    <subject xml:lang="de">Himmelsmechanik</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Aerospace engineering</subject>
+                </subject>
+                <subject id="4154760-3" type="gnd">
+                    <subject xml:lang="de">Flugmechanik</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Astrodynamics</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Orbital mechanics</subject>
+                </subject>
+                <subject id="4048574-2" type="gnd">
+                    <subject xml:lang="de">Raumfahrt</subject>
+                </subject>
+                <subject id="4128130-5" type="gnd">
+                    <subject xml:lang="de">Numerisches Verfahren</subject>
+                </subject>
+                <subject id="4177065-1" type="gnd">
+                    <subject xml:lang="de">Raumflugbahn</subject>
+                </subject>
+                <subject id="4021908-2" type="gnd">
+                    <subject xml:lang="de">Gravitation</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

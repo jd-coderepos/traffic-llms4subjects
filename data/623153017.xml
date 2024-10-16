@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:623153017</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:623153017">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2010-04-07</databaseDate>
+            <changeDate>2023-03-24</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>623153017</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">623153017</identifier>
+                <identifier type="firstid">GBV:623153017</identifier>
+            </identifiers>
+            <locations>
+                <location mimetype="application/pdf" subtype="fulltext" type="url">http://edok01.tib.uni-hannover.de/edoks/e01dd12/623153017.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1228075174</identifier>
+                    <creationDate>2012-05-03</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>oa</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online-Ressource (PDF-Datei: 168 S., 5228 KB)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Videogestützte Überwachung der Fahreraufmerksamkeit und Adaption von Fahrerassistenzsystemen</title>
+            <abstracts>
+                <abstract xml:lang="de">Im Rahmen der vorliegenden Arbeit wird ein Überblick gegeben, welche Systeme und Verfahren Aussagen über den aktuellen Aufmerksamkeitszustand des Fahrers zulassen. Der Schwerpunkt liegt dabei auf monokularen kamerabasierten Fahrerbeobachtungssystemen. Es werden verschiedene Ansätze diskutiert, die es ermöglichen den visuellen Aufmerksamkeitsfokus des Fahrers auf Basis eines solchen Systems zu ermitteln sowie die besondere Bedeutung der Kopforientierung und Blickrichtung in diesem Zusammenhang hervorgehoben. In einem ersten Schritt wird eine Bewertungsmethodik entwickelt, die es ermöglicht, kamerabasierte Fahrerbeobachtungssysteme in typischen Fahrsituationen im Hinblick auf die Messgenauigkeit der Kopforientierung sowie den erreichten Erfassungsbereich zu bewerten. Die Funktionsfähigkeit dieser Methodik wird in einer ersten Versuchsreihe unter Beweis gestellt. In weiteren Versuchsreihen wird bestimmt, inwiefern Blickrichtung und Kopforientierung in typischen Fahrsituationen miteinander korrelieren und inwieweit alleine auf Basis der Kopforientierung Aussagen zur Fahreraufmerksamkeit getroffen werden können. Daraus werden verschiedene eigene Ansätze, wie die Kopforientierung hinsichtlich der Fahreraufmerksamkeit interpretiert werden kann, abgeleitet, umgesetzt und beurteilt. Aufbauend auf diesen Ansätzen zur kopforientierungsbasierten Fahreraufmerksamkeitsbestimmung werden die Warnstrategien von zwei Fahrerassistenzsystemen (FAS) mit maschineller Wahrnehmung, ursprünglich nur der Fahrzeugumwelt, prototypisch an die Aufmerksamkeit des Fahrers angepasst. Bei den hierfür beispielhaft modifizierten FAS handelt es sich zum einen um einen Spurverlassenswarner (engl. - Lane Departure Warning System), zum anderen um einen abstandsgesteuerten Tempomaten (engl. - Adaptive Cruise Control System). Ziel dieser Adaptionen ist es, einerseits dem Fahrer im Falle von Unaufmerksamkeit mehr Reaktionszeit in einer Gefahrensituation einzuräumen. Anderseits soll die Akzeptanz des FAS gesteigert werden, in dem dessen Warnungen nur noch in kritischen Situationen, bezogen auf den Aufmerksamkeitszustand des Fahrers, ausgegeben werden (Relevanzaspekt). Die prototypischen Systemauslegungen beider FAS werden abschließend in Probandenversuchen evaluiert sowie die daraus resultierenden Ergebnisse vorgestellt und diskutiert.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Trefflich, Benjamin</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">141069848</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor>
+                    <contributor>Groß, Horst-Michael</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">129669806</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Färber, Berthold</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Augsburg, Klaus</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">13000913X</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>vorgelegt von Benjamin Trefflich</responsible>
+            <publicationInfo>
+                <issued>2010</issued>
+                <publisher>
+                    <publisher>Univ.-Bibliothek</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Ilmenau, Techn. Univ., Diss., 2010</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+                <publicationIDInfo>Parallel als Druckausg. erschienen</publicationIDInfo>
+            </additionalDocumentInfo>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druckausg.</label>
+                <title>Videogestützte Überwachung der Fahreraufmerksamkeit und Adaption von Fahrerassistenzsystemen</title>
+                <identifier type="ppn">618294295</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.276</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4003583-9" type="gnd">
+                    <subject xml:lang="de">Augenbewegung</subject>
+                </subject>
+                <subject id="4068943-8" type="gnd">
+                    <subject xml:lang="de">Aufmerksamkeit</subject>
+                </subject>
+                <subject id="4132165-0" type="gnd">
+                    <subject xml:lang="de">Fahrerverhalten</subject>
+                </subject>
+                <subject id="4125909-9" type="gnd">
+                    <subject xml:lang="de">Mensch-Maschine-Kommunikation</subject>
+                </subject>
+                <subject id="4128931-6" type="gnd">
+                    <subject xml:lang="de">Kopf</subject>
+                </subject>
+                <subject id="4133195-3" type="gnd">
+                    <subject xml:lang="de">Haltung</subject>
+                </subject>
+                <subject id="4264283-8" type="gnd">
+                    <subject xml:lang="de">Bilderkennung</subject>
+                </subject>
+                <subject id="4622983-8" type="gnd">
+                    <subject xml:lang="de">Fahrerassistenzsystem</subject>
+                </subject>
+                <subject id="4032656-1" type="gnd">
+                    <subject xml:lang="de">Kraftfahrer</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">default</property>
+            <property name="displaySubscriberAccess">http://edok01.tib.uni-hannover.de/edoks/e01dd12/623153017.pdf</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:611917041</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:611917041">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2009-10-30</databaseDate>
+            <changeDate>2024-01-30</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>611917041</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">611917041</identifier>
+                <identifier type="firstid">GBV:611917041</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">http://nbn-resolving.de/urn:nbn:de:gbv:830-tubdok-8093</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1228062161</identifier>
+                    <creationDate>2011-02-20</creationDate>
+                    <selectionKey>zdt</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online-Ressource (XI, 139 S., 7.1 MB)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Ein Beitrag zur numerischen und experimentellen Untersuchung extremer Schiffsbewegungen</title>
+            <abstracts>
+                <abstract xml:lang="de">Die Dynamik von Schiffen kann bei kleinen Anregungen durch lineare Modelle exakt beschrieben und analysiert werden. Wachsen die Anregungen, können die Bewegungen Amplituden annehmen, bei denen die Nichtlinearitäten des Systems nicht mehr vernachlässigt werden können. In diesen Fällen können das Bewegungsverhalten und das Vorhandensein kritischer Bewegungszustände nur noch im Zeitbereich untersucht werden, was auf Simulationen hinausläuft. Das Ergebnis einer Simulation eines nichtlinearen dynamischen Systems ist jedoch stark von den Parametern des Systems sowie von den Anfangsbedingungen abhängig, so dass zu jeder Kombination aus Anfangsbedingungen und Systemparametern eine Simulation erstellt werden müsste, um die Reaktion eines Schiffes auf alle relevanten Seegangsbedingungen bewerten zu können. Seit zwei Jahrzehnten stehen effiziente mathematische Analyseverfahren zur Behandlung stark nichtlinearer Probleme zur Verfügung. In dieser Arbeit wird mit Hilfe der lokalen Verzweigungsanalyse die Existenz kritischer Bewegungsformen gezeigt. Die hydrodynamischen Kräfte und Momente werden dabei mit dem Programmpaket Simbel berechnet. Trotz einer Modifikation der in Simbel implementierten Hydrodynamikberechnung stellte sich heraus, dass die Analyse eines vollständig modellierten Schiffes bis heute noch nicht zufriedenstellend gelingt, da die Rechenzeiten immer noch sehr lang sind. Das gleiche gilt für die Möglichkeit, in Versuchen preisgünstig gezielt kritische Stellen, die zu einer abrupten Änderung des Systemverhaltens durch eine minimale Parameteränderung führen, im Experiment zu zeigen. Dabei soll es in diesen Versuchen im Entwicklungsstadium der Methoden nicht um die Untersuchung eines speziellen Schiffsrumpfes unter möglichst realen Seegangsbedingungen gehen, sondern um den experimentellen Nachweis der numerisch ermittelten Phänomene. In der vorgestellten Arbeit wird zu beiden Problemen ein Lösungsansatz entwickelt und die Tauglichkeit demonstriert. Für die Versuche ist ein Versuchsschwimmkörper mit einfacher Geometrie entwickelt worden, mit dem im Labor des Institutes umfangreiche Parameterstudien kostengünstig durchgeführt werden können. Das dafür entwickelte berührungslose Positions- und Lagemesssystem liefert Messwerte mit einer Genauigkeit von bis zu einem halben Millimeter in den translatorischen und von einem Hundertstel Grad bei den rotatorischen Freiheitsgraden bei einer Frequenz von 228Hz. Diese Präzision bei einer so hohen Dynamik wird durch den Einsatz eines integrierten Messsystems aus Stereokamera und einer Inertialmesseinheit (IMU) der tactical gradeKlasse, die durch ein erweitertes kontinuierlichdiskretes KalmanFilter in Echtzeit miteinander kombiniert werden, erreicht. Sowohl die IMU als auch die Stereokamera wurden aus Standardkomponenten aufgebaut, so dass sämtliche Sensorrohdaten und die Zwischenwerte jeder Verarbeitungsstufe vorliegen. Dieser Vorteil im Vergleich zum Einsatz einer kommerziellen IMU oder Stereokamera ermöglicht die Umsetzung unterschiedlicher Integrationstiefen bei der Kombination beider Systeme. In der rechenintensivsten Variante werden Parameter beider Subsysteme als Zustandsgröße des Gesamtsystems geführt, so dass sich einzelne Kameraparameter und IMUSensorfehler während des Betriebs schätzen und kompensieren lassen. Im Wellenkanal des Institutes für Mechanik und Meerestechnik ist kein Platz für umfangreiche Manöver oder Tests mit dem fahrenden Schwimmkörper vorhanden. Daher werden die Versuche hier auf einen stehenden oder langsam fahrenden Schwimmkörper beschränkt, was jedoch nur eine geringe Einschränkung für die Methodenvalidierung bedeutet. Durch ein dynamisches Positioniersystem wird der Schwimmkörper bei Wellenanregungen auf seiner Sollposition gehalten, ohne dass dabei die Roll- oder die Stampfbewegungen nennenswert angeregt werden. Die Positioniergenauigkeit liegt bei schwachen Anregungen bei schlimmstenfalls ±2mm, bei hohen Wellen und starken Bewegungen liegt die Genauigkeit bei ca. ±10mm quer zu den Wellen und ca. ±30mm in Wellenrichtung. Mit dieser Versuchsanordnung ist es zukünftig möglich, unter beliebigen Winkeln zu den einfallenden Wellen gut wiederholbare Messungen durchzuführen, bei denen man sich in Abstimmung mit den Berechnungen den kritischen Systemzuständen nähern kann. Da die Messungen, die Regelung und die Wellenklappensteuerung miteinander vernetzt sind, kann diese Parametersuche weitestgehend automatisiert ablaufen und gegebenenfalls durch Optimierer beschleunigt werden. Die numerischen Untersuchungen werden durch ein hier in dieser Arbeit entwickeltes Modellreduktionsverfahren beschleunigt, mit dem die Ordnung des mathematischen Systems deutlich reduziert werden kann. Dies verkürzt zum einen die Rechenzeit, führt aber vor allen Dingen zu einem schnelleren Einschwingen des Systems auf eine periodische Bewegung.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Technische Universität Hamburg-Harburg, Institut für Mechanik und Meerestechnik</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">10194020-8</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Pick, Marc-André</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">139682988</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor>
+                    <contributor>Kreuzer, Edwin</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">109012453</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Wagner, Jörg F.</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">131805495</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Marc-André Pick</responsible>
+            <publicationInfo>
+                <issued>2009</issued>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Hamburg-Harburg, Techn. Univ., Inst. für Mechanik und Meerestechnik, 2008</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+                <publicationIDInfo>Unterschiede zwischen dem gedruckten Dokument und der elektronischen Ressource können nicht ausgeschlossen werden</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druckausg.</label>
+                <title>Ein Beitrag zur numerischen und experimentellen Untersuchung extremer Schiffsbewegungen</title>
+                <identifier type="ppn">618293140</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420577" classificationName="bk">
+                    <code>55.40</code>
+                    <entries>
+                        <entry>Schiffstechnik, Schiffbau</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 6200</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="181569973" classificationName="bk">
+                    <code>55.44</code>
+                    <entries>
+                        <entry>Schiffsführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4055072-2" type="gnd">
+                    <subject xml:lang="de">Simulation</subject>
+                </subject>
+                <subject id="4511937-5" type="gnd">
+                    <subject xml:lang="de">Online-Ressource</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Kalman-Filter, Schiff, Schiffsbewegung, Inertialmesseinheit</subject>
+                </subject>
+                <subject id="4052385-8" type="gnd">
+                    <subject xml:lang="de">Schiff</subject>
+                </subject>
+                <subject id="4054117-4" type="gnd">
+                    <subject xml:lang="de">Seegang</subject>
+                </subject>
+                <subject id="4168847-8" type="gnd">
+                    <subject xml:lang="de">Manövrierfähigkeit</subject>
+                </subject>
+                <subject id="4198196-0" type="gnd">
+                    <subject xml:lang="de">Schiffsrumpf</subject>
+                </subject>
+                <subject id="4006321-5" type="gnd">
+                    <subject xml:lang="de">Bewegungsgleichung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://nbn-resolving.de/urn:nbn:de:gbv:830-tubdok-8093</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

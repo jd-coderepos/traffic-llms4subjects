@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:72897908X</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:72897908X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2012-10-31</databaseDate>
+            <changeDate>2022-07-13</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>72897908X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>CD</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">72897908X</identifier>
+                <identifier type="firstid">GBV:72897908X</identifier>
+                <identifier type="isbn13">9781449630652</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1336511605</identifier>
+                    <creationDate>2012-11-14</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">YA 2791</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 CD-ROM (396 S.)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>The science of flight : a gateway to new horizons</title>
+            <abstracts>
+                <abstract xml:lang="de">An introductory course and customized textbook that focuses on how airplanes fly, how weather conditions affect flight, flight and the human body, and flight navigation.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>USA, Air Force</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">6103984-6</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor>
+                    <contributor>Goodrich, Lawrence J.</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Dillin, Katherine</contributor>
+                </contributor>
+            </contributors>
+            <responsible>[ed.: Lawrence J. Goodrich ... Primary writer: Katherine Dillin]. Air Force Junior Reserve Officer Training Corps</responsible>
+            <publicationInfo>
+                <issued>2012</issued>
+                <publicationPlaces>
+                    <publicationPlace>Burlington, Mass.</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Jones &amp; Bartlett Learning</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Custom ed. for the US Air Force Junior Reserve Officer Training Corps (AFJROTC)</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>12 cm</description>
+            <description>zahlr. Ill.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druckausg.</label>
+                <title>The science of flight</title>
+                <identifier type="ppn">679652477</identifier>
+                <identifier type="isbn13">9781449630652</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="181570769" classificationName="bk">
+                    <code>55.54</code>
+                    <entries>
+                        <entry>Flugführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4017529-7" type="gnd">
+                    <subject xml:lang="de">Fliegen</subject>
+                </subject>
+                <subject id="4017894-8" type="gnd">
+                    <subject xml:lang="de">Forschung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

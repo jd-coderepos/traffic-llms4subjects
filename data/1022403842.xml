@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1022403842</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1022403842">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2018-05-17</databaseDate>
+            <changeDate>2023-06-14</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1022403842</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1022403842</identifier>
+                <identifier type="ean">9783710500312</identifier>
+                <identifier type="firstid">DNB:1159400105</identifier>
+                <identifier type="isbn">3710500311</identifier>
+                <identifier type="isbn13">9783710500312</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="description" type="url">http://deposit.dnb.de/cgi-bin/dokserv?id=eda5d05e7e4a4eeeb2cc81de136f107d&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</location>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/1022403842.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1822847346</identifier>
+                    <creationDate>2019-01-07</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">U 18 B 1155</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">416 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Wie man ein Auto baut</title>
+            <alternativeTitles>
+                <alternative>How to build a car</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">In ?Wie man ein Auto baut? erzählt Adrian Newey von seiner unvergleichlichen, 35-jährigen Karriere im Formel-1-Zirkus: von den Autos, die er konstruiert hat, von den Fahrern, mit denen er zusammengearbeitet hat, und von den Rennen, an denen er mitgewirkt hat. Illustriert mit bisher unveröffentlichten Fotos und Konstruktionsskizzen, zeigt seine aussergewöhnliche Lebensgeschichte, was diesen Sport so einzigartig macht: die totale Verschmelzung von Mensch und Maschine, die perfekte Kombination von Stil, Effizienz und Geschwindigkeit</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Newey, Adrian</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">116780659X</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="translator">
+                    <type>translator</type>
+                    <contributor>Bayer, Martin</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Adrian Newey ; aus dem Englischen übersetzt von Martin Bayer</responsible>
+            <publicationInfo>
+                <issued>2018</issued>
+                <edition>1. Auflage</edition>
+                <publicationPlaces>
+                    <publicationPlace>Salzburg</publicationPlace>
+                    <publicationPlace>München</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="AT" />
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Pantauro Verlag bei Benevento Publishing</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Titelzusatz auf dem Umschlag: "Ein Leben für die Formel 1"</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>23.3 cm x 18.3 cm</description>
+            <description>Illustrationen</description>
+            <hiddenSearchTerm>Formel 1</hiddenSearchTerm>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106414992" classificationName="bk">
+                    <code>55.21</code>
+                    <entries>
+                        <entry>Kraftfahrzeuge</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4049487-1" type="gnd">
+                    <subject xml:lang="de">Rennwagen</subject>
+                </subject>
+                <subject id="4016321-0" type="gnd">
+                    <subject xml:lang="de">Fahrzeugbau</subject>
+                </subject>
+                <subject id="116780659X" subtype="person" type="gnd">
+                    <subject xml:lang="de">Newey, Adrian 1958</subject>
+                </subject>
+                <subject id="4032231-2" type="gnd">
+                    <subject xml:lang="de">Konstruktion</subject>
+                </subject>
+                <subject id="4267570-4" type="gnd">
+                    <subject xml:lang="de">Formel 1</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

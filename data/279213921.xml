@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:279213921</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:279213921">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1999-01-01</databaseDate>
+            <changeDate>2023-03-08</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>279213921</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">279213921</identifier>
+                <identifier type="firstid">GBV:279213921</identifier>
+                <identifier type="isbn">3205985869</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="cover" type="url">http://ecx.images-amazon.com/images/I/4154HGDMR1L._SL500_AA300_.jpg</location>
+                <location subtype="toc" type="url">https://external.dandelon.com/download/attachments/dandelon/ids/AT001C01AC2049_2435E.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">188607870</identifier>
+                    <creationDate>1996-09-23</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">T 96 B 6070</location>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">250 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Zur Harmonie von Stadt und Verkehr : Freiheit vom Zwang zum Autofahren</title>
+            <abstracts>
+                <abstract xml:lang="de">Lit.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Knoflacher, Hermann</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">123393698</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Hermann Knoflacher</responsible>
+            <publicationInfo>
+                <issued>1996</issued>
+                <edition>2., verb. und erw. Aufl.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Wien</publicationPlace>
+                    <publicationPlace>Köln</publicationPlace>
+                    <publicationPlace>Weimar</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="AT" />
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Böhlau</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Literaturverz. S. 246 - 250</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst., Kt</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>AR 27900</code>
+                </classification>
+                <classification classificationID="106411039" classificationName="bk">
+                    <code>74.72</code>
+                    <entries>
+                        <entry>Stadtplanung, kommunale Planung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>MS 1845</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>41</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 3100</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>44</code>
+                </classification>
+                <classification classificationID="106416448" classificationName="bk">
+                    <code>77.08</code>
+                    <entries>
+                        <entry>Psychologische Diagnostik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106423479" classificationName="bk">
+                    <code>77.93</code>
+                    <entries>
+                        <entry>Angewandte Psychologie</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106421050" classificationName="bk">
+                    <code>74.75</code>
+                    <entries>
+                        <entry>Verkehrsplanung, Verkehrspolitik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>RB 10768</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>arc</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>pae</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4062954-5" type="gnd">
+                    <subject xml:lang="de">Verkehrsplanung</subject>
+                </subject>
+                <subject id="4056754-0" type="gnd">
+                    <subject xml:lang="de">Stadtplanung</subject>
+                </subject>
+                <subject id="4117347-8" type="gnd">
+                    <subject xml:lang="de">Verkehrsberuhigung</subject>
+                </subject>
+                <subject id="4056795-3" type="gnd">
+                    <subject xml:lang="de">Städtebau</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

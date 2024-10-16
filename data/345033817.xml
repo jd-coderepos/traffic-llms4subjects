@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:345033817</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:345033817">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2002-03-26</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>345033817</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">345033817</identifier>
+                <identifier type="contract">MTK0579</identifier>
+                <identifier type="firstid">GBV:345033817</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">550993029</identifier>
+                    <creationDate>2002-03-26</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RR 6875(2000,157A)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">44, [ca. 170] Bl</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Life Cycle Design C1, Formzahlermittlung für komplexe schiffbauliche Strukturdetails : Abschlussbericht zum Vorhaben MTK 0579 ; [Abschluss des Vorhabens: 2000-06-30]</title>
+            <alternativeTitles>
+                <alternative>Life cycle design C1, stress concentration factors for complex details in ship structures</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Stress concentration factors, fatique, hot-spot-stress, longitudinal cut-out, corrugated bulkheads, knuckled flanges, scallops</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Fricke, W.</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Selle, H.</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Säbel, A.</contributor>
+                </contributor>
+            </contributors>
+            <responsible>[W. Fricke; H. von Selle; A. Säbel]</responsible>
+            <publicationInfo>
+                <issued>2001</issued>
+                <edition>Version 1</edition>
+                <publicationPlaces>
+                    <publicationPlace>Hamburg</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Germanischer Lloyd</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Bericht / Germanischer Lloyd, Abteilung Festigkeit, Schwingungen, Schiffsakustik</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>FF</title>
+                    <volumeNumber>2000,157,A</volumeNumber>
+                </journalInfo>
+                <publicationIDInfo>Engl. Zsfass. u.d.T.: Life cycle design C1, stress concentration factors for complex details in ship structures</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., überw. graph. Darst</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Bericht / Germanischer Lloyd, Abteilung Festigkeit, Schwingungen, Schiffsakustik</title>
+            </related>
+            <related type="parent">
+                <title>FF</title>
+                <volumeNumber>2000,157,A</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420577" classificationName="bk">
+                    <code>55.40</code>
+                    <entries>
+                        <entry>Schiffstechnik, Schiffbau</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="sigle">
+                    <code>13J</code>
+                </classification>
+                <classification classificationID="106418769" classificationName="bk">
+                    <code>51.32</code>
+                    <entries>
+                        <entry>Werkstoffmechanik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>fer</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4052397-4" type="gnd">
+                    <subject xml:lang="de">Schiffbau</subject>
+                </subject>
+                <subject id="4144198-9" type="gnd">
+                    <subject xml:lang="de">Bauteil</subject>
+                </subject>
+                <subject id="4006178-4" type="gnd">
+                    <subject xml:lang="de">Betriebsfestigkeit</subject>
+                </subject>
+                <subject id="4180472-7" type="gnd">
+                    <subject xml:lang="de">Schweißspannung</subject>
+                </subject>
+                <subject id="4142581-9" type="gnd">
+                    <subject xml:lang="de">Anrisslebensdauer</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

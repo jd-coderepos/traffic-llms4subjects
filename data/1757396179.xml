@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1757396179</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1757396179">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2021-05-06</databaseDate>
+            <changeDate>2023-04-06</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>1757396179</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1757396179</identifier>
+                <identifier type="doi">10.22032/dbt.47972</identifier>
+                <identifier type="firstid">DNB:1231233133</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://nbn-resolving.de/urn:nbn:de:gbv:ilm1-2021000031</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">393313191X</identifier>
+                    <creationDate>2021-06-01</creationDate>
+                    <selectionKey>zdt</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (xvii, 141 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>A framework for quality of service in Vehicle-to-Pedestrian safety communication</title>
+            <abstracts>
+                <abstract xml:lang="de">Die Kommunikation zwischen Verkehrsteilnehmern (V2X) hat sich zu einem wichtigen Mechanismus zur Verbesserung der Sicherheit und Effizienz des Straßenverkehrs entwickelt. Obwohl die V2X-Kommunikation prinzipiell die Kommunikation zwischen Fahrzeugen (V2V), zwischen Fahrzeug und Infrastruktur (V2I) sowie zwischen Fahrzeug und Fußgänger (V2P) umfasst, sind Ansätze zur V2P-Kommunikation weiterhin in einem sehr frühen Stadium und lassen einen umfassenden Ansatz für die Entwicklung von V2P-Systemen vermissen. V2P umfasst im Detail die Kommunikation zwischen Fahrzeugen und einer Vielzahl von gefährdeten Verkehrsteilnehmern (VRUs), wie beispielsweise Fußgänger, Radfahrer oder Mopeds. V2X-Systeme wurden ursprünglich nur für V2V- und V2I-Kommunikation entwickelt, wobei ausschließlich die Fahrzeugeigenschaften im Fokus standen. Ein effektives V2P-Systemdesign muss jedoch auch die Eigenschaften von VRUs berücksichtigen, die bei der Berücksichtigung der V2P-Kommunikation in einem V2X-System viele Fragen aufwerfen. Diese Dissertation befasst sich mit drei Aspekten im Zusammenhang mit der Entwicklung eines V2P-Systems. Der erste Aspekt betrifft die systematische Konzeption eines V2P-Systems nach einem ganzheitlichen Ansatz. Diese Dissertation schlägt einen V2P-Entwurfsrahmen vor, der auf verschiedenen Eingangsgrößen basiert, die für die Entwicklung eines effektiven V2P-Systems erforderlich sind. Dieser Entwurfsrahmen verbessert das Verständnis der V2P-Systemanforderungen und trägt dazu bei, den Entwurfsprozess systematischer zu gestalten. Der zweite Aspekt betrifft die Leistung des V2X-Netzes, wenn eine große Anzahl von VRUs präsent ist. Diese Dissertation schlägt hierfür MC-COCO4V2P vor, einen energieeffizienten Clustering-Mechanismus für Fußgänger zur Eindämmung der Netzüberlastung. MC-COCO4V2P verbessert die Netzleistung, indem die Anzahl der von Fußgängern generierten Sicherheitsmeldungen reduziert wird. Damit wird zudem die Batterielebensdauer der von den Fußgängern genutzten Geräte verbessert. Der dritte Aspekt betrifft die Zuverlässigkeit der Kommunikation zwischen einem Fahrzeug und einem Fußgänger, die kurz vor einem Zusammenstoß stehen. Diese Dissertation stuft eine so wichtige Kommunikation als diejenige ein, die selbst beim Austausch anderer kritischer Sicherheitsnachrichten die höchste Priorität bekommt. Es wird ein Mechanismus vorgeschlagen, der es den umgebenden Verkehrsteilnehmern ermöglicht, ihre Kommunikationspriorität vorübergehend zu verringern. Dies führt zu einem bevorzugten Medienzugriff für die durch eine Kollision gefährdeten Verkehrsteilnehmer, was zu einer höheren Dienstgüte (QoS) für deren Kommunikation führt.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="publisher">
+                    <type>publisher</type>
+                    <name>Universitätsverlag Ilmenau</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">7635051-4</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+                <corporateCreator type="degree-granting-institution">
+                    <type>degree-granting-institution</type>
+                    <name>Technische Universität Ilmenau</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2125187-3</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Sewalkar, Parag</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1233225510</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Seitz, Jochen</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">13002077X</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Schäfer, Günter</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1051540828</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Dressler, Falko</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">128408723</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Parag Sewalkar</responsible>
+            <publicationInfo>
+                <issued>2021</issued>
+                <publicationPlaces>
+                    <publicationPlace>Ilmenau</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Universitätsverlag Ilmenau</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2021</dateAccepted>
+                        <description>Dissertation, Technische Universität Ilmenau</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Diagramme, Illustrationen</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>A framework for quality of service in Vehicle-to-Pedestrian safety communication</title>
+                <identifier type="isbn">3863602390</identifier>
+                <identifier type="ppn">1757561501</identifier>
+                <identifier type="isbn13">9783863602390</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.2</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="181570424" classificationName="bk">
+                    <code>55.24</code>
+                    <entries>
+                        <entry>Fahrzeugführung, Fahrtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4155750-5" type="gnd">
+                    <subject xml:lang="de">Fußgängerverkehr</subject>
+                </subject>
+                <subject id="1024622754" type="gnd">
+                    <subject xml:lang="de">Car-to-Car-Kommunikation</subject>
+                </subject>
+                <subject id="4496068-2" type="gnd">
+                    <subject xml:lang="de">Dienstgüte</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://nbn-resolving.de/urn:nbn:de:gbv:ilm1-2021000031</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

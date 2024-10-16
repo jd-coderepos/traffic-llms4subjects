@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1762913216</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1762913216">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2021-07-14</databaseDate>
+            <changeDate>2023-01-11</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1762913216</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1762913216</identifier>
+                <identifier type="ean">9783658351465</identifier>
+                <identifier type="firstid">DNB:123658967X</identifier>
+                <identifier type="isbn13">9783658351465</identifier>
+                <identifier type="isbn">3658351462</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="description" type="url">http://deposit.dnb.de/cgi-bin/dokserv?id=cbf48ef3cd29423590921a912008f277&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</location>
+                <location subtype="abstract" type="url">https://www.gbv.de/dms/ilmenau/abs/175168590Xweidn.txt</location>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1762913216.pdf</location>
+                <location subtype="miscellaneous" type="url">https://d-nb.info/123658967x/04</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4026653951</identifier>
+                    <creationDate>2021-12-27</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">U 22 B 11</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xxviii, 202 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>S3D dashboard : exploring depth on large interactive dashboards</title>
+            <abstracts>
+                <abstract xml:lang="de">Die Benutzungsschnittstelle von Fahrzeugen hat sich in den letzten Jahren ständig verändert. Die primären Interaktionsgeräte blieben nahezu unverändert. Jedoch haben Entwicklungen wie das automatisierte Fahren dazu geführt, dass neue Ein- und Ausgabegeräte Einzug hielten. Eine vielversprechende, jedoch kaum erforschte Modalität sind stereoskopische 3D (S3D) Armaturenbretter. Das Ersetzen des traditionellen Armaturenbrettes mit einem großen Display, welches binokulare Tiefeninformationen darstellt, könnte neue Möglichkeiten für Forschung und Industrie bieten. Um Forschung an dieser Technologie zu ermöglichen, stellen wir eine Entwicklungsumgebung vor. Diese besteht aus einer Virtual-Reality-Umgebungssimulation und einem Fahrzeug-Mock-up. Das Mockup ist mit einem Spatial-Augmented-Reality-Armaturenbrett ausgestattet. Weiterhin wurde für dieses Setup eine Zone für komfortables Sehen ermittelt. Darauf aufbauend wurden Anwendungsfälle aus den Bereichen des manuellen und automatisierten Fahrens untersucht. Basierend auf der Entwicklung von Fahrzeug-Benutzungsschnittstellen wurde der Fokus auf Fahrerablenkung während des manuellen Fahrens, auf Vertrauen, der Wiederaufnahme der Fahraufgabe und dem Durchführen von nicht-fahrbezogenen Aufgaben während dem bedingten bzw. hochautomatisierten Fahren gelegt. Die Ergebnisse zeigen, dass S3D auf dem ganzen Armaturenbrett für die Menünavigation und zum Hervorheben von Inhalten genutzt werden kann, ohne die Fahrperformance zu beeinträchtigen. Weiterhin wird gezeigt, dass ein intelligenter Agent, dargestellt in S3D, sicheres Fahren fördert. Darüber hinaus wird gezeigt, dass stereoskopische Navigationshinweise das Wiederaufnehmen der Fahraufgabe in einem hochautomatisierten Fahrzeug verbessern. Schlussendlich wird untersucht, wie Menschen mit stereoskopischen Inhalten, dargestellt auf einem S3D-Armaturenbrett, interagieren und ein benutzerdefiniertes Gestenset für die Interaktion vorgestellt. Abschließend wird, basierend auf den Resultaten dieser Studien, die Benutzungsschnittstelle diskutiert. Die Ergebnisse dieser Arbeit - Entwicklungswerkzeuge, Daten der Nutzerstudien und Interaktionstechniken - legen die Grundlage für zukünftige Forschung an S3D-Armaturenbrettern. Sie sind Basis und Motivation für weitere Arbeiten und legen nahe, dass S3D-Armaturenbretter eine tragfähige Rolle in zukünftigen Fahrzeugen spielen können.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="publisher">
+                    <type>publisher</type>
+                    <name>Springer Vieweg</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">106405546X</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+                <corporateCreator type="degree-granting-institution">
+                    <type>degree-granting-institution</type>
+                    <name>Technische Universität Ilmenau</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2125187-3</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Weidner, Florian</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">124718563X</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Broll, Wolfgang</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">120468387</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Raake, Alexander</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">130847070</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Gabbard, Joseph L.</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Florian Weidner</responsible>
+            <publicationInfo>
+                <issued>2021</issued>
+                <publicationPlaces>
+                    <publicationPlace>Wiesbaden</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Springer Vieweg</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Research</title>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2021</dateAccepted>
+                        <description>Dissertation, Technische Universität Ilmenau</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>21 cm x 14.8 cm</description>
+            <description>Diagramme, Illustrationen</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Research</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="181570424" classificationName="bk">
+                    <code>55.24</code>
+                    <entries>
+                        <entry>Fahrzeugführung, Fahrtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4197733-6" type="gnd">
+                    <subject xml:lang="de">Ablenkung</subject>
+                </subject>
+                <subject id="4439967-4" type="gnd">
+                    <subject xml:lang="de">Armaturenbrett</subject>
+                </subject>
+                <subject id="4720440-0" type="gnd">
+                    <subject xml:lang="de">Mensch-Maschine-Schnittstelle</subject>
+                </subject>
+                <subject id="1191716309" type="gnd">
+                    <subject xml:lang="de">Gestenerkennung</subject>
+                </subject>
+                <subject id="4715802-5" type="gnd">
+                    <subject xml:lang="de">Erweiterte Realität (Informatik)</subject>
+                </subject>
+                <subject id="4493195-5" type="gnd">
+                    <subject xml:lang="de">Tiefenbild</subject>
+                </subject>
+                <subject id="4145583-6" type="gnd">
+                    <subject xml:lang="de">Binokulares Sehen</subject>
+                </subject>
+                <subject id="4136909-9" type="gnd">
+                    <subject xml:lang="de">Fahrer</subject>
+                </subject>
+                <subject id="4125909-9" type="gnd">
+                    <subject xml:lang="de">Mensch-Maschine-Kommunikation</subject>
+                </subject>
+                <subject id="4153572-8" type="gnd">
+                    <subject xml:lang="de">Fahrsimulator</subject>
+                </subject>
+                <subject id="4267841-9" type="gnd">
+                    <subject xml:lang="de">Autofahren</subject>
+                </subject>
+                <subject id="4076001-7" type="gnd">
+                    <subject xml:lang="de">Personenkraftwagen</subject>
+                </subject>
+                <subject id="4622983-8" type="gnd">
+                    <subject xml:lang="de">Fahrerassistenzsystem</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

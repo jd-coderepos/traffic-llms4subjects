@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1667618482</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1667618482">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2019-06-18</databaseDate>
+            <changeDate>2024-05-10</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>1667618482</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1667618482</identifier>
+                <identifier type="doi">10.15480/882.2057</identifier>
+                <identifier type="firstid">KXP:1667618482</identifier>
+                <identifier type="isbn13">9783892207108</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">http://nbn-resolving.de/urn:nbn:de:gbv:830-882.027040</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">356070331X</identifier>
+                    <creationDate>2019-12-08</creationDate>
+                    <selectionKey>zdt</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (xii, 241 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Development of a scalable method for the efficient simulation of flows using dynamic goal-oriented local grid-adaptation</title>
+            <abstracts>
+                <abstract xml:lang="de">A dynamic local grid adaptation method has been implemented in an existing framework of a parallel general-purpose pressure-correction based RANS code for unstructured grids, to efficiently simulate flows in marine applications. Various refinement indicators were implemented, ranging from flow feature based criteria to goal oriented error estimators, derived from the adjoint solution of the primal flow problem. The efficiency of free surface flow simulations has been further enhanced by an explicit interface sharpening (EIS) algorithm, which can be used as an add-on algorithm for existing VoF methods, and a dedicated sub-cycling technique. All developed methods were extensively verified and validated before being applied to complex three-dimensional problems.</abstract>
+                <abstract xml:lang="de">Zur effizienten Simulation von maritimen Strömungen wurde ein Verfahren zur lokalen dynamischen Gitter Adaption in ein paralleles Berechnungsverfahren, welches auf dem Druckkorrekturalgorithmus basiert und unstrukturierte Gitter nutzt, integriert. Es wurden verschiedene Verfeinerungs-Indikatoren implementiert, angefangen bei Strömungsmerkmal-basierten bis hin zu ziel-orientierten Fehler Abschätzungen, welche aus der adjungierten Lösung des primalen Strömungsproblems gewonnen werden. Die Effizienz der Simulation von freien Oberflächen Strömungen wurde durch ein explizites Verfahren zu Schärfung der Grenzfläche, welches auf existierende VoF Methoden angewendet wird, sowie ein Zwischen-Schritt Verfahren erhöht. Alle entwickelten Methoden wurden verifiziert und validiert, bevor sie auf komplexe drei-dimensionale Probleme angewendet wurden.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="degree-granting-institution">
+                    <type>degree-granting-institution</type>
+                    <name>Technische Universität Hamburg</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">1112763473</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+                <corporateCreator>
+                    <name>Technische Universität Hamburg, Institut für Fluiddynamik und Schiffstheorie</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">1120147859</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Manzke, Manuel</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1188627406</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Rung, Thomas</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">122358910</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Visonneau, Michel</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Manuel Manzke ; 1. Gutachter: Prof. Dr.-Ing. Thomas Rung, 2. Gutachter: Prof. Michel Visonneau</responsible>
+            <publicationInfo>
+                <issued>2019</issued>
+                <publicationPlaces>
+                    <publicationPlace>Hamburg</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>Schriftenreihe Schiffbau</title>
+                    <volumeNumber>710</volumeNumber>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2018</dateAccepted>
+                        <description>Dissertation, Technische Universität Hamburg</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+                <publicationIDInfo>Sonstige Körperschaft: Technische Universität Hamburg, Institut für Fluiddynamik und Schiffstheorie</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Development of a scalable method for the efficient simulation of flows using dynamic goal-oriented local grid-adaptation</title>
+                <identifier type="isbn">3892207100</identifier>
+                <identifier type="isbn13">9783892207108</identifier>
+                <identifier type="ppn">1665288167</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+            <related type="parent">
+                <title>Schriftenreihe Schiffbau</title>
+                <volumeNumber>710</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106421336" classificationName="bk">
+                    <code>50.15</code>
+                    <entries>
+                        <entry>Konstruktionslehre</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106420577" classificationName="bk">
+                    <code>55.40</code>
+                    <entries>
+                        <entry>Schiffstechnik, Schiffbau</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>620: Ingenieurwissenschaften</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Volume of Fluid Interface Capturing Method</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Adjoint Navier-Stokes method</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Automatic Grid Adaptation</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>CFD, unstructured grids, finite volume method</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Goal Oriented Grid Adaptation</subject>
+                </subject>
+                <subject id="4077970-1" type="gnd">
+                    <subject xml:lang="de">Strömungsmechanik</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>free surface</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://nbn-resolving.de/urn:nbn:de:gbv:830-882.027040</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

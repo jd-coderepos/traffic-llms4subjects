@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:513010394</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:513010394">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2006-06-09</databaseDate>
+            <changeDate>2024-04-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>513010394</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">513010394</identifier>
+                <identifier type="ean">9783800151479</identifier>
+                <identifier type="firstid">GBV:513010394</identifier>
+                <identifier type="isbn">3800151472</identifier>
+                <identifier type="isbn13">9783800151479</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">771122284</identifier>
+                    <creationDate>2006-11-20</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">L lan 722</location>
+                    <location type="tibShelfmark">T 06 B 8852</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-24</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">544 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Handbuch für Reparaturen an Landmaschinen und Traktoren : praktische Selbsthilfe für Wartung, Einstellung, Instandsetzung</title>
+            <abstracts>
+                <abstract xml:lang="de">Umfangreiches Kompendium über Wartung und Reparatur von Traktoren und Landmaschinen unter Berücksichtigung von Werkstoffen und Werkstatteinrichtung, Einstelldaten und Sicherheitsmaßnahmen. Wurde gegenüber der 4. Auflage (ID 12/93) um ca. 30 Seiten erweitert, dazu in den Vorschriften aktualisiert. Ein Kauf dieser Ausgabe ist empfehlenswert (alte Ausgabe bald verbrauchen). (3) (LK/N: Pleuß)</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Auer, Stefan</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Kletzl, Walter</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Stefan Auer; Walter Kletzl</responsible>
+            <publicationInfo>
+                <issued>2006</issued>
+                <edition>6., korr. Aufl.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Stuttgart</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Ulmer</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>25 cm</description>
+            <description>zahlr. Ill., graph. Darst</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc-dbn">
+                    <code>630</code>
+                </classification>
+                <classification classificationID="10642162X" classificationName="bk">
+                    <code>48.20</code>
+                    <entries>
+                        <entry>Landtechnik, Forsttechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="106420550" classificationName="bk">
+                    <code>55.23</code>
+                    <entries>
+                        <entry>Kraftfahrzeugwartung, Kraftfahrzeugreparatur</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loksys">
+                    <code>lan 722</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZD 72400</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>hor</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4027151-1" type="gnd">
+                    <subject xml:lang="de">Instandsetzung</subject>
+                </subject>
+                <subject id="4034316-9" type="gnd">
+                    <subject xml:lang="de">Landmaschine</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1759793469</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1759793469">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2021-06-04</databaseDate>
+            <changeDate>2024-02-09</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1759793469</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1759793469</identifier>
+                <identifier type="firstid">KXP:1759793469</identifier>
+                <identifier type="isbn13">9781681739410</identifier>
+                <identifier type="isbn13">9781681739397</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1759793469.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3934517153</identifier>
+                    <creationDate>2022-02-01</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RT 5309(12a)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xi, 140 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Path planning and tracking for vehicle collision avoidance in lateral and longitudinal motion directions</title>
+            <abstracts>
+                <abstract xml:lang="de">Conclusions and Future Works -- Conclusions -- Future Works -- MATLAB Programs -- References -- Authors' Biographies -- Blank Page</abstract>
+                <abstract xml:lang="de">Fuzzy Logic Control -- Summary -- Optimal Local Trajectory for Vehicle Collision Avoidance Maneuvers -- Introduction -- Autonomous System Architecture -- Crash Mitigation Motion Planning -- Vehicle Dynamic Modeling -- Definition of the Potential Crash Severity Index (PCSI) -- Obstacle Description -- Controller Design for Motion Planning -- Case Study -- Evaluation of Collision Avoidance -- Mitigate Crash Severity Related to Crash Angle -- Summary -- Design of Robust Feedback Controller for Path Tracking -- Model-Based Control Algorithm for Path Tracking -- Automated Path Tracking Architecture</abstract>
+                <abstract xml:lang="de">Intro -- Acknowledgments -- Introduction -- Background -- Collision Avoidance Systems for a Single Vehicle -- Cooperative Collision Avoidance Systems for Multiple-Vehicles -- Combined Lateral and Longitudinal Motion Control for Collision Avoidance -- Contributions of This Book -- Path-Planning Algorithms for Collision Avoidance -- Commonly Used Global Path-Planning Algorithms -- Trajectories Generation for a Local Path Planner -- Summary -- Path-Tracking Algorithms for Collision Avoidance -- PID Control -- Preview-Following Control -- Model Predictive Control -- Sliding Mode Control</abstract>
+                <abstract xml:lang="de">Modeling -- Feedback Control Scheme -- Robust Controller Design -- Case Study -- Summary -- Collision Avoidance in Longitudinal Direction With/Without V2X Communication -- Introduction -- Effectiveness of FCW and AEB in Longitudinal Collision Avoidance -- Kinematic Approach -- Perceptual Approach -- AEB Test Scenarios, Procedures, and Simulations -- Multiple-Vehicle Collision Avoidance Using V2X Communication -- Communication Structures -- Spacing Policy -- String Stability -- Mathematical Model for Cooperative Collision Avoidance -- Numerical Simulations -- Summary</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Ji, Jie</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Wang, Hong</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Ren, Yue</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Jie Ji, Hong Wang, Yue Ren</responsible>
+            <publicationInfo>
+                <issued>2021</issued>
+                <publicationPlaces>
+                    <publicationPlace>[San Rafael, Calif.]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Morgan &amp; Claypool Publishers</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Synthesis lectures on advances in automotive technology</title>
+                    <volumeNumber>12</volumeNumber>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Synthesis lectures on advances in automotive technology</title>
+                <volumeNumber>12</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="181570424" classificationName="bk">
+                    <code>55.24</code>
+                    <entries>
+                        <entry>Fahrzeugführung, Fahrtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Automobiles</subject>
+                </subject>
+                <subject id="4267628-9" type="gnd">
+                    <subject xml:lang="de">Bahnplanung</subject>
+                </subject>
+                <subject id="1024622754" type="gnd">
+                    <subject xml:lang="de">Car-to-Car-Kommunikation</subject>
+                </subject>
+                <subject id="1135937567" type="gnd">
+                    <subject xml:lang="de">Modellprädiktive Regelung</subject>
+                </subject>
+                <subject id="4199255-6" type="gnd">
+                    <subject xml:lang="de">Kollisionsschutz</subject>
+                </subject>
+                <subject id="1135924376" type="gnd">
+                    <subject xml:lang="de">Bewegungsregelung</subject>
+                </subject>
+                <subject id="7714938-5" type="gnd">
+                    <subject xml:lang="de">Autonomes Fahrzeug</subject>
+                </subject>
+                <subject id="4206985-3" type="gnd">
+                    <subject xml:lang="de">Robuste Regelung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

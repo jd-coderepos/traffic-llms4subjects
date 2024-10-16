@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:897670167</identifier><datestamp>2024-06-28</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:897670167">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2017-09-13</databaseDate>
+            <changeDate>2023-09-04</changeDate>
+            <ftxCreationDate>2024-06-18</ftxCreationDate>
+            <documentID>897670167</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">897670167</identifier>
+                <identifier type="ean">9783844053661</identifier>
+                <identifier type="firstid">GBV:897670167</identifier>
+                <identifier type="isbn">3844053662</identifier>
+                <identifier type="isbn13">9783844053661</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">http://nbn-resolving.de/urn:nbn:de:gbv:46-00106043-12</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4539074563</identifier>
+                    <creationDate>2024-06-15</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (vi, 245 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Joint Trajectory Generation and High-level Control for Patient-tailored Robotic Gait Rehabilitation</title>
+            <abstracts>
+                <abstract xml:lang="de">Robotics, Gait rehabilitation, Trajectory generation, Robot-human interaction, Kinematics.</abstract>
+                <abstract xml:lang="de">This dissertation presents a group of novel methods for robot-based gait rehabilitation which were developed aiming to offer more individualized therapies based on the specific condition of each patient, as well as to improve the overall rehabilitation experience for both patient and therapist. A novel methodology for gait pattern generation is proposed, which offers estimated hip and knee joint trajectories corresponding to healthy walking, and allows the therapist to graphically adapt the reference trajectories in order to fit better the patient's needs and disabilities. Additionally, the motion controllers for the hip and knee joints, mobile platform, and pelvic mechanism of an over-ground gait rehabilitation robotic system are also presented, as well as some proposed methods for "assist as needed" therapy. Two robot-patient synchronization approaches are also included in this work, together with a novel algorithm for online hip trajectory adaptation developed to reduce obstructive forces applied to the patient during therapy with compliant robotic systems. Finally, a prototype graphical user interface for the therapist is also presented.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Focke Martinez, Santiago</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Santiago Focke Martinez</responsible>
+            <publicationInfo>
+                <issued>2017</issued>
+                <publicationPlaces>
+                    <publicationPlace>Bremen</publicationPlace>
+                </publicationPlaces>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>Publication Series of the Institute of Automation, University of Bremen</title>
+                    <volumeNumber>Series 3-Nr.11</volumeNumber>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2017</dateAccepted>
+                        <description>Dissertation, Universität Bremen</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Illustrationen</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Joint trajectory generation and high-level control for patient-tailored robotic gait rehabilitation</title>
+                <identifier type="ppn">890836981</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+            <related type="parent">
+                <title>Publication Series of the Institute of Automation, University of Bremen</title>
+                <volumeNumber>Series 3-Nr.11</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc-dbn">
+                    <code>621.3</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.8924019</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>617.06028</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>meda</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4261462-4" type="gnd">
+                    <subject xml:lang="de">Robotik</subject>
+                </subject>
+                <subject id="4177459-0" type="gnd">
+                    <subject xml:lang="de">Rehabilitatives Training</subject>
+                </subject>
+                <subject id="4140871-8" type="gnd">
+                    <subject xml:lang="de">Gehen</subject>
+                </subject>
+                <subject id="1041852754" type="gnd">
+                    <subject xml:lang="de">Unterstützungstechnologie</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://nbn-resolving.de/urn:nbn:de:gbv:46-00106043-12</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

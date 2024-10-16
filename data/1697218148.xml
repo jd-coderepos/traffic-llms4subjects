@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1697218148</identifier><datestamp>2024-06-14</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1697218148">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2020-05-05</databaseDate>
+            <changeDate>2022-07-29</changeDate>
+            <ftxCreationDate>2024-06-14</ftxCreationDate>
+            <documentID>1697218148</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1697218148</identifier>
+                <identifier type="doi">10.1007/978-981-15-3293-1</identifier>
+                <identifier type="firstid">KEP:051996243</identifier>
+                <identifier type="isbn13">9789811532931</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://doi.org/10.1007/978-981-15-3293-1</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3660532754</identifier>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2020-05-06</creationDate>
+                    <selectionKey>zesp</selectionKey>
+                    <loanIndicator>s</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (XII, 222 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>X-ray pulsar-based navigation : theory and applications</title>
+            <abstracts>
+                <abstract xml:lang="de">Introduction -- X-ray pulsar signal processing -- X-ray pulsar/multiple measurement information fused navigation -- Ground-based simulation and verification system for X-ray pulsar-based navigation.</abstract>
+                <abstract xml:lang="de">This book discusses autonomous spacecraft navigation based on X-ray pulsars, analyzing how to process X-ray pulsar signals, how to simulate them, and how to estimate the pulse’s time of arrival based on epoch folding. In turn, the book presents a range of X-ray pulsar-based spacecraft positioning/time-keeping/attitude determination methods. It also describes the error transmission mechanism of the X-ray pulsar-based navigation system and its corresponding compensation methods. Further, the book introduces readers to navigation based on multiple measurement information fusion, such as X-ray pulsar/traditional celestial body integrated navigation and X-ray pulsar/INS integrated navigation. As such, it offers readers extensive information on both the theory and applications of X-ray pulsar-based navigation, and reflects the latest developments in China and abroad. .</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Zheng, Wei</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Wang, Yidi</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Wei Zheng, Yidi Wang</responsible>
+            <publicationInfo>
+                <issued>2020</issued>
+                <publicationPlaces>
+                    <publicationPlace>Singapore</publicationPlace>
+                    <publicationPlace>Beijing</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="SG" />
+                    <publicationCountry code="CN" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer Nature Singapore</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-2-PHA</identifier>
+                    <identifier type="collectioncode">ZDB-2-SEB</identifier>
+                    <identifier type="collectioncode">ZDB-2-SXP</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>Navigation: Science and Technology</title>
+                    <volumeNumber>volume 5</volumeNumber>
+                </journalInfo>
+                <journalInfo>
+                    <title>Springer eBook Collection</title>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>149 illus., 137 illus. in color</description>
+            <description>Campusweiter Zugriff (Universität Hannover) - Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Keine Weitergabe an Dritte. Kein systematisches Downloaden durch Robots.</description>
+            <description>Erworben aus Studienqualitätsmitteln</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>X-ray pulsar-based navigation</title>
+                <identifier type="ppn">1698530137</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-2-PHA</identifier>
+                <identifier type="collectioncode">ZDB-2-SEB</identifier>
+                <identifier type="collectioncode">ZDB-2-SXP</identifier>
+            </related>
+            <related type="parent">
+                <title>Navigation: Science and Technology</title>
+                <volumeNumber>volume 5</volumeNumber>
+            </related>
+            <related type="parent">
+                <title>Springer eBook Collection</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="181570416" classificationName="bk">
+                    <code>55.64</code>
+                    <entries>
+                        <entry>Raumfahrzeugführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>520</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>500.5</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Space sciences.</subject>
+                </subject>
+                <subject id="4041457-7" type="gnd">
+                    <subject xml:lang="de">Navigation</subject>
+                </subject>
+                <subject id="4048579-1" type="gnd">
+                    <subject xml:lang="de">Raumfahrzeug</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Signal processing.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Aerospace engineering.</subject>
+                </subject>
+                <subject id="4178319-0" type="gnd">
+                    <subject xml:lang="de">Röntgenpulsar</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Speech processing systems.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Astronautics.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Image processing.</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://doi.org/10.1007/978-981-15-3293-1</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

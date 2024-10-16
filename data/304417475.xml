@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:304417475</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:304417475">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1999-11-02</databaseDate>
+            <changeDate>2022-05-08</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>304417475</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">304417475</identifier>
+                <identifier type="firstid">GBV:304417475</identifier>
+                <identifier type="isbn">3884122916</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://swbplus.bsz-bw.de/bsz084664584inh.htm</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">384622534</identifier>
+                    <creationDate>2001-06-26</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">L bau 910</location>
+                    <location type="tibShelfmark">T 00 B 2842</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">164 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Die Geschichte der Schiffshebewerke : [Entstehung und Entwicklung der Wasserstraßen und Hebewerke]</title>
+            <abstracts>
+                <abstract xml:lang="de">Betr. auch Berichtsraum</abstract>
+            </abstracts>
+            <contributors>
+                <contributor>
+                    <contributor>Uhlemann, Hans-Joachim</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">120085224</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Hans-Joachim Uhlemann</responsible>
+            <publicationInfo>
+                <issued>1999</issued>
+                <edition>1. Aufl.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Hamburg</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>DSV-Verl.</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>27 cm</description>
+            <description>zahlr. Ill., graph. Darst., Kt</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106412132" classificationName="bk">
+                    <code>56.01</code>
+                    <entries>
+                        <entry>Geschichte des Bauingenieurwesens</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106413805" classificationName="bk">
+                    <code>55.41</code>
+                    <entries>
+                        <entry>Schiffe</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106422006" classificationName="bk">
+                    <code>56.30</code>
+                    <entries>
+                        <entry>Wasserbau</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ssg">
+                    <code>19,2</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>31.1d;31.3b</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>38</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 6080</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>bau</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4254829-9" type="gnd">
+                    <subject xml:lang="de">Schiffshebewerk</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Schiffshebewerk</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Geschichte</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Wasserstraße</subject>
+                </subject>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

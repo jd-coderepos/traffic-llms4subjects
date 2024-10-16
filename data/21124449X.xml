@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:21124449X</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:21124449X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1996-05-31</databaseDate>
+            <changeDate>2022-10-17</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>21124449X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">21124449X</identifier>
+                <identifier type="firstid">DNB:947629882</identifier>
+                <identifier type="isbn">389518022X</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://external.dandelon.com/download/attachments/dandelon/ids/DE01934A8EE635EEF7253C125773F0029B482.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">199672075</identifier>
+                    <creationDate>1996-11-07</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RO 9192(16)</location>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">432 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Güterverkehr in der Region : Technik, Organisation, Innovation</title>
+            <abstracts>
+                <abstract xml:lang="de">Lit.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Boe͏̈s, Hans</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Hesse, Markus</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">170964817</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Hans Boe͏̈s; Markus Hesse (Hrsg.)</responsible>
+            <publicationInfo>
+                <issued>1996</issued>
+                <publicationPlaces>
+                    <publicationPlace>Marburg</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Metropolis-Verl.</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Ökologie und Wirtschaftsforschung</title>
+                    <volumeNumber>16</volumeNumber>
+                </journalInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>21 cm</description>
+            <description>graph. Darst., Kt</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Ökologie und Wirtschaftsforschung</title>
+                <volumeNumber>16</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="181571811" classificationName="bk">
+                    <code>55.82</code>
+                    <entries>
+                        <entry>Güterverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>QR 800</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>41</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>RB 10771</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 9300</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="stw">
+                    <subject xml:lang="de">Kommunale Verkehrspolitik</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Dezentralisierung</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Schienengüterverkehr</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Logistik</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Verkehrsträgerwettbewerb</subject>
+                </subject>
+                <subject id="4158524-0" type="gnd">
+                    <subject xml:lang="de">Güternahverkehr</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Güterverkehr</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Deutschland</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Stadtverkehr</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:630982457</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:630982457">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2010-07-12</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>630982457</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>C</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">zz</code>
+                        <code iso="639-2">mul</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">630982457</identifier>
+                <identifier type="firstid">OBV:AC08158646</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">124837049X</identifier>
+                    <creationDate>2011-06-08</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">in</location>
+                    <location type="tibShelfmark">ZS 3520(2010v134nSH)</location>
+                    <loanIndicator>f</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">208 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Moderne Schienenfahrzeuge : 39. Tagung, Technische Universität Graz, 11. bis 14. April 2010</title>
+            <abstracts>
+                <abstract xml:lang="de">Literaturangaben</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Tagung Moderne Schienenfahrzeuge</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">16075885-3</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+                <corporateCreator>
+                    <name>Technische Universität Graz</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2042894-7</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor>
+                    <contributor>Riessberger, Klaus</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">13375412X</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>[ Hrsg: ... Klaus Rießberger ...]</responsible>
+            <publicationInfo>
+                <issued>2010</issued>
+                <publicationPlaces>
+                    <publicationPlace>Berlin</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Siemens</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>ZEVrail</title>
+                    <volumeNumber>134.2010</volumeNumber>
+                </journalInfo>
+                <journalInfo>
+                    <title>Sonderheft Tagungsband</title>
+                </journalInfo>
+                <conferenceInfos>
+                    <conferenceInfo>
+                        <name>Tagung Moderne Schienenfahrzeuge ; 39</name>
+                        <affiliations>
+                            <affiliation>
+                                <name />
+                            </affiliation>
+                        </affiliations>
+                        <dates>
+                            <date>2010-04-11</date>
+                            <date>2010-04-14</date>
+                        </dates>
+                        <places>
+                            <place>Graz</place>
+                        </places>
+                        <description>Tagung Moderne Schienenfahrzeuge ; 39 (Graz) : 2010.04.11-14</description>
+                    </conferenceInfo>
+                </conferenceInfos>
+            </additionalDocumentInfo>
+            <description>zahlr. Ill. u. graph. Darst</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>ZEVrail</title>
+                <volumeNumber>134.2010</volumeNumber>
+            </related>
+            <related type="parent">
+                <title>Sonderheft Tagungsband</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>625.2</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 5300</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4052368-8" type="gnd">
+                    <subject xml:lang="de">Schienenfahrzeug</subject>
+                </subject>
+                <subject id="4179556-8" type="gnd">
+                    <subject xml:lang="de">Schienenfahrzeugbau</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+            <property name="displayKLD">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

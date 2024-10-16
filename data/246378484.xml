@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:246378484</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:246378484">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1998-07-13</databaseDate>
+            <changeDate>2024-04-18</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>246378484</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>C</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">246378484</identifier>
+                <identifier type="firstid">GBV:246378484</identifier>
+                <identifier type="isbn">3923675712</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/goettingen/246378484.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">903282828</identifier>
+                    <creationDate>2008-11-11</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RB 2038(29)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-35</isil>
+            </preservation>
+            <preservation procedure="digital-preservation">
+                <isil>DE-45</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">176 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Auf Achse : Mobilität im ländlichen Raum ; [Ausstellung im Museumsdorf Cloppenburg, Eröffnung am 26. April 1998]</title>
+            <abstracts>
+                <abstract xml:lang="de">Begleitbuch zur Ausstellung</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Museumsdorf Cloppenburg</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2010953-2</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Ziessow, Karl-Heinz</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">138522359</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor>
+                    <contributor>Griep, Wolfgang</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1026152836</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Karl-Heinz Ziessow (Hrsg.). [Autoren Wolfgang Griep ...]</responsible>
+            <publicationInfo>
+                <issued>1998</issued>
+                <publicationPlaces>
+                    <publicationPlace>Cloppenburg</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Museumsdorf Cloppenburg, Nieders. Freilichtmuseum</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Materialien und Studien zur Alltagsgeschichte und Volkskultur Niedersachsens</title>
+                    <volumeNumber>29</volumeNumber>
+                </journalInfo>
+                <conferenceInfos>
+                    <conferenceInfo>
+                        <name>Ausstellung</name>
+                        <affiliations>
+                            <affiliation>
+                                <name />
+                            </affiliation>
+                        </affiliations>
+                        <dates>
+                            <date />
+                        </dates>
+                        <places>
+                            <place>Cloppenburg</place>
+                        </places>
+                        <description>Ausstellung (Cloppenburg) : 1998.04.26-</description>
+                    </conferenceInfo>
+                </conferenceInfos>
+            </additionalDocumentInfo>
+            <description>24 cm</description>
+            <description>zahlr. Ill., Kt.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Materialien und Studien zur Alltagsgeschichte und Volkskultur Niedersachsens</title>
+                <volumeNumber>29</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106411241" classificationName="bk">
+                    <code>74.05</code>
+                    <entries>
+                        <entry>Reisebeschreibungen, Geschichte des Reisens</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>41</code>
+                </classification>
+                <classification classificationID="106420631" classificationName="bk">
+                    <code>55.80</code>
+                    <entries>
+                        <entry>Verkehrswesen, Transportwesen: Allgemeines</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 3050</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>36</code>
+                </classification>
+                <classification classificationID="106420968" classificationName="bk">
+                    <code>74.12</code>
+                    <entries>
+                        <entry>Stadtgeographie, Siedlungsgeographie</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>geo</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Mobilität</subject>
+                </subject>
+                <subject id="4034026-0" type="gnd">
+                    <subject xml:lang="de">Ländlicher Raum</subject>
+                </subject>
+                <subject id="4039785-3" type="gnd">
+                    <subject xml:lang="de">Mobilität</subject>
+                </subject>
+                <subject id="4042226-4" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Niedersachsen</subject>
+                </subject>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Verkehrsmittel</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

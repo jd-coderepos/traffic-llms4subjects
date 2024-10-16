@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:476176549</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:476176549">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2004-12-27</databaseDate>
+            <changeDate>2024-04-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>476176549</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">476176549</identifier>
+                <identifier type="contract">02496</identifier>
+                <identifier type="ean">9783613024960</identifier>
+                <identifier type="firstid">GBV:476176549</identifier>
+                <identifier type="isbn">3613024969</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">694261904</identifier>
+                    <creationDate>2005-11-24</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">T 05 B 4231</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-24</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">192 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Das Lexikon der Schwerlasttechnik</title>
+            <abstracts>
+                <abstract xml:lang="de">Nachschlagewerk über Schwerlastkraftwagen, ihre Technik und Typologie, mit Angaben zu Herstellern, Bauteilen, Transportsystemen. Alphabetisch gegliedert, mit Fotos (schwarz-weiß und farbig), Detailskizzen, grafischen Übersichten versehen. Bringt elementare Erläuterungen für einen breiten Interessentenkreis (Spediteure, technisch interessierte Laien). Breiter einsetzbar als die Bilddokumentationen von M. Schauer (ID 7/04, 34/01), sinnvolle Ergänzung zu "Schwertransporte auf dem Weg durch die Jahrhunderte" (BA 1/04). (2 A)</abstract>
+                <abstract xml:lang="de">Nachschlagewerk über Schwerlastkraftwagen, ihre Technik und Typologie, mit Angaben zu Herstellern, Bauteilen, Transportsystemen. Alphabetisch gegliedert, mit Fotos (schwarz-weiss und farbig), Detailskizzen, grafischen Übersichten versehen. Bringt elementare Erläuterungen für einen breiten Interessentenkreis (Spediteure, technisch interessierte Laien). Breiter einsetzbar als die Bilddokumentationen von M. Schauer (ID 7/04, 34/01), sinnvolle Ergänzung zu "Schwertransporte auf dem Weg durch die Jahrhunderte" (BA 1/04). (2 A)</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Hoepke, Erich</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">122199995</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Erich Hoepke</responsible>
+            <publicationInfo>
+                <issued>2005</issued>
+                <edition>1. Aufl.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Stuttgart</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Motorbuch-Verl.</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>zahlr. Ill., graph. Darst</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc-dbn">
+                    <code>380</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4430</code>
+                </classification>
+                <classification classificationID="106414992" classificationName="bk">
+                    <code>55.21</code>
+                    <entries>
+                        <entry>Kraftfahrzeuge</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 2450</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4139257-7" type="gnd">
+                    <subject xml:lang="de">Schwerlastkraftwagen</subject>
+                </subject>
+                <subject id="4206780-7" type="gnd">
+                    <subject xml:lang="de">Schwerlastverkehr</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:128071214</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:128071214">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1993-09-28</databaseDate>
+            <changeDate>2024-03-28</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>128071214</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">128071214</identifier>
+                <identifier type="firstid">GBV:128071214</identifier>
+                <identifier type="isbn">3478930898</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://external.dandelon.com/download/attachments/dandelon/ids/DE0049889868486967C54C1257D1E0031D22E.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">125702124</identifier>
+                    <creationDate>1994-05-09</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RO 5478(80)</location>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">70 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Wischer- und Wascheranlagen für Fahrzeuge : Bauarten, Komponenten, Anwendungsbeispiele</title>
+            <abstracts>
+                <abstract xml:lang="de">Laienverständliche Einführung in Typen, Anforderungen, Auslegung, Wartung und Pflege. (LK/N: Pleuß)</abstract>
+                <abstract xml:lang="de">Typen, Anforderungen, Auslegung, Wartung und Pflege von Scheibenwischern und -waschanlagen für (Kraft-)Fahrzeuge. Knappe Einführung für Laien mit zahlreichen Bildern und einem Glossar. 1. Zusammenstellung zu einem Thema, das in üblichen Fachkunden eher stiefmütterlich behandelt wird. Geht auch auf Testmethoden und gesetzliche Vorgaben ein. Insofern auch für Auszubildende einsetzbar. (2 S) (LK/N: Pleuß)</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Schmid, Eckhardt</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Eckhardt Schmid.  [SWF-Auto-Electric]</responsible>
+            <publicationInfo>
+                <issued>1993</issued>
+                <publicationPlaces>
+                    <publicationPlace>Landsberg/Lech</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Verl. Moderne Industrie</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Die Bibliothek der Technik</title>
+                    <volumeNumber>80</volumeNumber>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>19 cm</description>
+            <description>zahlr. Ill. und graph. Darst</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Die Bibliothek der Technik</title>
+                <volumeNumber>80</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="dbn">
+                    <code>36</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4205</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4321734-5" type="gnd">
+                    <subject xml:lang="de">Scheibenwaschanlage</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Scheibenwischer</subject>
+                </subject>
+                <subject id="4321733-3" type="gnd">
+                    <subject xml:lang="de">Scheibenwischer</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Scheibenwaschanlage</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

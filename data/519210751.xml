@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:519210751</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:519210751">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2006-10-25</databaseDate>
+            <changeDate>2024-04-20</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>519210751</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">519210751</identifier>
+                <identifier type="ean">9783881807357</identifier>
+                <identifier type="firstid">GBV:519210751</identifier>
+                <identifier type="isbn">3881807357</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">805846077</identifier>
+                    <creationDate>2007-11-14</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 07 B 1607</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-31</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">127 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Modellflug-ABC : Grundlagen, Aerodynamik &amp; Tipps</title>
+            <abstracts>
+                <abstract xml:lang="de">In diesem Buch geht es um die grundlegenden Prinzipien des Fliegens und der Aerodynamik. Warum fliegt überhaupt ein Flugzeug? Wie verhalten sich Modellflugzeuge unter verschiedenen Luft- und Windbedingungen? Wie funktioniert die Steuerung eines Flugmodells? Welche Auswirkungen auf die Flugeigenschaften haben unterschiedliche Tragflächenprofile? Wodurch zeichnet sich ein Modell mit hoher Flugstabilität aus? Welche Bedeutung kommt dem Propeller zu? Solche und ähnliche Fragen werden von Martin Simons in dem vorliegenden Buch behandelt und auf sehr einfache und anschauliche Weise erklärt. Mit sehr vielen Zeichnungen. Der Autor hat bereits vor gut 10 Jahren im gleichen Verlag einen etwa doppelt so umfangreichen, grundlegenden Titel zum Thema "Flugmodell Aerodynamik" (hier nicht besprochen) veröffentlicht. Für alle Modellbauer, die verstehen wollen, wie ein Modellflugzeug fliegt und welche Funktionen die einzelnen Bauteile erfüllen, sehr empfohlen. Einzig der Preis erscheint im Hinblick auf die einfache Ausstattung (broschürt, nur Schwarz-Weiß-Abbildungen) etwas hoch. (1)</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Simons, Martin</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">130011185</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>[Martin Simons]</responsible>
+            <publicationInfo>
+                <issued>2006</issued>
+                <edition>1. Aufl.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Baden-Baden</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Verl. für Technik und Handwerk</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>FMT-Fachbuch</title>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>23 cm</description>
+            <description>Ill., zahlr. graph. Darst</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>FMT-Fachbuch</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Flugzeugaerodynamik</subject>
+                </subject>
+                <subject id="4135410-2" type="gnd">
+                    <subject xml:lang="de">Flugzeugaerodynamik</subject>
+                </subject>
+                <subject id="4017652-6" type="gnd">
+                    <subject xml:lang="de">Flugmodell</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Flugmodell</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

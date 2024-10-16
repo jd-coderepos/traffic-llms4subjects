@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1724833758</identifier><datestamp>2024-06-14</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1724833758">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2020-07-15</databaseDate>
+            <changeDate>2021-09-02</changeDate>
+            <ftxCreationDate>2024-06-14</ftxCreationDate>
+            <documentID>1724833758</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1724833758</identifier>
+                <identifier type="firstid">KXP:1724833758</identifier>
+                <identifier type="isbn13">9781484257319</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3724496850</identifier>
+                    <creationDate>2021-08-31</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 20 B 2861</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xix, 164 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Cybersecurity for space : protecting the final frontier</title>
+            <abstracts>
+                <abstract xml:lang="de">This is the first book of its kind to cover the unique challenges of creating, maintaining, and operating a system that operates in both outer space and cyber space. It covers the impact that cyber threats can have on space systems and how the cybersecurity industry must rise to meet the threats. Space is one of the fastest growing military, government, and industry sectors. Because everything in today’s world exists within or connected to cyberspace, there is a dire need to ensure that cybersecurity is addressed in the burgeoning field of space operations. You will be introduced to the basic concepts involved in operating space systems that include low earth orbit (LEO), geosynchronous orbit (GEO), and others. Using the related high-level constraints, threats, and vectors, you will be able to frame a clear picture of the need and challenges of bringing cybersecurity to bear on satellites, space vehicles, and their related systems. The author, who has spent seven years in the US Marine Corps and was originally involved in satellite communications and later cyber operations, is now a seasoned cybersecurity practitioner currently implementing cybersecurity vision and strategy to a large portfolio of systems and programs, many focused specifically in space. A published academic and experienced professional, he brings a practical, real-world and tempered approach to securing space vehicles and their systems. You will: Understand what constitutes a space system and the challenges unique to operations of all spacecraft Get introduced to various space vehicles and their unique constraints and challenges Be aware of the physical and cyber threats to the space vehicle and its ability to fly and orbit Know the physical and cyber vectors from which threats may manifest Study the micro- and macro-analysis provided of space system attack scenarios Be familiar with the high-level problems of cybersecurity in the space domain.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Oakley, Jacob G.</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1189767198</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Jacob G. Oakley</responsible>
+            <publicationInfo>
+                <issued>2020</issued>
+                <publicationPlaces>
+                    <publicationPlace>New York, NY</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Apress</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>For professionals by professionals</title>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>Cybersecurity for space</title>
+                <identifier type="ppn">1694050114</identifier>
+            </related>
+            <related type="parent">
+                <title>For professionals by professionals</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106410660" classificationName="bk">
+                    <code>55.88</code>
+                    <entries>
+                        <entry>Luftverkehr, Raumfahrt</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>005.8</code>
+                </classification>
+                <classification classificationID="106418866" classificationName="bk">
+                    <code>54.38</code>
+                    <entries>
+                        <entry>Computersicherheit</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>inf</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Data protection.</subject>
+                </subject>
+                <subject id="4274324-2" type="gnd">
+                    <subject xml:lang="de">Computersicherheit</subject>
+                </subject>
+                <subject id="4048574-2" type="gnd">
+                    <subject xml:lang="de">Raumfahrt</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Aerospace engineering.</subject>
+                </subject>
+                <subject id="4189606-3" type="gnd">
+                    <subject xml:lang="de">Weltraum</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Astronautics.</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

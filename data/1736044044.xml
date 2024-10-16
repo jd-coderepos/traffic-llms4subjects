@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1736044044</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1736044044">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2020-10-20</databaseDate>
+            <changeDate>2021-12-10</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1736044044</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1736044044</identifier>
+                <identifier type="ean">9783030451301</identifier>
+                <identifier type="firstid">KXP:1736044044</identifier>
+                <identifier type="isbn13">9783030451301</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1736044044.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3783040647</identifier>
+                    <creationDate>2021-11-18</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 20 B 4372</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xiii, 346 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Smart automotive mobility : reliable technology for the mobile human</title>
+            <abstracts>
+                <abstract xml:lang="de">This book focuses on smart results in the field of smart automotive mobility concentrating on (semi-)autonomous cars. The results are based on 5 recently finished public-funded research projects with a budget of over 15 million Euro. Providing insights into the next generation of personalized mobility on the road the authors discuss personalized, adaptive cooperative systems for highly automated cars and how they can be developed in a human-centered way. Furthermore, the book reports on a cooperative driver-vehicle interaction. How can the driver and the vehicle support each other? What are their best skills and how can they benefit from each other? It also gives novel insights on intuitive steering gestures on the steering wheel which initiate maneuvers to be executed by the automation, and to be supervised by, influenced or interrupted by the driver. The book finishes with information on a cooperative laser beam system which improves the communication between the different road participants to optimize the road safety of tomorrow.Smart Automotive Mobility: Reliable Technology for the Mobile Human is an ideal source for researchers, students and practitioners working in the area of intelligent systems for the automotive industry. It gives valuable and condensed information from multi-million Euro research projects funded by the German Federal Ministry of Education and Research</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Meixner, Gerrit</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">140854770</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Gerrit Meixner, editor</responsible>
+            <publicationInfo>
+                <issued>2020</issued>
+                <publicationPlaces>
+                    <publicationPlace>Cham</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="CH" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer Nature Switzerland AG</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Human-computer interaction series</title>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>Smart Automotive Mobility</title>
+                <identifier type="isbn13">9783030451318</identifier>
+                <identifier type="ppn">1734625813</identifier>
+            </related>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>Smart automotive mobility</title>
+                <identifier type="ppn">1778345271</identifier>
+                <identifier type="isbn13">9783030451318</identifier>
+            </related>
+            <related type="parent">
+                <title>Human-computer interaction series</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="181570424" classificationName="bk">
+                    <code>55.24</code>
+                    <entries>
+                        <entry>Fahrzeugführung, Fahrtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4038662-4" type="gnd">
+                    <subject xml:lang="de">Mensch-Maschine-System</subject>
+                </subject>
+                <subject id="7714938-5" type="gnd">
+                    <subject xml:lang="de">Autonomes Fahrzeug</subject>
+                </subject>
+                <subject id="4622983-8" type="gnd">
+                    <subject xml:lang="de">Fahrerassistenzsystem</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

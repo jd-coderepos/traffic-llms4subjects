@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:306791854</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:306791854">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1999-12-06</databaseDate>
+            <changeDate>2023-07-13</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>306791854</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>C</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">306791854</identifier>
+                <identifier type="firstid">GBV:306791854</identifier>
+                <identifier type="isbn">3879192693</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/306791854.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">374390908</identifier>
+                    <creationDate>2001-01-17</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RR 1664(37)</location>
+                    <loanIndicator>f</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">186 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Gewässervermessung und hydrographische Informationssysteme : Beiträge zum 49. DVW-Seminar am 28. und 29. September 1999 an der Technischen Universität Dresden</title>
+            <abstracts>
+                <abstract xml:lang="de">In der Veröffentlichung sind die Beiträge zum neunundvierzigsten DVW-Seminar enthalten. Neben der Weiterentwicklung in den Bereichen Ortung, Lotung und Beschickung liegt der Schwerpunkt der Thematik in der Sedimenterkennung, der flächenhaften Datenplausibilisierung, der Nutzung von ECDIS und ARGO und dem integrierten Küstenzonen-Management. (AUT)</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Deutscher Verein für Vermessungswesen</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2008652-0</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor>
+                    <contributor>Augath, Wolfgang</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1286592887</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Red. Wolfgang Augath</responsible>
+            <publicationInfo>
+                <issued>1999</issued>
+                <publicationPlaces>
+                    <publicationPlace>Stuttgart</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Wittwer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Schriftenreihe des DVW</title>
+                    <volumeNumber>37</volumeNumber>
+                </journalInfo>
+                <conferenceInfos>
+                    <conferenceInfo>
+                        <name>DVW-Seminar ; 49</name>
+                        <affiliations>
+                            <affiliation>
+                                <name />
+                            </affiliation>
+                        </affiliations>
+                        <dates>
+                            <date>1999-09-28</date>
+                            <date>1999-09-29</date>
+                        </dates>
+                        <places>
+                            <place>Dresden</place>
+                        </places>
+                        <description>DVW-Seminar ; 49 (Dresden) : 1999.09.28-29</description>
+                    </conferenceInfo>
+                </conferenceInfos>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst., Kt.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Schriftenreihe des DVW</title>
+                <volumeNumber>37</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="181570149" classificationName="bk">
+                    <code>74.48</code>
+                    <entries>
+                        <entry>Geoinformationssysteme</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106415859" classificationName="bk">
+                    <code>38.73</code>
+                    <entries>
+                        <entry>Geodäsie</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="181569973" classificationName="bk">
+                    <code>55.44</code>
+                    <entries>
+                        <entry>Schiffsführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ssg">
+                    <code>14</code>
+                </classification>
+                <classification classificationID="106421913" classificationName="bk">
+                    <code>38.89</code>
+                    <entries>
+                        <entry>Hydrologie: Sonstiges</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>geo</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4063048-1" type="gnd">
+                    <subject xml:lang="de">Vermessung</subject>
+                </subject>
+                <subject id="4026309-5" type="gnd">
+                    <subject xml:lang="de">Hydrologie</subject>
+                </subject>
+                <subject id="4261642-6" type="gnd">
+                    <subject xml:lang="de">Geoinformationssystem</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+            <property name="displayKLD">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:341681954</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:341681954">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2002-02-06</databaseDate>
+            <changeDate>2024-04-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>341681954</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">341681954</identifier>
+                <identifier type="contract">18S0040</identifier>
+                <identifier type="contract">18S0186</identifier>
+                <identifier type="contract">SVA-2730</identifier>
+                <identifier type="firstid">GBV:341681954</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="miscellaneous" type="url">https://edocs.tib.eu/files/e01fb01/341681954l.pdf</location>
+                <location mimetype="application/pdf" subtype="fulltext" type="url">https://edocs.tib.eu/files/e01fb01/341681954.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">545250331</identifier>
+                    <creationDate>2002-02-06</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-89</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">Online-Ressource (96 p., 6,4 Mb.)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Weiterentwicklung der Versuchsmethodik für Erosionsuntersuchungen : Schlußbericht zum FuE-Vorhaben: Untersuchung von Schicht-, Blasen- und Wolkenkavitation und die damit verbundenen Erosionsprobleme</title>
+            <alternativeTitles>
+                <alternative>Advancement of the test procedure for erosion tests</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Erosion, cavitation, cavitation erosion, propeller, soft surface, erosion test, correlation</abstract>
+            </abstracts>
+            <contributors>
+                <contributor>
+                    <contributor>Heinke, Hans-Jürgen</contributor>
+                </contributor>
+            </contributors>
+            <responsible>[Projektleiter: Hans-Jürgen Heinke]</responsible>
+            <publicationInfo>
+                <issued>2001</issued>
+                <edition>[Elektronische Ressource]</edition>
+                <publicationPlaces>
+                    <publicationPlace>Potsdam</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Schiffbau-Versuchsanstalt</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-296-TTN</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>SVA-[Bericht]</title>
+                    <volumeNumber>[2730]</volumeNumber>
+                </journalInfo>
+                <publicationIDInfo>Contract BMBF 18S0040 - 18S0186.- Differences between the printed and electronic version of the document are possible. - nIndex p. 65 - 68. - Engl. abstract under title: Advancement of the test procedure for erosion tests</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>ill., graphs</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-296-TTN</identifier>
+            </related>
+            <related type="parent">
+                <title>SVA-[Bericht]</title>
+                <volumeNumber>[2730]</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106418513" classificationName="bk">
+                    <code>51.24</code>
+                    <entries>
+                        <entry>Korrosion</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106420577" classificationName="bk">
+                    <code>55.40</code>
+                    <entries>
+                        <entry>Schiffstechnik, Schiffbau</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>fer</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4033971-3" type="gnd">
+                    <subject xml:lang="de">Lackierung</subject>
+                </subject>
+                <subject id="4163527-9" type="gnd">
+                    <subject xml:lang="de">Kavitationserosion</subject>
+                </subject>
+                <subject id="4138452-0" type="gnd">
+                    <subject xml:lang="de">Schiffspropeller</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">default</property>
+            <property name="displaySubscriberAccess">https://edocs.tib.eu/files/e01fb01/341681954.pdf</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

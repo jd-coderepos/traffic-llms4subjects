@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1736825704</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1736825704">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2020-10-27</databaseDate>
+            <changeDate>2022-06-17</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1736825704</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1736825704</identifier>
+                <identifier type="firstid">KXP:1736825704</identifier>
+                <identifier type="isbn13">9781119710745</identifier>
+                <identifier type="isbn13">9781119710776</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1736825704.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3917621711</identifier>
+                    <creationDate>2022-04-07</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 21 B 1942</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xiii, 304 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Building secure cars : assuring the automotive software development lifecycle</title>
+            <abstracts>
+                <abstract xml:lang="de">"Connectivity and software-based automotive components are now the norm in motor manufacturing, and there can be more than 100 million lines of code in a modern car, making the vehicle highly vulnerable to hacking and other cybersecurity attacks. In response, the automotive industry is investing heavily in security software, effectively creating secure cars. Written by a seasoned automotive expert with international industry expertise, this book introduces readers to the different types of security solutions, with the aim of helping software development and test teams identify vulnerabilities quickly and efficiently. Common problems and pitfalls, based on real-world experiences, are discussed and solutions provided. The aim of the book is to assist auto industry insiders overcome cybersecurity challenges by incorporating security into their software lifecycle to help build more secure and safe cars"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Oka, Dennis Kengo</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Dennis Kengo Oka</responsible>
+            <publicationInfo>
+                <issued>2021</issued>
+                <edition>First edition</edition>
+                <publicationPlaces>
+                    <publicationPlace>Hoboken, NJ</publicationPlace>
+                    <publicationPlace>Chichester</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Wiley</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>Building secure cars</title>
+                <identifier type="isbn13">9781119710776</identifier>
+                <identifier type="ppn">1795258691</identifier>
+                <identifier type="isbn13">9781119710769</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.2/72</code>
+                </classification>
+                <classification classificationID="106418866" classificationName="bk">
+                    <code>54.38</code>
+                    <entries>
+                        <entry>Computersicherheit</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL272.53</code>
+                </classification>
+                <classification classificationID="181570424" classificationName="bk">
+                    <code>55.24</code>
+                    <entries>
+                        <entry>Fahrzeugführung, Fahrtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>inf</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Automotive computers</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Automotive telematics</subject>
+                </subject>
+                <subject id="4274324-2" type="gnd">
+                    <subject xml:lang="de">Computersicherheit</subject>
+                </subject>
+                <subject id="1075612675" type="gnd">
+                    <subject xml:lang="de">Cyberattacke</subject>
+                </subject>
+                <subject id="4116522-6" type="gnd">
+                    <subject xml:lang="de">Softwareentwicklung</subject>
+                </subject>
+                <subject id="4032690-1" type="gnd">
+                    <subject xml:lang="de">Kraftfahrzeugindustrie</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

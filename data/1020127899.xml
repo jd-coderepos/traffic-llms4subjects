@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1020127899</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1020127899">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2018-05-04</databaseDate>
+            <changeDate>2024-05-10</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>1020127899</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1020127899</identifier>
+                <identifier type="doi">10.15480/882.1631</identifier>
+                <identifier type="firstid">GBV:1020127899</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">http://nbn-resolving.de/urn:nbn:de:gbv:830-88220589</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1782857621</identifier>
+                    <creationDate>2018-07-09</creationDate>
+                    <selectionKey>zdt</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-101</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (xiv, 137 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Fluid dynamic optimization of HVAC-components with adjoint methods</title>
+            <abstracts>
+                <abstract xml:lang="de">This thesis is concerned with the theory and application of continuous adjoint shape and topology optimization for heating, ventilation and air-conditioning components of aircrafts. The focal point is the applicability of adjoint theory to industrial practice, referring to step size computation for the gradient descent, design constraints and a correct computation of the gradient from the sensitivity. The implemented approaches are validated and verified via simulation of proper fluid dynamic test-cases. The arising framework is applied to industrial cases of aircraft components.</abstract>
+                <abstract xml:lang="de">Die Arbeit befasst sich mit der kontinuierlich-adjungierten Form- und Topologieoptimierung von Klimatisierungskomponenten von Flugzeugen. Im Fokus steht die Anwendbarkeit der adjungierten Theorie auf die industrielle Praxis. Dies ist vor allem bezogen auf die Berechnung der Schrittweite im Gradientenverfahren, Anforderungen an das Design und die korrekte Berechnung des Gradienten aus der adjungierten Sensitivität. Die Ansätze werden implementiert und mit passenden fluiddynamischen Testfällen validiert und verifiziert. Die untersuchte Methode wird auf verschiedene Flugzeugkomponenten angewendet.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="degree-granting-institution">
+                    <type>degree-granting-institution</type>
+                    <name>Technische Universität Hamburg-Harburg</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2067664-5</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+                <corporateCreator>
+                    <name>Technische Universität Hamburg-Harburg, Institut für Fluiddynamik und Schiffstheorie</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">10194305-2</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Gerdes, Anne</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1157022758</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Rung, Thomas</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">122358910</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Hinze, Michael</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">102673729X</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>von Anne Christine Marie Gerdes ; Gutachter Prof. Dr.-Ing. Thomas Rung, Prof. Dr. rer. nat. Michael Hinze</responsible>
+            <publicationInfo>
+                <issued>2018</issued>
+                <edition>1. Auflage</edition>
+                <publicationPlaces>
+                    <publicationPlace>Hamburg</publicationPlace>
+                </publicationPlaces>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>Schriftenreihe Schiffbau</title>
+                    <volumeNumber>708</volumeNumber>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2018</dateAccepted>
+                        <description>Dissertation, Technische Universität Hamburg-Harburg</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Fluid dynamic optimization of HVAC-components with adjoint methods</title>
+                <identifier type="isbn13">9783892207085</identifier>
+                <identifier type="ppn">1019703474</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+            <related type="parent">
+                <title>Schriftenreihe Schiffbau</title>
+                <volumeNumber>708</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>620: Ingenieurwissenschaften</code>
+                </classification>
+                <classification classificationID="106421379" classificationName="bk">
+                    <code>52.42</code>
+                    <entries>
+                        <entry>Heizungstechnik, Lüftungstechnik, Klimatechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>510</code>
+                </classification>
+                <classification classificationID="106413783" classificationName="bk">
+                    <code>50.33</code>
+                    <entries>
+                        <entry>Technische Strömungsmechanik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mas</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4129730-1" type="gnd">
+                    <subject xml:lang="de">Sensitivitätsanalyse</subject>
+                </subject>
+                <subject id="4329076-0" type="gnd">
+                    <subject xml:lang="de">Gestaltoptimierung</subject>
+                </subject>
+                <subject id="4031177-6" type="gnd">
+                    <subject xml:lang="de">Klimatechnik</subject>
+                </subject>
+                <subject id="4690080-9" type="gnd">
+                    <subject xml:lang="de">Numerische Strömungssimulation</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>computational fluid dynamics</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>shape and topology optimization</subject>
+                </subject>
+                <subject id="4017672-1" type="gnd">
+                    <subject xml:lang="de">Flugzeug</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>adjoint Navier-Stokes-Fourier equations</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>sensitivity analysis</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>finite volume method</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://nbn-resolving.de/urn:nbn:de:gbv:830-88220589</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

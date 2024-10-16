@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1609194683</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1609194683">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1992-10-12</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>1609194683</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1609194683</identifier>
+                <identifier type="firstid">DNB:921051840</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://d-nb.info/921051840/04</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">101278918</identifier>
+                    <creationDate>1993-05-10</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RN 7563(1992,4)</location>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">104964251</identifier>
+                    <creationDate>1993-09-24</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RN 7563(1992,4) a</location>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">II, 118 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Zur Berechnung schnell rollender Reifen mit der Finite-Element-Methode</title>
+            <abstracts>
+                <abstract xml:lang="de">Herausgeber der Serie: Univ.-Prof. Dr.-Ing. L. Gaul</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="degree-granting-institution">
+                    <type>degree-granting-institution</type>
+                    <name>Deutschland, Bundeswehr</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2119580-8</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+                <corporateCreator>
+                    <name>Institut für Mechanik, Hamburg</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">112659-3</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Nackenhorst, Udo</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">113094620</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <type>editor</type>
+                    <contributor>Gaul, Lothar</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">108829316</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>von Udo Nackenhorst</responsible>
+            <publicationInfo>
+                <issued>1992</issued>
+                <publicationPlaces>
+                    <publicationPlace>Hamburg</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Inst. für Mechanik, Univ. d. Bundeswehr</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Bericht aus dem Institut für Mechanik / Helmut-Schmidt-Universität, Universität der Bundeswehr Hamburg</title>
+                    <volumeNumber>1992,4</volumeNumber>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Zugl.: Hamburg, Hochsch. der Bundeswehr, Diss., 1992</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+                <publicationIDInfo>Zugl.: @Hamburg, Univ. d. Bundeswehr, Fachbereich Maschinenbau, Diss. : 1992</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>graph. Darst.</description>
+            <hiddenSearchTerm>Finite Element Methode</hiddenSearchTerm>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Bericht aus dem Institut für Mechanik / Helmut-Schmidt-Universität, Universität der Bundeswehr Hamburg</title>
+                <volumeNumber>1992,4</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loksys">
+                    <code>ver 76</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="181571161" classificationName="bk">
+                    <code>50.32</code>
+                    <entries>
+                        <entry>Dynamik, Schwingungslehre</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>36</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>35</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4191975-0" type="gnd">
+                    <subject xml:lang="de">Rollkontakt</subject>
+                </subject>
+                <subject id="4137152-5" type="gnd">
+                    <subject xml:lang="de">Reifen</subject>
+                </subject>
+                <subject id="4293741-3" type="gnd">
+                    <subject xml:lang="de">Kontakt (Reibung)</subject>
+                </subject>
+                <subject id="4017233-8" type="gnd">
+                    <subject xml:lang="de">Finite-Elemente-Methode</subject>
+                </subject>
+                <subject id="4260017-0" type="gnd">
+                    <subject xml:lang="de">Hochgeschwindigkeit</subject>
+                </subject>
+                <subject id="4014161-5" type="gnd">
+                    <subject xml:lang="de">Elastomechanik</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

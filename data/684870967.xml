@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:684870967</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:684870967">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2012-02-07</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>684870967</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">684870967</identifier>
+                <identifier type="ean">9781107010116</identifier>
+                <identifier type="firstid">GBV:684870967</identifier>
+                <identifier type="isbn13">9781107010116</identifier>
+                <identifier type="isbn">110701011X</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/bowker/toc/9781107010116.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1301492884</identifier>
+                    <creationDate>2013-04-04</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 12 B 6380</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">X, 396 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Automotive control systems</title>
+            <abstracts>
+                <abstract xml:lang="de">"The century old automobile, the preferred mode for personal mobility throughout the developed world, is rapidly becoming a complex electro-mechanical system. Various new electro- mechanical technologies are being added to automobiles to improve operational safety, reduce congestion and energy consumption and minimize environmental impact. This chapter provides an introduction to these trends, as well as a brief overview of the major subsystems of an automobile and a brief overview of the automotive control systems to be described in detail in subsequent chapters"--</abstract>
+                <abstract xml:lang="de">"This engineering textbook is designed to introduce advanced control systems for vehicles, including advanced automotive concepts and the next generation of vehicles for ITS. For each automotive control problem considered, the authors emphasize the physics and underlying principles behind the control system concept and design. This is an exciting and rapidly developing field for which many articles and reports exist but no modern unifying text. An extensive list of references is provided at the end of each chapter for all the topics covered. It is currently the only textbook, including problems and examples, that that covers and integrates the topics of automotive powertrain control, vehicle control and intelligent transportation systems. The emphasis is on fundamental concepts and methods for automotive control systems, rather than the rapidly changing specific technologies. Many of the text examples, as well as the end-of-chapter problems, require the use of MATLAB and/or SIMULINK"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Ulsoy, Ali Galip</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Peng, Huei</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Çakmakci, Melih</contributor>
+                </contributor>
+            </contributors>
+            <responsible>A. Galip Ulsoy; Huei Peng; Melih Çakmakci</responsible>
+            <publicationInfo>
+                <issued>2012</issued>
+                <edition>1. publ.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Cambridge [u.a.]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="GB" />
+                    <publicationCountry code="US" />
+                    <publicationCountry code="AU" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Cambridge Univ. Press</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>26 cm</description>
+            <description>Ill.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausg. (MyiLibrary)</label>
+                <title>Automotive control systems</title>
+                <identifier type="ppn">165239334X</identifier>
+                <identifier type="isbn13">9781280685118</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.23</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4200</code>
+                </classification>
+                <classification classificationID="106421344" classificationName="bk">
+                    <code>50.23</code>
+                    <entries>
+                        <entry>Regelungstechnik, Steuerungstechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.25/8</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4250</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106414992" classificationName="bk">
+                    <code>55.21</code>
+                    <entries>
+                        <entry>Kraftfahrzeuge</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106410628" classificationName="bk">
+                    <code>52.20</code>
+                    <entries>
+                        <entry>Antriebstechnik, Getriebelehre</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>TEC000000</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL152.8</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mas</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Automobiles</subject>
+                </subject>
+                <subject id="4076594-5" type="gnd">
+                    <subject xml:lang="de">Regelungstechnik</subject>
+                </subject>
+                <subject id="7578670-9" type="gnd">
+                    <subject xml:lang="de">Motorregelung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Design and construction</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Adaptive control systems</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Control systems</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Intelligent transportation systems</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Motors</subject>
+                </subject>
+                <subject id="4073757-3" type="gnd">
+                    <subject xml:lang="de">Kraftfahrzeug</subject>
+                </subject>
+                <subject id="4142753-1" type="gnd">
+                    <subject xml:lang="de">Antriebsregelung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Automobiles</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Automatic control</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

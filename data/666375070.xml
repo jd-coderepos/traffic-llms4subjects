@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:666375070</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:666375070">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2011-08-19</databaseDate>
+            <changeDate>2023-03-24</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>666375070</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">666375070</identifier>
+                <identifier type="firstid">GBV:666375070</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">http://nbn-resolving.de/urn:nbn:de:hbz:466:2-584</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1394178484</identifier>
+                    <creationDate>2013-06-03</creationDate>
+                    <selectionKey>zdo</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online-Ressource (Online-Ressource)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Trajektorienplanung mittels Diskretisierung und kombinatorischer Optimierung : am Beispiel des autonomen Kreuzungsmanagements für Kraftfahrzeuge</title>
+            <alternativeTitles>
+                <alternative>Trajectory Planning by Means of Discretization and Combinatorial Optimization</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">In der vorliegenden Arbeit wird ein Verfahren vorgestellt, mit dem für niedrigdimensionale dynamische Systeme optimale und kollisionsfreie Trajektorien berechnet werden können. Im Rahmen der Optimierung können weiterhin unterschiedliche Zielgrößen berücksichtigt werden, die ihren Ausdruck allerdings in Form einer Wunsch- bzw. Soll-Trajektorie finden müssen. Die Modellierung erfolgt auf Basis einer systematischen Diskretisierung der prinzipiell kontinuierlichen Systeme und ihrer Umwelt, so dass Verfahren aus dem Bereich der kombinatorischen Optimierung verwendet werden können. Dieser Ansatz ermöglicht eine Abschätzung und Skalierung des Berechnungsaufwands, was wiederum eine gute Eignung für die Anwendungen unter Echtzeitbedingungen bedeutet. Das Verfahren wird am Beispiel des autonomen Kreuzungsmanagements eingeführt und bewertet: Für autonome Fahrzeuge, die als lineare dynamische Systeme 2. Ordnung modelliert werden, werden kollisionsfreie Trajektorien für die Überquerung einer Kreuzung bzw. eines beliebigen Verkehrsknotenpunktes berechnet. Bei der Berechnung werden Optimierungszielgrößen wie Dauer, Komfort und Kraftstoffverbrauch berücksichtigt. Prinzipiell kann das Verfahren auf beliebige gleichartige Anwendungen übertragen werden, etwa auf die Trajektorienplanung von Robotern mit gemeinsamem Arbeitsraum oder in einer unbekannten Umwelt.. - The thesis presents a procedure of computing optimal and collision-free trajectories for low-dimensioned dynamical systems. In the context of the optimization, different objectives can additionally be taken into account; these, however, have to be described in the shape of desired resp. reference trajectories. The modelling is effected on the basis of a systematic discretization of the systems, which are basically continuous ones, and their environment, thus enabling the use of methods from the domain of combinatorial optimization. This approach allows estimation and scaling of the computational effort and is thus well suited for applications under real-time conditions. The procedure is introduced and evaluated using the example of the autonomous intersection management: For autonomous vehicles, modelled as linear dynamical systems of 2nd order, collision-free trajectories are computed in view of their crossing an intersection resp. any desired traffic junction. The computation takes into account target values for the optimization, such as time, comfort, and fuel consumption. In principle, the procedure can be transferred to any desired application of a similar type, e.g., the trajectory planning of robots sharing the same workspace or within an unknown environment.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Bruns, Torsten</contributor>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Trächtler, Ansgar</contributor>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Meyer auf der Heide, Friedhelm</contributor>
+                </contributor>
+            </contributors>
+            <publicationInfo>
+                <issued>2011</issued>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Paderborn, Univ., Diss., 2011</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+                <publicationIDInfo>Tag der Verteidigung: 13.05.2011</publicationIDInfo>
+            </additionalDocumentInfo>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druckausg.</label>
+                <title>Trajektorienplanung mittels Diskretisierung und kombinatorischer Optimierung am Beispiel des autonomen Kreuzungsmanagements für Kraftfahrzeuge</title>
+                <identifier type="isbn13">9783942647182</identifier>
+                <identifier type="ppn">666239541</identifier>
+                <identifier type="isbn">3942647184</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="10642064X" classificationName="bk">
+                    <code>55.84</code>
+                    <entries>
+                        <entry>Straßenverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZQ 5255</code>
+                </classification>
+                <classification classificationID="106421344" classificationName="bk">
+                    <code>50.23</code>
+                    <entries>
+                        <entry>Regelungstechnik, Steuerungstechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>380</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 3100</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>388.31</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4267628-9" type="gnd">
+                    <subject xml:lang="de">Bahnplanung</subject>
+                </subject>
+                <subject id="4197651-4" type="gnd">
+                    <subject xml:lang="de">Straßenkreuzung</subject>
+                </subject>
+                <subject id="4057931-1" type="gnd">
+                    <subject xml:lang="de">Straßenverkehr</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Hardback</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://nbn-resolving.de/urn:nbn:de:hbz:466:2-584</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

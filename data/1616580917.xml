@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1616580917</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1616580917">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2015-06-15</databaseDate>
+            <changeDate>2023-02-18</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>1616580917</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1616580917</identifier>
+                <identifier type="firstid">BSZ:445742305</identifier>
+                <identifier type="isbn13">9781118752524</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/bowker/toc/9781118752524.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1546306536</identifier>
+                    <creationDate>2016-07-01</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 15 B 4633</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xvi, 400 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Electric Vehicle machines and drives : design, analysis and application</title>
+            <abstracts>
+                <abstract xml:lang="de">"A comprehensive reference that consolidates the research and development of electric vehicle machines and drives for electric and hybrid propulsion"--Provided by publisher</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Chau, K. T.</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1078440115</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>K.T. Chau (International Research Centre for Electric Vehicles, The University of Hong Kong)</responsible>
+            <publicationInfo>
+                <issued>2015</issued>
+                <publicationPlaces>
+                    <publicationPlace>Singapore</publicationPlace>
+                    <publicationPlace>[Piscataway, NJ]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="SG" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Wiley ; IEEE</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>Electric vehicle machines and drives</title>
+                <identifier type="ppn">876680872</identifier>
+                <identifier type="isbn13">9781118752555</identifier>
+            </related>
+            <related type="parallel">
+                <label>Online-Ausg.(Wiley Online Library)</label>
+                <title>Electric vehicle machines and drives</title>
+                <identifier type="ppn">1658810562</identifier>
+                <identifier type="isbn13">9781118752555</identifier>
+            </related>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>Electric Vehicle Machines and Drives</title>
+                <identifier type="ppn">1657951766</identifier>
+                <identifier type="isbn13">9781118752616</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>TL220</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4280</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4480</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.25/02</code>
+                </classification>
+                <classification classificationID="106418637" classificationName="bk">
+                    <code>53.33</code>
+                    <entries>
+                        <entry>Elektrische Maschinen und Antriebe</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4490</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Electric vehicles</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Electric power transmission</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Electric motors</subject>
+                </subject>
+                <subject id="7524499-8" type="gnd">
+                    <subject xml:lang="de">Hybridfahrzeug</subject>
+                </subject>
+                <subject id="4128418-5" type="gnd">
+                    <subject xml:lang="de">Hybridmotor</subject>
+                </subject>
+                <subject id="4014315-6" type="gnd">
+                    <subject xml:lang="de">Elektromotor</subject>
+                </subject>
+                <subject id="4014238-3" type="gnd">
+                    <subject xml:lang="de">Elektroantrieb</subject>
+                </subject>
+                <subject id="4151795-7" type="gnd">
+                    <subject xml:lang="de">Elektrofahrzeug</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

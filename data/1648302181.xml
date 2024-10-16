@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1648302181</identifier><datestamp>2024-06-14</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1648302181">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2009-08-26</databaseDate>
+            <changeDate>2024-04-20</changeDate>
+            <ftxCreationDate>2024-06-14</ftxCreationDate>
+            <documentID>1648302181</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1648302181</identifier>
+                <identifier type="doi">10.1007/978-3-540-88991-5</identifier>
+                <identifier type="firstid">BSZ:310017181</identifier>
+                <identifier type="isbn13">9783540889915</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="cover" type="url">https://swbplus.bsz-bw.de/bsz294357777cov.jpg</location>
+                <location subtype="preface" type="url">https://swbplus.bsz-bw.de/bsz294357777vor.htm</location>
+                <location subtype="toc" type="url">https://swbplus.bsz-bw.de/bsz294357777inh.htm</location>
+                <location subtype="miscellaneous" type="url">https://swbplus.bsz-bw.de/bsz294357777kap.htm</location>
+                <location subtype="fulltext" type="url">https://doi.org/10.1007/978-3-540-88991-5</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">204843294</identifier>
+                    <recallSign>OLR-SEB</recallSign>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2009-08-28</creationDate>
+                    <selectionKey>zesp</selectionKey>
+                    <loanIndicator>s</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online-Ressource (XVIII, 414 S. 142 Abb, online resource)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Produktionsleitsysteme in der Automobilfertigung</title>
+            <abstracts>
+                <abstract xml:lang="de">Überblick über die Automobilfertigung -- Modellierung von Fertigungsprozessen -- Einführung in Produktionsleitsysteme -- Teileidentifikation und Teileverfolgung -- #x00DC;berwachung von Fertigungseinrichtungen -- Unterstützung der Instandhaltung -- Prozessabsicherung -- Versorgung manueller Arbeitsplätze -- Versorgung automatischer Fertigungseinrichtungen -- Steuerung des Teileflusses -- Nacharbeitssteuerung -- Zertifizierung und Auslieferung -- Systemanforderungen -- Implementierung von Produktionsleitsystemen -- Der Betrieb von Produktionsleitsystemen.</abstract>
+                <abstract xml:lang="de">Das Buch zeigt wie die fertigungsnahe IT-Landschaft (Produktionsleittechnik) in der Automobilfertigung vom Presswerk bis zur Endmontage homogenisiert und damit effizienter gemacht werden kann. Beschrieben werden Motivationen für die Einführung von Produktionsleitsystemen und der mögliche ROI. Desweiteren werden Methoden für die Einführung, Prozesse, die in Produktionsleitsystemen abgebildet werden, Benutzerschnittstellen, IT- und Datenstrukturen erläutert. Diskutiert werden auch Basistechnologien in IT und Automatisierung und deren Einfluss auf die Auslegung von PLS. Dies ist das erste Buch, das dieses Thema speziell in der Automobilindustrie abdeckt.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Kropik, Markus</contributor>
+                </contributor>
+            </contributors>
+            <responsible>von Markus Kropik</responsible>
+            <publicationInfo>
+                <issued>2009</issued>
+                <publicationPlaces>
+                    <publicationPlace>Berlin, Heidelberg</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer-Verlag Berlin Heidelberg</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-2-SEB</identifier>
+                    <identifier type="collectioncode">ZDB-2-STI</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>VDI-Buch</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>SpringerLink</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>Bücher</title>
+                </journalInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Campusweiter Zugriff (Universität Hannover) - Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Keine Weitergabe an Dritte. Kein systematisches Downloaden durch Robots.</description>
+            <description>Erworben aus Studienbeiträgen</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druckausg.</label>
+                <title>Produktionsleitsysteme in der Automobilfertigung</title>
+                <identifier type="ppn">588218820</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-2-SEB</identifier>
+                <identifier type="collectioncode">ZDB-2-STI</identifier>
+            </related>
+            <related type="parent">
+                <title>VDI-Buch</title>
+            </related>
+            <related type="parent">
+                <title>SpringerLink</title>
+            </related>
+            <related type="parent">
+                <title>Bücher</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>TL278</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>L1-991</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4200</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.2549</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>370</code>
+                </classification>
+                <classification classificationID="181571323" classificationName="bk">
+                    <code>85.32</code>
+                    <entries>
+                        <entry>Beschaffung, Materialwirtschaft</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106403729" classificationName="bk">
+                    <code>85.35</code>
+                    <entries>
+                        <entry>Fertigung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.2340285</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>oek</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Engineering</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Information systems</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Engineering economics</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>System safety</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Engineering economy</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Business planning</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Application software</subject>
+                </subject>
+                <subject id="4165423-7" type="gnd">
+                    <subject xml:lang="de">Kraftfahrzeugbau</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Industrial safety</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Engineering economy</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Business logistics</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Business planning</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Quality control</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Reliability</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Organization</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">System safety</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Planning</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Business logistics</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Information systems</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Engineering</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Production management</subject>
+                </subject>
+                <subject id="4154148-0" type="gnd">
+                    <subject xml:lang="de">Fertigungsleitsystem</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Education</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://doi.org/10.1007/978-3-540-88991-5</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

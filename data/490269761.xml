@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:490269761</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:490269761">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2005-06-23</databaseDate>
+            <changeDate>2024-01-30</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>490269761</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">490269761</identifier>
+                <identifier type="firstid">GBV:490269761</identifier>
+            </identifiers>
+            <locations>
+                <location mimetype="application/pdf" subtype="fulltext" type="url">http://edok01.tib.uni-hannover.de/edoks/e01dd14/490269761.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">146502963X</identifier>
+                    <creationDate>2014-03-25</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>oa</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online-Ressource (PDF-Datei: 119 S., 3562 KB)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Analyse von Telemetriesignalen und Radar-Rückstreusignalen zur Rekonstruktion von Bahnstörungen interplanetarer Raumsonden am Beispiel der simulierten Abstiegsdynamik der Huygens-Sonde</title>
+            <abstracts>
+                <abstract xml:lang="de">Die Cassini/Huygens-Mission ist ein gemeinsames Unternehmen von NASA und ESA, mit dem Ziel, das Saturnsystem zu erkunden. Die vorliegende Arbeit ist im Rahmen des Doppler-Wind-Experiments durchgeführt worden. Das Ziel der Arbeit war eine Methode zur Ermittlung der Ruhelage und Amplitude der angesetzten Pendelbewegung der Huygens-Sonde während des Abstiegs auf dem Saturnmond Titan zu entwickeln. Die verfügbaren Daten sind die Dopplerfrequenzverschiebung sowie die Empfangsleistung des Telemetriesignals. Dazu kommt das Rückstreusignal des Radar-Höhenmessers. Mit den Informationen des Telemetriesignals wurden ein deterministischer Ansatz und ein stochastischer Ansatz entwickelt, um die Parameter der Pendelbewegung zu ermitteln, je nach dem, ob die Messdaten genügend Information über die Bewegung abliefern, oder, ob eine Periodizität der Bewegung vorhanden ist. Mit dem Rückstreusignal des Radar-Höhenmessers wurde ein interaktives Verfahren zusätzlich zu diesem Zweck entwickelt.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Wang, Yu</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">129873241</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>von Yu Wang</responsible>
+            <publicationInfo>
+                <issued>2004</issued>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Niedersächsische Staats- und Universitätsbibliothek</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Bochum, Univ., Diss., 2004</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc-dbn">
+                    <code>520</code>
+                </classification>
+                <classification classificationName="ssg">
+                    <code>16,12</code>
+                </classification>
+                <classification classificationID="181570416" classificationName="bk">
+                    <code>55.64</code>
+                    <entries>
+                        <entry>Raumfahrzeugführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>520</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4184655-2" type="gnd">
+                    <subject xml:lang="de">Telemetrie</subject>
+                </subject>
+                <subject id="4173653-9" type="gnd">
+                    <subject xml:lang="de">Pendelschwingung</subject>
+                </subject>
+                <subject id="4402067-3" type="gnd">
+                    <subject xml:lang="de">Cassini (Raumsonde)</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">default</property>
+            <property name="displaySubscriberAccess">http://edok01.tib.uni-hannover.de/edoks/e01dd14/490269761.pdf</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

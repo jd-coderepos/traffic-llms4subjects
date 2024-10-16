@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1015562345</identifier><datestamp>2024-06-28</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1015562345">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2018-03-02</databaseDate>
+            <changeDate>2023-01-08</changeDate>
+            <ftxCreationDate>2024-06-18</ftxCreationDate>
+            <documentID>1015562345</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1015562345</identifier>
+                <identifier type="firstid">BSZ:500364214</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://nbn-resolving.org/urn:nbn:de:bsz:105-qucosa-233262</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4539080997</identifier>
+                    <creationDate>2024-06-15</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (xv, 133 Blätter)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Learning continuous human-robot interactions from human-human demonstrations</title>
+            <abstracts>
+                <abstract xml:lang="de">In der vorliegenden Dissertation wurde ein datengetriebenes Verfahren zum maschinellen Lernen von Mensch-Roboter Interaktionen auf Basis von Mensch-Mensch Demonstrationen entwickelt. Während einer Trainingsphase werden Bewegungen zweier Interakteure mittels Motion Capture erfasst und in einem Zwei-Personen Interaktionsmodell gelernt. Zur Laufzeit wird das Modell sowohl zur Erkennung von Bewegungen des menschlichen Interaktionspartners als auch zur Generierung angepasster Roboterbewegungen eingesetzt. Die Leistungsfähigkeit des Ansatzes wird in drei komplexen Anwendungen evaluiert, die jeweils kontinuierliche Bewegungskoordination zwischen Mensch und Roboter erfordern. Das Ergebnis der Dissertation ist ein Lernverfahren, das intuitive, zielgerichtete und sichere Kollaboration mit Robotern ermöglicht.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Vogt, David</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1153349582</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>vorgelegt von M.Sc. David Dominic Vogt</responsible>
+            <publicationInfo>
+                <issued>2018</issued>
+                <publicationPlaces>
+                    <publicationPlace>Freiberg</publicationPlace>
+                </publicationPlaces>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2018</dateAccepted>
+                        <description>Dissertation, Technische Universität Bergakademie Freiberg</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+                <publicationIDInfo>Volltext: PDF</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Learning continuous human-robot interactions from human-human demonstrations</title>
+                <identifier type="ppn">1570185697</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc-dbn">
+                    <code>621.3</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.892</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4193754-5" type="gnd">
+                    <subject xml:lang="de">Maschinelles Lernen</subject>
+                </subject>
+                <subject id="4126026-0" type="gnd">
+                    <subject xml:lang="de">Modelllernen</subject>
+                </subject>
+                <subject id="4050208-9" type="gnd">
+                    <subject xml:lang="de">Roboter</subject>
+                </subject>
+                <subject id="4125909-9" type="gnd">
+                    <subject xml:lang="de">Mensch-Maschine-Kommunikation</subject>
+                </subject>
+                <subject id="1025494687" type="gnd">
+                    <subject xml:lang="de">Programmierung durch Vormachen</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://nbn-resolving.org/urn:nbn:de:bsz:105-qucosa-233262</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

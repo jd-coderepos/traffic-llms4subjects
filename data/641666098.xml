@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:641666098</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:641666098">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2010-12-14</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>641666098</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">641666098</identifier>
+                <identifier type="ean">9780230231733</identifier>
+                <identifier type="firstid">GBV:641666098</identifier>
+                <identifier type="isbn">023023173X</identifier>
+                <identifier type="isbn13">9780230231733</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/zbw/641666098.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1233782460</identifier>
+                    <creationDate>2012-06-22</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 11 B 4923</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">X, 174 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>The business of space : the next frontier of international competition</title>
+            <abstracts>
+                <abstract xml:lang="de">"This book looks at the space industry from a business perspective, with a focus on international competition. The space industry traces its origins to the middle of last century as a government/military domain and the author now looks at the ongoing evolution of space exploration and travel, and projects the future of the industry"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Brennan, Louis</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1112684832</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Vecchi, Alessandra</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Louis Brennan &amp; Alessandra Vecchi</responsible>
+            <publicationInfo>
+                <issued>2011</issued>
+                <edition>1. publ.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Basingstoke, Hampshire [u.a.]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="GB" />
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Palgrave Macmillan</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>cm</description>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Onlineausg. u.d.T.</label>
+                <title>The business of space</title>
+                <identifier type="ppn">165107996X</identifier>
+                <identifier type="isbn">023023173X</identifier>
+                <identifier type="isbn13">9780230231733</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420380" classificationName="bk">
+                    <code>83.32</code>
+                    <entries>
+                        <entry>Wettbewerb</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106410660" classificationName="bk">
+                    <code>55.88</code>
+                    <entries>
+                        <entry>Luftverkehr, Raumfahrt</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>BUS070000</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>TEC002000</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>QR 524</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>338.4/76294</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>HD9711.5.A2</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>oek</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="stw">
+                    <subject xml:lang="de">Luftfahrtindustrie</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Welt</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Competition, International</subject>
+                </subject>
+                <subject id="4048576-6" type="gnd">
+                    <subject xml:lang="de">Luft- und Raumfahrtindustrie</subject>
+                </subject>
+                <subject id="4027415-9" type="gnd">
+                    <subject xml:lang="de">Internationaler Wettbewerb</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Internationaler Wettbewerb</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Aerospace industries</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

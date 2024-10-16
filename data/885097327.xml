@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:885097327</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:885097327">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2017-04-26</databaseDate>
+            <changeDate>2024-05-10</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>885097327</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">885097327</identifier>
+                <identifier type="doi">10.15480/882.1375</identifier>
+                <identifier type="firstid">GBV:885097327</identifier>
+                <identifier type="isbn13">9783892207009</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">http://nbn-resolving.de/urn:nbn:de:gbv:830-88215829</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1693620014</identifier>
+                    <creationDate>2017-06-08</creationDate>
+                    <selectionKey>zdt</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (xii, 166 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Efficient simulation of ship maneuvers in waves</title>
+            <abstracts>
+                <abstract xml:lang="de">This thesis reports on the development and the subsequent comparison of two numerical models to simulate the maneuvering motion of ships in waves. A two-time scale model is introduced that divides the basic motion equations into two groups - the zero-frequency maneuvering motion and the high-frequency wave-induced motion. Each group is solved separately and certain parameters are exchanged. Additionally, a unified theory is presented. It is based on the impulse-response function, in which the retardation functions are built up for the entire motion frequency range and integrated during the time simulation over the elapsed time. A validation with experimental data from the literature is conducted with both methods.</abstract>
+                <abstract xml:lang="de">Gegenstand der Dissertation ist die Entwicklung und der Vergleich zweier numerischer Modelle zur Simulation der Manövrierbewegungen von Schiffen in Wellen. Das eine Modell basiert auf einem Zwei-Zeitskalen-Ansatz, welches die grundlegenden Bewegungsgleichungen in zwei Gruppen aufteilt – die nicht-frequente Manövrierbewegung und die höherfrequente, welleninduzierte Bewegung. Beide Gruppen werden einzeln gelöst und gewisse Parameter werden ausgetauscht. Das andere Modell beschreibt eine vereinheitlichte Theorie. Es basiert auf der Impulsantwortfunktion in welcher die Retardationsfunktionen für den gesamten Bereich an Bewegungsfrequenzen gebildet und während der Zeitsimulation über die Zeit integriert werden. Eine Validierung mit experimentellen Daten aus der Literatur wird für beide Methoden durchgeführt.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="degree-granting-institution">
+                    <type>degree-granting-institution</type>
+                    <name>Technische Universität Hamburg-Harburg</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2067664-5</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+                <corporateCreator>
+                    <name>Technische Universität Hamburg-Harburg, Institut für Fluiddynamik und Schiffstheorie</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">10194305-2</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Schoop-Zipfel, Jochen</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1130662004</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Abdel-Maksoud, Moustafa</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">140779922</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor>
+                    <contributor>Krüger, Stefan</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">140779663</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>von Karl Jochen Schoop-Zipfel aus Hamburg ; 1. Gutachter: Prof. Dr.-Ing. Moustafa Abdel-Maksoud, 2. Gutachter: Prof. Dr.-Ing. Stefan Krüger</responsible>
+            <publicationInfo>
+                <issued>2017</issued>
+                <publicationPlaces>
+                    <publicationPlace>Hamburg</publicationPlace>
+                </publicationPlaces>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>Schriftenreihe Schiffbau</title>
+                    <volumeNumber>700</volumeNumber>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2016</dateAccepted>
+                        <description>Dissertation, Technische Universität Hamburg-Harburg</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Efficient simulation of ship maneuvers in waves</title>
+                <identifier type="ppn">886617227</identifier>
+                <identifier type="isbn13">9783892207009</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+            <related type="parent">
+                <title>Schriftenreihe Schiffbau</title>
+                <volumeNumber>700</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>600: Technik</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="181569973" classificationName="bk">
+                    <code>55.44</code>
+                    <entries>
+                        <entry>Schiffsführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 6655</code>
+                </classification>
+                <classification classificationID="106413783" classificationName="bk">
+                    <code>50.33</code>
+                    <entries>
+                        <entry>Technische Strömungsmechanik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Maneuvering</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Manövrieren</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Unified theory</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>vereinheitlichte Theorie</subject>
+                </subject>
+                <subject id="4026302-2" type="gnd">
+                    <subject xml:lang="de">Hydrodynamik</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Seegang</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Waves</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Zwei Zeitskalen</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Impulse response function</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Impulsantwortfunktion</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Two-time scale</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://nbn-resolving.de/urn:nbn:de:gbv:830-88215829</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

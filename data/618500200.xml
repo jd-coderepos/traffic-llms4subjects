@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:618500200</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:618500200">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2010-02-11</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>618500200</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">618500200</identifier>
+                <identifier type="firstid">BSZ:318088819</identifier>
+                <identifier type="isbn">1600867189</identifier>
+                <identifier type="isbn13">9781600867187</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/bowker/toc/9781600867187.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1322644098</identifier>
+                    <creationDate>2012-08-29</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">L elt 368</location>
+                    <location type="tibShelfmark">Z 1279(232),3</location>
+                    <loanIndicator>b</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XXVII, 852 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Fundamentals of Kalman filtering : a practical approach</title>
+            <abstracts>
+                <abstract xml:lang="de">Numerical basics -- Method of least squares -- Recursive least-squares filtering -- Polynomial Kalman filters -- Kalman filters in a nonpolynomial world -- Continuous polynomial Kalman filter -- Extended Kalman filtering -- Drag and falling object -- Cannon-launched projectile tracking problem -- Tracking a sine wave -- Satellite navigation -- Biases -- Linearized Kalman filtering -- Miscellaneous topics -- Fading-memory filter -- Assorted techniques for improving Kalman-filter performance -- Fixed-memory filters -- Chain-rule and least-squares filtering -- Filter bank approach to tracking a sine wave -- Appendix A: Fundamentals of Kalman-filtering software -- Appendix B: Key formula and concept summary</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Zarchan, Paul</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Musoff, Howard</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Paul Zarchan; Howard Musoff</responsible>
+            <publicationInfo>
+                <issued>2009</issued>
+                <edition>3. ed.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Reston, Va.</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>American Institute of Aeronautics and Astronautics</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Progress in Astronautics and Aeronautics</title>
+                    <volumeNumber>232</volumeNumber>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausg.</label>
+                <title>Fundamentals of Kalman Filtering</title>
+                <identifier type="ppn">1658473256</identifier>
+                <identifier type="isbn13">9781600867194</identifier>
+            </related>
+            <related type="parent">
+                <title>Progress in Astronautics and Aeronautics</title>
+                <volumeNumber>232</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>QA402.3</code>
+                </classification>
+                <classification classificationID="106408070" classificationName="bk">
+                    <code>31.70</code>
+                    <entries>
+                        <entry>Wahrscheinlichkeitsrechnung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL507</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>SK 830</code>
+                </classification>
+                <classification classificationName="ssg">
+                    <code>16,12</code>
+                </classification>
+                <classification classificationID="181570416" classificationName="bk">
+                    <code>55.64</code>
+                    <entries>
+                        <entry>Raumfahrzeugführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>515/.252</code>
+                </classification>
+                <classification classificationID="106418122" classificationName="bk">
+                    <code>54.51</code>
+                    <entries>
+                        <entry>Programmiermethodik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>SK 850</code>
+                </classification>
+                <classification classificationID="10641870X" classificationName="bk">
+                    <code>53.71</code>
+                    <entries>
+                        <entry>Theoretische Nachrichtentechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106407643" classificationName="bk">
+                    <code>31.24</code>
+                    <entries>
+                        <entry>Körper, Polynome</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mat</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>inf</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Kalman filtering</subject>
+                </subject>
+                <subject id="4130759-8" type="gnd">
+                    <subject xml:lang="de">Kalman-Filter</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Aeronautics</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Control theory</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

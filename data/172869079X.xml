@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:172869079X</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:172869079X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2020-09-02</databaseDate>
+            <changeDate>2023-01-08</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>172869079X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">172869079X</identifier>
+                <identifier type="firstid">DNB:1215293429</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://nbn-resolving.de/urn:nbn:de:gbv:715-oops-47304</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3782670868</identifier>
+                    <creationDate>2020-10-20</creationDate>
+                    <selectionKey>zdt</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (XVIII, 143 Seiten, 9 MB)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Simulation-based testing of cooperative and automated vehicles</title>
+            <alternativeTitles>
+                <alternative>Simulationsbasiertes Testen kooperativer und automatisierter Fahrzeuge</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Für die Automobilindustrie bestehen aktuell in den Bereichen des Testens und der Freigabe kooperativer und automatisierter Fahrzeuge große Herausforderungen. In dieser Dissertation wird eine generische simulationsbasierte Werkzeugkette vorgestellt, welche das entwicklungsbegleitende Testen unterstützt sowie die in direkter Wechselwirkung stehenden Effekte von diesen Fahrzeugen und Verkehrssystemen berücksichtigt. Die Methodik ermöglicht die Identifikation und Prüfung kritischer Szenarien, welche bereits entwicklungsbegleitend untersucht werden können. Der Prüf- und Identifikationsprozess wird durch ein gekoppeltes Simulationsframework umgesetzt. Eine Kombination aus einer Fahrdynamiksimulation, welche einen digitalen Prototyp enthält, einer Verkehrssimulation, die andere Verkehrsteilnehmer simuliert und einer Kooperationssimulation, welche kooperative Funktionen beinhaltet, wird genutzt, um eine umfassende Simulationsumgebung zu etablieren. Zuletzt wird eine ergänzende neue Methode, welche die Kopplung eines realen Versuchsträgers mit der vorher genannten Verkehrssimulation ermöglicht, vorgestellt.</abstract>
+                <abstract xml:lang="de">The automotive industry faces the major challenge of testing and releasing cooperative and automated vehicles. In order to support development accompanying tests while simultaneously considering the effects of cooperative and automated vehicles on traffic systems and vice versa, a generic simulation-based toolchain is proposed in this dissertation. The methodology allows for assessing and identifying critical scenarios that can be tested even during early development stages. A co-simulation framework is proposed for the verification and identification process. Therefore, a comprehensive simulation environment that combines a vehicle dynamics simulation, which consists of a digital prototype, a traffic simulation providing other test participants, and a cooperation simulation that includes cooperative features, is established. Finally, a novel approach coupling a real-world prototype with the afore mentioned traffic simulation, referred to as Prototype-in-the-Loop, is proposed.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Hallerbach, Sven</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1214676731</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Köster, Frank</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1119175623</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Sax, Eric</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">122040988</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>von Herrn Sven Hallerbach ; Gutachter: Prof. Dr. Frank Köster, Prof. Dr. Eric Sax</responsible>
+            <publicationInfo>
+                <issued>2020</issued>
+                <publicationPlaces>
+                    <publicationPlace>Oldenburg</publicationPlace>
+                </publicationPlaces>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2020</dateAccepted>
+                        <description>Dissertation, Carl von Ossietzky Universität Oldenburg</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Simulation-based testing of cooperative and automated vehicles</title>
+                <identifier type="ppn">1725706873</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.276</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4194567-0" type="gnd">
+                    <subject xml:lang="de">Automatisierungstechnik</subject>
+                </subject>
+                <subject id="1144885965" type="gnd">
+                    <subject xml:lang="de">Kooperatives System</subject>
+                </subject>
+                <subject id="4016320-9" type="gnd">
+                    <subject xml:lang="de">Fahrzeug</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://nbn-resolving.de/urn:nbn:de:gbv:715-oops-47304</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

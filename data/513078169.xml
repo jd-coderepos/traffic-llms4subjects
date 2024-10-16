@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:513078169</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:513078169">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2006-06-13</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>513078169</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">513078169</identifier>
+                <identifier type="ean">9783899594768</identifier>
+                <identifier type="firstid">GBV:513078169</identifier>
+                <identifier type="isbn">3899594762</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/ilmenau/toc/513078169.PDF</location>
+                <location subtype="description" type="url">http://www.gbv.de/dms/ilmenau/abs/513078169stabr.txt</location>
+                <location subtype="miscellaneous" type="url">http://www.gbv.de/dms/ilmenau/abs/513078169stabr.txt</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">770678203</identifier>
+                    <creationDate>2006-07-06</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">U 06 B 957</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XVIII, 126 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Adaptive Fahrdynamikregelung unter Nutzung von Fahrspurinformationen</title>
+            <abstracts>
+                <abstract xml:lang="de">In der vorliegenden Arbeit wird zunächst anhand von Fahrversuchen das Fahrerverhalten in kritischen Fahrsituationen analysiert und gezeigt, dass Durchschnittsfahrer bei unerwarteten Bewegungszuständen des Fahrzeugs hinsichtlich der Stabilisierung oft erheblich unangemessenen lenken. Die den konventionellen Fahrdynamikregelungssystemen, wie z. B. ESP, zugrunde liegende Annahme, dass sich der Richtungswunsch des Fahrers und damit die Sollwerte für die Fahrzeugbewegungsgrößen im Wesentlichen aus dem am Lenkrad vorgegebenen Lenkwinkel ermitteln lassen, ist dann nicht erfüllt. Mit dem vorgestellten Systemkonzept einer Fahrdynamikregelung mit Lenkeingriffen wird diese Abhängigkeit vom Fahrerlenkwinkel durch die zusätzliche Nutzung einer videobasierten Fahrspurerkennung überwunden. Um auch im Falle unangemessener Fahrerreaktionen nicht nur die Gierbewegung, sondern auch die Relativbewegung zur Fahrspur zu stabilisieren, wird der Fahrerlenkwinkel durch additiv überlagerte Lenkwinkeleingriffe korrigiert. Der erforderliche Zusatzlenkwinkel ergibt sich dabei aus einer situationsabhängigen Koordination des Fahrerlenkwinkels mit einem der Fahrsituation angemessenen Lenkwinkel, der mit Hilfe eines adaptiven Zustandsreglers ermittelt wird. Dem Reglerentwurf liegt eine nichtlineare Modellierung der Fahrzeugbewegung zugrunde, auf der auch das integrierte Schätzverfahren zur Bestimmung des Fahrzeugbewegungszustands, der Fahrspurparameter und des Fahrbahnreibwerts basiert. Die Wirksamkeit des Regelungssystems und der gegenüber konventionellen Ansätzen erzielbare Zusatznutzen werden abschließend anhand vergleichender Simulationen des Gesamtsystems aus Fahrer, Fahrzeug und Fahrdynamikregelung gezeigt. Das dabei eingesetzte Fahrermodell bildet das in Fahrversuchen beobachtete Lenkverhalten nach und modelliert die verzögerte und überzogene Reaktion eines überforderten Fahrers auf ein unerwartetes Fahrzeugverhalten. Die Simulationsergebnisse zeigen, dass das neue Regelungskonzept bei unangemessenem Fahrerlenkverhalten ein erhebliches Potenzial zur Vermeidung von Unfällen durch unbeabsichtigtes Verlassen der Fahrspur aufweist.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Stabrey, Stephan</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">13175324X</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor>
+                    <contributor>Bertram, Torsten</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">130009210</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Trächtler, Ansgar</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Witte, Hartmut</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">130008338</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Stephan Stabrey</responsible>
+            <publicationInfo>
+                <issued>2006</issued>
+                <publicationPlaces>
+                    <publicationPlace>Tönning</publicationPlace>
+                    <publicationPlace>Lübeck</publicationPlace>
+                    <publicationPlace>Marburg</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Der Andere Verl.</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Zugl.: Ilmenau, Techn. Univ., Diss., 2006</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>21 cm</description>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 5220</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4016278-3" type="gnd">
+                    <subject xml:lang="de">Fahrdynamik</subject>
+                </subject>
+                <subject id="4170297-9" type="gnd">
+                    <subject xml:lang="de">Modellierung</subject>
+                </subject>
+                <subject id="4016310-6" type="gnd">
+                    <subject xml:lang="de">Fahrstreifen</subject>
+                </subject>
+                <subject id="4062962-4" type="gnd">
+                    <subject xml:lang="de">Verkehrssicherheit</subject>
+                </subject>
+                <subject id="4167366-9" type="gnd">
+                    <subject xml:lang="de">Lenkung</subject>
+                </subject>
+                <subject id="4000457-0" type="gnd">
+                    <subject xml:lang="de">Adaptivregelung</subject>
+                </subject>
+                <subject id="4134712-2" type="gnd">
+                    <subject xml:lang="de">Regelungssystem</subject>
+                </subject>
+                <subject id="4132647-7" type="gnd">
+                    <subject xml:lang="de">Zustandsraum</subject>
+                </subject>
+                <subject id="4136080-1" type="gnd">
+                    <subject xml:lang="de">Videokamera</subject>
+                </subject>
+                <subject id="4127859-8" type="gnd">
+                    <subject xml:lang="de">Nichtlineares mathematisches Modell</subject>
+                </subject>
+                <subject id="4622983-8" type="gnd">
+                    <subject xml:lang="de">Fahrerassistenzsystem</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

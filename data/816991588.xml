@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:816991588</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:816991588">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2015-02-02</databaseDate>
+            <changeDate>2024-04-22</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>816991588</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">816991588</identifier>
+                <identifier type="firstid">GBV:816991588</identifier>
+            </identifiers>
+            <locations>
+                <location mimetype="application/pdf" subtype="fulltext" type="url">http://edok01.tib.uni-hannover.de/edoks/e01mr01/816991588.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1546447652</identifier>
+                    <creationDate>2015-07-14</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>oa</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-89</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">Online-Ressource (PDF-Datei: VII, 70 S., 7,14 MB)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Model-based engineering of an automotive adaptive exterior lighting system : realistic example specifications of behavioral requirements and functional design</title>
+            <abstracts>
+                <abstract xml:lang="de">Model-based engineering is a well-established approach to cope with the complexity of today's embedded systems. Furthermore, model-based engineering can address industry needs for highly automated development solutions to foster correctness of safety-critical systems. In contrast, there is a vital lack of accessible specification documents for researchers for evaluation purposes. Evaluation of proposed engineering methods often relies on academic examples, automatically created unrealistic artificial models, or simple industrial specification excerpts. This research report aims at supporting researchers with model-based specifications of a real-world system on a competitive level of complexity. Therefore, a model-based specification of an Adaptive Exterior Lighting System (ELS) is presented that is part of an Automotive System Cluster (ASC). An ELS provides fundamental and additional functionalities for the well-known turn signal and low / high beam headlights. The specification documents the behavioral requirements and the functional design of the ELS, which are important artifacts in function-centered engineering. As modeling languages ITU Message Sequence Charts, Function Network, and Function Behavior Diagrams are used.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor>
+                    <contributor>Föcker, Felix</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Houdek, Frank</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">121710211</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor>
+                    <contributor>Daun, Marian</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1035793725</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor>
+                    <contributor>Weyer, Thorsten</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1011153866</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Felix Föcker; Frank Houdek; Marian Daun; Thorsten Weyer</responsible>
+            <publicationInfo>
+                <issued>2015</issued>
+                <publicationPlaces>
+                    <publicationPlace>Essen</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>ICB</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>ICB-research report</title>
+                    <volumeNumber>64</volumeNumber>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druckausg.</label>
+                <title>Model-based engineering of an automotive adaptive exterior lighting system</title>
+                <identifier type="ppn">823017346</identifier>
+            </related>
+            <related type="parent">
+                <title>ICB-research report</title>
+                <volumeNumber>64</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106418882" classificationName="bk">
+                    <code>54.52</code>
+                    <entries>
+                        <entry>Software engineering</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106418653" classificationName="bk">
+                    <code>53.38</code>
+                    <entries>
+                        <entry>Lichttechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>inf</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="stw">
+                    <subject xml:lang="de">Programmiersprache</subject>
+                </subject>
+                <subject id="4140467-1" type="gnd">
+                    <subject xml:lang="de">Kraftfahrzeugbeleuchtung</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Kfz-Industrie</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Dokumentation</subject>
+                </subject>
+                <subject id="4832365-2" type="gnd">
+                    <subject xml:lang="de">Modellgetriebene Entwicklung</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Produktentwicklung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">default</property>
+            <property name="displaySubscriberAccess">http://edok01.tib.uni-hannover.de/edoks/e01mr01/816991588.pdf</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

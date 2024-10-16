@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1860166822</identifier><datestamp>2024-06-14</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1860166822">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2023-09-21</databaseDate>
+            <changeDate>2024-01-19</changeDate>
+            <ftxCreationDate>2024-06-14</ftxCreationDate>
+            <documentID>1860166822</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1860166822</identifier>
+                <identifier type="firstid">KXP:1860166822</identifier>
+                <identifier type="isbn13">9783031248115</identifier>
+                <identifier type="isbn13">9783031248146</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1860166822.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4380146499</identifier>
+                    <creationDate>2023-09-29</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RS 6346(200)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xiv, 399 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Modeling and optimization in space engineering : new concepts and approaches</title>
+            <abstracts>
+                <abstract xml:lang="de">This volume consists of 14 contributed chapters written by leading experts, offering in-depth discussions of the mathematical modeling and algorithmic aspects for tackling a range of space engineering applications. This book will be of interest to researchers and practitioners working in the field of space engineering. Since it offers an in-depth exposition of the mathematical modelling, algorithmic and numerical solution aspects of the topics covered, the book will also be useful to aerospace engineering graduates and post-graduate students who wish to expand their knowledge by studying real-world applications and challenges that they will encounter in their profession. Readers will obtain a broad overview of some of the most challenging space engineering operational scenarios of today and tomorrow: this will be useful for managers in the aerospace field, as well as in other industrial sectors. The contributed chapters are mainly focused on space engineering practice. Researchers and practitioners in mathematical systems modelling, operations research, optimization, and optimal control will also benefit from the case studies presented in this book. The model development and optimization approaches discussed can be extended towards other application areas that are not directly related to space engineering. Therefore, the book can be a useful reference to assist in the development of new modelling and optimization applications.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Fasano, Giorgio</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1191199665</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Pintér, János D.</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1192712978</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Giorgio Fasano, János D. Pintér, editors</responsible>
+            <publicationInfo>
+                <issued>2023</issued>
+                <publicationPlaces>
+                    <publicationPlace>Cham</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="CH" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Springer optimization and its applications</title>
+                    <volumeNumber>Volume 200</volumeNumber>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>Modeling and Optimization in Space Engineering</title>
+                <identifier type="ppn">1844088812</identifier>
+            </related>
+            <related type="parent">
+                <title>Springer optimization and its applications</title>
+                <volumeNumber>Volume 200</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106408194" classificationName="bk">
+                    <code>31.76</code>
+                    <entries>
+                        <entry>Numerische Mathematik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>515.64</code>
+                </classification>
+                <classification classificationID="106410334" classificationName="bk">
+                    <code>55.60</code>
+                    <entries>
+                        <entry>Raumfahrttechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>519.6</code>
+                </classification>
+                <classification classificationID="106419005" classificationName="bk">
+                    <code>31.80</code>
+                    <entries>
+                        <entry>Angewandte Mathematik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mat</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Artificial intelligence.</subject>
+                </subject>
+                <subject id="4043664-0" type="gnd">
+                    <subject xml:lang="de">Optimierung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Aerospace engineering.</subject>
+                </subject>
+                <subject id="7651795-0" type="gnd">
+                    <subject xml:lang="de">Mathematische Modellierung</subject>
+                </subject>
+                <subject id="4177061-4" type="gnd">
+                    <subject xml:lang="de">Raumfahrttechnik</subject>
+                </subject>
+                <subject id="4143246-0" type="gnd">
+                    <subject xml:lang="de">Astrodynamik</subject>
+                </subject>
+                <subject id="4121428-6" type="gnd">
+                    <subject xml:lang="de">Optimale Kontrolle</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Management science.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Mathematical optimization.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Calculus of variations.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Operations research.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Astronautics.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Dynamical systems.</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:614139783</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:614139783">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2009-12-02</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>614139783</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">614139783</identifier>
+                <identifier type="ean">9783625128007</identifier>
+                <identifier type="firstid">DNB:99846287X</identifier>
+                <identifier type="isbn13">9783625128007</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://d-nb.info/99846287X/04</location>
+                <location subtype="description" type="url">http://deposit.d-nb.de/cgi-bin/dokserv?id=3382990&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1111537291</identifier>
+                    <creationDate>2011-08-15</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 10 B 1333</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">480 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>1001 Oldtimer : die berühmtesten Modelle von 1885 bis 1975</title>
+            <alternativeTitles>
+                <alternative>Tausendundein Oldtimer</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Kompakte, nach Epochen der Automobilgeschichte gegliederte Übersicht über Oldtimer aus aller Welt; mit technischen Daten und zahlreichen Fotos. (LK/N: Pleuß)</abstract>
+                <abstract xml:lang="de">Nach "Handbuch Oldtimer" (BA 9/09) jetzt ein kompakter Überblick vom gleichen Autor, der gleich ca. 1.000 Modelle in systematischer Abfolge nach Epochen der Automobilgeschichte (von 1885 bis 1975) vorstellt. Ist innerhalb der Epochen nach Ländern geordnet und enthält knappe, gedrängte Textbeschreibungen der Modelle sowie technische Daten (etwas spärlich) und kleinformatige Fotos (schwarz-weiß und farbig) sowie ein Fahrzeugregister im Anhang. Der Band ist vom Text her ("brillante Farbfotografien", "die berühmtesten Modelle ...") etwas vollmundig angelegt, bietet aber für das Gebotene viel Information. Kein Schauband wie "Das große Buch der Oldtimer" (BA 7/95), eher ein Kompaktnachschlagewerk zu einem günstigen Preis. (2) (LK/N: Pleuß)</abstract>
+            </abstracts>
+            <contributors>
+                <contributor>
+                    <contributor>Lintelmann, Reinhard</contributor>
+                </contributor>
+            </contributors>
+            <responsible>[Autor: Reinhard Lintelmann]</responsible>
+            <publicationInfo>
+                <issued>2010</issued>
+                <publicationPlaces>
+                    <publicationPlace>Köln</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>NGV</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>20 cm</description>
+            <description>zahlr. Ill</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.22209</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte 1885-1975</subject>
+                </subject>
+                <subject id="4138307-2" type="gnd">
+                    <subject xml:lang="de">Oldtimer</subject>
+                </subject>
+                <subject id="4076001-7" type="gnd">
+                    <subject xml:lang="de">Personenkraftwagen</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

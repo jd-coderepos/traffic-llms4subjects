@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:171745264</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:171745264">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1994-11-21</databaseDate>
+            <changeDate>2024-03-28</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>171745264</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">171745264</identifier>
+                <identifier type="firstid">GBV:171745264</identifier>
+                <identifier type="isbn">3880641595</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/hebis-darmstadt/toc/32036620.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">151309930</identifier>
+                    <creationDate>1995-10-11</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">T 95 B 5416</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">558 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Technologie des Flugzeuges</title>
+            <abstracts>
+                <abstract xml:lang="de">Keine Typenkunde, sondern Lehrbuch über Bau und Konstruktion, Werkstoffe und Fahrverhalten des Flugzeugs. Erfordert allgemeine Kenntnisse der Metallbearbeitung und wendet sich an Auszubildende und Praktiker luftfahrttechnischer Berufe. Elementar im Ansatz und stellenweise auch für Laien interessant, aber eng gedruckt und sparsam bebildert. Aktuelle Ergänzung zu E. Götsch (BA 2/81, 417), der thematisch weiter, und zu H. Schneider (BA 3/80, 484), der thematisch enger gefaßt ist. Da das Thema gefragt ist und aktuelle Vergleichsliteratur fehlt, kommt eine breitere Empfehlung in Frage. (2) (LK/N: Pleuß)</abstract>
+            </abstracts>
+            <contributors>
+                <contributor>
+                    <contributor>Engmann, Klaus</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Klaus Engmann (Hrsg.)</responsible>
+            <publicationInfo>
+                <issued>1994</issued>
+                <publicationPlaces>
+                    <publicationPlace>Alsbach/Bergstr.</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Leuchtturm-Verl.</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>22 cm</description>
+            <description>Ill., graph. Darst</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>24</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4364462-4" type="gnd">
+                    <subject xml:lang="de">Flugtriebwerkmechaniker</subject>
+                </subject>
+                <subject id="4154782-2" type="gnd">
+                    <subject xml:lang="de">Flugzeugbau</subject>
+                </subject>
+                <subject id="4005935-2" type="gnd">
+                    <subject xml:lang="de">Berufsschule</subject>
+                </subject>
+                <subject id="4133321-4" type="gnd">
+                    <subject xml:lang="de">Fluggerätbauer</subject>
+                </subject>
+                <subject id="4361833-9" type="gnd">
+                    <subject xml:lang="de">Fluggerätmechaniker</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

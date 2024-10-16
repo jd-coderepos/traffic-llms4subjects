@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:66934673X</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:66934673X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2011-10-05</databaseDate>
+            <changeDate>2023-04-07</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>66934673X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">66934673X</identifier>
+                <identifier type="doi">10.1007/978-1-4471-2245-6</identifier>
+                <identifier type="firstid">GBV:66934673X</identifier>
+                <identifier type="isbn13">9781447122456</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">http://dx.doi.org/10.1007/978-1-4471-2245-6</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1271814765</identifier>
+                    <recallSign>OLR-SEB</recallSign>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2011-10-11</creationDate>
+                    <selectionKey>zesp</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online-Ressource</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Traffic-Sign Recognition Systems</title>
+            <abstracts>
+                <abstract xml:lang="de">Petia Radeva</abstract>
+                <abstract xml:lang="de">This work presents a full generic approach to the detection and recognition of traffic signs. The approach is based on the latest computer vision methods for object detection, and on powerful methods for multiclass classification. The challenge was to robustly detect a set of different sign classes in real time, and to classify each detected sign into a large, extensible set of classes. To address this challenge, several state-of-the-art methods were developed that can be used for different recognition problems. Following an introduction to the problems of traffic sign detection and categoriza</abstract>
+            </abstracts>
+            <contributors>
+                <contributor>
+                    <contributor>Escalera, Sergio</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Baró, Xavier</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Pujol, Oriol</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Vitrià, Jordi</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Radeva, Petia</contributor>
+                </contributor>
+            </contributors>
+            <responsible>by Sergio Escalera, Xavier Baró, Oriol Pujol, Jordi Vitrià, Petia Radeva</responsible>
+            <publicationInfo>
+                <issued>2011</issued>
+                <publicationPlaces>
+                    <publicationPlace>London</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Sergio Escalera</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-2-SCS</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>SpringerBriefs in Computer Science</title>
+                </journalInfo>
+                <publicationIDInfo>Includes bibliographical references</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>v.: digital</description>
+            <description>Campusweiter Zugriff (Universität Hannover). - Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Keine Weitergabe an Dritte. Kein systematisches Downloaden durch Robots.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-2-SCS</identifier>
+            </related>
+            <related type="parent">
+                <title>SpringerBriefs in Computer Science</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>TE228</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ST 330</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>006.37</code>
+                </classification>
+                <classification classificationID="181570424" classificationName="bk">
+                    <code>55.24</code>
+                    <entries>
+                        <entry>Fahrzeugführung, Fahrtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="10641030X" classificationName="bk">
+                    <code>54.74</code>
+                    <entries>
+                        <entry>Maschinelles Sehen</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>inf</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Computer science</subject>
+                </subject>
+                <subject id="4187829-2" type="gnd">
+                    <subject xml:lang="de">Verkehrssignalanlage</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Computer vision</subject>
+                </subject>
+                <subject id="4040936-3" type="gnd">
+                    <subject xml:lang="de">Mustererkennung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://dx.doi.org/10.1007/978-1-4471-2245-6</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

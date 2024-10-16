@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:799817058</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:799817058">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2014-11-04</databaseDate>
+            <changeDate>2021-02-18</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>799817058</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">799817058</identifier>
+                <identifier type="firstid">GBV:799817058</identifier>
+                <identifier type="isbn">1619542099</identifier>
+                <identifier type="isbn13">9781619542099</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/799817058.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1516782399</identifier>
+                    <creationDate>2016-04-08</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 16 B 837</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XVI, 633 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Airport management</title>
+            <abstracts>
+                <abstract xml:lang="de">"Airport Management is an up-to-date and industry-relevant textbook written by an experienced airport administrator. With more than ten years of airport experience, Dr. C. Daniel Prather, A.A.E, CAM, has developed a practical text designed to provide useful insight into the management and operation of airports. The textbook presents insight into the history and structure of airports; air traffic, capacity and delay; planning; design and construction; environmental; operations; maintenance; safety and security; marketing; governmental, legal, and public relations; properties, contracts, and commercial development; financial management; funding and financial impacts; and future challenges and opportunities. Illustrated throughout, each chapter contains an objectives, key terms, questions for review and discussion, and suggested readings. Case studies, glossary and index included. Written in an easy-to-read format, also included is a comprehensive introduction to this career as well as useful scenarios, case studies, and extensive definitions. These practical features will equip readers with real-world insight in the fields of airport management and better prepare them as airport professionals to solve contemporary issues airport managers face on a regular basis while on the job</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Prather, C. Daniel</contributor>
+                </contributor>
+            </contributors>
+            <responsible>C. Daniel Prather, Ph.D., A.A.E., CAM</responsible>
+            <publicationInfo>
+                <issued>2015</issued>
+                <publicationPlaces>
+                    <publicationPlace>Newcastle, Washington</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>ASA, Aviation Supplies &amp; Academics</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>Illustrationen</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106410660" classificationName="bk">
+                    <code>55.88</code>
+                    <entries>
+                        <entry>Luftverkehr, Raumfahrt</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL725.3.M2</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>387.7/36068</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4154752-4" type="gnd">
+                    <subject xml:lang="de">Flughafen</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Airports</subject>
+                </subject>
+                <subject id="4037278-9" type="gnd">
+                    <subject xml:lang="de">Management</subject>
+                </subject>
+                <subject id="4113586-6" type="gnd">
+                    <subject xml:lang="de">Flughafenbetrieb</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

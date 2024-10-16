@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:497563983</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:497563983">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2005-08-31</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>497563983</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">497563983</identifier>
+                <identifier type="firstid">GBV:497563983</identifier>
+                <identifier type="isbn">3832242961</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="description" type="url">http://www.gbv.de/dms/ilmenau/abs/497563983duenn.txt</location>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/497563983.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">739918680</identifier>
+                    <creationDate>2005-10-14</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">U 05 B 1807</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Getr. Zählung [ca. 190 S.]</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Ein Beitrag zur Herstellung integrierter Drehratensensoren in SiGe</title>
+            <abstracts>
+                <abstract xml:lang="de">In der Kraftfahrzeugtechnik sind mikromechanische Drehratensensoren bereits weit verbreitet, sowohl in Fahrsicherheits- als auch in Navigationssystemen. Die derzeitigen Drehratensensorkonzepte und Herstellungstechnologien können allerdings den zukünftigen Anforderungen, insbesondere hinsichtlich benötigter hoher Sensorauflösung und niedriger Produktionskosten nicht mehr gerecht werden. Vor diesem Hintergrund wird in der Arbeit ein neues Sensorkonzept in einer neuen Herstellungstechnologie entwickelt. Um eine bestmögliche Auflösung zu erreichen, verfolgt das Konzept eine vollresonante Auswertung des kapazitiv angetriebenen und ausgewerteten Zwei-Masse-Schwingers. Als Herstellungstechnologie fällt die Wahl auf Silizium-Germanium (SiGe), weil aufgrund der niedrigen Abscheidetemperatur des SiGes eine modulare und monolithische Back-End-Integration von mechanischem Schwinger und Auswerte-IC möglich ist. Dies verbessert ebenfalls die Sensorauflösung. Da kaum Erfahrungen über die Herstellung und Prozessierung von Funktionsschichten mikromechanischer Sensoren aus SiGe vorliegen, muss vor der Umsetzung eine Reihe wesentlicher Verbesserungen und Entwicklungen durchgeführt werden. Die größte Hürde stellt dabei der in der Literatur fälschlicherweise als Stressgradient bezeichnete Parameter dar, welcher um zwei Größenordnungen zu hoch ist. Da in der Literatur keine Ansätze zur Reduzierung des sogenannten Stressgradienten auf den geforderten Wert zu finden sind, werden als Schwerpunkt der Arbeit neue Lösungsideen entwickelt und verifiziert. Bei den Strategien handelt es sich um Variation der Abscheideparameter, Ausheilen der Funktionsschicht in unterschiedlichen Atmosphären, Abscheidung der SiGe-Schicht auf verschiedenen Untergründen, Verwendung mehrlagiger SiGe-Schichtaufbauten sowie Entfernen der Randschicht um die SiGe-Funktionsschicht. Dabei wird durch Kombination eines mehrlagigen Schichtaufbaus mit dem Entfernen der Randschicht erstmals der für Drehratensensoren geforderte Wert erreicht. Weitere experimentell gewonnene Erkenntnisse sind u.a. die starke Abhängigkeit des sogenannten Stressgradienten von der Schichtdicke und die Bildung einer stark verspannten SiO2-Schicht beim Entfernen der Randschicht mit H2O2, welche aber nicht zur Reduzierung des Stressgradienten eingesetzt werden kann. Modelle auf der Basis der Experimente liefern für zukünftige Schicht-Optimierungen ein essentielles Verständnis über den Verlauf des Stressgradienten innerhalb der Schicht. Aufgrund dieser theoretischen Überlegungen kann sowohl eine verspannte Randschicht als auch ein konstanter Dehnungsgradient innerhalb der Schicht ausgeschlossen werden, vielmehr erscheint eine exponentielle Abnahme einer Zugspannung innerhalb der Schicht zur Schichtunterseite hin als realistisch. Nach Bereitstellung der drehratensensor-tauglichen SiGe-Funktionsschicht können das Sensordesign wie auch die Entwicklung eines Prozessflusses für den Demonstrator begonnen werden. Beim Entwurf des Demonstrators werden die Vorteile der SiGe-Technologie, wie z.B. der Wegfall der Perforierung der Resonatorrahmen durch große Unterätzweiten beim Opferschichtätzen konsequent genutzt. Ebenso wird aber auch den elektromagnetischen Wechselwirkungen zwischen Resonator und IC durch eine geeignete Leiterbahnführung Rechnung getragen. Die Entwicklung der einzelnen Prozessschritte erfolgt sowohl auf speziellen Testwafern als auch auf Produktwafern. Besonders hervorzuheben ist dabei die Verbesserung des Opferschichtätzens von Germanium mit H2O2 durch Zugabe eines Puffers, der einen Angriff auf die offenen Aluminium-Bondpads und Leiterbahnen verhindert.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Dünn, Christoph</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">130312894</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor>
+                    <contributor>Wurmus, Helmut</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">130009245</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor>
+                    <contributor>Ambacher, Oliver</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">129928631</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Gomez, Udo-Martin</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Christoph Dünn</responsible>
+            <publicationInfo>
+                <issued>2005</issued>
+                <publicationPlaces>
+                    <publicationPlace>Aachen</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Shaker</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Berichte aus der Mikrosystemtechnik</title>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Zugl.: Ilmenau, Techn. Univ., Diss., 2005</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>21 cm</description>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Berichte aus der Mikrosystemtechnik</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="181571803" classificationName="bk">
+                    <code>50.22</code>
+                    <entries>
+                        <entry>Sensorik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4824724-8" type="gnd">
+                    <subject xml:lang="de">MEMS</subject>
+                </subject>
+                <subject id="4602873-0" type="gnd">
+                    <subject xml:lang="de">Drehratensensor</subject>
+                </subject>
+                <subject id="4235815-2" type="gnd">
+                    <subject xml:lang="de">Integrierter Sensor</subject>
+                </subject>
+                <subject id="4277965-0" type="gnd">
+                    <subject xml:lang="de">LPCVD-Verfahren</subject>
+                </subject>
+                <subject id="4135644-5" type="gnd">
+                    <subject xml:lang="de">Germanium</subject>
+                </subject>
+                <subject id="4077445-4" type="gnd">
+                    <subject xml:lang="de">Silicium</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1180600169</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1180600169">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2004-03-25</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1180600169</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1180600169</identifier>
+                <identifier type="firstid">BSZ:110600169</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">669050539</identifier>
+                    <creationDate>2004-10-13</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RS 4418(2003,1)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">18 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Geophysikalisch begingte Leistungsgrenzen der Hubschrauber CH-53G und CH-53GS</title>
+            <abstracts>
+                <abstract xml:lang="de">Um für konkrete Einsätze der Heeresfliegertruppe der Bundeswehr den Bedarf an mittleren Transporthubschraubern zu ermitteln, wird ein übersichtliches Diagramm vorgestellt, aus dem die Nutzlastkapazität bei einer bestimmten Kombination von Luftdruck und Lufttemperatur abgelesen werden kann. Geografische Informationen über die Geländehöhe und klimatologische Informationen oder meteorologische Prognosen über die Lufttemperaturen stellen die Basis dar, auf der mit Hilfe des Diagramms die Nutzlastkapazität eines Hubschraubers ermittelt werden kann. (AUT). Die Auswirkungen der Druckhöhe (pressure altitude) und der Dichtehöhe (density altitude) in Afghanistan auf die Leistungsfähigkeit der Transporthubschrauber CH53G und CH53GS werden detailliert dargestellt.</abstract>
+            </abstracts>
+            <responsible>... Fischer</responsible>
+            <publicationInfo>
+                <issued>2003</issued>
+                <publicationPlaces>
+                    <publicationPlace>Euskirchen</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Amt für Geoinformationswesen der Bundeswehr</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Schriftenreihe / Geoinformationsdienst der Bundeswehr</title>
+                    <volumeNumber>2003,1</volumeNumber>
+                </journalInfo>
+                <publicationIDInfo>Zsfassung in dt. und engl. Sprache</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>graph. Darst., Kt.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Schriftenreihe / Geoinformationsdienst der Bundeswehr</title>
+                <volumeNumber>2003,1</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4120997-7" type="gnd">
+                    <subject xml:lang="de">Berechnung</subject>
+                </subject>
+                <subject id="4025993-6" type="gnd">
+                    <subject xml:lang="de">Hubschrauber</subject>
+                </subject>
+                <subject id="4172194-9" type="gnd">
+                    <subject xml:lang="de">Nutzlast</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

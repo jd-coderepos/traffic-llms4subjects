@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:014941953</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:014941953">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1971-01-01</databaseDate>
+            <changeDate>2024-04-15</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>014941953</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">014941953</identifier>
+                <identifier type="firstid">GBV:014941953</identifier>
+                <identifier type="isbn">3170075187</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://d-nb.info/820578061/04</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">015759229</identifier>
+                    <creationDate>1983-03-02</creationDate>
+                    <selectionKey>n</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">FF 4687</location>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-24</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">160 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Privatbahnen in der DDR seit 1949 im Reichsbahn-Eigentum</title>
+            <abstracts>
+                <abstract xml:lang="de">enth. zahlr. Kleinbahnen aus den Bezirken Rostock, Schwerin, Neubrandenburg</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Quill, Klaus-Peter</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Ebel, Jürgen-Ulrich</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">121555143</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Klaus-Peter Quill; Jürgen Ebel</responsible>
+            <publicationInfo>
+                <issued>1982</issued>
+                <publicationPlaces>
+                    <publicationPlace>Stuttgart</publicationPlace>
+                    <publicationPlace>Berlin</publicationPlace>
+                    <publicationPlace>Köln</publicationPlace>
+                    <publicationPlace>Mainz</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Kohlhammer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Kohlhammer Edition Eisenbahn</title>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>zahlr. Ill., Kt.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Kohlhammer Edition Eisenbahn</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loksys">
+                    <code>ver 284.5</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>41</code>
+                </classification>
+                <classification classificationID="106420569" classificationName="bk">
+                    <code>55.31</code>
+                    <entries>
+                        <entry>Schienenfahrzeuge</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>385/.09431</code>
+                </classification>
+                <classification classificationName="loksys">
+                    <code>ver 283</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>36</code>
+                </classification>
+                <classification classificationName="loksys">
+                    <code>tec 25</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Deutsche Reichsbahn &lt;DDR&gt;</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Deutschland &lt;DDR&gt; / H.g. Verkehr, Nachrichtenwesen</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Dampflokomotive</subject>
+                </subject>
+                <subject id="4011890-3" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Deutschland (DDR)</subject>
+                </subject>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte 1949</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Privatbahn</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Triebwagen</subject>
+                </subject>
+                <subject id="4134796-1" type="gnd">
+                    <subject xml:lang="de">Privatbahn</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:802100937</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:802100937">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2014-11-11</databaseDate>
+            <changeDate>2021-07-05</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>802100937</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">802100937</identifier>
+                <identifier type="firstid">GBV:802100937</identifier>
+                <identifier type="isbn13">9781482206050</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/bowker/toc/9781482206050.pdf</location>
+                <location subtype="cover" type="url">http://images.tandf.co.uk/common/jackets/websmall/978148220/9781482206050.jpg</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1513936891</identifier>
+                    <creationDate>2016-03-14</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 15 B 673</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xiii, 227 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Airborne electronic hardware design assurance : a practitioner's guide to  RTCA/DO-254</title>
+            <abstracts>
+                <abstract xml:lang="de">"Preface This book was inspired by, and evolved from, the experience we gained while teaching the DO-254 class at RTCA in Washington, D.C. and at numerous companies throughout the United States and abroad. In some respects it is the logical extension of our DO-254 class, and in fact some of the material in this book shares common origins. Most of this book, however, is a testimony of the lessons learned and wisdom gained from many years of first-hand experience in the design, verification, and approval of airborne electronics and software, including some of the very first projects in which DO-254 was applied, and also including the very first projects where DO-254 was applied at the LRU level. The early years of DO-254 were seminal to us for revealing not only the difficulties inherent in applying a comprehensive document like DO-254 to a very narrow target, but also for the labor pains endemic throughout the industry as it struggled to understand--let alone comply with--this new way of doing business. Pain is a hard but effective teacher, so by any measure those of us who experienced those years should be geniuses by now. As we and the rest of the industry adjusted and eventually mastered both the document and its ramifications, we were able to discern the practices and techniques that complemented the processes in DO-254 and therefore worked best in this new environment. This book documents the practices and techniques that we have identified and witnessed as being compatible with the intent of DO-254, and which thus make the road to compliance and eventual approval as direct, efficient, and effective as possible"--</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>RTCA, Inc.</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">10177816-8</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+                <corporateCreator>
+                    <name>RTCA/DO-254</name>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Fulton, Randall</contributor>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Vandermolen, Roy</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Randall Fulton (Softwair Assurance, Inc., redwood city, CA), Roy Vandermolen (Hardwair assurance, Bountiful, UT)</responsible>
+            <publicationInfo>
+                <issued>2014</issued>
+                <publicationPlaces>
+                    <publicationPlace>Boca Raton</publicationPlace>
+                    <publicationPlace>London</publicationPlace>
+                    <publicationPlace>New York</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>CRC Press, Taylor &amp; Francis Group</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Version date: 20141024. - Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc-dbn">
+                    <code>TEC008000</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>TEC009070</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.13502/1873</code>
+                </classification>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 7276</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL695</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>COM051230</code>
+                </classification>
+                <classification classificationID="106419374" classificationName="bk">
+                    <code>50.07</code>
+                    <entries>
+                        <entry>Normung, technische Regeln</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4196491-3" type="gnd">
+                    <subject xml:lang="de">Avionik</subject>
+                </subject>
+                <subject id="4078704-7" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">USA</subject>
+                </subject>
+                <subject id="4154750-0" type="gnd">
+                    <subject xml:lang="de">Flugführung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Guidance systems (Flight)</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Avionics</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

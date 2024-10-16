@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:387722432</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:387722432">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2004-05-24</databaseDate>
+            <changeDate>2024-04-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>387722432</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">387722432</identifier>
+                <identifier type="contract">2004106870</identifier>
+                <identifier type="contract">10837394</identifier>
+                <identifier type="ean">9783540221326</identifier>
+                <identifier type="firstid">GBV:387722432</identifier>
+                <identifier type="isbn">3540221328</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/goettingen/387722432.pdf</location>
+                <location subtype="cover" type="url">https://swbplus.bsz-bw.de/bsz115207988cov.jpg</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">655752323</identifier>
+                    <creationDate>2005-05-12</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 04 B 6836</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">734752792</identifier>
+                    <creationDate>2005-08-31</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">Z 1279(206)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-31</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">XIII, 412 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Basics of aerothermodynamics</title>
+            <abstracts>
+                <abstract xml:lang="de">The basics of aerothermodynamics are treated in this book with special regard to the fact that outer surfaces of hypersonic vehicles primarily are radiation cooled. The implications of this fact are different for different vehicle classes. In any case the properties of both attached viscous and separated flows are of importance in this regard. After a discussion of flight environment and transport phenomena in general, the most important aerothermodynamic phenomena are treated. Thermal surface effects are particularly considered, taking into account both radiation cooling and/or active cooling, for example of inner surfaces. Finally the simulation means of aerothermodynamics are discussed. Computational methods and their modelling problems as well as the problems of ground facility and flight simulation, including the hot experimental technique, are treated. TOC:Introduction.- The Flight Environment.- Transport of Mass, Momentum, Energy.- Aerothermodynamic Phenomena.- Simulation Means</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Hirschel, Ernst Heinrich</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">122980379</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Ernst Heinrich Hirschel</responsible>
+            <publicationInfo>
+                <issued>2005</issued>
+                <publicationPlaces>
+                    <publicationPlace>Berlin</publicationPlace>
+                    <publicationPlace>Heidelberg [u.a.]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Jointly publ. with the American Institute of Aeronautics and Astronautics (AIAA)</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>24 cm</description>
+            <description>graph. Darst</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausg.</label>
+                <title>Basics of Aerothermodynamics</title>
+                <identifier type="isbn13">9783540265191</identifier>
+                <identifier type="ppn">1645072800</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106419498" classificationName="bk">
+                    <code>50.34</code>
+                    <entries>
+                        <entry>Gasdynamik, Aerodynamik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106420534" classificationName="bk">
+                    <code>50.38</code>
+                    <entries>
+                        <entry>Technische Thermodynamik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.4152</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 7230</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.132/306</code>
+                </classification>
+                <classification classificationID="106410334" classificationName="bk">
+                    <code>55.60</code>
+                    <entries>
+                        <entry>Raumfahrttechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Aerothermodynamics</subject>
+                </subject>
+                <subject id="4133168-0" type="gnd">
+                    <subject xml:lang="de">Aerothermodynamik</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

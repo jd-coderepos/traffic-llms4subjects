@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:566645343</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:566645343">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2008-05-22</databaseDate>
+            <changeDate>2024-04-21</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>566645343</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">566645343</identifier>
+                <identifier type="firstid">GBV:566645343</identifier>
+                <identifier type="isbn">0387781447</identifier>
+                <identifier type="isbn13">9780387781440</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/bowker/toc/9780387781440.pdf</location>
+                <location subtype="cover" type="url">https://swbplus.bsz-bw.de/bsz28470704xcov.jpg</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1272933016</identifier>
+                    <creationDate>2012-11-05</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 11 B 8277</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-31</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">XXIII, 389 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>The international space station : building for the future</title>
+            <abstracts>
+                <abstract xml:lang="de">This title covers the newest construction and uses of the International Space Station. It provides flight by flight details and relevant political and 'behind the scenes' activities necessary to explain why certain decisions, including flight re-scheduling and crew-reassignment, are made</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Catchpole, John E.</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1089464134</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>John E. Catchpole</responsible>
+            <publicationInfo>
+                <issued>2008</issued>
+                <publicationPlaces>
+                    <publicationPlace>Berlin</publicationPlace>
+                    <publicationPlace>Heidelberg</publicationPlace>
+                    <publicationPlace>New York, NY</publicationPlace>
+                    <publicationPlace>Chichester</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Springer Praxis books in space exploration</title>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>24cm</description>
+            <description>Ill.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausg.</label>
+                <title>The International Space Station</title>
+                <identifier type="ppn">1647469597</identifier>
+                <identifier type="isbn13">9780387781457</identifier>
+            </related>
+            <related type="parent">
+                <title>Springer Praxis books in space exploration</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106410660" classificationName="bk">
+                    <code>55.88</code>
+                    <entries>
+                        <entry>Luftverkehr, Raumfahrt</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106420607" classificationName="bk">
+                    <code>55.61</code>
+                    <entries>
+                        <entry>Raumfahrzeuge</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.442</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL797</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Space stations</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Space flight</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">International Space Station</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>International cooperation</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Design and construction</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>International Space Station</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Space stations</subject>
+                </subject>
+                <subject id="4486542-9" type="gnd">
+                    <subject xml:lang="de">ISS (Raumfahrt)</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Space flight</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Political aspects</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

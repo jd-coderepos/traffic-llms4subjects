@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:187089345X</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:187089345X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2023-11-22</databaseDate>
+            <changeDate>2024-05-30</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>187089345X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">187089345X</identifier>
+                <identifier type="firstid">KXP:187089345X</identifier>
+                <identifier type="isbn13">9783031229817</identifier>
+                <identifier type="isbn">3031229819</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4415693199</identifier>
+                    <creationDate>2024-02-02</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RT 1812(65)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">x, 148 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Ethics of driving automation : artificial agency and human values</title>
+            <abstracts>
+                <abstract xml:lang="de">"This book offers a systematic and thorough philosophical analysis of the ways in which driving automation crosses path with ethical values. Upon introducing the different forms of driving automation and examining their relation to human autonomy, it provides readers with in-depth reflections on safety, privacy, moral judgment, control, responsibility, sustainability, and other ethical issues. Driving is undoubtedly a moral activity as a human act. Transferring it to artificial agents such as connected and automated vehicles necessarily raises many philosophical questions. When driving is automated, what happens to its ethical dimensions? Could artificial agents accomplish ethical objectives on our behalf, take moral decisions in our place, and drive us into a more ethical transportation future? In doing so, would they be 'moral' as we are or in a way that is similar to, but also remarkably different from, our own? And what role is yet to be played by human responsibility and commitment? The book addresses these questions with the aim of stimulating an interdisciplinary dialogue between different stakeholders. They include automotive engineers, computer scientists, and moral philosophers, as well as industry representatives, policymakers, regulators, transportation experts, and the general public. Indeed, connected and automated vehicles will not take the high road for us . We must drive them there."--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Fossa, Fabio</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Fabio Fossa</responsible>
+            <publicationInfo>
+                <issued>2023</issued>
+                <publicationPlaces>
+                    <publicationPlace>Cham</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="CH" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Studies in applied philosophy, epistemology and rational ethics</title>
+                    <volumeNumber>volume 65</volumeNumber>
+                </journalInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>24 cm</description>
+            <description>Illustrationen</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Studies in applied philosophy, epistemology and rational ethics</title>
+                <volumeNumber>volume 65</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.222</code>
+                </classification>
+                <classification classificationID="181570424" classificationName="bk">
+                    <code>55.24</code>
+                    <entries>
+                        <entry>Fahrzeugführung, Fahrtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL152.8</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Conduite automobile - Automatisation</subject>
+                </subject>
+                <subject id="4015602-3" type="gnd">
+                    <subject xml:lang="de">Ethik</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Véhicules autonomes - Aspect moral</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Automobile driving</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Automated vehicles</subject>
+                </subject>
+                <subject id="7714938-5" type="gnd">
+                    <subject xml:lang="de">Autonomes Fahrzeug</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Automobile driving - Automation</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

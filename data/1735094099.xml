@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1735094099</identifier><datestamp>2024-06-28</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1735094099">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2020-10-07</databaseDate>
+            <changeDate>2024-05-10</changeDate>
+            <ftxCreationDate>2024-06-18</ftxCreationDate>
+            <documentID>1735094099</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1735094099</identifier>
+                <identifier type="contract">FRUB-opus-167265</identifier>
+                <identifier type="doi">10.6094/UNIFR/167265</identifier>
+                <identifier type="firstid">DNB:1218464003</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://nbn-resolving.org/urn:nbn:de:bsz:25-freidok-1672657</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4539126164</identifier>
+                    <creationDate>2024-06-15</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-25</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (110 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Methods for mobile robot localization using architectural floor plans</title>
+            <abstracts>
+                <abstract xml:lang="de">Abstract: In the near future, mobile robots are envisioned to autonomously operate in many complex scenarios such as assembly lines, warehouses, or domestic environments for assisting or even replacing people in repetitive and tedious tasks. In this context, robot localization is a crucial technology for every mobile vehicle to be fully operational. Localization methods commonly rely on accurate maps that are built fusing sensory measurements collected with the sensor modality on board the robot. To build those maps, robots have to be teleoperated through the entire area where they are required to operate, which in turn results in increased deployment time and costs for robot manufacturers, or additional effort for customers. In addition, map representations such as occupancy grids, can be hard to interpret for inexperienced operators. To overcome these drawbacks, in this dissertation we investigate methods for mobile robot localization using 2D architectural floor plans. In this thesis, we first propose a robust LiDAR-based system that uses architectural floor plans as map for localization. During operation, the robot builds and maintains an accurate representation of the environment while keeping it aligned to the floor plan. This allows the robot to cope with occlusion produced by obstacles and large structures that are not represented in the floor plan and which can significantly affect localization methods that only compare the current LiDAR measurements with the floor plan. Second, we propose a monocular camera-based localization system. Instead of creating map of the environment during navigation, we employ a Convolutional Neural Network to estimate room layout edges from single monocular images. To track the robot pose, we use Monte Carlo Localization and compare the estimated layout with a 3D model inferred from the 2D floor plan. The methods proposed in this dissertation have been evaluated using real-world datasets in order to assess their robustness and accuracy as well as their computational performance. The experiments show that the methods can be used in complex scenarios, such industrial and service applications</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Boniardi, Federico</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1218031905</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Frederico Boniardi</responsible>
+            <publicationInfo>
+                <issued>2020</issued>
+                <publicationPlaces>
+                    <publicationPlace>Freiburg</publicationPlace>
+                </publicationPlaces>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2020</dateAccepted>
+                        <description>Dissertation, Albert-Ludwigs-Universität Freiburg</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Methods for mobile robot localization using architectural floor plans</title>
+                <identifier type="ppn">1738052192</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc-dbn">
+                    <code>621.3</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.893</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4167607-5" type="gnd">
+                    <subject xml:lang="de">Lidar</subject>
+                </subject>
+                <subject id="7569134-6" type="gnd">
+                    <subject xml:lang="de">Lokalisierung (Robotik)</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://nbn-resolving.org/urn:nbn:de:bsz:25-freidok-1672657</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

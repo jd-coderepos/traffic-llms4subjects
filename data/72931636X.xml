@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:72931636X</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:72931636X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2012-11-06</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>72931636X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">72931636X</identifier>
+                <identifier type="ean">9781409452782</identifier>
+                <identifier type="firstid">GBV:72931636X</identifier>
+                <identifier type="isbn13">9781409452782</identifier>
+                <identifier type="isbn13">9781409452799</identifier>
+                <identifier type="isbn">1409452794</identifier>
+                <identifier type="isbn">1409452786</identifier>
+            </identifiers>
+            <locations>
+                <location type="library">89</location>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/zbw/72931636X.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1429890290</identifier>
+                    <creationDate>2013-09-17</creationDate>
+                    <selectionKey>zcw</selectionKey>
+                    <location type="libraryDepartment">18</location>
+                    <location type="tibLocationCode">FBW</location>
+                    <location type="tibShelfmark">oek 6835/048(4)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XVI, 312 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Airline finance</title>
+            <abstracts>
+                <abstract xml:lang="de">"Air transport industry finance, with its complexity and special needs such as route rights, airport slots, aircraft leasing options and frequent flyer programmes, requires specific knowledge. While there are numerous financial management and corporate finance texts available, few of these provide explanations for the singularities of the airline industry with worked examples drawn directly from the industry itself"--Provided by publisher</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Morrell, Peter S.</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1015439152</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Peter S. Morrell</responsible>
+            <publicationInfo>
+                <issued>2013</issued>
+                <edition>4th ed.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Farnham, Surrey [u.a.]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="GB" />
+                    <publicationCountry code="US" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Ashgate</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>24 cm</description>
+            <description>graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>Airline finance</title>
+                <identifier type="isbn13">9781351959759</identifier>
+                <identifier type="ppn">1655390899</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106410660" classificationName="bk">
+                    <code>55.88</code>
+                    <entries>
+                        <entry>Luftverkehr, Raumfahrt</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>387.7/1</code>
+                </classification>
+                <classification classificationID="106414763" classificationName="bk">
+                    <code>85.30</code>
+                    <entries>
+                        <entry>Investition, Finanzierung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>QR 840</code>
+                </classification>
+                <classification classificationName="loksys-fbw">
+                    <code>oek 8125</code>
+                </classification>
+                <classification classificationName="loksys-fbw">
+                    <code>oek 6835</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>HE9782</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>387.71</code>
+                </classification>
+                <classification classificationID="106414682" classificationName="bk">
+                    <code>83.72</code>
+                    <entries>
+                        <entry>Verkehrswirtschaft</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>oek</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="stw">
+                    <subject xml:lang="de">Welt</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Airlines</subject>
+                </subject>
+                <subject id="4036559-1" type="gnd">
+                    <subject xml:lang="de">Luftverkehrsgesellschaft</subject>
+                </subject>
+                <subject id="4017182-6" type="gnd">
+                    <subject xml:lang="de">Finanzierung</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Unternehmensfinanzierung</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Fluggesellschaft</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

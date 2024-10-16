@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1830031384</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1830031384">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2022-12-26</databaseDate>
+            <changeDate>2024-05-14</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1830031384</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1830031384</identifier>
+                <identifier type="firstid">KXP:1830031384</identifier>
+                <identifier type="isbn13">9783736977143</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1830031384.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4250694518</identifier>
+                    <creationDate>2023-01-24</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">U 23 B 64</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-35</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">VIII, 141 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Hybride Deep Learning-Verfahren zur Interferenzunterdrückung und hochauflösenden Winkelschätzung für Automobilradaranwendungen</title>
+            <abstracts>
+                <abstract xml:lang="de">Zwei grundlegende Herausforderungen für das Automobilradar betreffen die Robustheit gegenüber Interferenzen im gleichen Frequenzband, sowie die Verbesserung der Winkelauflösung zur präzisen Lokalisierung von Objekten und Personen. In der vorliegenden Forschungsarbeit werden neue Ansätze der modernen Signalverarbeitung für Automobilradarsensoren basierend auf Deep Learning (DL) erforscht um die Leistungsfähigkeit und die Robustheit von konventionellen Verfahren zur Interferenzunterdrückung sowie zur Winkelschätzung zu übertreffen. Für das Training von datenbasierten DL Verfahren werden spezielle Datensätze benötigt, welche mittels neuartigen hybriden Verfahren erzeugt werden. Anschliessend wird sowohl die Effektivität dieser hybriden Verfahren als auch die Robustheit der trainierten Modelle gegenüber Modellabweichungen und Nichtidealitäten demonstriert. Am Beispiel der Interferenzunterdrückung werden die Vorteile von DL in der Automobilradarsignalverarbeitung aufgezeigt. Die erfolgreiche Validierung der Konzepte erfolgt anhand von Messungen von Interferenzen im 77 GHz-Frequenzband. Des Weiteren wird gezeigt, dass die vorgestellten Verfahren wirkungsvoll eingesetzt werden können, um eine präzise Lokalisierung von Zielen zu realisieren. Mit hybriden Datensätzen werden drei verschiedene Konzepte untersucht um eine hochauflösende Winkelschätzung zu realisieren. Hierbei wird eine Leistungsfähigkeit erzielt die den Stand der Technik übertrifft, ohne dass eine sensorspezifische Kalibrierung erforderlich ist</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="degree-granting-institution">
+                    <type>degree-granting-institution</type>
+                    <name>Friedrich-Alexander-Universität Erlangen-Nürnberg</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2000862-4</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Fuchs, Jonas</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1277278814</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Jonas Fuchs</responsible>
+            <publicationInfo>
+                <issued>2022</issued>
+                <edition>1. Auflage</edition>
+                <publicationPlaces>
+                    <publicationPlace>Göttingen</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Cuvillier Verlag</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2022</dateAccepted>
+                        <description>Dissertation, Friedrich-Alexander-Universität Erlangen-Nürnberg</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106415182" classificationName="bk">
+                    <code>53.84</code>
+                    <entries>
+                        <entry>Ortungstechnik, Radartechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>621.3</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="10641240X" classificationName="bk">
+                    <code>54.72</code>
+                    <entries>
+                        <entry>Künstliche Intelligenz</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>elt</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>inf</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4191569-0" type="gnd">
+                    <subject xml:lang="de">Kraftfahrzeugelektronik</subject>
+                </subject>
+                <subject id="1135597375" type="gnd">
+                    <subject xml:lang="de">Deep learning</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Antenna Array</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Environment Sensing</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Elektrotechnik</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Data Sets</subject>
+                </subject>
+                <subject id="4197032-9" type="gnd">
+                    <subject xml:lang="de">Bilderzeugung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Chirp-Sequence Radar, Antennenarray</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Datenvorverarbeitung, Trainingdaten</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Artificial intelligence</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Automatisiertes Fahren</subject>
+                </subject>
+                <subject id="4054947-1" type="gnd">
+                    <subject xml:lang="de">Signalverarbeitung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Autonomous driving, Automated driving</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Automobil, Automobilradar</subject>
+                </subject>
+                <subject id="4227294-4" type="gnd">
+                    <subject xml:lang="de">Interferenzstörung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Angular resolution, maximum likelihood</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Automotive Radar, Signal Processing</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Data preprocessing</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Automotive Radar Signal Processing</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Automobilradarsignalverarbeitung, Algorithmen</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Frequenzbereich, Vehicle</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Autoencoder, Interferenzen</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Fahrerassistenzsysteme</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Fahrzeug, Autonomes Fahren</subject>
+                </subject>
+                <subject id="4809985-5" type="gnd">
+                    <subject xml:lang="de">Radarsensor</subject>
+                </subject>
+                <subject id="4189966-0" type="gnd">
+                    <subject xml:lang="de">Winkelauflösung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Automotive</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

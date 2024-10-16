@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:77485006X</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:77485006X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2013-12-18</databaseDate>
+            <changeDate>2023-06-13</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>77485006X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">77485006X</identifier>
+                <identifier type="ean">9783768837620</identifier>
+                <identifier type="firstid">DNB:104521874X</identifier>
+                <identifier type="isbn13">9783768837620</identifier>
+                <identifier type="isbn">3768837629</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="description" type="url">http://deposit.d-nb.de/cgi-bin/dokserv?id=4539171&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</location>
+                <location subtype="toc" type="url">http://d-nb.info/104521874X/04</location>
+                <location subtype="miscellaneous" type="url">http://www.delius-klasing.de/buecher/Das+E-Bike.179008.html</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1460065085</identifier>
+                    <creationDate>2015-04-08</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 14 B 3113</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">173 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Das E-Bike : Technik, Modelle, Praxis für Pedelecs und Elektrofahrräder</title>
+            <abstracts>
+                <abstract xml:lang="de">Gut strukturiertes Handbuch mit fachkundigen Informationen rund um elektrounterstützte Fahrräder. Der bekannte Autor berät fachkundig über Einsatzmöglichkeiten, Bauweisen und Antriebe, Motoren und Steuerungssysteme, Fahrsicherheit und Qualitätsmerkmale. Er stellt eine Reihe von Herstellern mit Webadressen vor, zeigt Modelle für Alltag, Reise, Lastentransport oder sportliche Aktivitäten und trifft Aussagen zur Rechtslage. Für Laien, Fachleute, E-Bike-Besitzer oder Kaufinteressierte werden hier verständlich formulierte, gut strukturierte und anschaulich visualisierte Informationen geboten</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Barzel, Peter</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">135758025</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Peter Barzel</responsible>
+            <publicationInfo>
+                <issued>2014</issued>
+                <edition>3., aktualisierte und erweiterte Aufl.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Bielefeld</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Delius Klasing</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>E-Bike</title>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>240 mm x 165 mm</description>
+            <description>zahlr. Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>E-Bike</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.2272</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4370</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Elektrofahrrad</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Ratgeber</subject>
+                </subject>
+                <subject id="4508380-0" type="gnd">
+                    <subject xml:lang="de">Elektrofahrrad</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

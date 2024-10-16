@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:839785216</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:839785216">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2015-11-16</databaseDate>
+            <changeDate>2019-12-15</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>839785216</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">839785216</identifier>
+                <identifier type="firstid">OBV:AC12681783</identifier>
+                <identifier type="isbn13">9783851254228</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/839785216.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">177020248X</identifier>
+                    <creationDate>2018-05-28</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RT 1907(5)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xxii, 163 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Maximum tire-road friction coefficient estimation</title>
+            <alternativeTitles>
+                <alternative>Estimation of the maximum coefficient of friction between tire and road based on vehicle state measurements</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Zsfassung in dt. Sprache</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Lex, Cornelia</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Cornelia Lex</responsible>
+            <publicationInfo>
+                <issued>2015</issued>
+                <publicationPlaces>
+                    <publicationPlace>Graz</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="AT" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Verlad der Technischen Universität Graz</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Monographic series TU Graz</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>Reihe Fahrzeugtechnik</title>
+                    <volumeNumber>Band 5</volumeNumber>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2015</dateAccepted>
+                        <description>Dissertation, Technische Universität Graz</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+                <publicationIDInfo>Literaturverzeichnis: Seite151-163</publicationIDInfo>
+                <publicationIDInfo>Dissertation erschien unter dem Titel: Estimation of the maximum coefficient of friction between tire and road based on vehicle state measurements</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>23 cm</description>
+            <description>Illustrationen</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Monographic series TU Graz</title>
+            </related>
+            <related type="parent">
+                <title>Reihe Fahrzeugtechnik</title>
+                <volumeNumber>Band 5</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="181570424" classificationName="bk">
+                    <code>55.24</code>
+                    <entries>
+                        <entry>Fahrzeugführung, Fahrtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4016278-3" type="gnd">
+                    <subject xml:lang="de">Fahrdynamik</subject>
+                </subject>
+                <subject id="4129730-1" type="gnd">
+                    <subject xml:lang="de">Sensitivitätsanalyse</subject>
+                </subject>
+                <subject id="4137152-5" type="gnd">
+                    <subject xml:lang="de">Reifen</subject>
+                </subject>
+                <subject id="4183601-7" type="gnd">
+                    <subject xml:lang="de">Straßenzustand</subject>
+                </subject>
+                <subject id="7707703-9" type="gnd">
+                    <subject xml:lang="de">Bremsassistent</subject>
+                </subject>
+                <subject id="4129826-3" type="gnd">
+                    <subject xml:lang="de">Zustandsschätzung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

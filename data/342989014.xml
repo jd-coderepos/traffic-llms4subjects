@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:342989014</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:342989014">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2002-03-05</databaseDate>
+            <changeDate>2024-04-19</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>342989014</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">342989014</identifier>
+                <identifier type="contract">19U099147</identifier>
+                <identifier type="contract">19U09914</identifier>
+                <identifier type="contract">19U9914</identifier>
+                <identifier type="firstid">GBV:342989014</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="miscellaneous" type="url">https://edocs.tib.eu/files/e01fb02/342989014l.pdf</location>
+                <location mimetype="application/pdf" subtype="fulltext" type="url">https://edocs.tib.eu/files/e01fb02/342989014.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">548721211</identifier>
+                    <creationDate>2002-03-05</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <preservation procedure="digital-preservation">
+                <isil>DE-89</isil>
+            </preservation>
+            <sizes>
+                <size unit="unknown">Online-Ressource (73 p., 1,15 Mb.)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Optimierter Antriebsstrang für Nutzfahrzeuge mit reduzierten Kraftstoffverbräuchen und Emissionen (Optistrang) - Phase 1: Studie und Konzeptentwicklung : Schlussbericht, Oktober 1999 - Februar 2001</title>
+            <alternativeTitles>
+                <alternative>Optistrang</alternative>
+                <alternative>Optimized drive train for commercial vehicles with reduced fuel consumptions and emissions (OPTISTRANG)</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Commercial vehicle, drive train optimization, operating strategy, starter-alternator, electrical auxiliaries, exhaust after treatment</abstract>
+            </abstracts>
+            <contributors>
+                <contributor>
+                    <contributor>Lexen, Gerald</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Kerschl, Stefan</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Gerald Lexen; Stefan Kerschl</responsible>
+            <publicationInfo>
+                <issued>2001</issued>
+                <edition>[Elektronische Ressource]</edition>
+                <publicationPlaces>
+                    <publicationPlace>München</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>MAN Nutzfahrzeuge</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-296-TTN</identifier>
+                </isPartOf>
+                <publicationIDInfo>Engl. title: Optimized drive train for commercial vehicles with reduced fuel consumptions and emissions (OPTISTRANG)</publicationIDInfo>
+                <publicationIDInfo>Contract BMBF 19U09914/7. - Differences between the printed and electronic version of the document are possible. - nIndex</publicationIDInfo>
+                <publicationIDInfo>Also available as printed version</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>ill., graph</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-296-TTN</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4282633-0" type="gnd">
+                    <subject xml:lang="de">Nebenaggregat</subject>
+                </subject>
+                <subject id="4034649-3" type="gnd">
+                    <subject xml:lang="de">Lastkraftwagen</subject>
+                </subject>
+                <subject id="4204820-5" type="gnd">
+                    <subject xml:lang="de">Kraftstoffeinsparung</subject>
+                </subject>
+                <subject id="4431076-6" type="gnd">
+                    <subject xml:lang="de">Triebstrang</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">default</property>
+            <property name="displaySubscriberAccess">https://edocs.tib.eu/files/e01fb02/342989014.pdf</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

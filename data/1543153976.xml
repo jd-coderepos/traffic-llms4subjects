@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1543153976</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1543153976">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2016-07-05</databaseDate>
+            <changeDate>2022-11-05</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1543153976</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1543153976</identifier>
+                <identifier type="contract">DLR-FB-2016-25</identifier>
+                <identifier type="firstid">BSZ:473153971</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://d-nb.info/1106461649/04</location>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/862204879.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1625922418</identifier>
+                    <creationDate>2016-07-18</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RN 437(2016,25)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">149 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Eine Methodik zur Quantifizierung der zeitlichen Güte von Flugreisen aus Passagiersicht</title>
+            <abstracts>
+                <abstract xml:lang="de">A model simulates the diversely parameterized progress of dedicated business journeys including sleep and working times. The motivating research question asks for the benefit of high speed flight regarding time. It is assumed that on journeys, time gains are not only achieved by shorter travel, but also by retaining productive (working) time as well as by securing restedness. Those three target values are joined into the parameter of “time cost of travel”. Modelling durations and timings of sleep poses a main difficulty for this work. The algorithms’ basic validity is demonstrated by comparisons to actual documented journeys. An initial use-case selects optimum flight connections for a traveler. A second use-case compares world-wide travel in a subsonic business jet to a supersonic counterpart.</abstract>
+                <abstract xml:lang="de">Ein Modell wird vorgestellt, welches den vielfältig parametrisierten Verlauf speziell von Geschäftsreisen inklusive Schlaf- und Arbeitszeiten simuliert. Die motivierende Forschungsfrage ist die nach dem zeitlichen Nutzen von Hochgeschwindigkeitsflug für den einzelnen Passagier. Es wird angenommen, dass ein Zeitgewinn auf einer Reise neben einer kürzeren Dauer auch durch Bewahrung produktiver (Arbeits-)Zeit sowie durch Sicherstellung von Ausgeruhtheit erzielt wird. Diese drei Zielgrößen werden in dem Kennwert der „Zeit-Kosten einer Reise“ vereinigt. Die Modellierung von Dauern und Zeitpunkten des Schlafs stellt eine Hauptschwierigkeit der Arbeit dar. Die grundsätzliche Validität der Algorithmen wird anhand dokumentierter realer Reiseabläufe nachgewiesen. In einem ersten Anwendungsfall werden für einen Reisenden optimale Flugverbindungen ausgesucht. Ein zweiter vergleicht weltweite Reisen von Unterschall- mit denen von Überschall-Businessjets.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="degree-granting-institution">
+                    <type>degree-granting-institution</type>
+                    <name>Technische Universität Hamburg-Harburg, Institut für Lufttransportsysteme</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">1031358110</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Liebhardt, Bernd</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1107199948</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Gollnick, Volker</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">129040525</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Aeschbach, Daniel</contributor>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Fricke, Hartmut</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Bernd Liebhardt, Deutsches Zentrum für Luft- und Raumfahrt, Lufttransportsysteme, Hamburg</responsible>
+            <publicationInfo>
+                <issued>2016</issued>
+                <edition>Als Manuskript gedruckt</edition>
+                <publicationPlaces>
+                    <publicationPlace>Köln</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>DLR, Deutsches Zentrum für Luft- und Raumfahrt</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Forschungsbericht / DLR, Deutsches Zentrum für Luft- und Raumfahrt</title>
+                    <volumeNumber>2016, 25</volumeNumber>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2016</dateAccepted>
+                        <description>Dissertation, Technische Universität Hamburg</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Forschungsbericht / DLR, Deutsches Zentrum für Luft- und Raumfahrt</title>
+                <volumeNumber>2016, 25</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>WX 8300</code>
+                </classification>
+                <classification classificationID="106410660" classificationName="bk">
+                    <code>55.88</code>
+                    <entries>
+                        <entry>Luftverkehr, Raumfahrt</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>620 Ingenieurwissenschaften</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>620: Ingenieurwissenschaften</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>380</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>QR 840</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>387.742</code>
+                </classification>
+                <classification classificationID="106409719" classificationName="bk">
+                    <code>44.37</code>
+                    <entries>
+                        <entry>Physiologie</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>610</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>610</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>meda</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4006896-1" type="gnd">
+                    <subject xml:lang="de">Biorhythmus</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Passagierluftverkehr</subject>
+                </subject>
+                <subject id="4134191-0" type="gnd">
+                    <subject xml:lang="de">Geschäftsreise</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Zeitökonomie</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Gesundheit</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Theorie</subject>
+                </subject>
+                <subject id="4052580-6" type="gnd">
+                    <subject xml:lang="de">Schlaf</subject>
+                </subject>
+                <subject type="stw">
+                    <subject xml:lang="de">Geschäftsreisen</subject>
+                </subject>
+                <subject id="4017660-5" type="gnd">
+                    <subject xml:lang="de">Flugreise</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

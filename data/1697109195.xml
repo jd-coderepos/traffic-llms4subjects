@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1697109195</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1697109195">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2020-05-04</databaseDate>
+            <changeDate>2023-10-30</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>1697109195</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1697109195</identifier>
+                <identifier type="doi">10.3139/9783446468047</identifier>
+                <identifier type="firstid">KXP:1697109195</identifier>
+                <identifier type="isbn13">9783446468047</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://dx.doi.org/10.3139/9783446468047</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3723278914</identifier>
+                    <recallSign>OLR-Hanser</recallSign>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2020-07-10</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">bestellt</location>
+                    <loanIndicator>a</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (448 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Fahrzeugsicherheit und automatisiertes Fahren : Methoden der Signalverarbeitung und des maschinellen Lernens</title>
+            <abstracts>
+                <abstract xml:lang="de">Signalverarbeitung und maschinelles Lernen für das automatisierte Fahren Dieses Buch behandelt Methoden der Signalverarbeitung und des maschinellen Lernens, die in der integralen Fahrzeugsicherheit und für das automatisierte Fahren benötigt werden. Es vermittelt die mathematischen Grundlagen, um eigene Algorithmen für automatisierte Eingriffe in die Fahrzeugführung zu entwerfen und zu implementieren. Das Buch wendet sich an Ingenieure/-innen aus dem Bereich Automotive sowie an Studierende und Promovierende der Ingenieurwissenschaften. Folgende Themen werden behandelt: - Maschinelles Lernen (inklusive Deep Learning): Grundlagen und Anwendungen für das automatisierte Fahren, Convolutional Neural Networks, Random Forest, Autoencoder - Statistische Signalverarbeitung: Grundlagen der statistischen Filterung sowie Tracking von Objekten in der Fahrzeugumgebung, Kalman-Filter, Fusion von Sensordaten - Fahrzeugmodelle und Trajektorien: Fahrdynamikmodelle für die aktive Fahrzeugsicherheit und das automatisierte Fahren, Trajektorienplanung und Trajektorienfolgeregler, Kollisionsmodelle für die passive Fahrzeugsicherheit - Zeit- und Frequenzdarstellung von Signalen (z. B. Filterung von Beschleunigungssignalen in Airbag-Steuergeräten) - Mathematische Grundlagen für den Entwurf von Algorithmen: Lineare Algebra, Optimierung, Wahrscheinlichkeitstheorie und Lineare Systeme Die einzelnen Schwerpunkte werden durch Übungsaufgaben mit Musterlösungen veranschaulicht. Für Übungsaufgaben, bei denen es erforderlich ist, werden Matlab-Skripte zur Verfügung gestellt.</abstract>
+                <abstract xml:lang="de">Prof. Dr.-Ing. Michael Botsch ist Professor für Fahrzeugsicherheit und Signalverarbeitung an der Technischen Hochschule Ingolstadt. Zuvor war er als Entwicklungsingenieur im Bereich der integralen Fahrzeugsicherheit bei der AUDI AG tätig. Er vertritt in Forschung und Lehre Methoden der Signalverarbeitung und des maschinellen Lernens in Automotive-Anwendungen. Prof. Dr.-Ing. Wolfgang Utschick vertritt das Fachgebiet "Methoden der Signalverarbeitung" an der Fakultät für Elektrotechnik und Informationstechnik der Technischen Universität München. Seine Schwerpunkte in Lehre und Forschung liegen auf dem Gebiet der statistischen Signalverarbeitung, der mathematischen Optimierung und des maschinellen Lernens für drahtlose Sensor- und Kommunikationssysteme. In seinen jüngeren Forschungsarbeiten beschäftigt er sich zudem mit Fragestellungen der Fahrzeugsicherheit und dem automatisierten Fahren.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="publisher">
+                    <type>publisher</type>
+                    <name>Carl Hanser Verlag</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2007034-2</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Botsch, Michael</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">138831807</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Utschick, Wolfgang</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1200957954</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Michael Botsch, Wolfgang Utschick</responsible>
+            <publicationInfo>
+                <issued>2020</issued>
+                <edition>1. Auflage</edition>
+                <publicationPlaces>
+                    <publicationPlace>München</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Hanser</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-16-KIA</identifier>
+                    <identifier type="collectioncode">ZDB-16-HEB</identifier>
+                    <identifier type="collectioncode">ZDB-16-HED</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>Hanser eLibrary</title>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen</description>
+            <description>Campusweiter Zugriff (Universität Hannover. - Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Keine Weitergabe an Dritte. Kein systematisches Downloaden durch Robots.</description>
+            <description>Erworben aus Studienqualitätsmitteln</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Fahrzeugsicherheit und automatisiertes Fahren</title>
+                <identifier type="isbn13">9783446453265</identifier>
+                <identifier type="isbn">3446453261</identifier>
+                <identifier type="ppn">1665548177</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-16-KIA</identifier>
+                <identifier type="collectioncode">ZDB-16-HEB</identifier>
+                <identifier type="collectioncode">ZDB-16-HED</identifier>
+            </related>
+            <related type="parent">
+                <title>Hanser eLibrary</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>ZO 4650</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4660</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4250</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4260</code>
+                </classification>
+                <classification classificationID="106419390" classificationName="bk">
+                    <code>50.17</code>
+                    <entries>
+                        <entry>Sicherheitstechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>621.3</code>
+                </classification>
+                <classification classificationID="181570424" classificationName="bk">
+                    <code>55.24</code>
+                    <entries>
+                        <entry>Fahrzeugführung, Fahrtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4870</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4193754-5" type="gnd">
+                    <subject xml:lang="de">Maschinelles Lernen</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Automatisierungstechnik</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Mechatronik</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Automatisierungstechnik</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Mechatronik</subject>
+                </subject>
+                <subject id="7714938-5" type="gnd">
+                    <subject xml:lang="de">Autonomes Fahrzeug</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://dx.doi.org/10.3139/9783446468047</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

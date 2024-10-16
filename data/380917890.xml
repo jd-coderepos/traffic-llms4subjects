@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:380917890</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:380917890">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2004-03-10</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>380917890</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">380917890</identifier>
+                <identifier type="contract">16SV837</identifier>
+                <identifier type="firstid">GBV:380917890</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">638700167</identifier>
+                    <creationDate>2004-06-21</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">F 04 B 658</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">67 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>GEMIPAK Projekt: 16SV837, 1998 - 2002 : Laufzeit des Vorhabens: 01.10.1998 - 31.01.2002 (bzw. verlängert bis 30.06.2002) ; Berichtszeitraum: 01.10.1998 - 30.06.2002 ; Abschlussbericht zu Nr. 9.1</title>
+            <alternativeTitles>
+                <alternative>Aufbau-, Verbindungs- und Gehäusetechnologie für kostengünstige Mikromechaniksysteme höherer Leistung, Teilvorhaben: MST-Komponenten für FlipChip-Mechatroniksysteme höherer Leistung</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Microsystems, mechatronics components, motor control, assembly and packaging technologies</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Bayerische Motoren Werke</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2005475-0</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor>
+                    <contributor>Mair, Reinhold</contributor>
+                </contributor>
+            </contributors>
+            <responsible>BMW AG ... Reinhold Mair ...</responsible>
+            <publicationInfo>
+                <issued>2003</issued>
+                <publicationPlaces>
+                    <publicationPlace>München</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+            </publicationInfo>
+            <description>Ill., graph. Darst</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="10642131X" classificationName="bk">
+                    <code>52.88</code>
+                    <entries>
+                        <entry>Feinwerktechnik, Mechatronik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="181570645" classificationName="bk">
+                    <code>50.94</code>
+                    <entries>
+                        <entry>Mikrosystemtechnik, Nanotechnologie</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mas</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4019627-6" type="gnd">
+                    <subject xml:lang="de">Gedruckte Schaltung</subject>
+                </subject>
+                <subject id="4129183-9" type="gnd">
+                    <subject xml:lang="de">Verbindungstechnik</subject>
+                </subject>
+                <subject id="4238812-0" type="gnd">
+                    <subject xml:lang="de">Mechatronik</subject>
+                </subject>
+                <subject id="4165441-9" type="gnd">
+                    <subject xml:lang="de">Kraftfahrzeugtechnik</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1672288444</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1672288444">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2019-08-27</databaseDate>
+            <changeDate>2023-08-08</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1672288444</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1672288444</identifier>
+                <identifier type="firstid">KXP:1672288444</identifier>
+                <identifier type="isbn13">9789811208553</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1672288444.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3582847829</identifier>
+                    <creationDate>2020-02-21</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">A 20 B 19</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">x, 367 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Theory of satellite fragmentation in orbit</title>
+            <abstracts>
+                <abstract xml:lang="de">Satellite fragmentation and orbital debris -- Physical processes underlying satellite fragmentations -- Gabbard diagram of breakup fragments -- Velocity perturbations of breakup fragments -- Explosive fragmentation of rocket bodies -- Soviet anti-satellite tests -- Solwind P78-1 fragmentation : US anti-satellite test -- The Delta-180 collision experiment in space -- SPOT-1 Ariane rocket fragmentation -- Fengyun-1C fragmentation : Chinese anti-satellite test -- Irdium 33 and Cosmos 2251 collision in orbit -- Explosive fragmentation of Briz-M rockets.</abstract>
+                <abstract xml:lang="de">"For over half a century, an increasing number of satellites have fragmented in orbit, creating a large amount of hazardous orbital debris which threaten the safety of useful functioning satellites and space missions. This book discusses the theory behind the fragmentation followed by studies of actual cases. The book begins with a survey of satellite fragmentation in orbit and the consequent formation of orbital debris in chronological order. Next, the fundamental physical processes underlying satellite fragmentation are outlined and the methods of analyzing satellite fragmentation presented. The rest of the book presents analyses of the major satellite fragmentation events including accidental and intentional breakups, those due to explosions and collisions, as well as those belonging to the unknown category"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Tan, Arjun</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1205189661</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Reynolds, Robert C.</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Arjun Tan (Alabama A &amp; M University, USA), Robert C. Reynolds (STAR Dynamics, USA)</responsible>
+            <publicationInfo>
+                <issued>2020</issued>
+                <publicationPlaces>
+                    <publicationPlace>New Jersey</publicationPlace>
+                    <publicationPlace>London</publicationPlace>
+                    <publicationPlace>Singapore</publicationPlace>
+                    <publicationPlace>Beijing</publicationPlace>
+                    <publicationPlace>Shanghai</publicationPlace>
+                    <publicationPlace>Hong Kong</publicationPlace>
+                    <publicationPlace>Taipei</publicationPlace>
+                    <publicationPlace>Chennai</publicationPlace>
+                    <publicationPlace>Tokyo</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                    <publicationCountry code="GB" />
+                    <publicationCountry code="SG" />
+                    <publicationCountry code="CN" />
+                    <publicationCountry code="HK" />
+                    <publicationCountry code="TW" />
+                    <publicationCountry code="IN" />
+                    <publicationCountry code="JP" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>World Scientific</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>Theory of satellite fragmentation in orbit</title>
+                <identifier type="isbn13">9789811208577</identifier>
+                <identifier type="ppn">1700310313</identifier>
+                <identifier type="isbn13">9789811208560</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>TL1499</code>
+                </classification>
+                <classification classificationID="181570416" classificationName="bk">
+                    <code>55.64</code>
+                    <entries>
+                        <entry>Raumfahrzeugführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="106410334" classificationName="bk">
+                    <code>55.60</code>
+                    <entries>
+                        <entry>Raumfahrttechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.4/16</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Space debris</subject>
+                </subject>
+                <subject id="4136498-3" type="gnd">
+                    <subject xml:lang="de">Satellit</subject>
+                </subject>
+                <subject id="4185818-9" type="gnd">
+                    <subject xml:lang="de">Trägerrakete</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Artificial satellites</subject>
+                </subject>
+                <subject id="4322449-0" type="gnd">
+                    <subject xml:lang="de">Weltraummüll</subject>
+                </subject>
+                <subject id="4238276-2" type="gnd">
+                    <subject xml:lang="de">Umlaufbahn</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:726038016</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:726038016">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2012-09-18</databaseDate>
+            <changeDate>2022-04-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>726038016</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">726038016</identifier>
+                <identifier type="ean">9780674050914</identifier>
+                <identifier type="firstid">GBV:726038016</identifier>
+                <identifier type="isbn13">9780674050914</identifier>
+                <identifier type="isbn">0674050916</identifier>
+            </identifiers>
+            <locations>
+                <location type="library">89</location>
+                <location subtype="toc" type="url">https://swbplus.bsz-bw.de/bsz381727866inh.htm</location>
+                <location subtype="review" type="url">https://www.hsozkult.de/publicationreview/id/rezbuecher-20572</location>
+                <location subtype="miscellaneous" type="url">http://www.h-net.org/reviews/showrev.php?id=41013</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1369809840</identifier>
+                    <creationDate>2013-06-19</creationDate>
+                    <selectionKey>ksg</selectionKey>
+                    <location type="libraryDepartment">17</location>
+                    <location type="tibLocationCode">FBS Mag</location>
+                    <location type="tibShelfmark">Hist 6199/8873</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">406 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>The people's car : a global history of the Volkswagen Beetle</title>
+            <abstracts>
+                <abstract xml:lang="de">"The People's Car is a transnational cultural history tracing the Beetle from its origins in Nazi Germany to its role in the postwar West German "economic miracle" to its popularity in midcentury Europe and the U.S., second career in Mexico and Latin America, and revival in the late 1990s"--Provided by publisher</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Rieger, Bernhard</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">13254833X</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Bernhard Rieger</responsible>
+            <publicationInfo>
+                <issued>2013</issued>
+                <publicationPlaces>
+                    <publicationPlace>Cambridge, Mass. [u.a.]</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Harvard Univ. Press</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausg.</label>
+                <title>The people's car</title>
+                <identifier type="ppn">1652362096</identifier>
+                <identifier type="isbn13">9780674075733</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.2222</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.222/2</code>
+                </classification>
+                <classification classificationID="181569620" classificationName="bk">
+                    <code>15.07</code>
+                    <entries>
+                        <entry>Kulturgeschichte</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="181569701" classificationName="bk">
+                    <code>15.43</code>
+                    <entries>
+                        <entry>Deutsche Geschichte des 19. Jahrhunderts bis zur Gegenwart</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4420</code>
+                </classification>
+                <classification classificationID="106414992" classificationName="bk">
+                    <code>55.21</code>
+                    <entries>
+                        <entry>Kraftfahrzeuge</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ssg">
+                    <code>19,2</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>NW 3350</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>NW 6060</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL215.V6</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>his</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Volkswagen Beetle automobile</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>History</subject>
+                </subject>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte</subject>
+                </subject>
+                <subject id="4063881-9" type="gnd">
+                    <subject xml:lang="de">VW Käfer</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Volkswagen Beetle automobile</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

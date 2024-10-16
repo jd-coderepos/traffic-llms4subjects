@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:623004275</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:623004275">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2010-04-06</databaseDate>
+            <changeDate>2023-03-24</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>623004275</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">623004275</identifier>
+                <identifier type="firstid">GBV:623004275</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">http://nbn-resolving.de/urn:nbn:de:gbv:ilm1-2009000324</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1236817001</identifier>
+                    <creationDate>2011-04-06</creationDate>
+                    <selectionKey>zdt</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online-Ressource (PDF-Datei: XXX, 218 S., 16,56 MB)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Ein Beitrag zur Steuerung von mobilen Systemen auf Grundlage der Bioorientierten Adaptiven Autonomie</title>
+            <abstracts>
+                <abstract xml:lang="de">Die Forschung im Bereich mobiler Systeme hat in den letzten Jahren ständig an Bedeutung gewonnen. Als Ziel steht häufig das Erlangen von Autonomie im Vordergrund. Unterschiedliche Vorstellungen von "Autonomie" erschweren dabei eine notwendige interdisziplinäre Zusammenarbeit von Spezialisten unterschiedlicher Fachrichtungen. Die vorliegende Dissertation schlägt mit der Bioorientierten Adaptiven Autonomie ein neuartiges Autonomie-Konzept vor. Indem Autonomie als variabler Zustand in einem Spektrum zwischen vollautonom und teleoperiert betrachtet wird, lassen sich alle vorhandenen Vorstellungen von Autonomie einordnen. Auch beschreibt das Konzept die Möglichkeit, den Autonomiegrad von Systemen durch einen Softwareadapter ständig den aktuellen Gegebenheiten anzupassen. Damit kann ein autonomes System auf Daten oder Rechenkapazitäten von außerhalb zugreifen. Auch kann ein Mensch in die Missionsausführung autonomer Systeme eingebunden werden, da die juristische Verantwortung immer bei einem Menschen liegen muss. Es wird herausgearbeitet, dass nicht das Erlangen eines möglichst hohen Autonomiegrades das Ziel sein sollte, sondern eines optimal angepassten. Besonders effizient ist das neuartige Autonomiekonzept bei der Realisierung von Teams aus unbemannten Systemen. Hier stehen die Zielstellungen "Autonomie" und "Kooperation" im klaren Widerspruch zueinander. Durch das Senken der einzelnen Autonomiegrade kann auf verschiedene Weisen Teamverhalten erzeugt werden. Im Rahmen dieser Arbeit werden unterschiedliche Umsetzungen von Teams aus mobilen Systemen beschrieben. Es werden verschiedene wissenschaftliche Methoden angewandt und verglichen. Als neuartig wird ein hybrider Ansatz mit analytischen, regel- und zustandsbasierten Umsetzungen angegeben und mit stochastikorientierten Verfahren sowie einem aus der Literatur entnommenen analytischen Ansatz verglichen. Ein wertender Vergleich der unterschiedlichen Realisierungsmöglichkeiten wird besonders im Hinblick auf praxistaugliche Anwendungen vorgenommen. Die vorgestellten Aussagen werden durch verschiedene Simulationen veranschaulicht, welche auch zur Verdeutlichung des Vergleichs der unterschiedlichen Teamstrategien herangezogen werden. Als Ausblick wird auf verschiedene Anwendungsmöglichkeiten hingewiesen, bei welchen gegenwärtig unter Mitarbeit des Autors das beschriebene Autonomiekonzept in die Praxis übertragen wird.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Glotzbach, Thomas</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">141007869</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor>
+                    <contributor>Wernstedt, Jürgen</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">130244864</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor>
+                    <contributor>Ament, Christoph</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1058278150</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Cuno, Bernd</contributor>
+                </contributor>
+            </contributors>
+            <responsible>von Thomas Glotzbach</responsible>
+            <publicationInfo>
+                <issued>2010</issued>
+                <publicationPlaces>
+                    <publicationPlace>Ilmenau</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Univ.-Verl. Ilmenau</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Ilmenau, Techn. Univ., Diss., 2009</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+                <publicationIDInfo>Parallel als Druckausg. erschienen</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druckausg.</label>
+                <title>Ein Beitrag zur Steuerung von mobilen Systemen auf Grundlage der Bioorientierten Adaptiven Autonomie</title>
+                <identifier type="isbn13">9783939473688</identifier>
+                <identifier type="ppn">622708856</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.89263</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>a</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4267628-9" type="gnd">
+                    <subject xml:lang="de">Bahnplanung</subject>
+                </subject>
+                <subject id="7658899-3" type="gnd">
+                    <subject xml:lang="de">Unbemanntes Fahrzeug</subject>
+                </subject>
+                <subject id="4800907-6" type="gnd">
+                    <subject xml:lang="de">Kollisionserkennung</subject>
+                </subject>
+                <subject id="4191911-7" type="gnd">
+                    <subject xml:lang="de">Mobiler Roboter</subject>
+                </subject>
+                <subject id="4793676-9" type="gnd">
+                    <subject xml:lang="de">Schwarmintelligenz</subject>
+                </subject>
+                <subject id="4016862-1" type="gnd">
+                    <subject xml:lang="de">Fernsteuerung</subject>
+                </subject>
+                <subject id="4125909-9" type="gnd">
+                    <subject xml:lang="de">Mensch-Maschine-Kommunikation</subject>
+                </subject>
+                <subject id="4304075-5" type="gnd">
+                    <subject xml:lang="de">Autonomer Roboter</subject>
+                </subject>
+                <subject id="7569134-6" type="gnd">
+                    <subject xml:lang="de">Lokalisierung (Robotik)</subject>
+                </subject>
+                <subject id="4734038-1" type="gnd">
+                    <subject xml:lang="de">Mehrrobotersystem</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://nbn-resolving.de/urn:nbn:de:gbv:ilm1-2009000324</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

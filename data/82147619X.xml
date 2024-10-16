@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:82147619X</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:82147619X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2015-04-01</databaseDate>
+            <changeDate>2022-08-08</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>82147619X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">82147619X</identifier>
+                <identifier type="doi">10.2478/9783110401509</identifier>
+                <identifier type="ean">9783110401509</identifier>
+                <identifier type="firstid">GBV:82147619X</identifier>
+                <identifier type="isbn13">9783110401493</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/bowker/toc/9783110401493.pdf</location>
+                <location subtype="cover" type="url">http://www.degruyter.com/doc/cover/9783110401509.jpg</location>
+                <location subtype="fulltext" type="url">http://dx.doi.org/10.2478/9783110401509</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1541065603</identifier>
+                    <recallSign>OLR-DG-OA</recallSign>
+                    <creationDate>2015-05-15</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>oa</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online-Ressource (112 S.)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Marine Propulsion Simulation : Methods and Results</title>
+            <abstracts>
+                <abstract xml:lang="de">Main description: This book describes the main steps in developing a multi-physics simulation platform, representing the dynamics of a twin screw ship in six degrees of freedom. The interaction between the propulsion system and automation effects is also considered. The presented simulation methodology can be used in the preliminary ship design to analyse propulsion and control system action. Further applications can concern design optimization and crew training.</abstract>
+                <abstract xml:lang="de">Biographical note: Michele Martelli, PhD, is lecturer at Genova University. His research interests concern ship propulsion and numerical simulation.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Martelli, Michele</contributor>
+                </contributor>
+            </contributors>
+            <publicationInfo>
+                <issued>2014</issued>
+                <publicationPlaces>
+                    <publicationPlace>Warschau/Berlin</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>De Gruyter Open</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-deGruyter-alles</identifier>
+                    <identifier type="collectioncode">ZDB-23-DGG</identifier>
+                    <identifier type="collectioncode">ZDB-23-GOA</identifier>
+                </isPartOf>
+            </additionalDocumentInfo>
+            <description>Ill.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-deGruyter-alles</identifier>
+                <identifier type="collectioncode">ZDB-23-DGG</identifier>
+                <identifier type="collectioncode">ZDB-23-GOA</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 6250</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4055072-2" type="gnd">
+                    <subject xml:lang="de">Simulation</subject>
+                </subject>
+                <subject id="4017975-8" type="gnd">
+                    <subject xml:lang="de">Fortbewegung</subject>
+                </subject>
+                <subject id="4052385-8" type="gnd">
+                    <subject xml:lang="de">Schiff</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://dx.doi.org/10.2478/9783110401509</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

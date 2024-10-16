@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:103639817X</identifier><datestamp>2024-06-14</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:103639817X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2018-11-05</databaseDate>
+            <changeDate>2023-03-09</changeDate>
+            <ftxCreationDate>2024-06-14</ftxCreationDate>
+            <documentID>103639817X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">103639817X</identifier>
+                <identifier type="doi">10.1007/978-3-658-23761-5</identifier>
+                <identifier type="firstid">BVB:BV045238942</identifier>
+                <identifier type="isbn13">9783658237615</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://doi.org/10.1007/978-3-658-23761-5</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1825060657</identifier>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2018-11-08</creationDate>
+                    <selectionKey>zesp</selectionKey>
+                    <loanIndicator>s</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online-Ressource (XXI, 173 S. 62 Abb., 31 Abb. in Farbe, online resource)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Untersuchung zur Modellierung von chinesischem Fahrverhalten auf Autobahnen für den Test pilotierter Fahrfunktionen</title>
+            <abstracts>
+                <abstract xml:lang="de">Marc Semrau hat das ChAoS Framework zur Simulation von menschlichem Fahrverhalten geschaffen, es kalibriert und validiert. Damit ermöglicht er die virtuelle Entwicklung pilotierter Fahrfunktionen. Sein Fokus liegt dabei auf chinesischem Fahrverhalten bzw. dem Verkehr in China und auf einer Methodik zur gezielten Erweiterung einer Verkehrssimulation für das virtuelle Testen von Fahrfunktionen in verschiedenen Regionen. Um das für den chinesischen Verkehr spezifische Abdrängverhalten abzubilden, hat der Autor ein Sublane-Modell entwickelt und das Abdrängverhalten kalibriert. Die anschließend durchgeführte Mehr-Ebenen-Validierung zeigt neben der Validität auch die Notwendigkeit der Modellerweiterungen. Der Inhalt ChAoS Simulationsframework Methodik zur gezielten Erweiterung von Fahrermodellen Planung, Durchführung und Auswertung von Realfahrtstudien Erweiterung und Validierung von Fahrermodellen Test der Autopilotfunktion im Simulationsframework Die Zielgruppen Dozierende und Studierende der Fachgebiete Verkehrsingenieurwesen, Fahrzeugtechnik und Elektrotechnik Experten aus den Gebieten Verkehrsforschung, pilotiertes und automatisiertes Fahren, virtuelle Tests und Absicherung Der Autor Marc Semrau promovierte im Bereich Szenarieninterpretation und Absicherung in der Forschung eines deutschen Automobilkonzerns im Bereich automatisches Fahren. Aktuell arbeitet er in der technischen Entwicklung an neuen Simulationstechnologien für den virtuellen Fahrversuch und virtuelle Absicherung</abstract>
+                <abstract xml:lang="de">ChAoS Simulationsframework -- Methodik zur gezielten Erweiterung von Fahrermodellen -- Planung, Durchführung und Auswertung von Realfahrtstudien -- Erweiterung und Validierung von Fahrermodellen -- Test der Autopilotfunktion im Simulationsframework</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Semrau, Marc</contributor>
+                </contributor>
+            </contributors>
+            <responsible>von Marc Semrau</responsible>
+            <publicationInfo>
+                <issued>2018</issued>
+                <publicationPlaces>
+                    <publicationPlace>Wiesbaden</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer Fachmedien Wiesbaden</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-2-SEB</identifier>
+                    <identifier type="collectioncode">ZDB-2-STI</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>AutoUni – Schriftenreihe</title>
+                    <volumeNumber>130</volumeNumber>
+                </journalInfo>
+                <journalInfo>
+                    <title>SpringerLink</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>Bücher</title>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>Campusweiter Zugriff (Universität Hannover) - Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Keine Weitergabe an Dritte. Kein systematisches Downloaden durch Robots.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Untersuchung zur Modellierung von chinesischem Fahrverhalten auf Autobahnen für den Test pilotierter Fahrfunktionen</title>
+                <identifier type="ppn">1032572930</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-2-SEB</identifier>
+                <identifier type="collectioncode">ZDB-2-STI</identifier>
+            </related>
+            <related type="parent">
+                <title>AutoUni – Schriftenreihe</title>
+                <volumeNumber>130</volumeNumber>
+            </related>
+            <related type="parent">
+                <title>SpringerLink</title>
+            </related>
+            <related type="parent">
+                <title>Bücher</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.2</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL1-483</code>
+                </classification>
+                <classification classificationID="181570424" classificationName="bk">
+                    <code>55.24</code>
+                    <entries>
+                        <entry>Fahrzeugführung, Fahrtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Engineering</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Robotics.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Automotive Engineering</subject>
+                </subject>
+                <subject id="4062902-8" type="gnd">
+                    <subject xml:lang="de">Verkehrsablauf</subject>
+                </subject>
+                <subject id="7714938-5" type="gnd">
+                    <subject xml:lang="de">Autonomes Fahrzeug</subject>
+                </subject>
+                <subject id="4003936-5" type="gnd">
+                    <subject xml:lang="de">Autobahn</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Civil engineering</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Automation.</subject>
+                </subject>
+                <subject id="4593441-1" type="gnd">
+                    <subject xml:lang="de">Verkehrsmodell</subject>
+                </subject>
+                <subject id="4132165-0" type="gnd">
+                    <subject xml:lang="de">Fahrerverhalten</subject>
+                </subject>
+                <subject id="4197414-1" type="gnd">
+                    <subject xml:lang="de">Fahrstreifenwechsel</subject>
+                </subject>
+                <subject id="4153572-8" type="gnd">
+                    <subject xml:lang="de">Fahrsimulator</subject>
+                </subject>
+                <subject id="4690875-4" type="gnd">
+                    <subject xml:lang="de">Hardware-in-the-loop</subject>
+                </subject>
+                <subject id="4009937-4" type="gnd">
+                    <subject xml:lang="de">China</subject>
+                </subject>
+                <subject id="4243688-6" type="gnd">
+                    <subject xml:lang="de">Fahrtest</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://doi.org/10.1007/978-3-658-23761-5</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

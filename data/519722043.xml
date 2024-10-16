@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:519722043</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:519722043">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2006-11-08</databaseDate>
+            <changeDate>2023-06-14</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>519722043</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">519722043</identifier>
+                <identifier type="ean">9783877438176</identifier>
+                <identifier type="firstid">GBV:519722043</identifier>
+                <identifier type="isbn">3877438172</identifier>
+                <identifier type="isbn13">9783877438176</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/hebis-darmstadt/toc/18311437X.pdf</location>
+                <location subtype="description" type="url">http://deposit.d-nb.de/cgi-bin/dokserv?id=2863141&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</location>
+                <location subtype="description" type="url">http://www.seehafen-verlag.de/de/buecher/buch_ausgabe.php?objektkode=mtp&amp;id=187</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">809349981</identifier>
+                    <creationDate>2007-12-12</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 07 B 2767</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">VI, 134 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Schiffstechnik und Schiffbautechnologie : ein Leitfaden für Aus- und Weiterbildung und für alle am Schiffbau Interessierten</title>
+            <abstracts>
+                <abstract xml:lang="de">Großformatige Fachkunde für Ausbildung und Berufspraxis mit Informationen zur Theorie (physikalische und rechtliche Grundlagen, Schiffsentwurf), Technik (Aufbau, Ausrüstung, Antrieb), Bautechnik (Montage, Hebeeinrichtungen) des Schiffes. Eng gedruckt, aber durch zahlreiche Skizzen und Farbfotos aufgelockert, sodass ein anschaulicher Überblick vermittelt wird. Kommt ansatzweise auch für interessierte Laien infrage, wendet sich in 1. Linie an den oben genannten Fachleserkreis. Im Anhang Sachregister und Fachwortverzeichnis (deutsch und englisch). Ein aktueller Vergleichstitel ist nicht bekannt. (3 S)</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Verband für Schiffbau und Meerestechnik</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">103061-9</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor>
+                    <contributor>Mayer, Claus F.</contributor>
+                </contributor>
+            </contributors>
+            <responsible>hrsg. vom Verband für Schiffbau und Meerestechnik e.V., Hamburg. Bearb. von Claus F. Mayer und Ralf S. Marquardt</responsible>
+            <publicationInfo>
+                <issued>2006</issued>
+                <edition>2., überarb. und erw. Aufl.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Hamburg</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Seehafen-Verl.</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>30 cm</description>
+            <description>zahlr. Ill. und graph. Darst.</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420577" classificationName="bk">
+                    <code>55.40</code>
+                    <entries>
+                        <entry>Schiffstechnik, Schiffbau</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 6200</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4052397-4" type="gnd">
+                    <subject xml:lang="de">Schiffbau</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Schiffstechnik</subject>
+                </subject>
+                <subject id="4179595-7" type="gnd">
+                    <subject xml:lang="de">Schiffstechnik</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Schiffbau</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

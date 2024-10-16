@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1652050566</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1652050566">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2013-02-25</databaseDate>
+            <changeDate>2022-07-26</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>1652050566</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1652050566</identifier>
+                <identifier type="doi">10.1049/PBCE044E</identifier>
+                <identifier type="firstid">BSZ:379101890</identifier>
+                <identifier type="isbn13">9781849193443</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">http://dx.doi.org/10.1049/PBCE044E</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1490062203</identifier>
+                    <recallSign>OLR-IET</recallSign>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2014-07-20</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (vi, 345 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Knowledge-based systems for industrial control</title>
+            <abstracts>
+                <abstract xml:lang="de">The book has four parts. The first part deals with knowledge based process control. The second part discusses artificial intelligence. The third part discusses the applications of knowledge expertise and the fourth part deals in deductive control issues</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>McGhee, Joseph</contributor>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Grimble, Michael J.</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">105574892X</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Mowforth, Peter</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1158117213</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>edited by J. McGhee, M.J. Grimble &amp; P. Mowforth</responsible>
+            <publicationInfo>
+                <issued>1990</issued>
+                <publicationPlaces>
+                    <publicationPlace>London</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Peter Peregrinus Ltd. on behalf of the Institution of Electrical Engineers</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-100-CRS</identifier>
+                    <identifier type="collectioncode">ZDB-100-IET</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>IEE control engineering series</title>
+                    <volumeNumber>43</volumeNumber>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen</description>
+            <description>Campusweiter Zugriff (Universität Hannover) - Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Keine Weitergabe an Dritte. Kein systematisches Downloaden durch Robots.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druckausgabe</label>
+                <title>Knowledge-based systems for industrial control</title>
+                <identifier type="ppn">01971016X</identifier>
+                <identifier type="isbn">0863412211</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-100-CRS</identifier>
+                <identifier type="collectioncode">ZDB-100-IET</identifier>
+            </related>
+            <related type="parent">
+                <title>IEE control engineering series</title>
+                <volumeNumber>43</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.8</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>670.4275633</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mas</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4194567-0" type="gnd">
+                    <subject xml:lang="de">Automatisierungstechnik</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Process control</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Engineering. Design. Applications of expert systems</subject>
+                </subject>
+                <subject id="4197554-6" type="gnd">
+                    <subject xml:lang="de">Wissensbasiertes System</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Expert systems (Computer science)</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">process control</subject>
+                </subject>
+                <subject id="4047594-3" type="gnd">
+                    <subject xml:lang="de">Prozesssteuerung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Expert systems (Computer science)</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">artificial intelligence</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">knowledge based systems</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Control</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Computer-aided design</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Artificial intelligence</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">multivariable control systems</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://dx.doi.org/10.1049/PBCE044E</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

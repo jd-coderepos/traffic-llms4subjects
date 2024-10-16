@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:118053965</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:118053965">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1992-12-24</databaseDate>
+            <changeDate>2024-03-28</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>118053965</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">118053965</identifier>
+                <identifier type="firstid">GBV:118053965</identifier>
+                <identifier type="isbn">3910192068</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">10050051X</identifier>
+                    <creationDate>1993-03-05</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">HC 5925</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">128 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Vom Lilienthalgleiter zur fliegenden Annelise</title>
+            <abstracts>
+                <abstract xml:lang="de">Junkers-Flugzeug- u. Motorenwerke</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Miertsch, Wolfgang</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Wolfgang Miertsch</responsible>
+            <publicationInfo>
+                <issued>1991</issued>
+                <edition>1. Aufl.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Dessau</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Anhaltische Verl.-Ges.</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>30 cm</description>
+            <description>zahlr. Ill., graph. Darst</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>ZO 7300</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>19</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>19</code>
+                </classification>
+                <classification classificationName="loksys">
+                    <code>ver 782-Junk</code>
+                </classification>
+                <classification classificationID="106420593" classificationName="bk">
+                    <code>55.51</code>
+                    <entries>
+                        <entry>Flugzeuge</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>36</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.13/00943</code>
+                </classification>
+                <classification classificationName="loksys">
+                    <code>tec 25</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Junkers, Hugo</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Luftfahrttechnik</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Geschichte 1892-1919</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Luftfahrzeug</subject>
+                </subject>
+                <subject id="4044874-5" type="gnd">
+                    <subject xml:lang="de">Patent</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Flugzeug</subject>
+                </subject>
+                <subject id="90509-4" subtype="corporate-body" type="gnd">
+                    <subject xml:lang="de">Junkers-Flugzeug- und Motorenwerke</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Flugzeugbau</subject>
+                </subject>
+                <subject id="118776525" subtype="person" type="gnd">
+                    <subject xml:lang="de">Junkers, Hugo 1859-1935</subject>
+                </subject>
+                <subject id="4017672-1" type="gnd">
+                    <subject xml:lang="de">Flugzeug</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Junkers-Flugzeug- und Motorenwerke</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Patent</subject>
+                </subject>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte 1892-1919</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:68964616X</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:68964616X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2012-04-03</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>68964616X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">68964616X</identifier>
+                <identifier type="firstid">GBV:68964616X</identifier>
+                <identifier type="isbn13">9781119952282</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/68964616x.pdf</location>
+                <location subtype="cover" type="url">http://catalogimages.wiley.com/images/db/jimages/9781119952282.jpg</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1302791338</identifier>
+                    <creationDate>2013-04-10</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 12 B 6341</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XXII, 317 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Theory of lift : introductory computational aerodynamics with MATLAB/OCTAVE</title>
+            <abstracts>
+                <abstract xml:lang="de">"Provides a clear introduction to aerodynamics based on a line and panel methods"--</abstract>
+                <abstract xml:lang="de">"Accessible introduction to aerodynamics using a unique computational approach based on widely available MATLAB software tools. Based on the author's years of experience teaching aerodynamics to students, he has developed an approach combining the use of widely available MATLAB commercial code (also compatible with Octave GNU open source code) with clear narrative explanations of the concepts that simplifies the understanding of aerodynamics without sacrificing the mathematical underpinnings or leaving the reader overwhelmed with complex formulas. The ability of the reader to download and run the code examples makes this an ideal self-learning tool, as well as a valuable course text.The choice of compatible MATLAB/Octave code ensures anyone can run the examples - either using open-source GNU Octave software as many consultancies and small firms do, or using the MATLAB commercial application (including the student edition) which is used widely in industry and is almost ubiquitous in academia. The code has been carefully compiled and checked for compatibility with both applications"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>McBain, G. D.</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1033383627</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>G. D. McBain</responsible>
+            <publicationInfo>
+                <issued>2012</issued>
+                <publicationPlaces>
+                    <publicationPlace>Chichester</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Wiley</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Aerospace series</title>
+                </journalInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausg.</label>
+                <title>Theory of Lift</title>
+                <identifier type="isbn">1118346165</identifier>
+                <identifier type="isbn">111995228X</identifier>
+                <identifier type="isbn13">9781118346167</identifier>
+                <identifier type="ppn">737208333</identifier>
+                <identifier type="isbn13">9781119952282</identifier>
+            </related>
+            <related type="parent">
+                <title>Aerospace series</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106419498" classificationName="bk">
+                    <code>50.34</code>
+                    <entries>
+                        <entry>Gasdynamik, Aerodynamik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>TL574.L5</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>TEC002000</code>
+                </classification>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 7230</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>629.132/33028553</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>phy</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Aerodynamics</subject>
+                </subject>
+                <subject id="4000589-6" type="gnd">
+                    <subject xml:lang="de">Aerodynamik</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">MATLAB</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Lift (Aerodynamics)</subject>
+                </subject>
+                <subject id="4137274-8" type="gnd">
+                    <subject xml:lang="de">Auftrieb</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:558393756</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:558393756">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2008-02-15</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>558393756</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>C</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">558393756</identifier>
+                <identifier type="firstid">GBV:558393756</identifier>
+                <identifier type="isbn13">9788187966760</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">86010186X</identifier>
+                    <creationDate>2008-04-23</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 08 B 3251</location>
+                    <loanIndicator>f</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">X, 218 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Energising indian aerospace industry : [proceedings of the seminar] ; [... an international conference on April 11 - 12, 2006, in New Delhi]</title>
+            <abstracts>
+                <abstract xml:lang="de">Contributed papers presented at the International Conference on Energising the Indian Aerospace Industry, held on April 11-12, 2006 in New Delhi</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Confederation of Indian Industry</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">5129662-7</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor>
+                    <contributor>Singh, Jasjit</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Jasjit Singh, ed. [Organised in collab. with the Confederation of Indian Industries (CII) ...]</responsible>
+            <publicationInfo>
+                <issued>2007</issued>
+                <publicationPlaces>
+                    <publicationPlace>New Delhi</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="IN" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>KW Publ.</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <conferenceInfos>
+                    <conferenceInfo>
+                        <name>International conference</name>
+                        <affiliations>
+                            <affiliation>
+                                <name />
+                            </affiliation>
+                        </affiliations>
+                        <dates>
+                            <date>2006-04-11</date>
+                            <date>2006-04-12</date>
+                        </dates>
+                        <places>
+                            <place>New Delhi</place>
+                        </places>
+                        <description>International conference (New Delhi) : 2006.04.11-12</description>
+                    </conferenceInfo>
+                </conferenceInfos>
+            </additionalDocumentInfo>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="loc">
+                    <code>HD9511.5.I42</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4026722-2" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Indien</subject>
+                </subject>
+                <subject id="4036560-8" type="gnd">
+                    <subject xml:lang="de">Luftfahrtindustrie</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Aerospace industries</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+            <property name="displayKLD">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

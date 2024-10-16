@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:326858938</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:326858938">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2001-03-20</databaseDate>
+            <changeDate>2024-01-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>326858938</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>R</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">326858938</identifier>
+                <identifier type="contract">20A9503G</identifier>
+                <identifier type="contract">01004173</identifier>
+                <identifier type="firstid">GBV:326858938</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="miscellaneous" type="url">https://edocs.tib.eu/files/e001/326858938l.pdf</location>
+                <location mimetype="application/pdf" subtype="fulltext" type="url">https://edocs.tib.eu/files/e001/326858938.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">474888959</identifier>
+                    <creationDate>2001-03-20</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online Ressource, 78 p. = 3178 Kb., text and images</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Flugzustands- und Aeroelastikregelung (AP 6) im Verbundvorhaben "Dynamik des flexiblen Flugzeugs" : Abschlußbericht 1999 zum Teilprojekt ; Leitkonzept: Megaliner 2010 ; Laufzeit, Berichtszeitraum: 01.01.1996 bis 31.12.1999</title>
+            <alternativeTitles>
+                <alternative>Dynamik des Flexiblen Flugzeugs</alternative>
+                <alternative>Final report "Dynamics of flexible aircraft", WP 6</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Flexible aircraft, aeroelasticity, turbulence, robust control, H-infinity, simulation</abstract>
+            </abstracts>
+            <contributors>
+                <contributor>
+                    <contributor>Hanel, Martin</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Teufel, Patrick</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Well, K. H.</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Autoren: M. Hanel; P. Teufel; K. H. Well</responsible>
+            <publicationInfo>
+                <issued>2000</issued>
+                <edition>[Elektronische Ressource]</edition>
+                <publicationPlaces>
+                    <publicationPlace>Stuttgart</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Univ., Inst. für Flugmechanik und Flugregelung</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-296-TTN</identifier>
+                </isPartOf>
+                <publicationIDInfo>nIndex. - Contract BMBF 20A9503G. - Joint project no. 01004173. - Title of the Engl. summary: Final report "Dynamics of flexible aircraft", WP 6</publicationIDInfo>
+                <publicationIDInfo>Differences between the printed and electronic version of the document are possible</publicationIDInfo>
+                <publicationIDInfo>Also available as printed version</publicationIDInfo>
+            </additionalDocumentInfo>
+            <hiddenSearchTerm>Flugzeuges</hiddenSearchTerm>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-296-TTN</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420585" classificationName="bk">
+                    <code>55.50</code>
+                    <entries>
+                        <entry>Luftfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="sigle">
+                    <code>01C</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4154760-3" type="gnd">
+                    <subject xml:lang="de">Flugmechanik</subject>
+                </subject>
+                <subject id="4399238-9" type="gnd">
+                    <subject xml:lang="de">Flexible Struktur</subject>
+                </subject>
+                <subject id="4022223-8" type="gnd">
+                    <subject xml:lang="de">Großraumflugzeug</subject>
+                </subject>
+                <subject id="4202469-9" type="gnd">
+                    <subject xml:lang="de">Aeroelastizität</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">default</property>
+            <property name="displaySubscriberAccess">https://edocs.tib.eu/files/e001/326858938.pdf</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

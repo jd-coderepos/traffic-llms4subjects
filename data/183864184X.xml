@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:183864184X</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:183864184X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2023-03-08</databaseDate>
+            <changeDate>2024-01-23</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>183864184X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">183864184X</identifier>
+                <identifier type="ean">9783844090161</identifier>
+                <identifier type="firstid">DNB:1282319795</identifier>
+                <identifier type="isbn13">9783844090161</identifier>
+                <identifier type="isbn">3844090169</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/183864184X.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4370484790</identifier>
+                    <creationDate>2023-08-28</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">U 23 B 543</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xii, 149 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Personalisierte Klassifizierung des Fahrstils durch maschinelles Lernen</title>
+            <abstracts>
+                <abstract xml:lang="de">Eine Möglichkeit, um die Sicherheit von Fahrzeugen zu steigern, ist der Einsatz von Fahrerassistenzsystemen. Diese unterliegen heute jedoch häufig einer geringen Nutzerakzeptanz, da die individuell verschiedenen Bedürfnisse von FahrerInnen unterschätzt werden. Um den Nutzungsgrad dieser Systeme zu erhöhen und somit deren Potenziale voll auszuschöpfen, wird in dieser Dissertation eine personalisierte Fahrstilklassifizierung dargestellt. Als Initialisierung für die Personalisierung erfolgt zunächst die Umsetzung eines regelbasierten Klassifizierungsalgorithmus. So wird der Fahrstil anhand von fahrdynamischen Größen in drei Klassen klassifiziert. Der gewählte Ansatz liefert eine robuste Klassifizierung auf Basis einer geringen Menge einzustellender Parameter, sodass eine hohe praktische Nutzbarkeit gegeben ist. Für die Umsetzung der Personalisierung werden in dieser Arbeit Methoden aus dem Bereich des maschinellen Lernens angewandt. So kommt ein neuronales Netz zum Einsatz, das zunächst auf Grundlage der regelbasierten Klassifizierung initialisiert wird. Die Personalisierung basiert auf individuellen Fahrer-Fahrzeug-Interaktionen, welche in einem inkrementellen Transfer Learning herangezogen werden. Die Potenziale der dargestellten Methodik werden in einer ProbandInnenenstudie im realen Feld aufgezeigt. Die Auswertung ergibt eine individuelle Verbesserung der Klassifizierung für die ProbandInnen von im Mittel +32 %</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="publisher">
+                    <type>publisher</type>
+                    <name>Shaker Verlag</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">1064118135</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+                <corporateCreator type="degree-granting-institution">
+                    <type>degree-granting-institution</type>
+                    <name>Technische Universität Darmstadt</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2165342-2</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Jardin, Philippe</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1277076766</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Philippe Jardin</responsible>
+            <publicationInfo>
+                <issued>2023</issued>
+                <publicationPlaces>
+                    <publicationPlace>Düren</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Shaker Verlag</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Forschungsberichte Mechatronische Systeme im Maschinenbau</title>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2023</dateAccepted>
+                        <description>Dissertation, Technische Universität Darmstadt</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>21 cm x 14.8 cm, 245 g</description>
+            <description>Illustrationen, Diagramme, Karten</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Forschungsberichte Mechatronische Systeme im Maschinenbau</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="rvk">
+                    <code>ZO 4650</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationID="10641240X" classificationName="bk">
+                    <code>54.72</code>
+                    <entries>
+                        <entry>Künstliche Intelligenz</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="181570424" classificationName="bk">
+                    <code>55.24</code>
+                    <entries>
+                        <entry>Fahrzeugführung, Fahrtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>inf</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4193754-5" type="gnd">
+                    <subject xml:lang="de">Maschinelles Lernen</subject>
+                </subject>
+                <subject id="4030958-7" type="gnd">
+                    <subject xml:lang="de">Klassifikation</subject>
+                </subject>
+                <subject id="4384600-2" type="gnd">
+                    <subject xml:lang="de">Personalisierung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Neuronale Netze</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>transfer learning</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Maschinenbau</subject>
+                </subject>
+                <subject id="4132165-0" type="gnd">
+                    <subject xml:lang="de">Fahrerverhalten</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Klassifizierung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Maschinelles Lernen</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Personalisierung</subject>
+                </subject>
+                <subject id="4622983-8" type="gnd">
+                    <subject xml:lang="de">Fahrerassistenzsystem</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Fahrstil</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

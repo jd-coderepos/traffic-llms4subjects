@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:026340461</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:026340461">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1990-06-27</databaseDate>
+            <changeDate>2022-05-12</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>026340461</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">026340461</identifier>
+                <identifier type="firstid">GBV:026340461</identifier>
+                <identifier type="isbn">3922850480</identifier>
+            </identifiers>
+            <locations>
+                <location type="library">89</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">036563900</identifier>
+                    <creationDate>1990-06-27</creationDate>
+                    <selectionKey>nce</selectionKey>
+                    <location type="libraryDepartment">15</location>
+                    <location type="tibLocationCode">FBE Mag</location>
+                    <location type="tibShelfmark">Fol 89-1717</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">142 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Fliegen und Flugmodelle : Segelflug, Heißluftballon, Rakete ; Materialien zu einer Unterrichtsreihe</title>
+            <abstracts>
+                <abstract xml:lang="de">Literaturangaben</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Gesamthochschule Kassel, Arbeitsgruppe Naturwissenschaften Sozial</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2080737-5</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Hahne, Klaus</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Klaus Hahne. Hrsg.: AG Naturwiss. - Sozial</responsible>
+            <publicationInfo>
+                <issued>1988</issued>
+                <edition>1. Aufl</edition>
+                <publicationPlaces>
+                    <publicationPlace>Marburg</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Red.-gemeinschaft Soznat</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Materialien für den Unterricht</title>
+                    <volumeNumber>26</volumeNumber>
+                </journalInfo>
+                <journalInfo>
+                    <title>Soznat</title>
+                </journalInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>30 cm</description>
+            <description>Ill.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Materialien für den Unterricht</title>
+                <volumeNumber>26</volumeNumber>
+            </related>
+            <related type="parent">
+                <title>Soznat</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="dbn">
+                    <code>41</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 2700</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>22</code>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>36</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>pae</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4017652-6" type="gnd">
+                    <subject xml:lang="de">Flugmodell</subject>
+                </subject>
+                <subject id="4045977-9" type="gnd">
+                    <subject xml:lang="de">Physikunterricht</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

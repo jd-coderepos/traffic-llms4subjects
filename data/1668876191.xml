@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1668876191</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1668876191">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2019-07-09</databaseDate>
+            <changeDate>2021-03-03</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1668876191</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1668876191</identifier>
+                <identifier type="firstid">KXP:1668876191</identifier>
+                <identifier type="isbn13">9780367180812</identifier>
+                <identifier type="isbn13">9780429059445</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1668876191.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3524321712</identifier>
+                    <creationDate>2020-12-03</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 20 B 23</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xiv, 261 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Autonomous and integrated parking and transportation services</title>
+            <abstracts>
+                <abstract xml:lang="de">Thinking of a New Parking Paradigm -- Public Perception of the Current Parking Paradigm -- Emerging Technologies and Associated Terminologies -- RWPTTP Technical Design Outlines -- Single Payment Method -- Parking Space as a Source of Renewable Energy -- Enhancing IPMI Sustainability Framework -- Easing Parking Regulations -- Optimum Land Use &amp; Pay-As-You-Use Smart Transportation -- Why a New Business Model?</abstract>
+                <abstract xml:lang="de">"In this book, the author outlines a Robust Web Parking, Truck and Transportation Portal (RWPTTP) for integrating parking and transportation services - a revolutionary approach in contrast to incremental change for managing traffic congestion. Autonomous vehicle technology, artificial intelligence, internet of things (IOT) and other interconnected hardware and software tools will assist autonomous parking and transportation services and provide next century infrastructure for consolidated transportation customer services. The book highlights currently available autonomous parking and transportation technologies, and the development of an integrated and intelligent transportation service/system (IITS) platform, with specific use of technologies to reconfigure the transportation industry. The author also suggests many regulatory and policy changes to simplify data collection, traffic operation, introduction of duplicate transportation system using light rails (LRs) and High Speed Rails (SPRs) and redistribution of parking spaces along such routes for using renewable energy"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Chatterjee, Amalendu</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Amalendu Chatterjee</responsible>
+            <publicationInfo>
+                <issued>2020</issued>
+                <publicationPlaces>
+                    <publicationPlace>Boca Raton</publicationPlace>
+                    <publicationPlace>London</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="US" />
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>New York</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Includes bibliographical references and index</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Karten</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>HE336.P37</code>
+                </classification>
+                <classification classificationID="181570637" classificationName="bk">
+                    <code>55.81</code>
+                    <entries>
+                        <entry>Personenverkehr</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>388.4/74</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4044677-3" type="gnd">
+                    <subject xml:lang="de">Parken</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Automobile parking</subject>
+                </subject>
+                <subject id="4045298-0" type="gnd">
+                    <subject xml:lang="de">Personenverkehr</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Autonomous vehicles</subject>
+                </subject>
+                <subject id="7714938-5" type="gnd">
+                    <subject xml:lang="de">Autonomes Fahrzeug</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Transportation, Automotive</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

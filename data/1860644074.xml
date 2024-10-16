@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1860644074</identifier><datestamp>2024-06-14</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1860644074">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2023-10-03</databaseDate>
+            <changeDate>2024-05-16</changeDate>
+            <ftxCreationDate>2024-06-14</ftxCreationDate>
+            <documentID>1860644074</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1860644074</identifier>
+                <identifier type="doi">10.1007/978-3-658-42557-9</identifier>
+                <identifier type="firstid">KEP:096587717</identifier>
+                <identifier type="isbn13">9783658425579</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://doi.org/10.1007/978-3-658-42557-9</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4387016574</identifier>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2023-10-13</creationDate>
+                    <selectionKey>zesp</selectionKey>
+                    <loanIndicator>s</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (XXXIII, 127 S. 87 Abb., 57 Abb. in Farbe.)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Kontaktlose EMV-Charakterisierung von Ersatzstörquellen : Bewertung leitungsgebundener Störaussendungen von leistungselektronischen Komponenten</title>
+            <abstracts>
+                <abstract xml:lang="de">Einleitung und Forschungsziel -- Grundlagen und Stand der Wissenschaft -- Verfahren zur kontaktlosen Charakterisierung von Ersatzstörquellen -- Ergebnisse der kontaktlosen Charakterisierung von Störgrößen -- Diskussion und Ausblick -- Zusammenfassung -- Literaturverzeichnis.</abstract>
+                <abstract xml:lang="de">In diesem Buch wird ein kontaktloses Messverfahren zur Charakterisierung von leitungsgebundenen Störaussendungen vorgestellt. Dieses bietet eine Lösung zur Ableitung einer Ersatzstörquelle, mit der sowohl die parasitären Eigenschaften berücksichtigt werden als auch eine geringe Rückwirkung der Messung auf das Messsystem realisiert werden kann. Um die parasitären Eigenschaften zu bestimmen, werden die Wellengrößen an den Anschlüssen der Komponente über einen kontaktlosen Messabgriff bestimmt. Durch die kontaktlose Messung muss nicht in das gemessene System eingegriffen werden, um einen Messabgriff zu realisieren. Die vorhandene Rückwirkung auf die Messwerte wird durch eine vorherige Kalibrierung des Messaufbaus berücksichtigt. Mit dem Messverfahren wird gezeigt, dass eine Bestimmung passiver und aktiver Leitungsabschlüsse möglich ist. Des Weiteren wird gezeigt, dass eine Ersatzstörquelle einer leistungselektronischen Komponente bestimmt und eine Veränderung der leitungsgebundenen Störaussendungen durch Veränderung des Messaufbaus mit dieser abgeschätzt werden kann. Die Autorin Teresa Tumbrägel arbeitet zur Zeit im EMV Zentrum eines deutschen Automobilherstellers.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Tumbrägel, Teresa</contributor>
+                </contributor>
+            </contributors>
+            <responsible>von Teresa Tumbrägel</responsible>
+            <publicationInfo>
+                <issued>2023</issued>
+                <edition>1st ed. 2023</edition>
+                <publicationPlaces>
+                    <publicationPlace>Wiesbaden</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer Fachmedien Wiesbaden</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-2-SEB</identifier>
+                    <identifier type="collectioncode">ZDB-2-STI</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>AutoUni-Schriftenreihe</title>
+                    <volumeNumber>Band 168</volumeNumber>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2023</dateAccepted>
+                        <description>Dissertation, Technische Universität Carolo-Wilhelmina zu Braunschweig</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Campusweiter Zugriff (Universität Hannover) - Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Keine Weitergabe an Dritte. Kein systematisches Downloaden durch Robots.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Kontaktlose EMV-Charakterisierung von Ersatzstörquellen</title>
+                <identifier type="ppn">1853149977</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-2-SEB</identifier>
+                <identifier type="collectioncode">ZDB-2-STI</identifier>
+            </related>
+            <related type="parent">
+                <title>AutoUni-Schriftenreihe</title>
+                <volumeNumber>Band 168</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.2</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4035235-3" type="gnd">
+                    <subject xml:lang="de">Leistungselektronik</subject>
+                </subject>
+                <subject id="4014360-0" type="gnd">
+                    <subject xml:lang="de">Elektronisches Bauelement</subject>
+                </subject>
+                <subject id="4124257-9" type="gnd">
+                    <subject xml:lang="de">Störgröße</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Automotive engineering.</subject>
+                </subject>
+                <subject id="4210217-0" type="gnd">
+                    <subject xml:lang="de">Störsignal</subject>
+                </subject>
+                <subject id="4236803-0" type="gnd">
+                    <subject xml:lang="de">Berührungslose Messung</subject>
+                </subject>
+                <subject id="4138552-4" type="gnd">
+                    <subject xml:lang="de">Elektromagnetische Verträglichkeit</subject>
+                </subject>
+                <subject id="4014201-2" type="gnd">
+                    <subject xml:lang="de">Elektrische Leitung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://doi.org/10.1007/978-3-658-42557-9</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:732671140</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:732671140">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2012-12-20</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>732671140</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">732671140</identifier>
+                <identifier type="ean">9783768836012</identifier>
+                <identifier type="firstid">DNB:1028771657</identifier>
+                <identifier type="isbn13">9783768836012</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://d-nb.info/1028771657/04</location>
+                <location subtype="description" type="url">http://deposit.d-nb.de/cgi-bin/dokserv?id=4205337&amp;prov=M&amp;dok_var=1&amp;dok_ext=htm</location>
+                <location subtype="description" type="url">http://deposit.d-nb.de/cgi-bin/dokserv?id=4205337&amp;prov=M&amp;dokvar=1&amp;dokext=htm</location>
+                <location subtype="miscellaneous" type="url">http://cover.ekz.de/9783768836012.jpg</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1378545109</identifier>
+                    <creationDate>2014-02-04</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RT 2201(154)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">230 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Ford Fiesta ab 10/08 : [mit Stromlaufplänen]</title>
+            <abstracts>
+                <abstract xml:lang="de">Reich illustrierter Ratgeber, der ausführliche Wartungs- und Reparaturhinweise für die ab 2008 gebauten Modelle bietet. (LK/EF: Leer)</abstract>
+                <abstract xml:lang="de">Der Ratgeber aus der bewährten Reihe bietet hier für die ab Oktober 2008 hergestellten Modelle des Kompaktwagens ausführliche Wartungs- und Pflegehinweise, die auch von ambitionierten Heimwerkern ausgeführt werden können. Mit gut illustrierten Arbeitsschritten, Störungstabellen und Stromlaufplänen. Bisher kein vergleichbarer Titel zu den hier vorgestellten Modellen bekannt. (2) (LK/EF: Leer)</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Etzold, Hans-Rüdiger</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">108339602</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Etzold</responsible>
+            <publicationInfo>
+                <issued>2013</issued>
+                <edition>1. Aufl.</edition>
+                <publicationPlaces>
+                    <publicationPlace>Bielefeld</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Delius Klasing</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>So wird's gemacht : pflegen, warten, reparieren</title>
+                    <volumeNumber>Bd. 154</volumeNumber>
+                </journalInfo>
+            </additionalDocumentInfo>
+            <description>3 Beil.</description>
+            <description>26 cm</description>
+            <description>Ill., graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>So wird's gemacht : pflegen, warten, reparieren</title>
+                <volumeNumber>Bd. 154</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.28722</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4115746-1" type="gnd">
+                    <subject xml:lang="de">Reparatur</subject>
+                </subject>
+                <subject id="4027145-6" type="gnd">
+                    <subject xml:lang="de">Instandhaltung</subject>
+                </subject>
+                <subject id="4385344-4" type="gnd">
+                    <subject xml:lang="de">Ford Fiesta</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1020545569</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1020545569">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2018-05-07</databaseDate>
+            <changeDate>2023-12-16</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1020545569</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1020545569</identifier>
+                <identifier type="firstid">GBV:1020545569</identifier>
+                <identifier type="isbn13">9783899462616</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1020545569.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3516438673</identifier>
+                    <creationDate>2019-09-18</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">ZB 5059(25)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">168 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Bremen global : Schwerpunkte im Wandel</title>
+            <abstracts>
+                <abstract xml:lang="de">"Bremen global" folgt den Spuren Bremens als Handelsstadt und wirft einen Blick hinter die Kulissen bremischer Unternehmen</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="editor">
+                    <type>editor</type>
+                    <contributor>Niemann, René Paul</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1023339153</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>René Paul Niemann (Hrsg.)</responsible>
+            <publicationInfo>
+                <issued>2017</issued>
+                <publicationPlaces>
+                    <publicationPlace>Bremen</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Übersee-Museum</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>TenDenZen</title>
+                    <volumeNumber>25</volumeNumber>
+                </journalInfo>
+                <publicationIDInfo>Die Vorlage enthält insgesamt 13 Werke</publicationIDInfo>
+                <publicationIDInfo>Literaturangaben</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>TenDenZen</title>
+                <volumeNumber>25</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc-dbn">
+                    <code>300</code>
+                </classification>
+                <classification classificationID="106421832" classificationName="bk">
+                    <code>55.86</code>
+                    <entries>
+                        <entry>Schiffsverkehr, Schifffahrt</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>LC 55000</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>LH 41350</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>630</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>QT 500</code>
+                </classification>
+                <classification classificationName="loc">
+                    <code>QL737.C4</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>WS 7600</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>630</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>639.28</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>LC 21000</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4119808-6" subtype="geographic-name" type="gnd">
+                    <subject xml:lang="de">Hafen Bremen (Bremen)</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Kulturwandel</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Wirtschaftsentwicklung</subject>
+                </subject>
+                <subject id="7746756-5" type="gnd">
+                    <subject xml:lang="de">Maritime Wirtschaft</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Handel</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

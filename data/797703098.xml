@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:797703098</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:797703098">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2014-09-30</databaseDate>
+            <changeDate>2022-07-18</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>797703098</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">797703098</identifier>
+                <identifier type="firstid">GBV:797703098</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/tib-ub-hannover/797703098.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1514705079</identifier>
+                    <creationDate>2014-12-16</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">H 14 B 1745</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">V, 145 S.</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Stochastische Modellerstellung für das Verhalten von Fahrern im Straßenverkehr</title>
+            <abstracts>
+                <abstract xml:lang="de">In dieser Arbeit geht es um die Modellierung des Fahrerverhaltens von Autofahrern. Im Zentrum steht dabei eine statistische Methode, bei der das richtige Verhalten des Systems von Fahrzeug und Fahrer erlernt wird. Die Modellierung findet also größtenteils automatisch statt. Dazu wird ein Modell erstellt, das auf Differentialgleichungen basiert, deren Koeffizienten direkt aus Datensätzen ermittelt werden. Ein solches auf sogenannten Langevin-Gleichungen basierendes Modell teilt das Systemverhalten in zwei unterschiedliche Komponenten auf: Zum einen in eine deterministische Komponente, die das mittlere Verhalten wiedergibt, sowie in eine stochastische Diffusionskomponente, welche die statistischen Abweichungen und Varianzen repräsentiert. Obwohl diese Methode Modelle direkt aus Datensätzen ableitet, muss der Modellierer die Daten entsprechend vorbereiten sowie eine Umgebung schaffen, in welcher die mitunter umfangreichen Modelle abgelegt, verwaltet und ausgeführt werden können. &lt;dt.&gt;</abstract>
+                <abstract xml:lang="en">This thesis is about modelling the behavior of drivers in the automotive domain. It focuses on a stochastic method able to learn the behavior of a system, that takes the human behavior into account. The modelling is one automatically through learning. The model is based on statistical quantities directly estimated form the data and used in differential equations. This so called Langevin method therefor divides a system into two components: The deterministic component that gives the average behavior and the diffusion component that represents the stochastic variance. Although the method creates the model directly and automatically from the given data, it is necessary to prepare the data correctly and support an environment in which the model could be stored, analyzed and executed in an efficient way. &lt;engl.&gt;</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Langner, Michael</contributor>
+                </contributor>
+                <contributor>
+                    <contributor>Peinke, Joachim</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">112782817</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Fränzle, Martin</contributor>
+                </contributor>
+            </contributors>
+            <responsible>von Michael Langner</responsible>
+            <publicationInfo>
+                <issued>2014</issued>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Oldenburg, Univ., Diss., 2014</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>graph. Darst.</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausg.</label>
+                <title>Stochastische Modellerstellung für das Verhalten von Fahrern im Straßenverkehr</title>
+                <identifier type="ppn">800068807</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="181570424" classificationName="bk">
+                    <code>55.24</code>
+                    <entries>
+                        <entry>Fahrzeugführung, Fahrtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4170297-9" type="gnd">
+                    <subject xml:lang="de">Modellierung</subject>
+                </subject>
+                <subject id="4132165-0" type="gnd">
+                    <subject xml:lang="de">Fahrerverhalten</subject>
+                </subject>
+                <subject id="4057630-9" type="gnd">
+                    <subject xml:lang="de">Stochastischer Prozess</subject>
+                </subject>
+                <subject id="4037612-6" type="gnd">
+                    <subject xml:lang="de">Markov-Kette</subject>
+                </subject>
+                <subject id="4166699-9" type="gnd">
+                    <subject xml:lang="de">Langevin-Gleichung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

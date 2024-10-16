@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1699182213</identifier><datestamp>2024-06-14</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1699182213">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2020-06-02</databaseDate>
+            <changeDate>2022-07-29</changeDate>
+            <ftxCreationDate>2024-06-14</ftxCreationDate>
+            <documentID>1699182213</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1699182213</identifier>
+                <identifier type="doi">10.1007/978-3-658-30470-6</identifier>
+                <identifier type="firstid">KEP:052727556</identifier>
+                <identifier type="isbn13">9783658304706</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://doi.org/10.1007/978-3-658-30470-6</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3688516974</identifier>
+                    <recallSign>ACQ</recallSign>
+                    <creationDate>2020-06-18</creationDate>
+                    <selectionKey>zesp</selectionKey>
+                    <loanIndicator>s</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (XXVII, 174 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Ein szenarienadaptiver Bewegungsalgorithmus für die Längsbewegung eines vollbeweglichen Fahrsimulators</title>
+            <abstracts>
+                <abstract xml:lang="de">Verkopplung von Hexapod und Schlittensystem -- Szenarienadaptiver Motion-Cueing-Algorithmus -- Prädiktive flachheitsbasierte Vorsteuerung des Schlittensystems -- Umsetzung und Analyse im Fahrsimulator.</abstract>
+                <abstract xml:lang="de">Tobias Miunske stellt einen neuartigen Bewegungsalgorithmus vor, der sich zur Laufzeit adaptiv an verschiedenartige fahrdynamische Szenarien anpasst. Der vorgestellte Algorithmus wird durch eine flachheitsbasierte prädiktive Vorsteuerung erweitert und so in seiner Parametrierung optimal ausgereizt. Dadurch wird bezüglich der längsdynamischen Bewegungswahrnehmung dem Fahrer eine äußerst realitätsnahe Fahrsimulation bereitgestellt. Der Inhalt Verkopplung von Hexapod und Schlittensystem Szenarienadaptiver Motion-Cueing-Algorithmus Prädiktive flachheitsbasierte Vorsteuerung des Schlittensystems Umsetzung und Analyse im Fahrsimulator Die Zielgruppen Dozierende und Studierende der Ingenieurwissenschaften, insbesondere Regelungstechnik, Systemdynamik, Algorithmik und Simulationstechnik In der industriellen Forschung und Entwicklung Tätige dieser Fachgebiete Der Autor Tobias Miunske hat am Institut für Verbrennungsmotoren und Kraftfahrwesen (IVK) der Universität Stuttgart promoviert. Er ist im Bereich Motion Control für vollbewegliche Fahrsimulatoren tätig. Außerdem beschäftigt sich seine Forschungsthematik mit der Trajektoriengenerierung für das automatisierte Fahren und dessen Analyse am Stuttgarter Fahrsimulator.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Miunske, Tobias</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1213992508</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Tobias Miunske</responsible>
+            <publicationInfo>
+                <issued>2020</issued>
+                <publicationPlaces>
+                    <publicationPlace>Wiesbaden</publicationPlace>
+                    <publicationPlace>[Heidelberg]</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Springer Fachmedien Wiesbaden</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">ZDB-2-SEB</identifier>
+                    <identifier type="collectioncode">ZDB-2-STI</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>Wissenschaftliche Reihe Fahrzeugtechnik Universität Stuttgart</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>Research</title>
+                </journalInfo>
+                <journalInfo>
+                    <title>Springer eBook Collection</title>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2020</dateAccepted>
+                        <description>Dissertation, Universität Stuttgart</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+                <publicationIDInfo>Literaturverzeichnis: Seite 119-132</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+            <description>Campusweiter Zugriff (Universität Hannover) - Vervielfältigungen (z.B. Kopien, Downloads) sind nur von einzelnen Kapiteln oder Seiten und nur zum eigenen wissenschaftlichen Gebrauch erlaubt. Keine Weitergabe an Dritte. Kein systematisches Downloaden durch Robots.</description>
+            <description>Erworben aus Studienqualitätsmitteln</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Ein szenarienadaptiver Bewegungsalgorithmus für die Längsbewegung eines vollbeweglichen Fahrsimulators</title>
+                <identifier type="ppn">1697492223</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">ZDB-2-SEB</identifier>
+                <identifier type="collectioncode">ZDB-2-STI</identifier>
+            </related>
+            <related type="parent">
+                <title>Wissenschaftliche Reihe Fahrzeugtechnik Universität Stuttgart</title>
+            </related>
+            <related type="parent">
+                <title>Research</title>
+            </related>
+            <related type="parent">
+                <title>Springer eBook Collection</title>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.2</code>
+                </classification>
+                <classification classificationID="106416383" classificationName="bk">
+                    <code>55.20</code>
+                    <entries>
+                        <entry>Straßenfahrzeugtechnik</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4016278-3" type="gnd">
+                    <subject xml:lang="de">Fahrdynamik</subject>
+                </subject>
+                <subject id="4699634-5" type="gnd">
+                    <subject xml:lang="de">Vorsteuerung</subject>
+                </subject>
+                <subject id="4145167-3" type="gnd">
+                    <subject xml:lang="de">Bewegungswahrnehmung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Algorithms.</subject>
+                </subject>
+                <subject id="4132165-0" type="gnd">
+                    <subject xml:lang="de">Fahrerverhalten</subject>
+                </subject>
+                <subject id="4153572-8" type="gnd">
+                    <subject xml:lang="de">Fahrsimulator</subject>
+                </subject>
+                <subject id="1135924376" type="gnd">
+                    <subject xml:lang="de">Bewegungsregelung</subject>
+                </subject>
+                <subject id="4743050-3" type="gnd">
+                    <subject xml:lang="de">Flachheitsbasierte Folgeregelung</subject>
+                </subject>
+                <subject id="4430981-8" type="gnd">
+                    <subject xml:lang="de">Längsdynamik</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Automotive engineering.</subject>
+                </subject>
+                <subject id="4271836-3" type="gnd">
+                    <subject xml:lang="de">Prädiktive Regelung</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://doi.org/10.1007/978-3-658-30470-6</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

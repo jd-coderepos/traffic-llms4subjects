@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1783533285</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1783533285">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2021-12-23</databaseDate>
+            <changeDate>2023-11-23</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1783533285</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1783533285</identifier>
+                <identifier type="doi">10.22032/dbt.50596</identifier>
+                <identifier type="firstid">KXP:1783533285</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://nbn-resolving.de/urn:nbn:de:gbv:ilm1-2021000372</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">4051081907</identifier>
+                    <creationDate>2022-02-03</creationDate>
+                    <selectionKey>zdt</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (IX, 130 Seiten, Seite X-XXIV)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Theoretical and experimental investigations of the friction behavior of automotive shock absorbers</title>
+            <abstracts>
+                <abstract xml:lang="de">Reibung in Automobil-Schwingungsdämpfern setzt sich aus zwei Reibungstypen zusammen: Die beabsichtigte viskose Flüssigkeitsreibung dämpft geschwindigkeitsabhängig die Fahrwerksschwingungen, während die ungewollte Festkörperreibung zwischen den aneinander reibenden Dichtungen und Führungen des Dämpfers entsteht. Die letztere, sogenannte statische Reibung beeinträchtigt den Fahrkomfort und (bei hohem Reibniveau) die Fahrsicherheit. Die Verminderung der statischen Reibung ist daher ein übliches Ziel in der Dämpferentwicklung. In dieser Dissertation wird eine Methode zur Reibungssimulation vorgestellt, welche die Optimierung der Dämpferreibung früh im Entwicklungsprozess ermöglicht, wodurch Zeit und Kosten für die Untersuchung realer Prototypen deutlich gesenkt werden können. Zur Ermittlung der Parameter, welche in relevanter Weise das Reibverhalten des Dämpfers mitbestimmen, werden neuartige Einzelreibstellenprüfstände entwickelt und aufgebaut, da bereits existierende Dämpferreibungsprüfstände die tatsächlichen Betriebsbedingungen im Gesamtdämpfer nur unzureichend wiedergeben. Die Integrität dieses Experimentalkonzeptes wird durch Reibmessungen am Gesamtdämpfer validiert. Die Einzelreibstellenmessungen werden ausgewertet, woraufhin ein Ansatz zur Reibmodellierung aufgrund des Reibverhaltens entwickelt wird. Da Dämpferreibung in hohem Maße geometrieabhängig und die Variation von Bauteilgeometrie ein üblicher Konstruktionsprozess ist, wird 3D-FEM-Struktursimulation verwendet, um die Verformung der Dämpferbauteile durch Montage und unter veränderlichen Betriebsbedingungen zu bestimmen. In den jeweiligen Kontaktzonen der FEM-Simulation wird ein dynamisches Reibmodell implementiert und mittels Einzelreibstellenmessungen parametriert. Im Anschluss an die Parametrierung des Gesamtreibmodells mit Geometriedaten, Betriebsbedingung, Materialdaten und Reibmodellparametern werden Einzelreibstellensimulationen durchgeführt, ausgewertet und gegen sowohl Einzelreihstellen- als auch Gesamtdämpfermessungen validiert. Es stellt sich heraus, dass die in dieser Arbeit vorgestellte Simulationsmethode die Vorhersage des Reibverhaltens übereinstimmend mit den anfangs auf geführten Anforderungen erlaubt. Die Anwendung dieser Methode ermöglicht es somit, ein weites Feld von dämpferreibungsrelevanten Parametern mit signifikant erhöhter Entwicklungseffizienz zuverlässig zu untersuchen.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator type="degree-granting-institution">
+                    <type>degree-granting-institution</type>
+                    <name>Technische Universität Ilmenau</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2125187-3</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Herzog, Ludwig</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1246272318</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Augsburg, Klaus</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">13000913X</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Neher, Jochen</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1020754583</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Łukasik, Tomasz</contributor>
+                </contributor>
+            </contributors>
+            <responsible>vorgelegt von M.Sc. Ludwig Herzog</responsible>
+            <publicationInfo>
+                <issued>2021</issued>
+                <publicationPlaces>
+                    <publicationPlace>Ilmenau</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Universitätsbibliothek</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2021</dateAccepted>
+                        <description>Dissertation, Technische Universität Ilmenau</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Diagramme, Illustrationen</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Theoretical and experimental investigations of the friction behavior of automotive shock absorbers</title>
+                <identifier type="ppn">1782072578</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.24</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 4205</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4140206-6" type="gnd">
+                    <subject xml:lang="de">Stoßdämpfer</subject>
+                </subject>
+                <subject id="4017233-8" type="gnd">
+                    <subject xml:lang="de">Finite-Elemente-Methode</subject>
+                </subject>
+                <subject id="4049098-1" type="gnd">
+                    <subject xml:lang="de">Reibung</subject>
+                </subject>
+                <subject id="4121644-1" type="gnd">
+                    <subject xml:lang="de">Schwingungsdämpfer</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://nbn-resolving.de/urn:nbn:de:gbv:ilm1-2021000372</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

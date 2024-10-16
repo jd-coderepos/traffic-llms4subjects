@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1763984532</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1763984532">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2021-07-21</databaseDate>
+            <changeDate>2021-12-31</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1763984532</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1763984532</identifier>
+                <identifier type="firstid">KXP:1763984532</identifier>
+                <identifier type="isbn13">9783030750206</identifier>
+                <identifier type="isbn13">9783030750220</identifier>
+                <identifier type="isbn13">9783030750237</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">https://www.gbv.de/dms/tib-ub-hannover/1763984532.pdf</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">395652330X</identifier>
+                    <creationDate>2021-12-07</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">RT 1816(9)</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">XV, 533 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Control of marine vehicles</title>
+            <abstracts>
+                <abstract xml:lang="de">Introduction -- Stability: Basic Concepts and Linear Stability -- Time Response and Basic Feedback Control -- Root Locus Methods -- Root Locus Methods -- Linear State Space Control Methods -- Nonlinear Stability for Marine Vehicles -- Feedback Linearization -- Control of Underactuated Marine Vehicles -- Integrator Backstepping &amp; Related Techniques -- Adaptive Control -- Sliding Mode Control.</abstract>
+                <abstract xml:lang="de">This textbook offers a comprehensive introduction to the control of marine vehicles, from fundamental to advanced concepts, including robust control techniques for handling model uncertainty, environmental disturbances, and actuator limitations. Starting with an introductory chapter that extensively reviews automatic control and dynamic modeling techniques for ocean vehicles, the first part of the book presents in-depth information on the analysis and control of linear time invariant systems. The concepts discussed are developed progressively, providing a basis for understanding more complex techniques and stimulating readers’ intuition. In addition, selected examples illustrating the main concepts, the corresponding MATLAB® code, and problems are included in each chapter. In turn, the second part of the book offers comprehensive coverage on the stability and control of nonlinear systems. Following the same intuitive approach, it guides readers from the fundamentals to more advanced techniques, which culminate in integrator backstepping, adaptive and sliding mode control. Leveraging the author’s considerable teaching and research experience, the book offers a good balance of theory and stimulating questions. Not only does it provide a valuable resource for undergraduate and graduate students; it will also benefit practitioners who want to review the foundational concepts underpinning some of the latest advanced marine vehicle control techniques, for use in their own applications.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Ellenrieder, Karl Dietrich</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Karl Dietrich von Ellenrieder</responsible>
+            <publicationInfo>
+                <issued>2021</issued>
+                <publicationPlaces>
+                    <publicationPlace>Cham</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="CH" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Springer</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <journalInfo>
+                    <title>Springer series on naval architecture, marine engineering, shipbuilding and shipping</title>
+                    <volumeNumber>9</volumeNumber>
+                </journalInfo>
+            </additionalDocumentInfo>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parent">
+                <title>Springer series on naval architecture, marine engineering, shipbuilding and shipping</title>
+                <volumeNumber>9</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="181571455" classificationName="bk">
+                    <code>50.03</code>
+                    <entries>
+                        <entry>Methoden und Techniken der Ingenieurwissenschaften</entry>
+                    </entries>
+                </classification>
+                <classification classificationID="181569973" classificationName="bk">
+                    <code>55.44</code>
+                    <entries>
+                        <entry>Schiffsführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mat</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Mechanical engineering.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">User interfaces (Computer systems).</subject>
+                </subject>
+                <subject id="4278240-5" type="gnd">
+                    <subject xml:lang="de">Schiffsführung</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Control engineering.</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Automotive engineering.</subject>
+                </subject>
+                <subject id="4171761-2" type="gnd">
+                    <subject xml:lang="de">Nichtlineare Stabilitätstheorie</subject>
+                </subject>
+                <subject id="1068652438" type="gnd">
+                    <subject xml:lang="de">Lineare Stabilitätstheorie</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

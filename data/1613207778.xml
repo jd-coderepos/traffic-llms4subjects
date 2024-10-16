@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1613207778</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1613207778">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2011-02-01</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1613207778</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1613207778</identifier>
+                <identifier type="firstid">BSZ:351679669</identifier>
+                <identifier type="isbn13">9781119991496</identifier>
+                <identifier type="isbn">1119991498</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="toc" type="url">http://www.gbv.de/dms/ilmenau/toc/645009156.PDF</location>
+                <location subtype="cover" type="url">https://swbplus.bsz-bw.de/bsz351679669cov.jpg</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1242820574</identifier>
+                    <creationDate>2011-08-22</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibShelfmark">T 11 B 4918</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">xviii, 575 Seiten</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Handbook of marine craft hydrodynamics and motion control : vademecum de navium motu contra aquas et de motu gubernando</title>
+            <alternativeTitles>
+                <alternative>Marine craft hydrodynamics and motion control</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">"This book includes methods for the design and implementation of industrial guidance, navigation and control (GNC) systems for ships, high-speed craft, semi-submersibles, submarines, underwater vehicles and ocean structures. To be able to design motion control systems it is evident that a good mathematical model of the craft and the environment (wind, waves, and ocean currents) are required for simulation and verification of the design. The mathematical models are derived in a vectorial setting using Lagrangian and Newtonian mechanics. Simulation models based on the two main theories - maneuvering and seakeeping - are presented, and the concept of fluid-memory effects are demystified. This text covers state-of-the-art methods for GNC, including nonlinear multivariable PID controllers, state estimators and control allocation methods. More advanced topics, such as optimal control theory, backstepping, feedback linearization and sliding-mode control, are included for the advanced reader. Case studies and applications are treated at the end of each chapter. The Marine Systems Simulator (MSS), which is an open source Matlab toolbox, is used for illustration"--</abstract>
+                <abstract xml:lang="de">"The book is divided into three parts; the first describes modelling of marine craft"--</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Fossen, Thor I.</contributor>
+                </contributor>
+            </contributors>
+            <responsible>Thor I. Fossen, Norwegian University of science and technology, Trondheim, Norway</responsible>
+            <publicationInfo>
+                <issued>2011</issued>
+                <publicationPlaces>
+                    <publicationPlace>Chichester</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="GB" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Wiley, a John Wiley &amp; Sons, Ltd., Publication</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <publicationIDInfo>Literaturverzeichnis: Seite 549-566. - Index</publicationIDInfo>
+                <publicationIDInfo>Hier auch später erschienene, unveränderte Nachdrucke.</publicationIDInfo>
+            </additionalDocumentInfo>
+            <description>Illustrationen, Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>Handbook of marine craft hydrodynamics and motion control</title>
+                <identifier type="isbn">1283405563</identifier>
+                <identifier type="isbn">1119994136</identifier>
+                <identifier type="isbn13">9781283405560</identifier>
+                <identifier type="isbn13">9781119994138</identifier>
+                <identifier type="ppn">721128033</identifier>
+            </related>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>Handbook of marine craft hydrodynamics and motion control</title>
+                <identifier type="isbn13">9781119998686</identifier>
+                <identifier type="isbn">1119998689</identifier>
+                <identifier type="isbn">1119994136</identifier>
+                <identifier type="isbn">1283405563</identifier>
+                <identifier type="isbn13">9781119994121</identifier>
+                <identifier type="isbn13">9781283405560</identifier>
+                <identifier type="isbn13">9781119998693</identifier>
+                <identifier type="isbn">1119994128</identifier>
+                <identifier type="isbn13">9781119994138</identifier>
+                <identifier type="isbn">1119998697</identifier>
+                <identifier type="ppn">1679620746</identifier>
+            </related>
+            <related type="parallel">
+                <label>Online-Ausgabe</label>
+                <title>Handbook of marine craft hydrodynamics and motion control</title>
+                <identifier type="isbn13">9781119998686</identifier>
+                <identifier type="isbn">1119998689</identifier>
+                <identifier type="ppn">863145523</identifier>
+                <identifier type="isbn">1283405563</identifier>
+                <identifier type="isbn13">9781119994121</identifier>
+                <identifier type="isbn13">9781283405560</identifier>
+                <identifier type="isbn13">9781119998693</identifier>
+                <identifier type="isbn">1119994128</identifier>
+                <identifier type="isbn">1119998697</identifier>
+                <identifier type="isbn13">9781119991496</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="loc">
+                    <code>VM156</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>623.8/1</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>SCI064000</code>
+                </classification>
+                <classification classificationID="181569973" classificationName="bk">
+                    <code>55.44</code>
+                    <entries>
+                        <entry>Schiffsführung</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 6260</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="loc">
+                    <subject xml:lang="en">Steering-gear</subject>
+                </subject>
+                <subject id="4026302-2" type="gnd">
+                    <subject xml:lang="de">Hydrodynamik</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Ships</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Motion control devices</subject>
+                </subject>
+                <subject id="4057472-6" type="gnd">
+                    <subject xml:lang="de">Steuerung</subject>
+                </subject>
+                <subject id="4052385-8" type="gnd">
+                    <subject xml:lang="de">Schiff</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Automatic pilot (Ships)</subject>
+                </subject>
+                <subject id="4179589-1" type="gnd">
+                    <subject xml:lang="de">Schiffsnavigation</subject>
+                </subject>
+                <subject type="loc">
+                    <subject xml:lang="en">Stability of ships</subject>
+                </subject>
+                <subject id="4056693-6" type="gnd">
+                    <subject xml:lang="de">Stabilität</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

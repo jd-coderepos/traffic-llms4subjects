@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:239816110</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:239816110">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>1998-02-09</databaseDate>
+            <changeDate>2024-03-29</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>239816110</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>com</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>B</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>PR</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">239816110</identifier>
+                <identifier type="firstid">GBV:239816110</identifier>
+                <identifier type="isbn">378220722X</identifier>
+            </identifiers>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">283124512</identifier>
+                    <creationDate>1998-06-02</creationDate>
+                    <selectionKey>z</selectionKey>
+                    <location type="tibLocationCode">Haus2</location>
+                    <location type="tibShelfmark">U 98 B 913</location>
+                    <loanIndicator>u</loanIndicator>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">166 S</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Columbus : welch ein Klang ... ; das glückhafte Schiff und sein Nachfolger</title>
+            <abstracts>
+                <abstract xml:lang="de">Der ausgewiesene Schiffahrtsautor behandelt die Geschichte der "Columbus" des NDL, die bis zur "Bremen" 1929 größtes deutsches Passagierschiff war. Und gleichsam, um vom Ruhm dieses Schiffes etwas überspringen zu lassen, porträtiert er das 1997 in Wismar gebaute Kreuzfahrtschiff "C. Columbus". Der Schwerpunkt liegt auf dem älteren Schiff (insofern zeigt die Abbildung auf dem Schutzumschlag vorn das "falsche" Schiff). Textlich abwechslungsreich, laienorientiert, mit seltenen und werbenden Fotos illustriert, schildert er die historischen Begleitumstände von Bau und Betrieb sowie vor allem ihre Fahrten. Einzusetzen wie "Die Schnelldampfer Bremen und Europa" (ID 5/94). Wer nur Daten und nicht Atmosphäre sucht, ist mit "Deutsche Ozean-Passagierschiffe 1919-1985" (BA 11/88) oder "Die Seeschiffe des Norddeutschen Lloyd" (ID 49/92) hinreichend bedient. (3) (Martin Paulini)</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Prager, Hans Georg</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">121271862</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Hans Georg Prager</responsible>
+            <publicationInfo>
+                <issued>1998</issued>
+                <publicationPlaces>
+                    <publicationPlace>Hamburg</publicationPlace>
+                </publicationPlaces>
+                <publicationCountries>
+                    <publicationCountry code="DE" />
+                </publicationCountries>
+                <publisher>
+                    <publisher>Koehler</publisher>
+                </publisher>
+            </publicationInfo>
+            <description>29 cm</description>
+            <description>zahlr. Ill</description>
+        </bibliographicInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="dbn">
+                    <code>41</code>
+                </classification>
+                <classification classificationID="106413805" classificationName="bk">
+                    <code>55.41</code>
+                    <entries>
+                        <entry>Schiffe</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="dbn">
+                    <code>36</code>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 6430</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="gnd">
+                    <subject xml:lang="de">Geschichte</subject>
+                </subject>
+                <subject id="4498025-5" type="gnd">
+                    <subject xml:lang="de">Columbus (Schiff, 1924-1940)</subject>
+                </subject>
+                <subject id="4497225-8" type="gnd">
+                    <subject xml:lang="de">C. Columbus (Schiff, 1997-)</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayOrder">true</property>
+            <property name="displayGetItem">true</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

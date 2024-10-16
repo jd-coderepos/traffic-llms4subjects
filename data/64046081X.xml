@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:64046081X</identifier><datestamp>2024-06-12</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:64046081X">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2010-11-24</databaseDate>
+            <changeDate>2024-01-30</changeDate>
+            <ftxCreationDate>2024-06-12</ftxCreationDate>
+            <documentID>64046081X</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">de</code>
+                        <code iso="639-2">ger</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">64046081X</identifier>
+                <identifier type="firstid">GBV:64046081X</identifier>
+                <identifier type="isbn13">9783892206521</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">http://nbn-resolving.de/urn:nbn:de:gbv:830-tubdok-10015</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">1236829212</identifier>
+                    <creationDate>2011-04-06</creationDate>
+                    <selectionKey>zdt</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">Online-Ressource (PDF-Datei: VIII, 203 S., 9045 KB)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="true">
+            <title>Entwicklung einer statistikbasierten Simulationsmethodik für Schiffsentwürfe unter realistischen Betriebsbedingungen</title>
+            <alternativeTitles>
+                <alternative>Development of a statistic-based simulation methodology for ship design, incorporating realistic operating conditions</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Diese Arbeit beschreibt einen neu entwickelten Ansatz für die Bewertung und Optimierung von Schiffsentwürfen. Der in diesem Zusammenhang implementierte Simulationsalgorithmus verwendet die Monte Carlo Methode, um die Einsatzbedingungen während eines frei wählbaren Zeitraumes für ein projektiertes bzw. ein bereits im Dienst befindliches Schiff zu vorherzusagen bzw. zu reproduzieren. Auf der Grundlage von statistisch aufbereiteten schiffsspezifischen und umweltbedingten Daten in Kombination mit direkten Berechnungen der Propulsion ist es möglich, Schiffsentwürfe in Bezug auf verschiedene Parameter zu bewerten. Diese Parameter können sich sowohl auf den Schiffsentwurf an sich als auch auf dessen Betrieb beziehen. Durch Verwendung der Monte Carlo Methode wird eine ausreichende Anzahl von Betriebspunkten generiert. Diese Punkte beinhalten die Schiffsgeschwindigkeit, die Schwimmlage und die Umweltbedingungen (Wind und Seegang). Nachfolgend wird die Gleichgewichtsbedingung für den Propulsionspunkt unter Verwendung eines bereits verfügbaren und validierten Manövrieralgorithmus berechnet. Durch diese Methode ist es möglich, ein spezifisches Anforderungsprofil zu erstellen und den Schiffsentwurf bzw. das Operationsprofil (z.B. die Trimmverteilung) dahingehend abzustimmen. Die vergleichsweise geringen Rechenzeiten gestatten es, die Auswirkungen von parametrischen Entwurfsvariationen sowohl ökonomisch als auch ökologisch zu bemessen. Dieses Vorgehen kann an verschiedene Schiffstypen, Fahrtgebiete und damit eng verknüpft auch das jeweilige Frachtaufkommen angepasst und so direkt auf die individuellen Bedürfnisse zugeschnitten werden. Zum Zwecke der Validierung des entwickelten Simulationsalgorithmus sind die Ergebnisse mit Daten aus Langzeitmessungen von verschiedenen Schiffen unterschiedlichen Typs verglichen worden.</abstract>
+                <abstract xml:lang="de">This thesis describes a newly developed approach to ship design evaluation and optimisation. The therefore implemented simulation algorithm employs the Monte Carlo Method in order to reproduce and predict lifetime operation conditions of a projected (or existing) vessel. On basis of statistically analysed vessel-specific and environmental data in combination with direct calculations of the vessels propulsion it is possible to benchmark different designs regarding various parameters. These parameters can either be design-, but also operation-specific. Applying the Monte-Carlo-Method, the vessels speed, its floating condition and the environmental conditions (wind and sea state) are determined for a sufficient number of parameter sets. Subsequently the equilibrium condition for the propulsion point is computed, utilising an already implemented manoeuvring algorithm. Following this proceeding, it is possible to identify the specific requirement profile and to align the vessels design or the operating conditions (e.g. trim distribution) with this profile. Since this methodology computes rather fast, it offers the possibility to assess the impact of parametric design variations economically and ecologically. This assessment can be adjusted to different vessel types, shipping routes and connected to this the commodity flow, tailored to the individual needs. In order to validate the calculation methods feasibility, the algorithms results have been checked against measured long-term data from various vessels of different type in operation.</abstract>
+            </abstracts>
+            <corporateCreators>
+                <corporateCreator>
+                    <name>Technische Universität Hamburg-Harburg, Institut für Entwerfen von Schiffen und Schiffssicherheit</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">16039850-2</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+                <corporateCreator>
+                    <name>Technische Universität Hamburg-Harburg</name>
+                    <corporateIDs>
+                        <corporateID type="gnd">2067664-5</corporateID>
+                    </corporateIDs>
+                </corporateCreator>
+            </corporateCreators>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Eljardt, Georg</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">142899119</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor>
+                    <contributor>Krüger, Stefan</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">140779663</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="supervisor">
+                    <type>supervisor</type>
+                    <contributor>Abdel-Maksoud, Moustafa</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">140779922</nameID>
+                    </nameIDs>
+                </contributor>
+            </contributors>
+            <responsible>Georg Eljardt</responsible>
+            <publicationInfo>
+                <issued>2010</issued>
+                <edition>[Elektronische Ressource]</edition>
+                <publicationPlaces>
+                    <publicationPlace>Hamburg</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>Techn. Univ. Hamburg-Harburg</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <journalInfo>
+                    <title>Schriftenreihe Schiffbau</title>
+                    <volumeNumber>652</volumeNumber>
+                </journalInfo>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <description>Zugl.: Hamburg-Harburg, Techn. Univ., Institut für Entwerfen von Schiffen und Schiffssicherheit, Diss., 2010</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Ill., graph. Darst</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druckausg.</label>
+                <title>Entwicklung einer statistikbasierten Simulationsmethodik für Schiffsentwürfe unter realistischen Betriebsbedingungen</title>
+                <identifier type="isbn13">9783892206521</identifier>
+                <identifier type="ppn">640697232</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+            <related type="parent">
+                <title>Schriftenreihe Schiffbau</title>
+                <volumeNumber>652</volumeNumber>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationID="106420577" classificationName="bk">
+                    <code>55.40</code>
+                    <entries>
+                        <entry>Schiffstechnik, Schiffbau</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="rvk">
+                    <code>ZO 6005</code>
+                </classification>
+                <classification classificationID="181571455" classificationName="bk">
+                    <code>50.03</code>
+                    <entries>
+                        <entry>Methoden und Techniken der Ingenieurwissenschaften</entry>
+                    </entries>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="ddc">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>mat</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject type="suppl">
+                    <subject>Monte-Carlo-Method</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Schiffsentwurf</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Propulsion</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>benchmark</subject>
+                </subject>
+                <subject id="4511937-5" type="gnd">
+                    <subject xml:lang="de">Online-Ressource</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>realistische Betriebsbedingung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Simulationsmethodik</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>ship design</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Bewertung</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>simulation methodology</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>realistic operating conditions</subject>
+                </subject>
+                <subject type="suppl">
+                    <subject>Monte-Carlo-Methode</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">http://nbn-resolving.de/urn:nbn:de:gbv:830-tubdok-10015</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>

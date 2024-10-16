@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><header><identifier>oai:tib.eu:TIBKAT:1772714003</identifier><datestamp>2024-06-13</datestamp><setSpec>TIBKAT</setSpec></header><metadata>
+
+<documentContainer xsi:schemaLocation="http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd http://www.tib-hannover.de/ext/schema/2007-06-26/fiz-tib-schema.xsd">
+    <document id="TIBKAT:1772714003">
+        <systemInfo>
+            <supplier shortname="tib">Technische Informationsbibliothek (TIB)</supplier>
+            <databaseDate>2021-10-06</databaseDate>
+            <changeDate>2023-01-25</changeDate>
+            <ftxCreationDate>2024-06-13</ftxCreationDate>
+            <documentID>1772714003</documentID>
+            <exportRestricted>false</exportRestricted>
+            <searchSpaces mappingCriterionFIDBAU="datapool" mappingCriterionFIDMOVE="datapool" mappingCriterionOER="datapool" mappingCriterionTIBUB="datapool">
+                <searchSpace>TIBUB</searchSpace>
+            </searchSpaces>
+            <licenseModels>
+                <licenseModel>oa</licenseModel>
+            </licenseModels>
+        </systemInfo>
+        <formalInfo>
+            <documentTypes>
+                <documentAdvancedType>
+                    <documentGenreGroup>
+                        <documentGenre>
+                            <documentGenreCode>D</documentGenreCode>
+                        </documentGenre>
+                    </documentGenreGroup>
+                    <documentTypeGroup>
+                        <documentType>
+                            <documentTypeCode>EL</documentTypeCode>
+                        </documentType>
+                    </documentTypeGroup>
+                </documentAdvancedType>
+            </documentTypes>
+            <documentLanguages>
+                <documentLanguage>
+                    <languageCodes>
+                        <code iso="639-1">en</code>
+                        <code iso="639-2">eng</code>
+                    </languageCodes>
+                </documentLanguage>
+            </documentLanguages>
+            <identifiers>
+                <identifier type="ppn">1772714003</identifier>
+                <identifier type="firstid">DNB:1242176225</identifier>
+            </identifiers>
+            <locations>
+                <location subtype="fulltext" type="url">https://nbn-resolving.de/urn:nbn:de:gbv:715-oops-51937</location>
+            </locations>
+            <localHoldings>
+                <localHolding database="TIBKAT">
+                    <identifier type="epn">3994826934</identifier>
+                    <creationDate>2021-10-22</creationDate>
+                    <selectionKey>zdt</selectionKey>
+                    <licenseModels>
+                        <licenseModel>com</licenseModel>
+                    </licenseModels>
+                </localHolding>
+            </localHoldings>
+            <sizes>
+                <size unit="unknown">1 Online-Ressource (XVII, 193 Seiten)</size>
+            </sizes>
+        </formalInfo>
+        <bibliographicInfo dependent="false">
+            <title>Map-based Localization for Automated Vehicles using LiDAR Features</title>
+            <alternativeTitles>
+                <alternative>Karten-basierte Lokalisierung für Automatisierte Fahrzeuge anhand von LiDAR Features</alternative>
+            </alternativeTitles>
+            <abstracts>
+                <abstract xml:lang="de">Die kartenbasierte Lokalisierung ist wichtig für die Entwicklung automatisierter Fahrzeuge. Lokalisierungen basieren oft auf semantischen Objekten wie Verkehrszeichen. Um unabhängig von Infrastrukturelementen zu sein, wird in dieser Arbeit ein Konzept zur Realisierung einer nicht-semantischen Lokalisierung auf der Grundlage von mit LiDAR-Sensoren abgetasteten Daten entwickelt, genannt LiDAR-Feature-based Localization. Dazu werden für jeden Punkt der LiDAR-Punktewolke nicht-semantische Muster bestimmt. Da nicht jeder Punkt für eine robuste Lokalisierung geeignet ist, wird ein automatisiertes Verfahren zur Erkennung signifikanter und persistenter Merkmale, genannt Feature, eingeführt. Mit gründlichen Analysen und einem Fokus auf die Umsetzung in Realdaten wird untersucht, inwieweit die Verwendung nicht-semantischer Merkmale einen Nutzen für die Lokalisierung hat. Die Untersuchungen der LiDAR-Feature-based Localization zeigen, dass der nicht-semantische Ansatz praxistauglich ist.</abstract>
+                <abstract xml:lang="de">Map-based localization is crucial for the development of automated vehicles. Localization solutions often rely on semantic objects, like road signs. In order to be independent of these infrastructure elements a generalized concept for the realization of non-semantic localization relying on data sampled with LiDAR sensors, called LiDAR-Feature-based Localization, is developed in this thesis. For this purpose, non-semantic patterns are determined for each point of the LiDAR point cloud. Since not every point of a point cloud is suitable for a robust localization, an automated method for the detection of significant and persistent characteristics, called feature, is introduced. With thorough analyzes and a focus on the realization in real data, it is examined to what extent the use of non-semantic features has a benefit for localization. The investigations of the LiDAR-Feature-based Localization show that the non-semantic approach is suitable for practice.</abstract>
+            </abstracts>
+            <contributors>
+                <contributor type="author">
+                    <type>author</type>
+                    <contributor>Hungar, Constanze</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1241582483</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Köster, Frank</contributor>
+                    <nameIDs>
+                        <nameID type="gnd">1119175623</nameID>
+                    </nameIDs>
+                </contributor>
+                <contributor type="tutor">
+                    <type>tutor</type>
+                    <contributor>Schmidt, Stephan</contributor>
+                </contributor>
+            </contributors>
+            <responsible>von Frau Constanze Hungar ; Gutachter: Prof. Dr. Frank Köster, weitere Gutachter: Prof. Dr. Stephan Schmidt</responsible>
+            <publicationInfo>
+                <issued>2021</issued>
+                <publicationPlaces>
+                    <publicationPlace>Oldenburg</publicationPlace>
+                </publicationPlaces>
+                <publisher>
+                    <publisher>BIS der Universität Oldenburg</publisher>
+                </publisher>
+            </publicationInfo>
+            <additionalDocumentInfo>
+                <isPartOf>
+                    <identifier type="collectioncode">GBV-ODiss</identifier>
+                </isPartOf>
+                <dissertationInfos>
+                    <dissertationInfo>
+                        <dateAccepted>2021</dateAccepted>
+                        <description>Dissertation, Universität Oldenburg</description>
+                    </dissertationInfo>
+                </dissertationInfos>
+            </additionalDocumentInfo>
+            <description>Diagramme</description>
+        </bibliographicInfo>
+        <relatedInfo>
+            <related type="parallel">
+                <label>Druck-Ausgabe</label>
+                <title>Map-based localization for automated vehicles using LiDAR features</title>
+                <identifier type="ppn">1771304006</identifier>
+            </related>
+            <related type="parent">
+                <identifier type="collectioncode">GBV-ODiss</identifier>
+            </related>
+        </relatedInfo>
+        <classificationInfo>
+            <classifications>
+                <classification classificationName="ddc">
+                    <code>629.276</code>
+                </classification>
+                <classification classificationName="ddc-dbn">
+                    <code>620</code>
+                </classification>
+                <classification classificationName="linsearch" classificationProcedure="mapping">
+                    <code>ver</code>
+                </classification>
+            </classifications>
+            <subjects>
+                <subject id="4016320-9" type="gnd">
+                    <subject xml:lang="de">Fahrzeug</subject>
+                </subject>
+                <subject id="4195351-4" type="gnd">
+                    <subject xml:lang="de">Lokalisation</subject>
+                </subject>
+                <subject id="7714938-5" type="gnd">
+                    <subject xml:lang="de">Autonomes Fahrzeug</subject>
+                </subject>
+            </subjects>
+        </classificationInfo>
+        <displayInfo>
+            <property name="displayDownload">none</property>
+            <property name="displayDirectLink">https://nbn-resolving.de/urn:nbn:de:gbv:715-oops-51937</property>
+        </displayInfo>
+    </document>
+</documentContainer>
+</metadata></record>
